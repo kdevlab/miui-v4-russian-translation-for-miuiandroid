@@ -1,7 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
-  <!--This file translated by KOJAN Development Group with ATE2-->
-  <string name="confirm">Ок</string>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="confirm">ОК</string>
   <string name="cancel">Отмена</string>
   <string name="save">Добавить</string>
   <string name="select_all">Все</string>
@@ -17,7 +16,7 @@
   <string name="refresh_media_db">Обновить</string>
   <string name="refresh_in_processing">Обновление...</string>
   <string name="refresh_finish">Обновление завершено</string>
-  <string name="refresh_start">Началось обновлление, пожалуйста, подождите...</string>
+  <string name="refresh_start">Обновлление, пожалуйста, подождите...</string>
   <string name="quit_player">Выход</string>
   <string name="music_settings">Настройки</string>
   <string name="mobile_connect_settings">Мобильная сеть</string>
@@ -35,7 +34,7 @@
   <string name="filter_by_folder">Фильтр по папкам</string>
   <string name="select_folder">Выберите папку</string>
   <string name="android_album_settings">Встроенные обложки</string>
-  <string name="android_album_summary">Автоматическое использование обложки альбома песни может привести к ошибкам.</string>
+  <string name="android_album_summary">Автоматическое использование обложки альбома песни может привести к ошибкам</string>
   <string name="play_and_download">Прослушать и загрузить</string>
   <string name="play_and_download_summary">Слушайте онлайн песни и сохраняйте их</string>
   <string name="screen_bright_wake">Экран всегда включен</string>
@@ -43,8 +42,8 @@
   <string name="keep_quit_position_settings">Помнить последнюю позицию</string>
   <string name="keep_quit_position_summary">Возврат трека на последнюю позиции после повторного запуска приложения</string>
   <string name="shake_settings">Встряхивание</string>
-  <string name="shake_while_screen_on_title">Использовать только когда экран активен</string>
-  <string name="shake_summary">Встряхните устройство для перехода к следующей песне</string>
+  <string name="shake_while_screen_on_title">Использовать при активном экране</string>
+  <string name="shake_summary">Встряхните для перехода к следующей песне</string>
   <string name="shake_sensitivity_settings">Чувствительность встряхивания</string>
   <string name="shake_sensitivity_summary">Отрегулируйте чувствительность встряски</string>
   <string name="shake_sensitivity_helper">Перемещение влево для увеличения чувствительности, право для понижения</string>
@@ -54,7 +53,7 @@
   <string name="spectrogram_display_summary">Показывать визуальные спектрограмма на экране виджета и в музыкальном проигрывателе</string>
   <string name="fade_effect_settings">Плавный переход</string>
   <string name="fade_effect_summary">Включение затухания между каждой песней</string>
-  <string name="filter_notification">Был применен фильтр по размеру, вы можете изменить его размер в настройках.</string>
+  <string name="filter_notification">Был применен фильтр по размеру, вы можете изменить его размер в настройках</string>
   <string name="delete_item">Удалить</string>
   <string name="remove_item">Удалить</string>
   <string name="delete_song_desc">Вы уверены что хотите удалить файл %s с SD-карты?</string>
@@ -69,15 +68,15 @@
   <string name="rename_playlist_menu">Переименовать</string>
   <string name="rename_album_menu">Переименовать альбом</string>
   <string name="rename_artist_menu">Переименовать исполнителя</string>
-  <string name="playlist_deleted_message">Плейлист удален.</string>
-  <string name="playlist_renamed_message">Плейлист переименован.</string>
+  <string name="playlist_deleted_message">Плейлист удален</string>
+  <string name="playlist_renamed_message">Плейлист переименован</string>
   <string name="recentlyadded_title">Недавно добавленные</string>
-  <string name="sdcard_missing_message">SD-карта не вставлена в телефон.</string>
-  <string name="sdcard_missing_message_nosdcard">SD-карта не вставлена в телефон.</string>
-  <string name="sdcard_busy_message">К сожалению ваша SD-карта занята.</string>
-  <string name="sdcard_busy_message_nosdcard">К сожалению ваш накопитель занят.</string>
-  <string name="sdcard_error_message">Ошибка на вашей SD-карте.</string>
-  <string name="sdcard_error_message_nosdcard">Ошибка на вашем накопителе.</string>
+  <string name="sdcard_missing_message">SD-карта не вставлена в телефон</string>
+  <string name="sdcard_missing_message_nosdcard">SD-карта не вставлена в телефон</string>
+  <string name="sdcard_busy_message">К сожалению ваша SD-карта занята</string>
+  <string name="sdcard_busy_message_nosdcard">К сожалению ваш накопитель занят</string>
+  <string name="sdcard_error_message">Ошибка на вашей SD-карте</string>
+  <string name="sdcard_error_message_nosdcard">Ошибка на вашем накопителе</string>
   <string name="unknown_artist_name">Неизвестный исполнитель</string>
   <string name="unknown_album_name">Неизвестный альбом</string>
   <string name="ringtone_menu">Как рингтон</string>
@@ -121,8 +120,8 @@
   <string name="search_failed">Поиск не удался, проверьте подключение к сети</string>
   <string name="search_history">История поиска</string>
   <string name="clear_search_history">Очистка истории запросов</string>
-  <string name="impunity_declaration_title">Declaration</string>
-  <string name="impunity_declaration">Интернет-музыка, которую вы собираетесь использовать, предоставляется Baidu Online Music Service. Нажмите \"OK\", чтобы принять и использовать, нажмите кнопку \"Отмена\" для выхода</string>
+  <string name="impunity_declaration_title">Примечание</string>
+  <string name="impunity_declaration">Онлайн музыка, которую вы собираетесь использовать, предоставляется Baidu Online Music Service. Нажмите \"OK\", чтобы принять и использовать, нажмите кнопку \"Отмена\" для выхода</string>
   <string name="music_filter_helper">Скрывать файлы, которые не связаны с музыкой, применяется размер фильтра 800K применяется, чтобы скрыть эти файлы от отображения. Порог можно настроить в меню Настройки/Файловый фильтр</string>
   <string name="modify_meta">Изменить</string>
   <string name="id3_edit">Изменить ID3 информацию</string>
@@ -146,7 +145,7 @@
   <string name="create_equalzier_create_text_prompt">Название профиля</string>
   <string name="new_equalizer_name_template">Профиль %d</string>
   <string name="custom">Настроить</string>
-  <string name="lpa_off_hint">Необходимо отключить режим экономии энергии для включения эквалайзера.</string>
+  <string name="lpa_off_hint">Необходимо отключить режим экономии энергии для включения эквалайзера</string>
   <string name="id3_modify_confirm_text">Сохранить</string>
   <string name="id3_modify_confirm_check">Сохранить изменения ID3?</string>
   <string name="modify_id3_for_list">Будет отредактирована информация ID3 песен из текущего списка</string>
@@ -159,10 +158,10 @@
   <string name="shuffle_all">Перемешать все</string>
   <string name="click_to_shuffle">Коснитесь для перемешивания всех песен</string>
   <string name="service_start_error_title">Проблемы при воспроизведении</string>
-  <string name="service_start_error_msg">К сожалению, не возможно играть эту песню.</string>
+  <string name="service_start_error_msg">К сожалению, не возможно воспроизвести эту песню</string>
   <string name="service_start_error_button">OK</string>
   <string name="streamloadingtext">Подключение к %s</string>
-  <string name="playback_failed">К сожалению, проигрыватель не поддерживает этот тип аудио файлов.</string>
+  <string name="playback_failed">К сожалению, проигрыватель не поддерживает этот тип аудио файлов</string>
   <string name="playback_failed_by_bad_file">"'%s'Невозможно проиграть трэк, не поддерживается формат файла"</string>
   <string name="playback_failed_by_network">"'%s'Невозможно проиграть трэк, проверьте сетевое подключение"</string>
   <string name="playback_failed_no_title_by_bad_file">Невозможно проиграть трэк, не поддерживается формат файла</string>
@@ -170,7 +169,7 @@
   <string name="buffering">Кеширование...</string>
   <string name="musicbrowserlabel">Музыка</string>
   <string name="mediaplaybacklabel">Музыка</string>
-  <string name="online_music">Онлайн-музыка</string>
+  <string name="online_music">Интернет музыка</string>
   <string name="artists_title">Исполнители</string>
   <string name="albums_title">Альбомы</string>
   <string name="folders_title">Папки</string>
@@ -182,7 +181,7 @@
   <string name="playlist_nowplaying">Сейчас играет</string>
   <string name="playlist_favorite">Избранное</string>
   <string name="create_playlist_create_text_prompt">Название плейлиста</string>
-  <string name="create_confirm">Ок</string>
+  <string name="create_confirm">ОК</string>
   <string name="overwrite_confirm">Перезаписать</string>
   <string name="picker_song_add">Добавить (%d)</string>
   <string name="add_tracks">Добавить песни</string>
@@ -203,6 +202,6 @@
   <string name="filter_max">2MB</string>
   <string name="filter_min">0K</string>
   <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-  <string name="delete_song_desc_nosdcard">Вы уверены что хотите удалить файл %s с SD-карты?</string>
+  <string name="delete_song_desc_nosdcard">Вы хотите удалить файл %s с SD-карты?</string>
   <string name="search_failed_report">Нет похожих треков</string>
 </resources>

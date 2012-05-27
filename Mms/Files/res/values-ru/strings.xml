@@ -1,12 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
-  <!--This file translated by KOJAN Development Group with ATE2-->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
   <string name="conversation_style">bubble</string>
   <string name="prefDefault_ringtone_repeat">1</string>
-  <string name="pref_summary_manage_sim_messages">Управление сообщениями, хранящимися на SIM-карте</string>
+  <string name="pref_summary_manage_sim_messages">Управление сообщениями на SIM-карте</string>
   <string name="pref_title_manage_sim_messages">Сообщения на SIM-карте</string>
   <string name="confirm_delete_all_SIM_messages">С SIM-карты будут удалены все сообщения</string>
-  <string name="confirm_delete_SIM_message">Сообщение будет удалено с SIM-карты.</string>
+  <string name="confirm_delete_SIM_message">Сообщение будет удалено с SIM-карты</string>
   <string name="sim_manage_messages_title">Текстовые сообщения на SIM-карте</string>
   <string name="sim_empty">На SIM-карте нет сообщений</string>
   <string name="sim_full_title">SIM-карта заполнена</string>
@@ -115,7 +114,7 @@
   <string name="layout_top">Расположение (внизу)</string>
   <string name="layout_bottom">Расположение (внизу)</string>
   <string name="type_to_compose_text_or_leave_blank">Введите сообщение или оставьте поле пустым</string>
-  <string name="duration_not_a_number">Должно быть указано числовое значение.</string>
+  <string name="duration_not_a_number">Должно быть указано числовое значение</string>
   <string name="duration_zero">Значение должно быть больше нуля.</string>
   <string name="secs">с.</string>
   <string name="menu_view_contact">Просмотреть контакт</string>
@@ -222,8 +221,8 @@
   <string name="notification_multiple_title">Новые сообщения</string>
   <string name="notification_failed_multiple">Не удалось отправить сообщения (%s)</string>
   <string name="notification_failed_multiple_title">Сообщения не отправлены</string>
-  <string name="sim_full_body">Удалите несколько сообщений, чтобы освободить место.</string>
-  <string name="sms_full_title">Память для текстовых сообщений переполнена.</string>
+  <string name="sim_full_body">Удалите несколько сообщений, чтобы освободить место</string>
+  <string name="sms_full_title">Память для текстовых сообщений переполнена</string>
   <string name="sms_full_body">Память переполнена. Чтобы сохранить новые сообщения, удалите несколько старых.</string>
   <string name="sms_rejected_title">Сообщение SMS отклонено</string>
   <string name="sms_rejected_body">Входящее сообщение отклонено по неизвестной причине</string>
@@ -233,23 +232,23 @@
   <string name="confirm">Подтвердить</string>
   <string name="message_send_read_report">Будет отправлен отчет о прочтении</string>
   <string name="message_queued">Сервис недоступен. Мы попробуем отправить сообщение позже</string>
-  <string name="fdn_check_failure">Вы можете отправлять сообщения только на номера из своего списка разрешенных номеров.</string>
+  <string name="fdn_check_failure">Вы можете отправлять сообщения только на номера из своего списка разрешенных номеров</string>
   <string name="no_subject">(Без темы)</string>
   <string name="unknown_sender">Неизвестный отправитель</string>
-  <string name="dl_failure_notification">Не удалось загрузить сообщение \"%1$s\" от пользователя %2$s.</string>
+  <string name="dl_failure_notification">Не удалось загрузить сообщение \"%1$s\" от пользователя %2$s</string>
   <string name="rate_limit_surpassed">Подтвердить</string>
   <string name="confirm_rate_limit">Отправляется большое количество MMS. Продолжить?</string>
   <string name="message_download_failed_title">Не удалось загрузить сообщение</string>
   <string name="message_send_failed_title">Сообщение не отправлено</string>
-  <string name="message_failed_body">Нажмите, чтобы просмотреть сообщение и повторить попытку.</string>
+  <string name="message_failed_body">Нажмите, чтобы просмотреть сообщение и повторить попытку</string>
   <string name="download_later">Не удалось загрузить сообщения. Повторите попытку позже.</string>
   <string name="select_audio">Выбор аудио</string>
   <string name="copy_to_sdcard">Сохранить приложение</string>
   <string name="copy_to_sdcard_success">Файл сохранен</string>
   <string name="copy_to_sdcard_fail">Файл не сохранен</string>
   <string name="save_ringtone">Сохранить как мелодию звонка</string>
-  <string name="saved_ringtone">Рингтон сохранен.</string>
-  <string name="saved_ringtone_fail">Рингтон не сохранен.</string>
+  <string name="saved_ringtone">Рингтон сохранен</string>
+  <string name="saved_ringtone_fail">Рингтон не сохранен</string>
   <string name="menu_insert_smiley">Вставить смайлик</string>
   <string name="select_link_title">Выбор действия</string>
   <string name="slide_number">Слайд %s</string>
@@ -280,7 +279,7 @@
   <string name="pick_too_many_recipients">Слишком много получателей</string>
   <string name="adding_recipients">Добавление получателей...</string>
   <string name="draft_separator">", "</string>
-  <string name="message_count_format"> %1$s</string>
+  <string name="message_count_format"> %1$s</string>
   <string name="error_state">Данные были изменены</string>
   <string name="error_state_text">Цепочки не соответствуют получателям. Сделайте снимок экрана и отправьте сообщение об ошибке через веб-сайт http://go/droidanizer</string>
   <string name="disable_notifications_dialog_message">Не дублировать уведомления об SMS из приложения обмена сообщениями по умолчанию</string>
@@ -378,7 +377,7 @@
   <string name="pref_title_show_recent_contacts">Показать недавние контакты</string>
   <string name="pref_summary_show_recent_contacts">Показать список последних контактов при создании нового сообщения</string>
   <string name="pref_title_hide_festival">Скрыть вкладку рекомендуемые</string>
-  <string name="pref_summary_hide_festival">Скрыть вкладку рекомендуемые</string>
+    <string name="pref_summary_hide_festival">Скрыть вкладку Шутки</string>
   <string name="pref_key_append_signature_title">Подпись</string>
   <string name="pref_key_append_signature_summary">Добавить подпись к сообщению</string>
   <string name="pref_key_edit_signature_title">Изменить подпись</string>
@@ -433,7 +432,7 @@
   <string name="timed_message_expired_title_2">Вы хотите отправить их сейчас?</string>
   <string name="timed_message_to">для</string>
   <string name="timed_message_in_total">... (всего: %d)</string>
-<string name="confirm_delete_RUIM_message">Это сообщение на RUIM будет удалено</string>
+  <string name="confirm_delete_RUIM_message">Это сообщение на RUIM будет удалено</string>
   <string name="confirm_delete_all_RUIM_messages">Все сообщения на RUIM будут удалены</string>
   <string name="festival_sms_sdcard_unready">SD-Карта не готова</string>
   <string name="pref_summary_manage_ruim_messages">Управление сообщениями, хранящимися на RUIM карте</string>

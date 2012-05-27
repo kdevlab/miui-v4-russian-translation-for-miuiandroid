@@ -32,7 +32,7 @@
     <string name="select_visible_calendars_title">Календари</string>
     <string name="synced">синхронизирован</string>
     <string name="not_synced">не синхронизирован</string>
-    <string name="acct_not_synced">Этот аккаунт не синхронизируется, поэтому ваши календари не обновляются.</string>
+    <string name="acct_not_synced">Этот аккаунт не синхронизируется, поэтому ваши календари не обновляются</string>
     <string name="accounts">Аккаунты</string>
     <string name="select_synced_calendars_title">Календари для синхронизации</string>
     <string name="select_synced_calendars_button">Календари для синхронизации</string>
@@ -40,11 +40,11 @@
     <string name="hint_where">Место</string>
     <string name="hint_description">Описание</string>
     <string name="hint_attendees">Гости</string>
-    <string name="creating_event">Мероприятие создано.</string>
-    <string name="saving_event">Мероприятие сохранено.</string>
-    <string name="empty_event">Нельзя создать мероприятие без данных.</string>
-    <string name="creating_event_with_guest">Приглашение отправлено.</string>
-    <string name="saving_event_with_guest">Обновление отправлено.</string>
+    <string name="creating_event">Мероприятие создано</string>
+    <string name="saving_event">Мероприятие сохранено</string>
+    <string name="empty_event">Нельзя создать мероприятие без данных</string>
+    <string name="creating_event_with_guest">Приглашение отправлено</string>
+    <string name="saving_event_with_guest">Обновление отправлено</string>
     <string name="alert_title">Уведомления календаря</string>
     <string name="event_info_title">Просмотр мероприятия</string>
     <string name="event_info_title_invite">Приглашение на встречу</string>
@@ -152,9 +152,4 @@
     <string name="accessibility_reminder_privacy">Конфиденциальность</string>
     <string name="day_view_new_event_hint">Создать мероприятие</string>
     <string name="template_announce_item_index">Мероприятие %1$s из %2$s</string>
-    <string name="birthday_calendar_display_name">Дни рождения</string>	
-    <string name="birthday_notification_title_today">"День рождения %1$s"</string>	
-    <string name="birthday_notification_text_today">Сегодня его(ее) день рождения!</string>	
-    <string name="birthday_notification_title_three_days_later">"Скоро день рождения %1$s"</string>	
-    <string name="birthday_notification_text_three_days_later">3 дня до его(ее) дня рождения!</string>
 </resources>

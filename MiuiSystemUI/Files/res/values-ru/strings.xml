@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
-  <!--This file translated by KOJAN Development Group with ATE2-->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
   <string name="app_label">Графический интерфейс системы</string>
   <string name="status_bar_clear_all_button">Очистить</string>
   <string name="status_bar_do_not_disturb_button">Не беспокоить</string>
@@ -162,11 +161,11 @@
   <string name="status_bar_toggle_torch">Фонарик</string>
   <string name="status_bar_toggle_vibrate">Вибрация</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
-  <string name="screen_rotation_freeze_message">Locked screen rotation to landscape mode</string>
-  <string name="screen_button_disabled_message">Functions of buttons on the lower screen are disabled. You may enable them by pressing \"Home\" and \"Power\"</string>
-  <string name="screen_button_enabled_message">Functions of buttons on the lower screen are enabled</string>
-  <string name="screen_button_notification_title">Screen buttons are disabled</string>
-  <string name="screen_button_notification_text">"Pressing 'Home'+'Power' to enable"</string>
+  <string name="screen_rotation_freeze_message">Отключить поворот экрана в ландшафтный режим</string>
+  <string name="screen_button_disabled_message">Функции кнопок на нижнем экране будут отключены. Вы можете включить их, нажав \"Домой\" и \"Питание\"</string>
+  <string name="screen_button_enabled_message">Функции кнопок на нижней части экрана включены</string>
+  <string name="screen_button_notification_title">Экранные кнопки отключены</string>
+  <string name="screen_button_notification_text">"Зажмите 'Домой'+'Питание' чтобы включить"</string>
   <string name="status_bar_style_settings">Настройки статус бара</string>
   <string name="settings_toggle_layout_style">Стиль статус бара</string>
   <string name="settings_toggle_layout_style_compact">Компакт</string>
@@ -179,6 +178,7 @@
   <string name="settings_toggle_position_reset">Сбросить переключатели</string>
   <string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
   <string name="settings_notification_icon">Уведомления в строке состояния</string>
+  <string name="settings_screenshot_notification_disabled">Отключить уведомление успешного скриншота</string>
   <string name="settings_expanded_view">Настройки выдвижения</string>
   <string name="settings_expandable_under_keyguard">На экране блокировки</string>
   <string name="settings_expandable_under_keyguard_summary">Работает только при отсутствии пароля для разблокировки</string>
@@ -202,7 +202,7 @@
   <string name="incoming_call_vibrate_hint">Входящий звонок</string>
   <string name="notification_vibrate_hint">Уведомление</string>
   <string name="mms_vibrate_hint">Сообщение</string>
-    <string name="not_all_vibrate_hint" formatted="false">В соответствии с настройками, будет вибрация при: %1$s, а при: %2$s вибрации не будет, вы можете изменить это в настройках</string>
+  <string name="not_all_vibrate_hint" formatted="false">В соответствии с настройками, будет вибрация при: %1$s, а при: %2$s вибрации не будет, вы можете изменить это в настройках</string>
   <string name="no_vibrate_hint">В соответствии с настройками, уведомление о входящем вызове и сообщения не будут вибрировать, включение это пункта не вызовет никакого действия</string>
   <string name="to_vibrate_settings">Настройки вибрации</string>
   <string name="camera_key_action_title">Кнопка MI</string>
@@ -246,11 +246,11 @@
   <string name="ext_media_safe_unmount_notification_message">Вы можете безопасно извлечь USB-хранилище</string>
   <string name="ext_media_nomedia_notification_title">USB-хранилище извлечено</string>
   <string name="ext_media_nomedia_notification_message">Вставьте новую SD-карту</string>
-    <string name="message_screen_button_disabled">Функции кнопок на экране будут отключены</string>
-    <string name="message_screen_button_enabled">Функции кнопок на нижней части экрана включены</string>
-    <string name="settings_other">Другие</string>
-    <string name="settings_auto_dismiss_screenshot_notification">Авто-скрытие сообщения о скриншоте</string>
-    <string name="battery_indicator_style">Стиль индикатора батареи</string>
-    <string name="default_usb_mode">Тип подключения по USB</string>
-    <string name="notification_icon_filter_message_system_app">Уведомления от системных приложений не могут быть скрыты</string>
+  <string name="message_screen_button_disabled">Функции кнопок на экране будут отключены</string>
+  <string name="message_screen_button_enabled">Функции кнопок на нижней части экрана включены</string>
+  <string name="settings_other">Другие</string>
+  <string name="battery_indicator_style">Стиль индикатора батареи</string>
+  <string name="default_usb_mode">Тип подключения по USB</string>
+  <string name="notification_icon_filter_message_system_app">Уведомления от системных приложений не могут быть скрыты</string>
+  <string name="settings_auto_dismiss_screenshot_notification">Очистка уведомлений скриншотов</string>
 </resources>

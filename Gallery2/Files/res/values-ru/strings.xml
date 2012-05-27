@@ -58,9 +58,9 @@
     <string name="no_thumbnail">Нет уменьшенного изображения</string>
     <string name="resume_playing_restart">Начать с начала</string>
     <string name="crop_save_text">Кадрировать</string>
-    <string name="multiface_crop_help">Нажмите на лицо, чтобы начать.</string>
+    <string name="multiface_crop_help">Нажмите на лицо, чтобы начать</string>
     <string name="saving_image">Сохранение картинки...</string>
-    <string name="save_error">Изображение не сохранено.</string>
+    <string name="save_error">Изображение не сохранено</string>
     <string name="crop_label">Обрезать фотографию</string>
     <string name="select_image">Выбрать фото</string>
     <string name="select_video">Выбрать видео</string>
@@ -139,9 +139,9 @@
     <string name="unit_mm">мм</string>
     <string name="manual">Вручную</string>
     <string name="auto">Авто</string>
-    <string name="flash_on">Со вспышкой</string>
+    <string name="flash_on">С вспышкой</string>
     <string name="flash_off">Без вспышки</string>
-    <string name="try_to_set_local_album_available_offline">Это содержание хранится на устройстве и доступно в автономном режиме.</string>
+    <string name="try_to_set_local_album_available_offline">Это содержание хранится на устройстве и доступно в автономном режиме</string>
     <string name="set_label_all_albums">Все альбомы</string>
     <string name="set_label_local_albums">Офлайн-альбомы</string>
     <string name="set_label_mtp_devices">MTP-устройства</string>

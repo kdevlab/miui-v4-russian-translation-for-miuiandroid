@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
-  <!--This file translated by KOJAN Development Group with ATE2-->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
   <string name="config_import_vcard_type">default</string>
   <string name="config_export_vcard_type">default</string>
   <string name="config_export_dir">/sdcard/MIUI/contacts</string>
@@ -44,7 +43,7 @@
   <string name="menu_new_group_action_bar">Новая группа</string>
   <string name="menu_new_favorite_action_bar">Новый</string>
   <string name="splitConfirmation_title">Разделение контакта</string>
-  <string name="splitConfirmation">Этот контакт будет разделен.</string>
+  <string name="splitConfirmation">Этот контакт будет разделен</string>
   <string name="menu_joinAggregate">Объединить</string>
   <string name="titleJoinContactDataWith">Объединить контакты</string>
   <string name="blurbJoinContactDataWith">Выберите контакт, который хотите объединить с \"%s\":</string>
@@ -53,18 +52,18 @@
   <string name="separatorJoinAggregateAll">Все контакты</string>
   <string name="contactsJoinedMessage">Контакты объединены</string>
   <string name="deleteConfirmation_title">Удаление контакта</string>
-  <string name="delete">Удалить</string>
+  <string name="delete">Очистить</string>
   <string name="menu_set_ring_tone">Задать рингтон</string>
   <string name="menu_redirect_calls_to_vm">Только голос. почта</string>
-  <string name="readOnlyContactWarning">Невозможно удалить контакты из аккаунта, доступного только для чтения, однако их можно скрыть в списках контактов.</string>
+  <string name="readOnlyContactWarning">Невозможно удалить контакты из аккаунта, доступного только для чтения, однако их можно скрыть в списках контактов</string>
   <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>
-  <string name="multipleContactDeleteConfirmation">Удаление этого контакта приведет к потере данных из нескольких аккаунтов.</string>
+  <string name="multipleContactDeleteConfirmation">Удаление этого контакта приведет к потере данных из нескольких аккаунтов</string>
   <string name="deleteConfirmation">Этот контакт будет удален</string>
   <string name="menu_done">Готово</string>
   <string name="menu_doNotSave">Отмена</string>
   <string name="menu_discard">Отменить</string>
   <string name="label_notes">Примечания</string>
-  <string name="label_sip_address">Интернет-вызов</string>
+  <string name="label_sip_address">Интернет вызов</string>
   <string name="ghostData_company">Компания</string>
   <string name="ghostData_title">Название</string>
   <string name="invalidContactMessage">Контакт удален</string>
@@ -81,14 +80,15 @@
   <string name="noGroups">Нет групп</string>
   <string name="noAccounts">Для создания групп нужен аккаунт</string>
   <string name="noMatchingContacts">Подходящие контакты не найдены</string>
-  <string name="noContactsWithPhoneNumbers">Нет контактов с номерами телефонов.</string>
+  <string name="noContactsWithPhoneNumbers">Нет контактов с номерами телефонов</string>
+  <string name="savingContact">Контакт сохраняется...</string>
   <string name="savingDisplayGroups">Варианты отображения сохраняются...</string>
-  <string name="contactSavedToast">Контакт сохранен</string>
+  <string name="contactSavedToast">Контакт сохранен.</string>
   <string name="contactSavedErrorToast">Не удалось сохранить изменения</string>
   <string name="groupSavedToast">Группа сохранена</string>
-  <string name="groupSavedErrorToast">Не удалось сохранить изменения.</string>
+  <string name="groupSavedErrorToast">Не удалось сохранить изменения</string>
   <string name="listTotalAllContactsZeroStarred">Нет контактов</string>
-  <string name="foundTooManyContacts">Найдено более %d.</string>
+  <string name="foundTooManyContacts">Найдено более %d</string>
   <string name="listFoundAllContactsZero">Ничего не найдено</string>
   <string name="contactsAllLabel">Все</string>
   <string name="contactsGroupsLabel">Группы</string>
@@ -115,39 +115,60 @@
   <string name="simContacts_emptyLoading">Загрузка с SIM-карты…</string>
   <string name="simContacts_title">Контакты на SIM-карте</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">Отсутствуют контакты для отображения. (Если аккаунт был только что добавлен, потребуется несколько минут для синхронизации контактов.)</string>
-  <string name="noContactsHelpTextForCreateShortcut">Отсутствуют контакты для отображения</string>
+  <string name="noContactsHelpTextForCreateShortcut">Отсутствуют контакты для отображения.</string>
   <string name="noContactsHelpText">"Нет контактов для показа.
+
 Чтобы добавить контакты, нажмите Меню и выберите один из вариантов.
+ 
 Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+ 
 Новый контакт: добавление контакта.
-Импорт/экспорт: импорт контактов с SIM- или SD-карты
+ 
+Импорт/экспорт: импорт контактов с SIM- или SD-карты.
 "</string>
   <string name="noContactsHelpTextWithSync">"Нет контактов для показа. Если вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.
-Чтобы добавить контакты, нажмите Меню и выберите один из вариантов
-Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном
-Фильтр контактов: настройка параметров показа контактов
-Новый контакт: добавление контакта
-Импорт/экспорт: импорт контактов с SIM- или SD-карты
+
+Чтобы добавить контакты, нажмите Меню и выберите один из вариантов.
+
+Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+
+Фильтр контактов: настройка параметров показа контактов.
+
+Новый контакт: добавление контакта.
+ 
+Импорт/экспорт: импорт контактов с SIM- или SD-карты.
 "</string>
-  <string name="noContactsNoSimHelpText">"Нет контактов для показа
-Чтобы добавить контакты, нажмите Меню и выберите один из вариантов
-Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном
-Новый контакт: добавление контакта
-Импорт/экспорт: импорт контактов с SD-карты
+  <string name="noContactsNoSimHelpText">"Нет контактов для показа.
+
+Чтобы добавить контакты, нажмите Меню и выберите один из вариантов.
+ 
+Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+ 
+Новый контакт: добавление контакта.
+ 
+Импорт/экспорт: импорт контактов с SD-карты.
 "</string>
   <string name="noContactsNoSimHelpTextWithSync">"Нет контактов для показа. Если вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.
-Чтобы добавить контакты, нажмите Меню и выберите один из вариантов
-Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном
-Фильтр контактов: настройка параметров показа контактов
-Новый контакт: добавление контакта
-Импорт/экспорт: импорт контактов с SD-карты
+
+Чтобы добавить контакты, нажмите Меню и выберите один из вариантов.
+
+Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+
+Фильтр контактов: настройка параметров показа контактов.
+
+Новый контакт: добавление контакта.
+ 
+Импорт/экспорт: импорт контактов с SD-карты.
 "</string>
   <string name="noFavoritesHelpText">"У вас нет избранных контактов.
 
 Чтобы сделать контакт избранным,
+
         нажмите вкладку Контакты;
+ 
 нажмите контакт, который нужно сделать избранным;
-нажмите звездочку возле имени контакта
+ 
+нажмите звездочку возле имени контакта.
 "</string>
   <string name="liveFolder_all_label">Все контакты</string>
   <string name="liveFolder_favorites_label">Отмеченый</string>
@@ -206,10 +227,10 @@
   <string name="reading_vcard_failed_title">Ошибка чтения vCard-файла</string>
   <string name="importing_vcard_finished_title">Импорт файла vCard %s завершен</string>
   <string name="importing_vcard_canceled_title">Импорт файла \"%s\" отменен</string>
-  <string name="vcard_import_will_start_message">Импорт %s начнется в ближайшее время.</string>
-  <string name="vcard_import_will_start_message_with_default_name">Файл будет импортирован в ближайшее время.</string>
+  <string name="vcard_import_will_start_message">Импорт %s начнется в ближайшее время</string>
+  <string name="vcard_import_will_start_message_with_default_name">Файл будет импортирован в ближайшее время</string>
   <string name="vcard_import_request_rejected_message">Запрос на импорт данных vCard отклонен. Повторите попытку позже.</string>
-  <string name="vcard_export_will_start_message">Экспорт %s начнется в ближайшее время.</string>
+  <string name="vcard_export_will_start_message">Экспорт %s начнется в ближайшее время</string>
   <string name="vcard_export_request_rejected_message">Запрос на экспорт данных vCard отклонен. Повторите попытку позже.</string>
   <string name="vcard_unknown_filename">контакт</string>
   <string name="percentage">%s%%</string>
@@ -227,7 +248,7 @@
   <string name="exporting_contact_list_message">Контактные данные экспортируются в файл \"%s\"</string>
   <string name="fail_reason_could_not_initialize_exporter">Не удалось запустить функцию экспорта. Причина: %s</string>
   <string name="fail_reason_error_occurred_during_export">Ошибка при экспорте. Причина: %s</string>
-  <string name="composer_failed_to_get_database_infomation">База данных недоступна.</string>
+  <string name="composer_failed_to_get_database_infomation">База данных недоступна</string>
   <string name="composer_has_no_exportable_contact">Не найдены контакты для экспорта. Возможно, экспорт контактов с телефона не поддерживается поставщиком услуг передачи данных.</string>
   <string name="composer_not_initialized">Сбой при запуске редактора vCard.</string>
     <string name="fail_reason_could_not_open_file" formatted="false">Не удалось открыть файл \"%s\". Причина: %s</string>
@@ -263,7 +284,7 @@
   <string name="display_more_groups">Другие группы...</string>
   <string name="display_ungrouped">Все остальные контакты</string>
   <string name="display_all_contacts">Все контакты</string>
-  <string name="display_warn_remove_ungrouped">Вместе с группой \"%s\" перестанут синхронизироваться контакты, не добавленные в группы.</string>
+  <string name="display_warn_remove_ungrouped">Вместе с группой \"%s\" перестанут синхронизироваться контакты, не добавленные в группы</string>
   <string name="account_phone">Только телефон, без синхронизации</string>
   <string name="call_custom">Позвонить (%s)</string>
   <string name="call_home">Домашний тел.</string>
@@ -351,9 +372,9 @@
   <string name="account_type_format">Контакт %1$s</string>
   <string name="from_account_format">%1$s</string>
   <string name="use_photo_as_primary">Использовать эту фотографию</string>
-  <string name="contact_read_only">Здесь доступно только для чтения.</string>
-  <string name="no_contact_details">Нет других данных об этом контакте.</string>
-  <string name="group_read_only">Здесь доступно только для чтения.</string>
+  <string name="contact_read_only">Здесь доступно только для чтения</string>
+  <string name="no_contact_details">Нет других данных об этом контакте</string>
+  <string name="group_read_only">Здесь доступно только для чтения</string>
   <string name="display_options_sort_list_by">Упорядочить контакты</string>
   <string name="display_options_sort_by_given_name">По имени</string>
   <string name="display_options_sort_by_family_name">По фамилии</string>
@@ -368,19 +389,21 @@
   <string name="locale_change_in_progress">Список контактов обновится после смены языка интерфейса</string>
   <string name="upgrade_in_progress">Список контактов обновляется...</string>
   <string name="upgrade_out_of_memory">"Контакты обновляются.
+
 Для этого требуется около %s Мб внутренней памяти.
+
 Выберите подходящую опцию:"</string>
   <string name="upgrade_out_of_memory_uninstall">Удалить некоторые приложения</string>
   <string name="upgrade_out_of_memory_retry">Повторить попытку обновления</string>
   <string name="search_results_searching">Поиск…</string>
-  <string name="no_contacts_selected">Контакты не выбраны.</string>
+  <string name="no_contacts_selected">Контакты не выбраны</string>
   <string name="add_field">Добавить поле</string>
   <string name="add_new_entry_for_section">Добавить</string>
   <string name="add_organization">Добавить организацию</string>
   <string name="event_edit_field_hint_text">Дата</string>
   <string name="group_edit_field_hint_text">Название группы</string>
   <string name="contact_status_update_attribution">с помощью %1$s</string>
-  <string name="contact_status_update_attribution_with_date">%1$s с помощью %2$s</string>
+    <string name="contact_status_update_attribution_with_date" formatted="false">%1$s с помощью %2$s</string>
   <string name="description_star">избранное</string>
   <string name="edit_contact">Изменить контакт</string>
   <string name="local_invisible_directory">Другое</string>
@@ -405,12 +428,13 @@
   <string name="activity_title_contacts_filter">Фильтр контактов</string>
   <string name="menu_settings">Настройки</string>
   <string name="preference_displayOptions">Варианты отображения</string>
-  <string name="organization_company_and_title">%2$s, %1$s</string>
+    <string name="organization_company_and_title" formatted="false">%2$s, %1$s</string>
   <string name="hint_findContacts">Найти контакты</string>
   <string name="non_phone_caption">Номер телефона</string>
   <string name="non_phone_add_to_contacts">Добавить в контакты</string>
+  <string name="activity_title_confirm_add_detail">Добавление данных</string>
   <string name="non_phone_close">Закрыть</string>
-  <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
+    <string name="widget_name_and_phonetic" formatted="false">%1$s (%2$s)</string>
   <string name="date_year_toggle">Указать год</string>
   <string name="social_widget_label">Контакт</string>
   <string name="social_widget_loading">Загрузка...</string>
@@ -431,7 +455,7 @@
   <string name="profile_display_name">Настроить профиль</string>
   <string name="enter_contact_name">Имя контакта</string>
   <string name="view_updates_from_group">Обновления</string>
-  <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
+    <string name="notification_voicemail_callers_list" formatted="false">%1$s, %2$s</string>
   <string name="notification_new_voicemail_ticker">Новое гол. сообщение: %1$s</string>
   <string name="voicemail_playback_error">Не удалось воспроизвести сообщение</string>
   <string name="voicemail_buffering">Буферизация...</string>
@@ -450,7 +474,7 @@
   <string name="voicemail_speed_normal">Средняя скорость</string>
   <string name="voicemail_speed_faster">Высокая скорость</string>
   <string name="voicemail_speed_fastest">Максимальная скорость</string>
-  <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
+    <string name="call_log_item_count_and_date" formatted="false">(%1$d) %2$s</string>
   <string name="group_name_hint">Название группы</string>
   <string name="nfc_vcard_file_name">Получено по NFC</string>
   <string name="status_available">На месте</string>
@@ -473,6 +497,7 @@
   <string name="local_profile_title">Мой профиль</string>
   <string name="external_profile_title">Мой профиль %1$s</string>
   <string name="no_account_prompt">"Подключите Контакты к аккаунту Google, чтобы:
+
 • Всегда иметь под рукой обновленные данные – на любом устройстве.
 • Синхронизировать все контакты – вы никогда не потеряете их"</string>
   <string name="contact_editor_prompt_zero_accounts">Резервная копия нового контакта не будет сохранена. Добавить аккаунт для сохранения контактов в Интернете?</string>
@@ -529,7 +554,7 @@
   <string name="t9_search_guide">Введите номер телефона или найдите контакт с помощью T9</string>
   <string name="date_time_set">Настроить</string>
   <string name="sim_no_contact">Нет контактов на SIM-карте</string>
-  <string name="sim_indexed_contact_not_exist">Позиция %1$d не является допустимой на SIM-карте, должна быть между %2$d и %3$d</string>
+    <string name="sim_indexed_contact_not_exist" formatted="false">Позиция %1$d не является допустимой на SIM-карте, должна быть между %2$d и %3$d</string>
   <string name="sim_contact_search_error">Произошла ошибка при поиске контактов с SIM-карты</string>
   <string name="empty_divider_title">Вы можете</string>
   <string name="noContactHelpTextAccountsInfo">Синхронизировать контакты с Google, Exchange</string>
@@ -582,36 +607,35 @@
   <string name="dirty_contacts_notification_title">Вы хотите, синхронизировать контакты?</string>
   <string name="dirty_contacts_notification_description">У вас есть %d не синхронизированных контактов</string>
   <string name="dirty_contacts_notification_message">(Вы можете отключить напоминание в настройках)</string>
+  <string name="remind_btn_not_remind">Не напоминать</string>
   <string name="remind_btn_sync_now">Сейчас</string>
   <string name="remind_btn_ignore">Позже</string>
   <string name="display_only_phones">Только с тел. номером</string>
   <string name="display_sim_contacts">Показать контакты SIM</string>
   <string name="preference_sim">SIM-карта</string>
   <string name="preference_remove_duplicate">Слияние дубликатов контактов</string>
-  <string name="scan_duplicate">Поиск дубликатов данных, пожалуйста, подождите...</string>
+  <string name="scan_duplicate">"Поиск дубликатов, пожалуйста, подождите..."</string>
   <string name="scan_merge">Поиск возможных дубликатов контактов, пожалуйста, подождите...</string>
   <string name="scan_duplicate_message">Контакты с полным дублированием данных (%1$d)</string>
+  <string name="scan_merge_message">Контакты с частично дублирующимися данными (%1$d)</string>
   <string name="merge_contact_message">(%1$d) контактов с частично дублирующимися данными, (%2$d) объединено</string>
   <string name="delete_duplicate">Слияние</string>
-  <string name="delete_duplicate_message">Слияние...</string>
+  <string name="delete_duplicate_message">"Слияние..."</string>
+  <string name="btn_finished">Готово</string>
+  <string name="label_merge">Объединено</string>
   <string name="label_no_duplicate_contacts">Отлично! Нет дубликатов контактов на данный момент!</string>
   <string name="quit_dialog_confirm_title">Вы действительно хотите выйти из объединения контактов?</string>
   <string name="label_duplicate_count">(%1$d)</string>
   <string name="raw_contact_list_title">"Этот контакт содержит %1$d не обработанных контактов
 Нажмите для выбора и редактирования контакта"</string>
   <string name="raw_contact_account_label">Аккаунт: %1$s</string>
-  <string name="move_and_resize">Изменение размера и положения</string>
-  <string name="save_photo_progress">Сохранение фото...</string>
-  <string name="edit_photo">Редактировать фото</string>
-  <string name="edit_hint">Редактировать</string>
-  <string name="savingContact">Контакт сохраняется...</string>
-  <string name="activity_title_confirm_add_detail">Добавление данных</string>
-  <string name="remind_btn_not_remind">Не напоминать</string>
-  <string name="scan_merge_message">Контакты с частично дублирующимися данными (%1$d)</string>
-  <string name="btn_finished">Готово</string>
-  <string name="label_merge">Объединено</string>
   <string name="calllog_menu_call_ip_number">Вызов через интернет (вызов %s)</string>
   <string name="sim_contacts_invisiable">Скрывать</string>
   <string name="sim_contacts_visiable">Показывать</string>
-  <string name="lunarBirthdayLabelsGroup">День рождения</string>  
+  <string name="edit_hint">Редактировать</string>
+  <string name="save_photo_progress">Сохранение фото...</string>
+  <string name="move_and_resize">Изменение размера и положения</string>
+  <string name="edit_photo">Редактировать фото</string>
+  <string name="lunarBirthdayLabelsGroup">Лунный день рождения</string>
+  <string name="date_picker_label">Напомнить за 3 дня и в день рождения</string>
 </resources>

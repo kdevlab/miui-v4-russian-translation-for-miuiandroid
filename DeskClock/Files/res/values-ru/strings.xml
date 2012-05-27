@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
-  <!--This file translated by KOJAN Development Group with ATE2-->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
   <string name="full_wday_month_day_no_year">d MMMM, EEEE</string>
   <string name="elapsed_time_format">(+%s)</string>
   <string name="app_label">Часы</string>
@@ -98,22 +97,22 @@
   <string name="timer_got_it">Отключить</string>
   <string name="timer_start_alarm">Время таймера вышло</string>
   <string name="dialog_confirm_abort">Вы хотите отменить изменения?</string>
-  <string name="remind_ringtone">звук напоминания</string>
+  <string name="remind_ringtone">Звук напоминания</string>
   <string name="keep_screen_on">Экран включен</string>
   <string name="start_up">Пуск</string>
   <string name="cancel">Стоп</string>
   <string name="timer_minute">м</string>
   <string name="timer_hour">ч</string>
   <string name="timer_message_with_hour">таймер на %1$d часов и %2$d минут</string>
-  <string name="timer_message">таймер на %1$d минут</string>
+  <string name="timer_message">Таймер на %1$d минут</string>
   <string name="timer_tutorial">По часовой стрелке</string>
   <string name="alarm_in_silent_mode_summary">Подавать сигнал, даже если телефон работает в режиме без звука</string>
   <string name="menu_alarm_setting">Настройки будильника</string>
-  <string name="timer_is_running">таймер запущен</string>
+  <string name="timer_is_running">Таймер запущен</string>
   <string name="alarm_duration">Время сигнала и интервалы (мин.)</string>
   <string name="alarm_duration_title">Продолжительность сигнала</string>
-  <string name="alarm_count">Время сигнала перед авто-тишиной (время)</string>
+  <string name="alarm_count">Время сигнала перед автотишиной (мин)</string>
   <string name="alarm_duration_summary">Будильник с интервалом %d мин</string>
-  <string name="alarm_count_summary">, без звука после %d времени</string>
+  <string name="alarm_count_summary">, беззвука после %d мин</string>
   <string name="alarm_count_never_summary">, не останавливать</string>
 </resources>

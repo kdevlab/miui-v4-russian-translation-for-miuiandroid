@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="null_string" />
+<string name="null_string" />
     <string name="camera_label">Камера</string>
     <string name="camcorder_label">Видеокамера</string>
     <string name="wait">Пожалуйста, подождите...</string>
@@ -104,7 +104,7 @@
     <string name="SS_SOUND3">Звук 3</string>
     <string name="SS_SOUND2">Звук 2</string>
     <string name="SS_SOUND1">звук 1</string>
-    <string name="M_CENTER">Центрально-взвешенный</string>
+    <string name="M_CENTER">Центральный</string>
     <string name="M_SPOT">Spot</string>
     <string name="M_MATRIX">Матрица</string>
     <string name="S_PHONE">Телефон</string>
@@ -150,10 +150,10 @@
     <string name="SHARPNESS">Четкость</string>
     <string name="OK_STRING">OK</string>
     <string name="Title_SceneMode">Режим сцены</string>
-    <string name="Title_SetUp">Setup</string>
+    <string name="Title_SetUp">Создать</string>
     <string name="Title_Timer">Таймер</string>
     <string name="Title_Resolution">Разрешение</string>
-    <string name="Title_ShootAndShare">Share Shot Setting</string>
+    <string name="Title_ShootAndShare">Параметры отправки</string>
     <string name="Title_ShareWith">Поделиться через</string>
     <string name="Title_WhiteBalance">Баланс белого</string>
     <string name="Title_Effects">Эффекты</string>
@@ -181,7 +181,7 @@
     <string name="Title_AudioRecording">Запись звука</string>
     <string name="Title_Storage">Хранилище</string>
     <string name="Title_Reset">Сброс настроек</string>
-    <string name="Title_Mode">Режим</string>
+    <string name="Title_Mode">Mode</string>
     <string name="Title_Back">Назад</string>
     <string name="Title_ImageViewer">Просмотр изображения</string>
     <string name="Title_Outdoor_Visibility">Открытая видимость</string>
@@ -197,10 +197,10 @@
     <string name="Settings_Help_WhiteBalance">Changes white balance using setting appropriate for light source</string>
     <string name="Settings_Help_Effect">Sets special effect on image</string>
     <string name="Settings_Help_AutoContrast">Provides clear images even under backlight circumstances where intensity of illumination can vary excessively</string>
-    <string name="Settings_Help_ISO">Светочувствительность матрицы</string>
+    <string name="Settings_Help_ISO">Adjusts ISO sensitivity of camera imaging sensor</string>
     <string name="Settings_Help_Metering">Selects area for measuring exposure level</string>
     <string name="Settings_Help_ObjectTracking">Focuses on a moving subject continuously</string>
-    <string name="Settings_Help_AntiShake">Уменьшение размазанности изображений</string>
+    <string name="Settings_Help_AntiShake">Reduces image blur due to subject movement or hand movement</string>
     <string name="Settings_Help_BlinkDetection">Detects blink of human eye and warns user</string>
     <string name="Settings_Help_ImageQuality">Sets image quality</string>
     <string name="Settings_Help_Adjust">Adjust image contrast, saturation and sharpness</string>
@@ -210,11 +210,11 @@
     <string name="Settings_Help_GPS">Stores GPS information in image files</string>
     <string name="Settings_Help_ShutterSound">Selects shutter sound</string>
     <string name="Settings_Help_Storage">Selects where images or video files are saved</string>
-    <string name="Settings_Help_ResetSettings">Сброс всех настроек</string>
-    <string name="Settings_Help_VideoQuality">выбор качества видео</string>
+    <string name="Settings_Help_ResetSettings">Reset application settings</string>
+    <string name="Settings_Help_VideoQuality">Sets video quality</string>
     <string name="Settings_Help_ExposureMeter">Selects area for measuring exposure level</string>
     <string name="Settings_Help_AudioRecording">Records audio while recording video</string>
-    <string name="Settings_Help_Outdoor_Visibility">Повышает яркость дисплея на улице</string>
+    <string name="Settings_Help_Outdoor_Visibility">Enhances LCD visibility outdoors</string>
     <string name="Add_Me_Helptext">Создать визуальный состав путем объединения людей с существующего фона</string>
     <string name="Action_Shot_Helptext">Создать панораму из движущихся объектов</string>
     <string name="Stop_Motion_Helptext">Создание анимации из непрерывных снимков</string>
@@ -261,12 +261,12 @@
 Direct connected"</string>
     <string name="done">Готово</string>
     <string name="refresh">WiFi-Networks</string>
-    <string name="add_photo_title">Add Photo</string>
+    <string name="add_photo_title">Добавить фото</string>
     <string name="refresh_title">Wi-Fi Networks</string>
     <string name="wifi_dialog_title">ShareShot</string>
-    <string name="wifi_dialog_text">Wi-Fi connection required.</string>
+    <string name="wifi_dialog_text">Необходимо Wi-Fi соединение</string>
     <string name="wifi_direct_dialog_title">ShareShot</string>
-    <string name="wifi_direct_dialog_text">Wi-Fi Direct connection required.</string>
+    <string name="wifi_direct_dialog_text">Wi-Fi Direct connection required</string>
     <string name="wifi_dialog_yes">OK</string>
     <string name="wifi_dialog_no">Отмена</string>
     <string name="notify_connect_error">Сетевое подключение не удалось, попробуйте еще раз~</string>
@@ -276,7 +276,7 @@ Direct connected"</string>
     <string name="take_photo">Сделать фото</string>
     <string name="activate_agree">Согласен</string>
     <string name="activate_reject">Отклоняю</string>
-    <string name="name_cannot_empty">Введите имя</string>
+    <string name="name_cannot_empty">Имя не может быть пустым!</string>
     <string name="camera_share">Отправить</string>
     <string name="video_play">Воспроизвести</string>
     <string name="camera_toss">Удалить</string>
@@ -285,13 +285,13 @@ Direct connected"</string>
     <string name="sendImage">Отправить фото через</string>
     <string name="no_way_to_share_image">Нет приложения для отправки фото</string>
     <string name="no_way_to_share_video">Нет приложения для отправки видео</string>
-    <string name="setImage">Установить изображение как</string>
+    <string name="setImage">Установить как</string>
     <string name="history">История</string>
     <string name="confirm_delete_title">Удалить</string>
     <string name="confirm_delete_message">Изображение будет удалено</string>
     <string name="confirm_delete_video_message">Видео будет удалено</string>
     <string name="notify_select_user">Сначала выберите пользователя</string>
-    <string name="notify_sendFile_start_segment">sending to</string>
+    <string name="notify_sendFile_start_segment">отправка в</string>
     <string name="general_setting">Основные настройки</string>
     <string name="setting_name_hint">Имя</string>
     <string name="setting_name_title">Название</string>

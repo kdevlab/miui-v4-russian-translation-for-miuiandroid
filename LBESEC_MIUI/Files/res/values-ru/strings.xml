@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
-  <!--This file translated by KOJAN Development Group with ATE2-->
+<resources>
   <string name="app_name">Безопасность</string>
   <string name="Generic_Copyright">Разработчик Team LBE</string>
   <string name="Generic_Version">Версия: %1$s</string>
@@ -40,7 +39,7 @@
   <string name="HIPS_Group_PIM">Персональная информация</string>
   <string name="HIPS_Group_Location">Позиционирование</string>
   <string name="HIPS_Group_PhoneID">Идентификация телефона</string>
-  <string name="HIPS_Group_Internet">Internet-доступ</string>
+  <string name="HIPS_Group_Internet">Интерент-доступ</string>
   <string name="HIPS_Group_DataPrivacy">Конфиденциальность</string>
   <string name="HIPS_Group_ROOT">Суперпользователь</string>
   <string name="HIPS_Perm_SendSMS">Отправка SMS</string>
@@ -54,7 +53,7 @@
   <string name="HIPS_Perm_CallState_Hint">%1$s приложения, имеющие доступ к состоянию телефона</string>
   <string name="HIPS_Perm_CallMonitor">Управление вызовами</string>
   <string name="HIPS_Perm_CallMonitor_Desc">Управление входящими и исходящими вызовами, контроль громкости, и.т.д</string>
-  <string name="HIPS_Perm_CallMonitor_Hint">%1$s приложения имеющие доступ к управлению вашими входящими и исходящими вызовами, контролю громкости.</string>
+  <string name="HIPS_Perm_CallMonitor_Hint">%1$s приложения имеющие доступ к управлению вашими входящими и исходящими вызовами, контролю громкости</string>
   <string name="HIPS_Perm_Location">Местоположение</string>
   <string name="HIPS_Perm_Location_Desc">Поиск вашего телефона посредством сети или GPS</string>
   <string name="HIPS_Perm_Location_Hint">%1$s Приложения, имеющие разрешения для ослеживания местоположения телефона</string>

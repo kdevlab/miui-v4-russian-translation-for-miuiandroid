@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
-  <!--This file translated by KOJAN Development Group with ATE2-->
+<resources>
   <string name="input_method_selector_show_automatically_value">0</string>
   <string name="input_method_selector_always_show_value">1</string>
   <string name="input_method_selector_always_hide_value">2</string>
@@ -9,9 +8,9 @@
   <string name="no">Нет</string>
   <string name="device_info_default">Неизвестно</string>
   <string name="header_category_wireless_networks">БЕСПРОВОДНЫЕ СЕТИ</string>
-  <string name="header_category_device">УСТРОЙСТВО</string>
+  <string name="header_category_device">ПАРАМЕТРЫ УСТРОЙСТВА</string>
   <string name="header_category_personal">ЛИЧНЫЕ ДАННЫЕ</string>
-  <string name="header_category_system">СИСТЕМА</string>
+  <string name="header_category_system">СИСТЕМНЫЕ НАСТРОЙКИ</string>
   <string name="turn_on_radio">Включить радио</string>
   <string name="turn_off_radio">Отключить радио</string>
   <string name="sms_over_ims_on">Включить SMS через IMS</string>
@@ -49,7 +48,7 @@
   <string name="small_font">Маленький</string>
   <string name="medium_font">Среднее</string>
   <string name="large_font">Большой</string>
-  <string name="font_size_preview_text">Не надо киви! И ни в коем случае - пива! :)</string>
+  <string name="font_size_preview_text">Miui V4 mod by MS :)</string>
   <string name="font_size_save">ОК</string>
   <string name="sdcard_setting">SD-карта</string>
   <string name="battery_info_status_label">Состояние батареи:</string>
@@ -229,9 +228,9 @@
   <string name="sd_card_settings_label">SD-карта</string>
   <string name="proxy_settings_label">Настройки прокси-сервера</string>
   <string name="cancel">Отмена</string>
-  <string name="settings_label">Параметры</string>
-  <string name="settings_label_launcher">Параметры</string>
-  <string name="settings_shortcut">Ярлык параметров</string>
+  <string name="settings_label">Настройки</string>
+  <string name="settings_label_launcher">Настройки</string>
+  <string name="settings_shortcut">Ярлык настроек</string>
   <string name="airplane_mode">Режим полета</string>
   <string name="radio_controls_title">Ещё...</string>
   <string name="wireless_networks_settings_title">Беспроводные сети</string>
@@ -306,7 +305,7 @@
   <string name="unlock_backup_info_summary">Выберите альтернативный способ разблокировки экрана.</string>
   <string name="unlock_set_unlock_off_title">Нет</string>
   <string name="unlock_set_unlock_off_summary" />
-  <string name="unlock_set_unlock_none_title">Отключено</string>
+  <string name="unlock_set_unlock_none_title">Прокрутка</string>
   <string name="unlock_set_unlock_none_summary">Защита отключена</string>
   <string name="unlock_set_unlock_biometric_weak_title">Фейсконтроль</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Низкий уровень защиты (экспериментальная функция)</string>
@@ -339,9 +338,9 @@
   <string name="lockpassword_pin_contains_non_digits">ПИН-код должен состоять только из цифр от 0 до 9</string>
   <string name="lockpassword_pin_recently_used">Администратор устройства запрещает использование последнего PIN-кода</string>
   <string name="lockpassword_illegal_character">Пароль содержит недопустимые символы</string>
-  <string name="lockpassword_password_requires_alpha">Пароль должен содержать хотя бы одну букву.</string>
-  <string name="lockpassword_password_requires_digit">Пароль должен содержать хотя бы одну цифру.</string>
-  <string name="lockpassword_password_requires_symbol">Пароль должен содержать хотя бы один символ.</string>
+  <string name="lockpassword_password_requires_alpha">Пароль должен содержать хотя бы одну букву</string>
+  <string name="lockpassword_password_requires_digit">Пароль должен содержать хотя бы одну цифру</string>
+  <string name="lockpassword_password_requires_symbol">Пароль должен содержать хотя бы один символ</string>
   <string name="lockpassword_password_recently_used">Администратор устройства запрещает использование последнего пароля</string>
   <string name="lockpassword_ok_label">ОК</string>
   <string name="lockpassword_cancel_label">Отмена</string>
@@ -369,11 +368,11 @@
   <string name="bluetooth_pairing_accept">Сопряжение</string>
   <string name="bluetooth_pairing_decline">Отмена</string>
   <string name="bluetooth_error_title">Предупреждение</string>
-  <string name="bluetooth_pairing_error_message">Не удалось подключиться к устройству \"%1$s\".</string>
-  <string name="bluetooth_pairing_pin_error_message">Не удалось подключиться к устройству \"%1$s\", так как введен неверный PIN-код или пароль.</string>
-  <string name="bluetooth_pairing_device_down_error_message">Не удается установить соединение с устройством \"%1$s\".</string>
-  <string name="bluetooth_pairing_rejected_error_message">%1$s не разрешает сопряжение.</string>
-  <string name="bluetooth_connecting_error_message">Возникла неполадка при подключении к %1$s.</string>
+  <string name="bluetooth_pairing_error_message">Не удалось подключиться к устройству \"%1$s\"</string>
+  <string name="bluetooth_pairing_pin_error_message">Не удалось подключиться к устройству \"%1$s\", так как введен неверный PIN-код или пароль</string>
+  <string name="bluetooth_pairing_device_down_error_message">Не удается установить соединение с устройством \"%1$s\"</string>
+  <string name="bluetooth_pairing_rejected_error_message">%1$s не разрешает сопряжение</string>
+  <string name="bluetooth_connecting_error_message">Возникла неполадка при подключении к %1$s</string>
   <string name="bluetooth_preference_scan_title">Поиск устройств</string>
   <string name="bluetooth_search_for_devices">Поиск устройств</string>
   <string name="bluetooth_searching_for_devices">Поиск...</string>
@@ -388,7 +387,7 @@
   <string name="bluetooth_device_context_connect_advanced">Параметры...</string>
   <string name="bluetooth_menu_advanced">Расширенные</string>
   <string name="bluetooth_advanced_titlebar">Расш. настройки Bluetooth</string>
-  <string name="bluetooth_empty_list_bluetooth_off">Чтобы обнаружить устройства, включите Bluetooth.</string>
+  <string name="bluetooth_empty_list_bluetooth_off">Чтобы обнаружить устройства, включите Bluetooth</string>
   <string name="bluetooth_connect_specific_profiles_title">Подключить к...</string>
   <string name="bluetooth_profile_a2dp">Профиль A2DP</string>
   <string name="bluetooth_profile_headset">Профиль HSP/HFP</string>
@@ -396,11 +395,11 @@
   <string name="bluetooth_profile_hid">Профиль HID</string>
   <string name="bluetooth_profile_pan">Интернет-доступ</string>
   <string name="bluetooth_profile_pan_nap">Профиль PAN</string>
-  <string name="bluetooth_disconnect_a2dp_profile">Устройство %1$s будет отключено от источника звука.</string>
-  <string name="bluetooth_disconnect_headset_profile">Устройство %1$s будет отключено от гарнитуры.</string>
-  <string name="bluetooth_disconnect_hid_profile">%1$s отключается от устройства ввода.</string>
-  <string name="bluetooth_disconnect_pan_user_profile">Доступ в Интернет через устройство %1$s будет отключен.</string>
-  <string name="bluetooth_disconnect_pan_nap_profile">Интернет-подключение телефона перестанет использоваться устройством %1$s.</string>
+  <string name="bluetooth_disconnect_a2dp_profile">Устройство %1$s будет отключено от источника звука</string>
+  <string name="bluetooth_disconnect_headset_profile">Устройство %1$s будет отключено от гарнитуры</string>
+  <string name="bluetooth_disconnect_hid_profile">%1$s отключается от устройства ввода</string>
+  <string name="bluetooth_disconnect_pan_user_profile">Доступ в Интернет через устройство %1$s будет отключен</string>
+  <string name="bluetooth_disconnect_pan_nap_profile">Интернет-подключение телефона перестанет использоваться устройством %1$s</string>
   <string name="bluetooth_device_advanced_title">Тип подключения</string>
   <string name="bluetooth_device_advanced_online_mode_title">Подключить</string>
   <string name="bluetooth_device_advanced_online_mode_summary">Подключиться к устройству Bluetooth</string>
@@ -1393,7 +1392,7 @@
   <string name="status_wimax_mac_address">МАС-адрес для 4G</string>
   <string name="enter_password">Введите пароль для расшифровки данных хранилища</string>
   <string name="try_again">Повторите попытку.</string>
-  <string name="service_busy">Служба занята. Повторите попытку.</string>
+  <string name="service_busy">Служба занята, повторите попытку</string>
   <string name="delete">Удалить</string>
   <string name="misc_files">Разное</string>
   <string name="misc_files_selected_count">выбрано %1$d из %2$d</string>
@@ -1633,11 +1632,11 @@
   <string name="notification_vibrate_abbreviation">Уведомления</string>
   <string name="mms_vibrate_abbreviation">Сообщения</string>
   <string name="notification_pulse_summary">Когда есть новые уведомления, LED индикатор мигает</string>
-  <string name="breathing_light_color_title">LED цвет</string>
-  <string name="breathing_light_color_summary">LED цвет при получении нового уведомления</string>
-  <string name="breathing_light_freq_title">LED частота мигания</string>
-  <string name="breathing_light_freq_summary">LED пауза между миганиями</string>
-  <string name="led_settings">LED</string>
+  <string name="breathing_light_color_title">Цвет LED</string>
+  <string name="breathing_light_color_summary">Цвет LED при получении нового уведомления</string>
+  <string name="breathing_light_freq_title">Частота мигания</string>
+  <string name="breathing_light_freq_summary">Пауза между миганиями</string>
+  <string name="led_settings">LED оповещения</string>
   <string name="led_colors_summary">LED цвет уведомлений</string>
   <string name="led_frequence_summary">Установите интервал между миганием LED</string>
   <string name="led_pulse_summary">Пульсирующий LED о новых уведомлениях</string>
@@ -1702,7 +1701,7 @@
   <string name="pref_button_light">Подсветка</string>
   <string name="pref_button_light_summary">Индикаторы кнопок МЕНЮ, НАЗАД, ДОМОЙ</string>
   <string name="pref_operational_key">Оперативный ключ</string>
-  <string name="set_dds_error">Ошибка в подписке набора данных.</string>
+  <string name="set_dds_error">Ошибка в подписке набора данных</string>
   <string name="frequently_fragment_tempty">Часто используемые элементы будут перечислены здесь</string>
   <string name="remove_from_frequently_fragment">Удалить \"%s\" из общих настроек?</string>
 </resources>

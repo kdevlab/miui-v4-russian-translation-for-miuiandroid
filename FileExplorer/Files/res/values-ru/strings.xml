@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
-  <!--This file translated by KOJAN Development Group with ATE2-->
+<resources>
   <string name="added_favorite">Добавлено в избранное</string>
   <string name="app_name">Файлы</string>
   <string name="cancel">Отмена</string>
@@ -27,7 +26,7 @@
   <string name="file_info_modified">Изменен:</string>
   <string name="file_info_size">Размер:</string>
   <string name="file_size">%d байт</string>
-  <string name="install_failed">Установка не удалась</string>
+  <string name="install_failed">Ошибка установки</string>
   <string name="install_successful">Установка завершена</string>
   <string name="instruction">Адрес синхронизации:</string>
   <string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
@@ -61,7 +60,7 @@
   <string name="operation_pasting">Копирование...</string>
   <string name="operation_refresh">Обновить</string>
   <string name="operation_rename">Переименовать</string>
-  <string name="operation_rename_message">Пожалуйста, введите новое имя</string>
+  <string name="operation_rename_message">Введите новое имя</string>
   <string name="operation_selectall">Выбрать все</string>
   <string name="operation_send">Отправить</string>
   <string name="operation_show_sys">Показать системные</string>

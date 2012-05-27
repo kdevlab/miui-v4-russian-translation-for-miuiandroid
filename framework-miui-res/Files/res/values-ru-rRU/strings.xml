@@ -46,7 +46,7 @@
     <string name="lockscreen_time_bottom_hint">Сдвиньте для разблокировки</string>
     <string name="lockscreen_call_bottom_hint">Сдвиньте, чтобы открыть Телефон</string>
     <string name="lockscreen_sms_bottom_hint">Сдвиньте, чтобы открыть SMS</string>
-    <string name="lock_screen_date">EEEE, d MMMM</string>
+    <string name="lock_screen_date">d MMMM, EEEE</string>
     <string name="lockscreen_unlock_sim_via_puk">Используйте PUK чтобы разблокировать SIM-карту</string>
     <string name="safetylegal_activity_unreachable">Ваш телефон не подключен к сети. Для просмотра этой информации в настоящее время, перейдите к %s с любого компьютера.</string>
     <string name="miui_copyright_title">Авторское право</string>
@@ -88,7 +88,7 @@
     <string name="lunar_chu" />
     <string name="lunar_nian" />
     <string name="lunar_yue" />
-    <string name="lunar_year">Годы</string>
+    <string name="lunar_year">Год</string>
     <string name="the_spring_festival" />
     <string name="lantern_festival" />
     <string name="the_dragon_boat_festival" />
@@ -380,7 +380,6 @@
     <string name="select_all">Выбрать все</string>
     <string name="reverse_all">Очистить выделение</string>
     <string name="multi_select_title">Выбрано: %1$s</string>
-    <string name="select">Выбрать</string>
     <string name="phoneTypeMms">MMS</string>
     <string name="lockscreen_plugged_in">Идет зарядка - %d%%</string>
     <string name="lockscreen_charged">Батарея полностью заряжена</string>
@@ -405,8 +404,8 @@
     <string name="lockscreen_emergency_call">Только экстренные</string>
     <string name="kilobyteShort">КБ</string>
     <string name="megabyteShort">МБ</string>
-    <string name="ringtone_default_with_actual">По-умолчанию</string>
-    <string name="shutdown_confirm">Ваш телефон будет выключен</string>
+    <string name="ringtone_default_with_actual">По умолчанию</string>
+    <string name="shutdown_confirm">Телефон будет выключен</string>
     <string name="twelve_hour_time_format">h:mm a</string>
     <string name="twenty_four_hour_time_format">HH:mm</string>
     <string name="ringtone_silent">Без звука</string>
@@ -422,7 +421,6 @@
     <string name="common_name_conjunctions" />
     <string name="dial_number_using">"Вызвать
 используя %s"</string>
-    <string name="text_pastelist">Буфер</string>
-    <string name="every_day">Каждый день</string>
-    <string name="never">Никогда</string>
+    <string name="text_pastelist">Буфер обмена</string>
+    <string name="select">Выбрать</string>
 </resources>

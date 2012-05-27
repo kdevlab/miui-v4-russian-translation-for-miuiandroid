@@ -3,7 +3,7 @@
     <string name="app_name">Программа установки пакетов</string>
     <string name="install">Установить</string>
     <string name="done">Готово</string>
-    <string name="security_settings_desc">Разрешить этому приложению:</string>
+    <string name="security_settings_desc">Разрешить приложению:</string>
     <string name="cancel">Отмена</string>
     <string name="unknown">Неизвестно</string>
     <string name="installing">Установка...</string>

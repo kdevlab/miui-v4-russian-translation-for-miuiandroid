@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Цепочки (%1$s) будут удалены.</item>
-        <item quantity="one">Цепочка будет удалена.</item>
+        <item quantity="other">Цепочки (%1$s) будут удалены</item>
+        <item quantity="one">Цепочка будет удалена</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%s с.</item>

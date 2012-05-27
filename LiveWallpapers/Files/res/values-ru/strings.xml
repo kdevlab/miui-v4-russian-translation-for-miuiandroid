@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="wallpapers">Живые обои Android</string>
+    <string name="wallpapers">Живые обои</string>
     <string name="wallpaper_walkaround">В объективе</string>
     <string name="wallpaper_walkaround_author">Google</string>
-    <string name="wallpaper_walkaround_desc">Смотрите в мир через камеру телефона и прогуливайтесь, не подвергаясь риску.</string>
+    <string name="wallpaper_walkaround_desc">Смотрите в мир через камеру телефона и прогуливайтесь, не подвергаясь риску</string>
     <string name="wallpaper_grass">Трава</string>
     <string name="wallpaper_grass_author">Google</string>
     <string name="wallpaper_grass_desc">Стебли травы, колышущиеся на фоне ночного или дневного неба</string>

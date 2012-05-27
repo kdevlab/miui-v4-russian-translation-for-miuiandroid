@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
-  <!--This file translated by KOJAN Development Group with ATE2-->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
   <string name="application_name">Рабочий стол</string>
   <string name="folder_name">Папка</string>
   <string name="chooser_wallpaper">Выбрать обои из</string>
@@ -18,7 +17,7 @@
   <string name="menu_search">Поиск</string>
   <string name="menu_workspace_preview">Просмотр</string>
   <string name="menu_back_desktop">Домой</string>
-  <string name="menu_settings">Настройки системы Android</string>
+  <string name="menu_settings">Настройки системы</string>
   <string name="permlab_install_shortcut">Установка ярлыков</string>
   <string name="permdesc_install_shortcut">Позволяет приложению добавлять ярлыки без участия пользователя</string>
   <string name="permlab_uninstall_shortcut">Удалить ярлыки</string>
@@ -59,7 +58,7 @@
   <string name="preferences_title">Параметры рабочего стола</string>
   <string name="preferences_general_title">Основные настройки</string>
   <string name="pref_keep_in_memory_title">Держать в памяти</string>
-  <string name="pref_keep_in_memory_summary">Держать приложение (Launcher) в памяти. Приложение не будет отключаться</string>
+  <string name="pref_keep_in_memory_summary">Держать Лончер в памяти. Приложение не будет отключаться</string>
   <string name="pref_render_in_truecolor_title">Качественные цвета</string>
   <string name="pref_render_in_truecolor_summary">Включите, чтобы улучшить качество цветов</string>
   <string name="pref_enable_drawing_cache_title">Кэш Графики</string>
