@@ -48,7 +48,7 @@
   <string name="small_font">Маленький</string>
   <string name="medium_font">Среднее</string>
   <string name="large_font">Большой</string>
-  <string name="font_size_preview_text">Miui V4 mod by MS :)</string>
+  <string name="font_size_preview_text">Miui V4 from Russia :)</string>
   <string name="font_size_save">ОК</string>
   <string name="sdcard_setting">SD-карта</string>
   <string name="battery_info_status_label">Состояние батареи:</string>
@@ -305,7 +305,7 @@
   <string name="unlock_backup_info_summary">Выберите альтернативный способ разблокировки экрана.</string>
   <string name="unlock_set_unlock_off_title">Нет</string>
   <string name="unlock_set_unlock_off_summary" />
-  <string name="unlock_set_unlock_none_title">Прокрутка</string>
+  <string name="unlock_set_unlock_none_title">Стандартная</string>
   <string name="unlock_set_unlock_none_summary">Защита отключена</string>
   <string name="unlock_set_unlock_biometric_weak_title">Фейсконтроль</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Низкий уровень защиты (экспериментальная функция)</string>
@@ -1274,11 +1274,11 @@
   <string name="trusted_credentials">Надежные учетные данные</string>
   <string name="trusted_credentials_summary">Показывать надежные сертификаты ЦС</string>
   <string name="credentials_unlock" />
-  <string name="credentials_unlock_hint">Введите пароль для хранилища учетных данных.</string>
+  <string name="credentials_unlock_hint">Введите пароль для хранилища учетных данных</string>
   <string name="credentials_old_password">Текущий пароль:</string>
   <string name="credentials_reset_hint">Удалить весь контент?</string>
-  <string name="credentials_password_too_short">В пароле должно быть не менее 8 символов.</string>
-  <string name="credentials_wrong_password">Неправильный пароль.</string>
+  <string name="credentials_password_too_short">В пароле должно быть не менее 8 символов</string>
+  <string name="credentials_wrong_password">Неправильный пароль</string>
   <string name="credentials_reset_warning">Неверный пароль. У вас осталась одна попытка, после которой хранилище регистрационных данных будет очищено.</string>
   <string name="credentials_reset_warning_plural">Неверный пароль. Осталось несколько попыток (%1$d). Затем хранилище регистрационных данных будет очищено.</string>
   <string name="credentials_erased">Хранилище регистрационных данных очищено.</string>
@@ -1289,7 +1289,7 @@
   <string name="emergency_tone_summary">Настроить режим работы при экстренном вызове</string>
   <string name="privacy_settings">Восстановление и сброс</string>
   <string name="privacy_settings_title">Восстановление и сброс</string>
-  <string name="backup_section_title">Резервное копирование и восстановление</string>
+  <string name="backup_section_title">Бэкап и восстановление</string>
   <string name="personal_data_section_title">Возврат к заводским настройкам</string>
   <string name="backup_data_title">Копирование данных</string>
   <string name="backup_data_summary">Сохранять резервные копии данных приложений, паролей точек доступа Wi-Fi и настроек на серверах Google</string>
@@ -1620,7 +1620,7 @@
   <string name="lock_screen_unlock_show_summary">Не используйте другие локскрины после включения, достаточно зайти в интерфейс для разблокировки экрана</string>
   <string name="date_time_settings">Дата и время</string>
   <string name="timezone_settings">Часовой пояс</string>
-  <string name="security_privacy_settings_title">Безопасность и конфиденциальность</string>
+  <string name="security_privacy_settings_title">Конфиденциальность</string>
   <string name="nearby_wifi">Выбрать ближайший Wi-Fi</string>
   <string name="unlock_set_enter_system">Отключить локскрин</string>
   <string name="unlock_set_enter_system_summary">Системный локскрин не будет использоваться после включения этой функции</string>
