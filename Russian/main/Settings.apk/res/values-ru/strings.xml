@@ -1704,4 +1704,17 @@
   <string name="set_dds_error">Ошибка в подписке набора данных</string>
   <string name="frequently_fragment_tempty">Часто используемые элементы будут перечислены здесь</string>
   <string name="remove_from_frequently_fragment">Удалить \"%s\" из общих настроек?</string>
+  <string name="confirm_erase">Подтверждение удаления</string>
+  <string name="erase_application">Удаление приложений</string>
+  <string name="erase_application_description">Удаление установленных приложений</string>
+  <string name="erase_optional">Опциональная очистка</string>
+  <string name="erase_personal_data">Персональные данные</string>
+  <string name="erase_personal_data_description">В том числе учетных записей, контактов, звонков и другие данные</string>
+  <string name="erase_sure">Подтвердите удаление</string>
+  <string name="factory_reset_summary">Вы можете удалить ваши личные данные в Восстановление и сброс, или выбрать установленные приложения для удаления и отформатировать карту памяти SD до заводских настроек</string>
+  <string name="master_clear_all">"Вы уверены, что хотите удалить все данные до заводских настроек? Операция не может быть отменена"</string>
+  <string name="master_clear_erase_application_progress">Удаление приложений в процессе...</string>
+  <string name="master_clear_personal_data">"Вы действительно хотите удалить ваши персональные данные? Операция не может быть отменена"</string>
+  <string name="master_clear_personal_data_application">"Вы действительно хотите удалить ваши личные данные и установленные приложения? Операция не может быть отменена"</string>
+  <string name="master_clear_personal_data_sdcard">"Вы действительно хотите удалить ваши личные данные и отформатировать SD-Карту? Операция не может быть отменена"</string>
 </resources>
