@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="htc_list_item_2text_2stamp">@layout/zzzz_htc_list_item_2text_2stamp</item>
+    <item type="layout" name="htc_list_item_2text_bright">@layout/zzzz_htc_list_item_2text_bright</item>
+    <item type="layout" name="htc_list_item_image_2text_image_bright">@layout/zzzz_htc_list_item_image_2text_image_bright</item>
+    <item type="layout" name="htc_list_item_imageicon_2text_2stamp">@layout/zzzz_htc_list_item_imageicon_2text_2stamp</item>
+    <item type="layout" name="htc_list_item_imageicon_text">@layout/zzzz_htc_list_item_imageicon_text</item>
+    <item type="layout" name="htc_list_item_separator">@layout/zzzz_htc_list_item_separator</item>
+    <item type="layout" name="keyguard_screen_device_unlock">@layout/zzzz_keyguard_screen_device_unlock</item>
+    <item type="layout" name="pin_keyboard">@layout/zzzz_pin_keyboard</item>
+</resources>
