@@ -20,9 +20,9 @@
 <string name="batch_connect_control">Управление соединениями</string>
 <string name="carrier_cmcc">%1$s, %2$s, %3$s</string>
 <string name="carrier_none_cmcc">%1$s, %2$s</string>
-<string name="carrier_query_nuМБer_brand">Service brand</string>
+<string name="carrier_query_nuМБer_brand">Бренд</string>
 <string name="carrier_query_nuМБer_carrier">Оператор</string>
-<string name="carrier_query_nuМБer_location">Attribution</string>
+<string name="carrier_query_nuМБer_location">Местопопложение</string>
 <string name="carrier_query_nuМБer_title">Настройка оператора и номера поддержки</string>
 <string name="close_txt">Закрыть</string>
 <string name="control_app_internet">Контроль за использованием сети</string>
@@ -104,7 +104,7 @@
 <string name="unknown_free_traffic_text">"Я не знаю об ограничениях трафика"</string>
 <string name="unknown_free_traffic_title">Неизвестный бесплатный трафик</string>
 <string name="unknown_location">Неизвестное местоположение</string>
-<string name="unknown_traffic_hint">Предел трафика не установлен, вы хотите его установить сейчас?</string>
+<string name="unknown_traffic_hint">Предел трафика не задан, хотите установить его сейчас?</string>
 <string name="unknown_version">Неизвестная версия</string>
 <string name="used_flux">Использование трафика</string>
 <string name="warning_settings_toast">"%1$d%% %2$d МБ"</string>
@@ -115,5 +115,5 @@
 <string name="widget_traffic_total">Пакет: %s</string>
 <string name="widget_traffic_used_status">Использовано: %s</string>
 <string name="wifi_traffic">Wi-Fi: %s</string>
-	<string name="wifi_type">Wi-Fi</string>
+<string name="wifi_type">Wi-Fi</string>
 </resources>
