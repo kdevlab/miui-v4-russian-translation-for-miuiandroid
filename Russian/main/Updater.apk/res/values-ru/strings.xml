@@ -106,4 +106,5 @@ Over %2$s users have signed in for MIUI %3$s"</string>
     <string name="page_error_title">Нет доступа</string>
     <string name="page_error">Нет доступа к MIUI из-за проблем с GPRS/3G или недоступности сервера</string>
     <string name="page_reload">Повторить</string>
+    <string name="update_monthly_build_only">Обновлять только до стабильной версии</string>
 </resources>
