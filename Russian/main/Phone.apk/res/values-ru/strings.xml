@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="phoneAppLabel">Телефон</string>
   <string name="emergencyDialerIconLabel">Номера экстренных вызовов</string>
@@ -822,10 +822,10 @@
   <string name="old_pin_hint_miui">Текущий PIN-код</string>
   <string name="onscreen_add_call_text_miui">Контакт</string>
   <string name="onscreen_audio_mode_bluetooth_miui">Bluetooth</string>
-  <string name="onscreen_audio_mode_handset_miui">Громкая связь</string>
+  <string name="onscreen_audio_mode_handset_miui">Динамик телефона</string>
   <string name="onscreen_audio_mode_headset_miui">Наушники</string>
   <string name="onscreen_audio_mode_miui">Ответ используя</string>
-  <string name="onscreen_audio_mode_speaker_miui">Громкоговоритель</string>
+  <string name="onscreen_audio_mode_speaker_miui">Громкая связь</string>
   <string name="onscreen_call_record_miui">Запись</string>
   <string name="onscreen_dialer_miui">Клавиатура</string>
   <string name="onscreen_end_call_text_miui">Завершить</string>
