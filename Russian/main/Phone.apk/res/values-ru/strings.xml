@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+  <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="phoneAppLabel">Телефон</string>
   <string name="emergencyDialerIconLabel">Номера экстренных вызовов</string>
   <string name="phoneIconLabel">Телефон</string>
@@ -320,8 +321,8 @@
   <string name="delete_fdn_contact">Удалить номер ограниченного набора</string>
   <string name="deleting_fdn_contact">Выполняется удаление номера ограниченного набора…</string>
   <string name="fdn_contact_deleted">Номер ограниченного набора удален</string>
-  <string name="pin2_invalid">Номер ограниченного набора не обновлен: вы ввели неверный PIN-код</string>
-  <string name="fdn_invalid_number">Номер ограниченного набора не обновлен: он не должен содержать больше 20 цифр</string>
+  <string name="pin2_invalid">Номер ограниченного набора не обновлен: вы ввели неверный PIN-код.</string>
+  <string name="fdn_invalid_number">Номер ограниченного набора не обновлен: он не должен содержать больше 20 цифр.</string>
   <string name="simContacts_emptyLoading">Считывание с SIM-карты…</string>
   <string name="simContacts_empty">На SIM-карте нет контактов.</string>
   <string name="simContacts_title">Выберите контакты для импорта</string>
@@ -575,7 +576,7 @@
   <string name="no_internet_available_title">Подключение к Интернету отсутствует</string>
   <string name="no_wifi_available_title">Отсутствует подключение Wi-Fi</string>
   <string name="no_internet_available">Перед звонком через Интернет проверьте подключение</string>
-  <string name="no_wifi_available">Для совершения интернет-вызовов необходимо подключение к сети Wi-Fi (используйте настройки беспроводной сети)</string>
+  <string name="no_wifi_available">Для совершения интернет-вызовов необходимо подключение к сети Wi-Fi (используйте настройки беспроводной сети).</string>
   <string name="no_voip">Интернет-вызов не поддерживается</string>
   <string name="sip_system_decide">Автоматически</string>
   <string name="sip_always_send_keepalive">Отправлять всегда</string>
@@ -592,15 +593,15 @@
   <string name="auth_username">AuthUserName</string>
   <string name="not_voice_capable">Голосовые вызовы не поддерживаются</string>
   <string name="respond_via_sms_canned_response_1">Не могу говорить. Что случилось?</string>
-  <string name="respond_via_sms_canned_response_2">Я сейчас вам перезвоню</string>
-  <string name="respond_via_sms_canned_response_3">Я перезвоню вам позже</string>
+  <string name="respond_via_sms_canned_response_2">Я сейчас вам перезвоню.</string>
+  <string name="respond_via_sms_canned_response_3">Я перезвоню вам позже.</string>
   <string name="respond_via_sms_canned_response_4">Не могу говорить. Позвоните позже</string>
   <string name="respond_via_sms_custom_message">Собственное сообщение...</string>
   <string name="respond_via_sms_setting_title">Быстрые ответы</string>
   <string name="respond_via_sms_setting_title_2">Быстрые ответы</string>
   <string name="respond_via_sms_setting_summary">Содержание SMS при отклонении входящего вызова</string>
   <string name="respond_via_sms_edittext_dialog_title">Быстрый ответ</string>
-  <string name="respond_via_sms_confirmation_format">Сообщение отправлено на номер %s</string>
+  <string name="respond_via_sms_confirmation_format">Сообщение отправлено на номер %s.</string>
   <string name="description_image_button_one">один</string>
   <string name="description_image_button_two">два</string>
   <string name="description_image_button_three">три</string>
@@ -621,9 +622,6 @@
   <string name="description_target_answer">Правильный вариант</string>
   <string name="description_target_send_sms">Отправить SMS</string>
   <string name="description_target_decline">Отклонить</string>
-  <string name="voicemail_notification_vibrate_when_title">Вибрация</string>
-  <string name="voicemail_notification_vibarte_when_dialog_title">Вибрировать</string>
-  <string name="voicemail_notification_vibrate_when_default">Никогда</string>
   <string name="add_button_miui">Добавить</string>
   <string name="always_enable_mms_miui">Всегда получать MMS</string>
   <string name="always_enable_mms_summary_miui">Получать MMS при выключенной передаче данных</string>
@@ -666,7 +664,7 @@
   <string name="bad_puk_miui">PUK-код введен неправильно. Пожалуйста, попробуйте еще раз</string>
   <string name="call_assistant_miui">Упрощение вызова</string>
   <string name="caller_id_sum_miui">Скрыть/показать свой номер для исходящих звонков (если поддерживается сетью)</string>
-  <string name="caller_id_title_miui">АОН</string>
+  <string name="caller_id_title_miui">Caller ID</string>
   <string name="caller_manage_manage_done_text_miui">Вернуться к вызову</string>
   <string name="call_forwarding_number_hint_miui">Пожалуйста, введите номер для пересылки</string>
   <string name="call_forwarding_settings_miui">Настройки переадресации вызова</string>
@@ -706,21 +704,21 @@
   <string name="clir_choices_hide_number_miui">Скрыть номер</string>
   <string name="clir_choices_network_default_miui">Настройка сети</string>
   <string name="clir_choices_show_number_miui">Показать номер</string>
-  <string name="command_error_fdn_failure_miui">Эта операция не допускается, если FDN включен, пожалуйста повторите,когда FDN отключен</string>
-  <string name="command_error_generic_failure_miui">Не удалось завершить эту операцию, пожалуйста, повторите попытку позже</string>
-  <string name="command_error_illegal_sim_or_me_miui">Выбор сети неудачен из-за неправильной SIM/ME</string>
-  <string name="command_error_invalid_response_miui">Недопустимый ответ сети, повторите попытку позже</string>
-  <string name="command_error_no_subscription_miui">Не удалось найти CDMA подключиться можно с указанного места</string>
+  <string name="command_error_fdn_failure_miui">Эта операция не допускается, если FDN включен, пожалуйста повторите,когда FDN отключен.</string>
+  <string name="command_error_generic_failure_miui">Не удалось завершить эту операцию, пожалуйста, повторите попытку позже.</string>
+  <string name="command_error_illegal_sim_or_me_miui">Выбор сети неудачен из-за неправильной SIM/ME.</string>
+  <string name="command_error_invalid_response_miui">Недопустимый ответ сети, повторите попытку позже.</string>
+  <string name="command_error_no_subscription_miui">Не удалось найти CDMA подключиться можно с указанного места.</string>
   <string name="command_error_op_denied_before_reg_miui">Ошибка операции</string>
-  <string name="command_error_op_denied_during_call_miui">Эта операция не допустима во время голосового вызова, повторите попытку после окончания вызова</string>
-  <string name="command_error_password_incorrect_miui">Ваш пароль является неправильным, пожалуйста, повторно введите его</string>
-  <string name="command_error_radio_not_available_miui">Радио не доступно (не запускается), пожалуйста, повторите попытку</string>
-  <string name="command_error_sim_absent_miui">ICC карта отсутствует</string>
-  <string name="command_error_sim_pin2_miui">PIN2 необходим для выполнения этой операции</string>
-  <string name="command_error_sim_puk2_miui">PIN2 заблокирован, PUK2 требуется, чтобы разблокировать его</string>
-  <string name="command_error_sms_fail_retry_miui">Не удалось отправить SMS, пожалуйста, повторите попытку позже</string>
-  <string name="command_error_unsupported_mode_miui">Предпочтительный тип сети не поддерживается</string>
-  <string name="command_error_unsupported_request_miui">Эта операция не поддерживается</string>
+  <string name="command_error_op_denied_during_call_miui">Эта операция не допустима во время голосового вызова, повторите попытку после окончания вызова.</string>
+  <string name="command_error_password_incorrect_miui">Ваш пароль является неправильным, пожалуйста, повторно введите его.</string>
+  <string name="command_error_radio_not_available_miui">Радио не доступно (не запускается), пожалуйста, повторите попытку.</string>
+  <string name="command_error_sim_absent_miui">ICC карта отсутствует.</string>
+  <string name="command_error_sim_pin2_miui">PIN2 необходим для выполнения этой операции.</string>
+  <string name="command_error_sim_puk2_miui">PIN2 заблокирован, PUK2 требуется, чтобы разблокировать его.</string>
+  <string name="command_error_sms_fail_retry_miui">Не удалось отправить SMS, пожалуйста, повторите попытку позже.</string>
+  <string name="command_error_unsupported_mode_miui">Предпочтительный тип сети не поддерживается.</string>
+  <string name="command_error_unsupported_request_miui">Эта операция не поддерживается.</string>
   <string name="confirm_delete_message_title_miui">Вы удалите %d выбранных приставок сообщений</string>
   <string name="confirm_pin2_hint_miui">Подтверждение PIN2</string>
   <string name="confirm_pin_hint_miui">Подтвердите новый PIN-код</string>
@@ -746,9 +744,9 @@
   <string name="default_contacts_countrycode_sum_miui">Задайте стандартный код города</string>
   <string name="delete_sim_contact_confirm_title_miui">Удалить контакты с SIM</string>
   <string name="description_call_recording_miui">Запись текущего разговора.</string>
-  <string name="description_direction_left_miui">Налево для %s</string>
-  <string name="description_direction_right_miui">Направо для %s</string>
-  <string name="description_direction_up_miui">Вверх для %s</string>
+  <string name="description_direction_left_miui">Налево для %s.</string>
+  <string name="description_direction_right_miui">Направо для %s.</string>
+  <string name="description_direction_up_miui">Вверх для %s.</string>
   <string name="description_target_answer_miui">Правильный вариант</string>
   <string name="description_target_decline_miui">Отклонить</string>
   <string name="description_target_send_sms_miui">Отправить SMS</string>
@@ -777,7 +775,7 @@
   <string name="fdn_miui">Разрешенные номера</string>
   <string name="fdn_summary_miui">Все отключается, когда FDN включен</string>
   <string name="get_smsc_address_error_miui">Не удалось запросить номер SMS-центра</string>
-  <string name="get_smsc_address_timeout_miui">Время при получении номера SMS-центра истекло, пожалуйста, повторите попытку позже</string>
+  <string name="get_smsc_address_timeout_miui">Время при получении номера SMS-центра истекло, пожалуйста, повторите попытку позже.</string>
   <string name="go_private_miui">в приват</string>
   <string name="hac_mode_summary_miui">Включить слуховой аппарат</string>
   <string name="hac_mode_title_miui">Слуховые аппараты</string>
@@ -822,10 +820,10 @@
   <string name="old_pin_hint_miui">Текущий PIN-код</string>
   <string name="onscreen_add_call_text_miui">Контакт</string>
   <string name="onscreen_audio_mode_bluetooth_miui">Bluetooth</string>
-  <string name="onscreen_audio_mode_handset_miui">Громкая связь</string>
+  <string name="onscreen_audio_mode_handset_miui">Динамик телефона</string>
   <string name="onscreen_audio_mode_headset_miui">Наушники</string>
   <string name="onscreen_audio_mode_miui">Ответ используя</string>
-  <string name="onscreen_audio_mode_speaker_miui">Громкоговоритель</string>
+  <string name="onscreen_audio_mode_speaker_miui">Громкая связь</string>
   <string name="onscreen_call_record_miui">Запись</string>
   <string name="onscreen_dialer_miui">Клавиатура</string>
   <string name="onscreen_end_call_text_miui">Завершить</string>
@@ -843,7 +841,7 @@
   <string name="pin2_changed_miui">PIN2 успешно изменен</string>
   <string name="pin2_locked_message_miui">Incorrect PIN2, and the PIN2 related functionality is locked. Please reset PIN2 by PUK2.</string>
   <string name="pin2_lock_warning_miui">"
-Обратите внимание, что PIN2 будет заблокирован, если еще раз ошибетесь!"</string>
+Please notice that PIN2 related functionality will be locked if failed again!"</string>
   <string name="pin_attempts_miui">Осталось %d попыток</string>
   <string name="pin_changed_miui">PIN SIM-карты успешно изменен</string>
   <string name="pin_lock_warning_miui">"
@@ -918,9 +916,9 @@
   <string name="respond_via_sms_canned_response_2_miui">"Мне жаль, но я не могу отвечать на телефонные звонки прямо сейчас. Что я могу сделать для вас?"</string>
   <string name="respond_via_sms_canned_response_3_miui">"Я сейчас очень занят. Позвоню позже"</string>
   <string name="respond_via_sms_canned_response_4_miui">"Не могу говорить по телефону прямо сейчас. В чем дело?"</string>
-  <string name="description_direction_right">Направо для %s</string>
-  <string name="description_direction_left">Налево для %s</string>
-  <string name="description_direction_up">Вверх для %s</string>
+  <string name="description_direction_right">Направо для %s.</string>
+  <string name="description_direction_left">Налево для %s.</string>
+  <string name="description_direction_up">Вверх для %s.</string>
   <string name="requesting_unlock">Запрос разблокировки сети...</string>
   <string name="unlock_failed">Запрос на разблокировку сети не выполнен</string>
   <string name="unlock_success">Разблокировка сети успешно завершена</string>
