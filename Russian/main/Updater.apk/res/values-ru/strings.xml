@@ -92,7 +92,6 @@ Over %2$s users have signed in for MIUI %3$s"</string>
     <string name="install_whole_rom">Мы рекомендуем вам скачать полный пакет для обновления системы</string>
     <string name="check_update_policy">Настройки</string>
     <string name="check_update_when_wifi_available">Обновления только через Wi-Fi</string>
-    <string name="update_monthly_build_only">Обновления только ежемесячных сборок</string>
     <string name="install_file_explorer">Установите приложение Файлы</string>
     <string name="share_update">Отправить информацию о обновлении</string>
     <string name="share_update_content_unsign">Я обновил MIUI до %1$s! Для получения подробностей, посети %2$s</string>
