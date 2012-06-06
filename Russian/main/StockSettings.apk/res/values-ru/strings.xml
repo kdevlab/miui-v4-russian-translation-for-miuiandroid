@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+п»ї<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="stock_settings">Настройки устройства</string>
-    <string name="htc_gestures_title">Жесты HTC</string>
-    <string name="htc_gestures_summary">Включить трехпальцевые жесты от HTC и выключить жесты с большим количеством пальцев</string>
-    <string name="htc_fastboot_title">Быстрая загрузка</string>
-    <string name="htc_fastboot_summary">Не рекомендуется для некоторых приложений из Market</string>
+    <string name="stock_settings">РќР°СЃС‚СЂРѕР№РєРё СѓСЃС‚СЂРѕР№СЃС‚РІР°</string>
+    <string name="htc_gestures_title">Р–РµСЃС‚С‹ HTC</string>
+    <string name="htc_gestures_summary">Р’РєР»СЋС‡РёС‚СЊ С‚СЂРµС…РїР°Р»СЊС†РµРІС‹Рµ Р¶РµСЃС‚С‹ РѕС‚ HTC Рё РІС‹РєР»СЋС‡РёС‚СЊ Р¶РµСЃС‚С‹ СЃ Р±РѕР»СЊС€РёРј РєРѕР»РёС‡РµСЃС‚РІРѕРј РїР°Р»СЊС†РµРІ</string>
+    <string name="htc_fastboot_title">Р‘С‹СЃС‚СЂР°СЏ Р·Р°РіСЂСѓР·РєР°</string>
+    <string name="htc_fastboot_summary">РќРµ СЂРµРєРѕРјРµРЅРґСѓРµС‚СЃСЏ РґР»СЏ РЅРµРєРѕС‚РѕСЂС‹С… РїСЂРёР»РѕР¶РµРЅРёР№ РёР· Market</string>
 </resources>
