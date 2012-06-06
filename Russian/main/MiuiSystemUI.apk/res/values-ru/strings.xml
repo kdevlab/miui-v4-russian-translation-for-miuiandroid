@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+  <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="app_label">Графический интерфейс системы</string>
   <string name="status_bar_clear_all_button">Очистить</string>
   <string name="status_bar_do_not_disturb_button">Не беспокоить</string>
   <string name="status_bar_please_disturb_button">Показать уведомления</string>
-  <string name="status_bar_recent_remove_item_title">Удаление из списка</string>
+  <string name="status_bar_recent_remove_item_title">Удалить из списка</string>
   <string name="status_bar_recent_inspect_item_title">О приложении</string>
-  <string name="status_bar_no_recent_apps">Нет данных</string>
+  <string name="status_bar_no_recent_apps">Нет недавних приложений</string>
   <string name="status_bar_accessibility_dismiss_recents">Закрыть недавние приложения</string>
   <string name="status_bar_recent_clear_result">"Освобождено %1$s памяти.
 Сейчас доступно: %2$s"</string>
   <string name="status_bar_no_notifications_title">Нет уведомлений</string>
-  <string name="status_bar_ongoing_events_title">Текущие</string>
+  <string name="status_bar_ongoing_events_title">Постоянные</string>
   <string name="status_bar_latest_events_title">Уведомления</string>
   <string name="battery_low_title">Подключите зарядное устройство</string>
   <string name="battery_low_subtitle">Батарея разряжена</string>
@@ -23,7 +24,7 @@
   <string name="status_bar_settings_wifi_button">Wi-Fi</string>
   <string name="status_bar_settings_airplane">Режим полета</string>
   <string name="status_bar_settings_auto_rotation">Автоповорот экрана</string>
-  <string name="status_bar_settings_mute_label">Отключено</string>
+  <string name="status_bar_settings_mute_label">Без звука</string>
   <string name="status_bar_settings_auto_brightness_label">Автоматически</string>
   <string name="status_bar_settings_notifications">Уведомления</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
@@ -178,7 +179,6 @@
   <string name="settings_toggle_position_reset">Сбросить переключатели</string>
   <string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
   <string name="settings_notification_icon">Уведомления в строке состояния</string>
-  <string name="settings_screenshot_notification_disabled">Отключить уведомление успешного скриншота</string>
   <string name="settings_expanded_view">Настройки выдвижения</string>
   <string name="settings_expandable_under_keyguard">На экране блокировки</string>
   <string name="settings_expandable_under_keyguard_summary">Работает только при отсутствии пароля для разблокировки</string>
@@ -202,7 +202,7 @@
   <string name="incoming_call_vibrate_hint">Входящий звонок</string>
   <string name="notification_vibrate_hint">Уведомление</string>
   <string name="mms_vibrate_hint">Сообщение</string>
-  <string name="not_all_vibrate_hint" formatted="false">В соответствии с настройками, будет вибрация при: %1$s, а при: %2$s вибрации не будет, вы можете изменить это в настройках</string>
+    <string name="not_all_vibrate_hint" formatted="false">В соответствии с настройками, будет вибрация при: %1$s, а при: %2$s вибрации не будет, вы можете изменить это в настройках</string>
   <string name="no_vibrate_hint">В соответствии с настройками, уведомление о входящем вызове и сообщения не будут вибрировать, включение это пункта не вызовет никакого действия</string>
   <string name="to_vibrate_settings">Настройки вибрации</string>
   <string name="camera_key_action_title">Кнопка MI</string>
@@ -249,8 +249,9 @@
   <string name="message_screen_button_disabled">Функции кнопок на экране будут отключены</string>
   <string name="message_screen_button_enabled">Функции кнопок на нижней части экрана включены</string>
   <string name="settings_other">Другие</string>
+  <string name="settings_screenshot_notification_disabled">Откл. уведомл. о скриншоте</string>
+  <string name="settings_auto_dismiss_screenshot_notification">Авто-скрытие сообщения о скриншоте</string>
   <string name="battery_indicator_style">Стиль индикатора батареи</string>
   <string name="default_usb_mode">Тип подключения по USB</string>
   <string name="notification_icon_filter_message_system_app">Уведомления от системных приложений не могут быть скрыты</string>
-  <string name="settings_auto_dismiss_screenshot_notification">Очистка уведомлений скриншотов</string>
 </resources>
