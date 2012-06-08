@@ -24,7 +24,7 @@
   <string name="callFailed_outOfService">Вне зоны действия сети</string>
   <string name="callFailed_fdn_only">Вы можете позвонить только на телефоны из списка разрешенных номеров</string>
   <string name="callFailed_cb_enabled">Если включена функция запрета вызовов, невозможно осуществлять исходящие вызовы</string>
-  <string name="callFailed_dsac_restricted">Все вызовы запрещены настройками доступа.</string>
+  <string name="callFailed_dsac_restricted">Все вызовы запрещены настройками доступа</string>
   <string name="callFailed_dsac_restricted_emergency">Экстренные вызовы запрещены настройками доступа</string>
   <string name="callFailed_dsac_restricted_normal">Обычные вызовы запрещены настройками доступа</string>
   <string name="callFailed_cdma_lockedUntilPowerCycle">CDMA: телефон заблокирован до следующего включения</string>
@@ -32,9 +32,9 @@
   <string name="callFailed_cdma_intercept">CDMA: вызов перехвачен</string>
   <string name="callFailed_cdma_reorder">CDMA: возобновить</string>
   <string name="callFailed_cdma_SO_reject">CDMA: не принят параметр службы</string>
-  <string name="callFailed_cdma_retryOrder">CDMA: порядок дозвона.</string>
+  <string name="callFailed_cdma_retryOrder">CDMA: порядок дозвона</string>
   <string name="callFailed_cdma_accessFailure">CDMA: не удалось получить доступ</string>
-  <string name="callFailed_cdma_preempted">CDMA: зарезервировано.</string>
+  <string name="callFailed_cdma_preempted">CDMA: зарезервировано</string>
   <string name="callFailed_cdma_notEmergency">Возможны только экстренные вызовы</string>
   <string name="callFailed_unobtainable_number">Недействительный номер</string>
   <string name="confCall">Конференц-вызов</string>
@@ -109,17 +109,17 @@
   <string name="messageCFB">Номер, использующийся, когда линия занята</string>
   <string name="sum_cfb_enabled">Переадресация на номер {0}</string>
   <string name="sum_cfb_disabled">Отключено</string>
-  <string name="disable_cfb_forbidden">Ваш оператор не поддерживает отключение переадресации звонков, если телефон занят.</string>
+  <string name="disable_cfb_forbidden">Ваш оператор не поддерживает отключение переадресации звонков, если телефон занят</string>
   <string name="labelCFNRy">При отсутствии ответа</string>
   <string name="messageCFNRy">Номер для переадресации при отсутствии ответа</string>
   <string name="sum_cfnry_enabled">Переадресация на номер {0}</string>
   <string name="sum_cfnry_disabled">Отключено</string>
-  <string name="disable_cfnry_forbidden">Ваш оператор не поддерживает отключение переадресации звонков, если нет ответа.</string>
+  <string name="disable_cfnry_forbidden">Ваш оператор не поддерживает отключение переадресации звонков, если нет ответа</string>
   <string name="labelCFNRc">Если недоступен</string>
   <string name="messageCFNRc">Номер для переадресации, если абонент недоступен</string>
   <string name="sum_cfnrc_enabled">Переадресация на номер {0}</string>
   <string name="sum_cfnrc_disabled">Отключено</string>
-  <string name="disable_cfnrc_forbidden">Ваш оператор не поддерживает отключение переадресации звонков, если телефон находится вне зоны доступа.</string>
+  <string name="disable_cfnrc_forbidden">Ваш оператор не поддерживает отключение переадресации звонков, если телефон находится вне зоны доступа</string>
   <string name="updating_title">Настройки вызовов</string>
   <string name="error_updating_title">Ошибка настройки вызовов</string>
   <string name="reading_settings">Чтение настроек…</string>
@@ -138,7 +138,7 @@
   <string name="vm_change_failed">"Не удалось изменить номер голосовой почты.
 Если проблема не будет решена, свяжитесь со своим оператором"</string>
   <string name="fw_change_failed">"Не удалось изменить номер переадресации вызовов.
-Если проблема не будет решена, свяжитесь со своим оператором."</string>
+Если проблема не будет решена, свяжитесь со своим оператором"</string>
   <string name="fw_get_in_vm_failed">"Не удалось сохранить текущие настройки переадресации.
 Все равно сменить провайдера?"</string>
   <string name="no_change">Номер не изменен</string>
@@ -149,10 +149,10 @@
   <string name="load_networks_progress">Поиск…</string>
   <string name="empty_networks_list">Сети не найдены</string>
   <string name="search_networks">Поиск сетей</string>
-  <string name="network_query_error">Ошибка поиска сетей.</string>
+  <string name="network_query_error">Ошибка поиска сетей</string>
   <string name="register_on_network">Регистрация в сети %s…</string>
-  <string name="not_allowed">Установленная SIM-карта не может подключиться к этой сети.</string>
-  <string name="connect_later">Не удается подключиться к этой сети. Повторите попытку позже.</string>
+  <string name="not_allowed">Установленная SIM-карта не может подключиться к этой сети</string>
+  <string name="connect_later">Не удается подключиться к этой сети. Повторите попытку позже</string>
   <string name="registration_done">Регистрация в сети завершена</string>
   <string name="sum_carrier_select">Выберите оператора связи</string>
   <string name="sum_search_networks">Поиск всех доступных сетей</string>
@@ -175,8 +175,8 @@
   <string name="roaming">Интернет-роуминг</string>
   <string name="roaming_enable">Подключаться к службам передачи данных в роуминге</string>
   <string name="roaming_disable">Подключаться к службам передачи данных в роуминге</string>
-  <string name="roaming_reenable_message">Передача данных прекращена, потому что телефон находится за пределами домашней сети, а интернет-роуминг выключен.</string>
-  <string name="roaming_warning">Разрешить интернет-роуминг? Возможны высокие расходы за использование роуминга.</string>
+  <string name="roaming_reenable_message">Передача данных прекращена, потому что телефон находится за пределами домашней сети, а интернет-роуминг выключен</string>
+  <string name="roaming_warning">Разрешить интернет-роуминг? Возможны высокие расходы за использование роуминга</string>
   <string name="gsm_umts_options">Параметры GSM/UMTS</string>
   <string name="cdma_options">Параметры CDMA</string>
   <string name="throttle_data_usage">Передача данных</string>
@@ -313,7 +313,7 @@
   <string name="save">Сохранить</string>
   <string name="add_fdn_contact">Добавить номер ограниченного набора</string>
   <string name="adding_fdn_contact">Выполняется добавление номера ограниченного набора...</string>
-  <string name="fdn_contact_added">Номер ограниченного набора добавлен.</string>
+  <string name="fdn_contact_added">Номер ограниченного набора добавлен</string>
   <string name="edit_fdn_contact">Изменить номер ограниченного набора</string>
   <string name="updating_fdn_contact">Выполняется обновление номера ограниченного набора...</string>
   <string name="fdn_contact_updated">Номер ограниченного набора обновлен</string>
@@ -323,9 +323,9 @@
   <string name="pin2_invalid">Номер ограниченного набора не обновлен: вы ввели неверный PIN-код</string>
   <string name="fdn_invalid_number">Номер ограниченного набора не обновлен: он не должен содержать больше 20 цифр</string>
   <string name="simContacts_emptyLoading">Считывание с SIM-карты…</string>
-  <string name="simContacts_empty">На SIM-карте нет контактов.</string>
+  <string name="simContacts_empty">На SIM-карте нет контактов</string>
   <string name="simContacts_title">Выберите контакты для импорта</string>
-  <string name="simContacts_airplaneMode">Чтобы импортировать контакты с SIM-карты, отключите режим полета.</string>
+  <string name="simContacts_airplaneMode">Чтобы импортировать контакты с SIM-карты, отключите режим полета</string>
   <string name="enable_pin">Включить/отключить запрос PIN SIM-карты</string>
   <string name="change_pin">Изменить PIN SIM-карты</string>
   <string name="enter_pin_text">PIN SIM-карты:</string>
@@ -394,7 +394,7 @@
   <string name="incall_error_power_off">Перед тем как звонить, отключите режим полета</string>
   <string name="incall_error_emergency_only">Нет регистрации в сети</string>
   <string name="incall_error_out_of_service">Мобильная сеть недоступна</string>
-  <string name="incall_error_no_phone_number_supplied">Вызов не осуществляется, действительный номер телефона не указан.</string>
+  <string name="incall_error_no_phone_number_supplied">Вызов не осуществляется, действительный номер телефона не указан</string>
   <string name="incall_error_call_failed">Вызов не осуществляется</string>
   <string name="incall_status_dialed_mmi">Запуск последовательности MMI...</string>
   <string name="incall_status_dialed_fc">Запуск последовательности кодов функций...</string>
@@ -402,7 +402,7 @@
   <string name="incall_error_supp_service_switch">Не удается переключить вызовы</string>
   <string name="incall_error_supp_service_separate">Не удалось разделить вызов</string>
   <string name="incall_error_supp_service_transfer">Не удалось перевести вызов</string>
-  <string name="incall_error_supp_service_conference">Не удается создать конференц-вызов.</string>
+  <string name="incall_error_supp_service_conference">Не удается создать конференц-вызов</string>
   <string name="incall_error_supp_service_reject">Невозможно отклонить вызов</string>
   <string name="incall_error_supp_service_hangup">Не удается разъединить абонентов</string>
   <string name="incall_call_type_label_sip">Интернет-вызов</string>
@@ -441,9 +441,9 @@
   <string name="ota_touch_activate">"Необходим специальный звонок для активации службы телефона. 
 
 После нажатия кнопки \"Активировать\" прослушайте инструкции по активации телефона"</string>
-  <string name="ota_touch_activate_new">Нажмите “Активировать”, чтобы позвонить на специальный номер для активации телефона в сети оператора мобильной связи. После этого вы сможете совершать вызовы и подключаться к мобильным сетям передачи данных.</string>
+  <string name="ota_touch_activate_new">Нажмите “Активировать”, чтобы позвонить на специальный номер для активации телефона в сети оператора мобильной связи. После этого вы сможете совершать вызовы и подключаться к мобильным сетям передачи данных</string>
   <string name="ota_skip_activation_dialog_title">Пропустить активацию?</string>
-  <string name="ota_skip_activation_dialog_message">Если вы пропустите активацию, вы не сможете совершать вызовы и подключаться к мобильным сетям передачи данных (хотя вы сможете подключаться к сетям Wi-Fi). Пока вы не активируете свой телефон, запрос активации будет отображаться при каждом его включении.</string>
+  <string name="ota_skip_activation_dialog_message">Если вы пропустите активацию, вы не сможете совершать вызовы и подключаться к мобильным сетям передачи данных (хотя вы сможете подключаться к сетям Wi-Fi). Пока вы не активируете свой телефон, запрос активации будет отображаться при каждом его включении</string>
   <string name="ota_skip_activation_dialog_skip_label">Пропустить</string>
   <string name="ota_skip_activation_dialog_continue_label">Активировать</string>
   <string name="ota_activate">Активировать</string>
@@ -514,7 +514,7 @@
   <string name="pick_outgoing_call_phone_type">Исходящий вызов</string>
   <string name="pick_outgoing_sip_phone">Аккаунт для интернет-вызовов:</string>
   <string name="remember_my_choice">Использовать для всех интернет-вызовов</string>
-  <string name="reset_my_choice_hint">В настройках вызовов можно изменить аккаунт интернет-телефонии, который используется по умолчанию при выполнении вызовов. Для этого выберите другой аккаунт в настройках интернет-вызовов.</string>
+  <string name="reset_my_choice_hint">В настройках вызовов можно изменить аккаунт интернет-телефонии, который используется по умолчанию при выполнении вызовов. Для этого выберите другой аккаунт в настройках интернет-вызовов</string>
   <string name="pstn_phone">Вызов по сотовой сети</string>
   <string name="internet_phone">Интернет-вызов</string>
   <string name="no_sip_account_found_title">Нет аккаунтов для интернет-вызовов</string>
@@ -543,9 +543,9 @@
   <string name="registration_status_no_wifi_data">Регистрация прервана – отсутствует подключение Wi-Fi</string>
   <string name="registration_status_not_running">Не удалось зарегистрировать аккаунт</string>
   <string name="registration_status_done">Вызовы принимаются</string>
-  <string name="registration_status_failed_try_later">Не удалось зарегистрировать аккаунт (%s). Новая попытка будет предпринята позже.</string>
-  <string name="registration_status_invalid_credentials">Не удалось зарегистрировать аккаунт. Неверное имя пользователя или пароль.</string>
-  <string name="registration_status_server_unreachable">Не удалось зарегистрировать аккаунт. Неверное имя сервера.</string>
+  <string name="registration_status_failed_try_later">Не удалось зарегистрировать аккаунт (%s). Новая попытка будет предпринята позже</string>
+  <string name="registration_status_invalid_credentials">Не удалось зарегистрировать аккаунт. Неверное имя пользователя или пароль</string>
+  <string name="registration_status_server_unreachable">Не удалось зарегистрировать аккаунт. Неверное имя сервера</string>
   <string name="third_party_account_summary">Этим аккаунтом сейчас пользуется приложение %s</string>
   <string name="sip_edit_title">Настройки SIP-аккаунта</string>
   <string name="sip_edit_new_title">Настройки SIP-аккаунта</string>
@@ -841,7 +841,7 @@
   <string name="onscreen_tools_on_miui">Еще</string>
   <string name="other_settings_miui">Другие настройки вызовов</string>
   <string name="pin2_changed_miui">PIN2 успешно изменен</string>
-  <string name="pin2_locked_message_miui">Incorrect PIN2, and the PIN2 related functionality is locked. Please reset PIN2 by PUK2.</string>
+  <string name="pin2_locked_message_miui">Incorrect PIN2, and the PIN2 related functionality is locked. Please reset PIN2 by PUK2</string>
   <string name="pin2_lock_warning_miui">"
 Обратите внимание, что PIN2 будет заблокирован, если еще раз ошибетесь!"</string>
   <string name="pin_attempts_miui">Осталось %d попыток</string>
