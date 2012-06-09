@@ -84,7 +84,9 @@
   <string name="app_detail_internet_background_traffic">Foreground: %1$s Background: %2$s</string>
   <string name="stop_app_button">Закрыть</string>
   <string name="detail_app_button">Инф. о прил.</string>
-  <string name="traffic_already_used">Использовано</string>
+  <string name="plate_traffic_already_used">Использовано (%s)</string> 
+  <string name="plate_traffic_remain">Осталось (%s)</string> 
+  <string name="plate_traffic_exceed">Превышено (%s)</string>
   <string name="traffic_remain">Оставшийся</string>
   <string name="traffic_exceed">Превышено</string>
   <string name="apply_rules_failed_known">OK</string>
