@@ -117,4 +117,6 @@
   <string name="loading_app">Загрузка...</string>
   <string name="cannot_find_sms_cmd">"Не удается найти SMS команду"</string>
   <string name="traffic_settings_error">Eсть ошибка в настройках Вашего ежемесячного бесплатного трафика. Согласно настройки, ежемесячный бесплатный трафик: %1$s и остается трафик: %2$s.</string>
+  <string name="app_traffic_detail">\u0020трафик(%s)</string>
+  <string name="sms_match_fail">ошибка SMS</string>  
 </resources>
