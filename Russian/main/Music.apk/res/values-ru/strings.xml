@@ -222,7 +222,6 @@
   <string name="filter_max">2MB</string>
   <string name="filter_min">0K</string>
   <string name="min_track_size">Минимальный размер</string>
-  <string name="nowplaying_title">Проигрывается</string>
   <string name="online_track_count">Бесконечные</string>
   <string name="playlist_nowplaying">Сейчас играет</string>
   <string name="shake_sensitivity_helper">Перемещение влево для увеличения чувствительности, право для понижения</string>
