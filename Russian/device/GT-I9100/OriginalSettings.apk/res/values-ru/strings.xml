@@ -209,7 +209,7 @@
     <string name="sd_card_settings_label">SD card</string>
     <string name="proxy_settings_label">Proxy settings</string>
     <string name="cancel">Cancel</string>
-    <string name="settings_label">Settings</string>
+    <string name="settings_label">Заводские настройки</string>
     <string name="settings_label_launcher">Settings</string>
     <string name="settings_shortcut">Settings shortcut</string>
     <string name="airplane_mode">Airplane mode</string>
@@ -570,7 +570,7 @@
     <string name="sync_settings">Accounts and sync</string>
     <string name="search_settings">Search</string>
     <string name="search_settings_summary">Manage search settings and history</string>
-    <string name="display_settings">Display</string>
+    <string name="display_settings">Экран</string>
     <string name="accelerometer_title">Auto-rotate screen</string>
     <string name="accelerometer_summary_on">Switch orientation automatically when rotating phone</string>
     <string name="accelerometer_summary_off">Switch orientation automatically when rotating phone</string>
