@@ -228,9 +228,9 @@
   <string name="sd_card_settings_label">SD-карта</string>
   <string name="proxy_settings_label">Настройки прокси-сервера</string>
   <string name="cancel">Отмена</string>
-  <string name="settings_label">Настройки</string>
-  <string name="settings_label_launcher">Настройки</string>
-  <string name="settings_shortcut">Ярлык настроек</string>
+  <string name="settings_label">Параметры</string>
+  <string name="settings_label_launcher">Параметры</string>
+  <string name="settings_shortcut">Ярлык параметров</string>
   <string name="airplane_mode">Режим полета</string>
   <string name="radio_controls_title">Ещё...</string>
   <string name="wireless_networks_settings_title">Беспроводные сети</string>
