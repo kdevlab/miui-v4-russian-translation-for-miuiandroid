@@ -84,7 +84,9 @@
   <string name="app_detail_internet_background_traffic">Foreground: %1$s Background: %2$s</string>
   <string name="stop_app_button">Закрыть</string>
   <string name="detail_app_button">Инф. о прил.</string>
-  <string name="traffic_already_used">Использовано</string>
+  <string name="plate_traffic_already_used">Использовано (%s)</string> 
+  <string name="plate_traffic_remain">Осталось (%s)</string> 
+  <string name="plate_traffic_exceed">Превышено (%s)</string>
   <string name="traffic_remain">Оставшийся</string>
   <string name="traffic_exceed">Превышено</string>
   <string name="apply_rules_failed_known">OK</string>
@@ -115,4 +117,6 @@
   <string name="loading_app">Загрузка...</string>
   <string name="cannot_find_sms_cmd">"Не удается найти SMS команду"</string>
   <string name="traffic_settings_error">Eсть ошибка в настройках Вашего ежемесячного бесплатного трафика. Согласно настройки, ежемесячный бесплатный трафик: %1$s и остается трафик: %2$s.</string>
+  <string name="app_traffic_detail">\u0020трафик(%s)</string>
+  <string name="sms_match_fail">ошибка SMS</string>  
 </resources>

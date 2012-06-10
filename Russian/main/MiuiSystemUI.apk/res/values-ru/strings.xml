@@ -16,7 +16,7 @@
   <string name="status_bar_latest_events_title">Уведомления</string>
   <string name="battery_low_title">Подключите зарядное устройство</string>
   <string name="battery_low_subtitle">Батарея разряжена</string>
-  <string name="battery_low_percent_format">Осталось: %d%%</string>
+  <string name="battery_low_percent_format">Осталось %d%%</string>
   <string name="invalid_charger">"Зарядка по USB порту не поддерживается.
 Используйте зарядное устройство из комплекта поставки"</string>
   <string name="battery_low_why">Статистика</string>
@@ -44,14 +44,14 @@
   <string name="compat_mode_on">Подогнать по размерам экрана</string>
   <string name="compat_mode_off">Растянуть на весь экран</string>
   <string name="compat_mode_help_header">Масштаб и совместимость</string>
-  <string name="compat_mode_help_body">Если приложение рассчитано на экран меньших размеров, рядом с часами появятся средства масштабирования.</string>
+  <string name="compat_mode_help_body">Если приложение рассчитано на экран меньших размеров, рядом с часами появятся средства масштабирования</string>
   <string name="screenshot_saving_ticker">Сохранение...</string>
   <string name="screenshot_saving_title">Сохранение...</string>
   <string name="screenshot_saving_text">Сохранение...</string>
   <string name="screenshot_saved_title">Скриншот сохранен</string>
   <string name="screenshot_saved_text">Нажмите, чтобы просмотреть</string>
   <string name="screenshot_failed_title">Не удалось сохранить скриншот</string>
-  <string name="screenshot_failed_text">Не удалось сохранить скриншот. Возможно, накопители заняты</string>
+  <string name="screenshot_failed_text">Возможно, накопители заняты</string>
   <string name="usb_preference_title">Параметры передачи данных по USB</string>
   <string name="use_mtp_button_title">Подключить как мультимедийный проигрыватель (MTP)</string>
   <string name="use_ptp_button_title">Установить как камеру (PTP)</string>
@@ -65,7 +65,7 @@
   <string name="accessibility_compatibility_zoom_example">Уменьшение изображения для увеличения свободного места на экране</string>
   <string name="accessibility_bluetooth_connected">Bluetooth-соединение установлено</string>
   <string name="accessibility_bluetooth_disconnected">Bluetooth-соединение разорвано</string>
-  <string name="accessibility_no_battery">Батарея разряжена</string>
+  <string name="accessibility_no_battery">Батарея разряжвется...</string>
   <string name="accessibility_battery_one_bar">Заряд батареи: одно деление</string>
   <string name="accessibility_battery_two_bars">Заряд батареи: два деления</string>
   <string name="accessibility_battery_three_bars">Заряд батареи: три деления</string>
@@ -142,8 +142,8 @@
   <string name="user_guide_for_call">Вернуться к телефонному разговору можно, перетащив панель уведомлений вниз и нажав кнопку Текущий вызов</string>
   <string name="return_to_incall_screen">Нажмите, для возврата к вызову</string>
   <string name="call_status_dialing">Вызов</string>
-  <string name="status_bar_toggle_ac">Управление доступом</string>
-  <string name="status_bar_toggle_bluetooth">BT</string>
+  <string name="status_bar_toggle_ac">Упр. доступом</string>
+  <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Подсветка</string>
   <string name="status_bar_toggle_data">Интернет</string>
   <string name="status_bar_toggle_divider">Настроить</string>
@@ -155,7 +155,7 @@
   <string name="status_bar_toggle_privacy_mode">Гость</string>
   <string name="status_bar_toggle_reboot">Перезагрузка</string>
   <string name="status_bar_toggle_rotate">Поворот</string>
-  <string name="status_bar_toggle_screen_button">Скриншот</string>
+  <string name="status_bar_toggle_screen_button">Откл. клав.</string>
   <string name="status_bar_toggle_screenshot">Скриншот</string>
   <string name="status_bar_toggle_shutdown">Выключение</string>
   <string name="status_bar_toggle_sync">Синхронизация</string>
@@ -166,14 +166,14 @@
   <string name="screen_button_disabled_message">Функции кнопок на нижнем экране будут отключены. Вы можете включить их, нажав \"Домой\" и \"Питание\"</string>
   <string name="screen_button_enabled_message">Функции кнопок на нижней части экрана включены</string>
   <string name="screen_button_notification_title">Экранные кнопки отключены</string>
-  <string name="screen_button_notification_text">"Зажмите 'Домой'+'Питание' чтобы включить"</string>
+  <string name="screen_button_notification_text">\"Зажмите \'Домой\'+\'Питание\', чтобы включить\"</string>
   <string name="status_bar_style_settings">Настройки статус бара</string>
   <string name="settings_toggle_layout_style">Стиль статус бара</string>
   <string name="settings_toggle_layout_style_compact">Компакт</string>
   <string name="settings_toggle_layout_style_single_page">Полный</string>
   <string name="settings_toggle_layout_style_applying">Применение стиля переключателей...</string>
   <string name="settings_toggle">Переключатели</string>
-  <string name="settings_toggle_position">Выбор переключателей</string>
+  <string name="settings_toggle_position">Настройка переключателей</string>
   <string name="settings_toggle_position_divider_page">%1$d переключателей выше - показываются</string>
   <string name="settings_toggle_position_divider_list">Переключатели выше - показываются</string>
   <string name="settings_toggle_position_reset">Сбросить переключатели</string>
@@ -234,12 +234,12 @@
   <string name="dlg_confirm_kill_storage_users_text">При включении режима накопителя некоторые прилжения будут недоступны</string>
   <string name="dlg_error_title">USB операция неудачна</string>
   <string name="dlg_ok">OK</string>
-  <string name="ext_media_checking_notification_title">Подготовка USB-хранилища</string>
+  <string name="ext_media_checking_notification_title">Подготовка USB-накопителя</string>
   <string name="ext_media_checking_notification_message">Проверка на наличие ошибок...</string>
   <string name="ext_media_nofs_notification_title">Пустой USB-накопитель</string>
   <string name="ext_media_nofs_notification_message">USB-хранилище пусто или неподдерживаемая файловая система</string>
   <string name="ext_media_unmountable_notification_title">Поврежденное USB-хранилище</string>
-  <string name="ext_media_unmountable_notification_message">Поврежденное USB-хранилище. Пожалуйста сформатируйте его.</string>
+  <string name="ext_media_unmountable_notification_message">Поврежденное USB-хранилище. Пожалуйста сформатируйте его</string>
   <string name="ext_media_badremoval_notification_title">USB-хранилище неожиданно удалено</string>
   <string name="ext_media_badremoval_notification_message">Размонтируйте USB-хранилище перед извлечением</string>
   <string name="ext_media_safe_unmount_notification_title">Можете извлечь</string>
