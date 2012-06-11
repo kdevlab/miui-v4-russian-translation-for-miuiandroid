@@ -276,8 +276,6 @@
   <string name="download_pending">Начинается загрузка…</string>
   <string name="dump_nav">Dump navigation cache</string>
   <string name="dump_counters">Dump V8 counters</string>
-  <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
-  <string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>
   <string name="picasa">Picasa</string>
   <string name="search_the_web">Поиск в Интернете</string>
   <string name="webstorage_outofspace_notification_title">Память браузера переполнена</string>
