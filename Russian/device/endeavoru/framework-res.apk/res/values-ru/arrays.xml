@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="emailAddressTypes">
-        <item>Домашний</item>
+        <item>Личный</item>
         <item>Рабочий</item>
         <item>Другой</item>
-        <item>Пользовательский</item>
+        <item>Создать свой ярлык</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -18,61 +18,35 @@
     </string-array>
     <string-array name="organizationTypes">
         <item>Рабочий</item>
-        <item>другой</item>
-        <item>Пользовательский</item>
+        <item>Другое</item>
+        <item>Создать свой ярлык</item>
     </string-array>
     <string-array name="phoneTypes">
+        <item>Домашний</item>
+        <item>Мобильный</item>
         <item>Рабочий</item>
-        <item>Ячейка</item>
-        <item>Рабочий</item>
-        <item>Факс на работе</item>
-        <item>Главный Факс</item>
+        <item>Рабочий факс</item>
+        <item>Домашний факс</item>
         <item>Пейджер</item>
         <item>Другой</item>
-        <item>Пользовательский</item>
+        <item>Создать свой ярлык</item>
     </string-array>
     <string-array name="postalAddressTypes">
         <item>Домашний</item>
         <item>Рабочий</item>
         <item>Другой</item>
-        <item>Пользовательский</item>
+        <item>Создать свой ярлык</item>
     </string-array>
     <string-array name="imAddressTypes">
         <item>Домашний</item>
         <item>Рабочий</item>
-        <item>Другой</item>
-        <item>Пользовательский</item>
+        <item>Другое</item>
+        <item>Создать свой ярлык</item>
     </string-array>
-    <array name="carrier_properties" />
-    <array name="select_text_editing_items">
-        <item>@string/font_size</item>
-        <item>@string/font_color</item>
-        <item>@string/font_settings</item>
-        <item>@string/font_alignment</item>
-    </array>
-    <string-array name="select_font_size_items">
-        <item>Крупнейшая</item>
-        <item>Большой</item>
-        <item>Средний</item>
-        <item>Небольшой</item>
-    </string-array>
-    <string-array name="select_font_color_items">
-        <item>Белый</item>
-        <item>Черный</item>
-        <item>Серый</item>
-        <item>Красный</item>
-        <item>Зеленый</item>
-        <item>Желтый</item>
-        <item>Синий</item>
-    </string-array>
-    <string-array name="select_font_settings_items">
-        <item>Вниманиее</item>
-        <item>Жирный</item>
-        <item>Курсив</item>
-    </string-array>
-    <string-array name="select_font_alignment_items">
-        <item>Левая</item>
-        <item>Выровнять</item>
-        <item>Правая</item>
+    <string-array name="four_way_reboot">
+        <item>Обычная</item>
+        <item>Быстрая</item>
+        <item>В режим Bootloader</item>
+        <item>В режим Recovery</item>
     </string-array>
 </resources>

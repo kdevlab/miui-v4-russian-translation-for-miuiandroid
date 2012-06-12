@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="date_and_time">Date &amp; time settings</string>
     <string name="yes">Yes</string>
@@ -208,9 +208,9 @@
     <string name="phone_info_label">Phone info</string>
     <string name="sd_card_settings_label">SD card</string>
     <string name="proxy_settings_label">Proxy settings</string>
-    <string name="cancel">Cancel</string>
-    <string name="settings_label">Заводские настройки</string>
-    <string name="settings_label_launcher">Settings</string>
+    <string name="cancel">Отмена</string>
+    <string name="settings_label">Настройки</string>
+    <string name="settings_label_launcher">Заводские настройки</string>
     <string name="settings_shortcut">Settings shortcut</string>
     <string name="airplane_mode">Airplane mode</string>
     <string name="radio_controls_title">More...</string>
@@ -464,9 +464,9 @@
     <string name="wifi_security_wapi_psk">WAPI PSK</string>
     <string name="wifi_security_wapi_cert">WAPI cert</string>
     <string name="wifi_connect">Connect</string>
-    <string name="wifi_forget">Forget</string>
-    <string name="wifi_save">Save</string>
-    <string name="wifi_cancel">Cancel</string>
+    <string name="wifi_forget">Забыть</string>
+    <string name="wifi_save">Сохранить</string>
+    <string name="wifi_cancel">Отмена</string>
     <string name="wifi_wps_overlap_error">Another Wi-Fi protected session detected. Try again in a few minutes</string>
     <string name="wifi_advanced_titlebar">Advanced Wi-Fi</string>
     <string name="wifi_setting_frequency_band_title">Wi-Fi frequency band</string>
@@ -532,11 +532,11 @@
     <string name="mobileap">Portable Wi-Fi hotspot</string>
     <string name="wifi_tether_dialog_nosim_warning">Insert SIM card to use portable Wi-Fi hotspot and tethering</string>
     <string name="display_settings_title">Экран</string>
-    <string name="sound_settings">Sound</string>
+    <string name="sound_settings">Установки звука</string>
     <string name="silent_mode_title">Silent mode</string>
     <string name="ringtone_title">Phone ringtone</string>
-    <string name="all_volume_title">Volume</string>
-    <string name="musicfx_title">Music effects</string>
+    <string name="all_volume_title">Громкость</string>
+    <string name="musicfx_title">Звуковые эффекты</string>
     <string name="ring_volume_title">Ringer volume</string>
     <string name="vibrate_in_silent_title">Vibrate in Silent mode</string>
     <string name="notification_sound_title">Default notifications</string>
@@ -568,19 +568,19 @@
     <string name="dock_sounds_enable_summary_on">Play sounds when inserting and removing phone from dock</string>
     <string name="dock_sounds_enable_summary_off">Do not play sounds when inserting and removing phone from dock</string>
     <string name="sync_settings">Accounts and sync</string>
-    <string name="search_settings">Search</string>
+    <string name="search_settings">Поиск</string>
     <string name="search_settings_summary">Manage search settings and history</string>
     <string name="display_settings">Экран</string>
     <string name="accelerometer_title">Auto-rotate screen</string>
     <string name="accelerometer_summary_on">Switch orientation automatically when rotating phone</string>
     <string name="accelerometer_summary_off">Switch orientation automatically when rotating phone</string>
-    <string name="brightness">Brightness</string>
-    <string name="brightness_summary">Adjust the brightness of the screen</string>
-    <string name="screen_timeout">Screen timeout</string>
-    <string name="screen_timeout_summary">After %1$s of inactivity</string>
+    <string name="brightness">Яркость</string>
+    <string name="brightness_summary">Регулировка яркости экрана</string>
+    <string name="screen_timeout">Время отключения экрана</string>
+    <string name="screen_timeout_summary">После %1$s бездействия</string>
     <string name="wallpaper_settings_title">Wallpaper</string>
     <string name="wallpaper_settings_fragment_title">Select wallpaper from</string>
-    <string name="automatic_brightness">Automatic brightness</string>
+    <string name="automatic_brightness">Автоматическая яркость</string>
     <string name="title_font_size">Размер шрифта</string>
     <string name="dialog_title_font_size">Font size</string>
     <string name="sim_lock_settings">SIM card lock settings</string>
@@ -603,15 +603,15 @@
     <string name="sim_change_succeeded">SIM PIN changed successfully</string>
     <string name="sim_lock_failed">Unable to change SIM card lock state. Possibly incorrect PIN</string>
     <string name="sim_enter_ok">OK</string>
-    <string name="sim_enter_cancel">Cancel</string>
-    <string name="device_info_settings">Phone status</string>
-    <string name="system_update_settings_list_item_title">Software update</string>
-    <string name="firmware_version">Android version</string>
-    <string name="model_number">Model number</string>
+    <string name="sim_enter_cancel">Отмена</string>
+    <string name="device_info_settings">О телефоне</string>
+    <string name="system_update_settings_list_item_title">Обновление системы</string>
+    <string name="firmware_version">Версия Android:</string>
+    <string name="model_number">Модель:</string>
     <string name="baseband_version">Baseband version</string>
-    <string name="kernel_version">Kernel version</string>
-    <string name="build_number">Build number</string>
-    <string name="device_info_not_available">Not available</string>
+    <string name="kernel_version">Версия ядра:</string>
+    <string name="build_number">Номер сборки:</string>
+    <string name="device_info_not_available">Не доступно</string>
     <string name="device_status_activity_title">Status</string>
     <string name="device_status">Status</string>
     <string name="device_status_summary">Phone number, signal, etc.</string>
@@ -783,7 +783,7 @@
     <string name="system_tutorial_list_item_summary">Learn how to use your phone</string>
     <string name="settings_license_activity_title">Open source licenses</string>
     <string name="settings_license_activity_unavailable">Error occurred while loading licences.</string>
-    <string name="settings_license_activity_loading">Loading...</string>
+    <string name="settings_license_activity_loading">Загрузка...</string>
     <string name="settings_safetylegal_title">Safety information</string>
     <string name="settings_safetylegal_activity_title">Safety information</string>
     <string name="settings_safetylegal_activity_unreachable">You have no data connection. To view this information now, go to %s from any computer connected to the Internet</string>
