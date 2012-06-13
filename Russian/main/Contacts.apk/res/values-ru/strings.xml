@@ -639,7 +639,11 @@
   <string name="lunarBirthdayLabelsGroup">Лунный день рождения</string>
   <string name="date_picker_label">Напомнить за 3 дня и в день рождения</string>
   <string name="next_birthday">Следующий День рождения: %s</string>  
-  <string name="today">Сегодня</string>	
+  <string name="today">Сегодня</string>  
   <string name="click_close">Коснитесь экрана, чтобы закрыть</string>
   <string name="close">Закрыть</string>
+  <string name="export_vcard_description">Экспортировать vCard на SD-карту</string>
+  <string name="import_vcard_description">Импортировать с SD-карты</string>
+  <string name="preference_import_export">Импорт/Экспорт</string>
+  <string name="preference_import_export_title">Импорт/Экспорт контактов</string>
 </resources>
