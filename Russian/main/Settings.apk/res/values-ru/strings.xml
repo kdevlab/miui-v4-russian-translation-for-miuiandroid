@@ -1716,5 +1716,5 @@
   <string name="bluetooth_profile_name">"%1$s's KDG Phone"</string>
   <string name="show_fc">Показывать FC</string>
   <string name="show_fc_summary">Показывать все FC для приложений (включать нежелательно)</string>
-  <string name="usage_log">Статистика использования приложений</string>
+  <string name="usage_log">Статистика использования приложения</string>
 </resources>
