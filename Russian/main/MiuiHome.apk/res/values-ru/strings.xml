@@ -99,4 +99,8 @@
   <string name="select_frame">Рамка</string>
   <string name="photo_confirm">Применить</string>
   <string name="photo_load_failed">Ошибка загрузки!</string>
+  <string name="gadget_weather_loading">Нет данных о погоде</string>
+  <string name="gadget_weather_title_24">Погода 2X4</string>
+  <string name="gadget_weather_title_14">Погода 1X4</string> 
+  <string name="gadget_weather_to">в</string> 
 </resources>
