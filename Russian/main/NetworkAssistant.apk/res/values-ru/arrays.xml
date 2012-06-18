@@ -10,18 +10,9 @@
         <item>Трафик сегодня</item>
         <item>Месячный трафик</item>
     </string-array>
-    <string-array name="carriers">
-        <item>China Mobile</item>
-        <item>China Unicom</item>
-        <item>China Telecom</item>
-    </string-array>
-    <string-array name="brands_cmcc">
-        <item>GSM</item>
-        <item>M-Zone</item>
-        <item>Easyown</item>
-    </string-array>
-    <string-array name="brands_unicom">
-        <item>Unicom 2G</item>
-        <item>Unicom 3G</item>
+    <string-array name="date_of_app">
+        <item>За вчера:</item>    
+        <item>За сегодня:</item>
+        <item>За месяц:</item>	
     </string-array>
 </resources>
