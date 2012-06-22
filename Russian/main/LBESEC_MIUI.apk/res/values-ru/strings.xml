@@ -169,4 +169,21 @@
   <string name="HIPS_Perm_Network">Интернет</string>
   <string name="HIPS_Perm_Network_Desc">Интернет</string>
   <string name="HIPS_Perm_Network_Hint">%1$s приложений могут получить доступ к Интернет</string>
+  <string name="HIPS_SecurityPrompt_AcceptRoot">Разрешить</string>
+  <string name="HIPS_SecurityPrompt_Next">Далее</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Caption">Внимание!</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step1">Разрешить %1$d получать права суперпользователя?</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step2">Права суперпользователя могут привести к нестабильной работе системы</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step3">Ваши личные данные (аккаунты, пароли и сообщения) могут стать общедоступны</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step4">Возможно повреждение оборудования</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step5">Используйте с осторожностью!</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step6">Разрешить %1$s получать права суперпользователя?</string>
+  <string name="Dashboard_Perm_AutoStart_Switch">Управление автозагрузкой</string>
+  <string name="Dashboard_Perm_AutoStart">Управление автозагрузкой</string>
+  <string name="Dashboard_Perm_AutoStart_Desc">Включение или выключение автозагрузки для приложений</string>
+  <string name="SysOpt_Boost_Boot">Загрузка</string>
+  <string name="SysOpt_Boost_Receiver">Фоновые</string>
+  <string name="SysOpt_Boost_AutoStart_Group">Автозагрузка</string>
+  <string name="SysOpt_Boost_AutoStart">Разрешения автозагрузки</string>
+  <string name="Su_Enable_Dialog">%1$s пытается получить права суперпользователя, что отключено по умолчанию для обеспечения безопасности системы. Если вам нужно включить его, пожалуйста перейдите к настройкам в диспетчере разрешений</string>
 </resources>
