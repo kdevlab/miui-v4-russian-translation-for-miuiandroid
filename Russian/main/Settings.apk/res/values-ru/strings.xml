@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+  <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="yes">Да</string>
   <string name="no">Нет</string>
   <string name="device_info_default">Неизвестно</string>
@@ -1635,7 +1636,7 @@
   <string name="led_colors_summary">Цвет уведомлений</string>
   <string name="led_frequence_summary">Установите интервал между миганием</string>
   <string name="led_pulse_summary">Пульсирующая индикация о новых уведомлениях</string>
-  <string name="show_rounded_corners">Показывать закругленными углами</string>
+  <string name="show_rounded_corners">Закругленные углы</string>
   <string name="show_rounded_corners_summary">Для применения эффекта необходима перезагрузка</string>
   <string name="sim_change_failed_enable_sim_lock">Невозможно изменить PIN SIM/RUIM. Включена блокировка SIM/RUIM</string>
   <string name="sim_lock_change_not_supported">Невозможно изменить блокировку SIM/RUIM. SIM/RUIM не поддерживает</string>
@@ -1717,4 +1718,11 @@
   <string name="show_fc">Показывать FC</string>
   <string name="show_fc_summary">Показывать все FC для приложений (включать нежелательно)</string>
   <string name="usage_log">Статистика использования приложения</string>
+  <string name="screen_button_key">Виртуальные кнопки</string>
+  <string name="screen_button_custom">Настройка расположения кнопок</string>
+  <string name="volume_voice_description">Громкость разговора</string>
+  <string name="volume_system_description">Громкость системы, затвор камеры, локскрин и другие системные уведомления</string>
+  <string name="volume_bluetooth_description">Громкость Bluetooth</string>
+  <string name="volume_restore">Восстановить громкость</string>
+  <string name="volume_restore_alert">Все настройки будут сброшены в начальные, вы уверены?</string>
 </resources>
