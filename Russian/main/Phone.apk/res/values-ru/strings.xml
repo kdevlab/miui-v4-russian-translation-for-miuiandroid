@@ -930,4 +930,11 @@
   <string name="call_waiting_tone_continuously_miui">Воспроизводить непрерывно</string>
   <string name="call_waiting_tone_twice_only_miui">Воспроизвести тон дважды</string>
   <string name="call_waiting_tone_twice_and_vibrate_miui">Вибрация и играть тон дважды</string>
+  <string name="undefined_miui">Неопределено</string>
+  <string name="auto_ip_exception_miui">Номера, которым не нужен IP префикс</string>
+  <string name="auto_ip_no_exceptions_miui">Пожалуйста, добавьте номера, которым не нужен IP префикс</string>
+  <string name="auto_ip_add_exception_numbers_miui">Добавление номера</string>  
+  <string name="auto_ip_remove_exception_numbers_confirm_miui">Вы уверены, что хотите удалить %d номера?</string>  
+  <string name="auto_ip_exception_summary_miui"> %d всего</string>  
+  <string name="auto_ip_exception_summary_more_miui">,... %d всего</string> 
 </resources>
