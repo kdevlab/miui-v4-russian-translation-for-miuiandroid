@@ -262,4 +262,8 @@
   <string name="screen_key_menu">Меню</string>
   <string name="screen_key_home">Домой</string>
   <string name="screen_key_recent_apps">Последние приложения</string>
+  <string name="screen_key_back">Назад</string>
+  <string name="status_bar_network_flow_today">Сегодня: %1$s</string>
+  <string name="status_bar_network_flow">"Сегодня: %1$s | Осталось: %2$s | Всего:%3$s"</string>
+  <string name="settings_show_flow_info">Информация о сети</string>
 </resources>
