@@ -425,4 +425,11 @@
     <string name="text_pastelist">Буфер обмена</string>
     <string name="every_day">Каждый день</string>
     <string name="never">Никогда</string>
+    <string name="resource_selected_number">Выбрано %d ресурс(ов)</string>
+    <string name="resource_delete_all">Вы уверены, что хотите удалить %d выбранных ресурсов?</string>
+    <string name="processing">Обработка ...</string>
+    <string name="resource_can_not_selected">%s нельзя выбрать!</string>
+    <string name="resource_system_title">Системные ресурсы</string>
+    <string name="resource_downloaded_title">Загруженные ресурсы</string>
+    <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
