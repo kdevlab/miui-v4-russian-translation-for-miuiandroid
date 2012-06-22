@@ -254,4 +254,12 @@
   <string name="battery_indicator_style">Стиль индикатора батареи</string>
   <string name="default_usb_mode">Тип подключения по USB</string>
   <string name="notification_icon_filter_message_system_app">Уведомления от системных приложений не могут быть скрыты</string>
+  <string name="settings_show_network_speed">Скорость сети</string>
+  <string name="screen_button_custom">Настройка расположения кнопок</string>
+  <string name="recent_apps_key">Последние приложения</string>
+  <string name="recent_apps_key_show">Последние приложения</string>
+  <string name="key_position_custom">Расположение</string>
+  <string name="screen_key_menu">Меню</string>
+  <string name="screen_key_home">Домой</string>
+  <string name="screen_key_recent_apps">Последние приложения</string>
 </resources>
