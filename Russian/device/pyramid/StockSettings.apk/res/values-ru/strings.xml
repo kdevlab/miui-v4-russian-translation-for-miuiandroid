@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stock_settings">Настройки НТС</string>
+    <string name="htc_fastboot_title">Быстрая загрузка</string>
+    <string name="htc_fastboot_summary">Не рекомендуется для некоторых приложений из Market</string>
+</resources>
