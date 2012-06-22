@@ -164,7 +164,6 @@
   <string name="Privacy_App_Launch">Запуск</string>
   <string name="Privacy_App_TrustDialog_Title">Доверять этому приложению</string>
   <string name="Privacy_App_TrustDialog_Content">MIUI не будет спрашивать вашего подтверждения какой-либо безопасности и конфиденциальности операций, связанных с этим приложением.</string>
-  <string name="Su_Enable_Dialog">%1$s пытается получить доступ с правами суперпользователя, который по умолчанию отключен для обеспечения безопасности системы. Если вам необходимо включить эту функцию, перейдите в настройки Менеджера дорступа</string>
   <string name="HIPS_Perm_Title">Разрешения</string>
   <string name="HIPS_Perm_Network">Интернет</string>
   <string name="HIPS_Perm_Network_Desc">Интернет</string>
