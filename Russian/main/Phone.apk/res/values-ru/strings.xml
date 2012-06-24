@@ -573,6 +573,8 @@
   <string name="default_preference_summary">&lt;Не настроено&gt;</string>
   <string name="display_name_summary">&lt;Совпадает с именем пользователя&gt;</string>
   <string name="optional_summary">&lt;Необязательно&gt;</string>
+  <string name="default_port">5060</string>
+  <string name="default_transport">UDP</string>
   <string name="advanced_settings_show">▷ Нажмите, чтобы показать все</string>
   <string name="advanced_settings_hide">▽ Нажмите, чтобы скрыть все</string>
   <string name="empty_alert">Поле \"%s\" не может быть пустым</string>
@@ -584,6 +586,9 @@
   <string name="no_voip">Интернет-вызов не поддерживается</string>
   <string name="sip_system_decide">Автоматически</string>
   <string name="sip_always_send_keepalive">Отправлять всегда</string>
+  <string name="sip_always">SIP_ALWAYS</string>
+  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
+  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="domain_address">SipDomain</string>
   <string name="username">UserName</string>
   <string name="password">Password</string>
@@ -591,6 +596,7 @@
   <string name="proxy_address">ProxyAddress</string>
   <string name="port">Port</string>
   <string name="transport">Protocol</string>
+  <string name="send_keepalive">SendKeepAlive</string>
   <string name="auto_registration">AutoRegistration</string>
   <string name="set_primary">SetPrimary</string>
   <string name="advanced_settings_container">Расширенные настройки</string>
@@ -629,6 +635,7 @@
   <string name="voicemail_notification_vibrate_when_title">Вибрация</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Вибрировать</string>
   <string name="voicemail_notification_vibrate_when_default">Никогда</string>
+  <string name="undefined_miui">Неопределено</string>
   <string name="add_button_miui">Добавить</string>
   <string name="always_enable_mms_miui">Всегда получать MMS</string>
   <string name="always_enable_mms_summary_miui">Получать MMS при выключенной передаче данных</string>
@@ -639,8 +646,13 @@
   <string name="answer_widget_sliding_horizontal_miui">Горизонтальный</string>
   <string name="answer_widget_sliding_vertical_miui">Вертикальный</string>
   <string name="answer_widget_title_miui">Жест ответа</string>
+  <string name="answer_state_setting_title">Настройка входящих вызовов</string>
+  <string name="answer_state_setting_summary">Настройки датчика приближения, выключения звука и т.д.</string>
+  <string name="answer_state_setting_title_miui">Настройка входящих вызовов</string>
   <string name="areacode_required_for_emergency_number_miui">Наберите экстренный телефонный код области или города</string>
   <string name="areacode_required_miui">Вводить свой код города</string>
+  <string name="auto_answer_summary_not_enabled">Не включено</string>
+  <string name="auto_answer_summary_delay">(задержка: %s сек)</string>
   <string name="auto_answer_delay_entries_delay_10s_miui">10с</string>
   <string name="auto_answer_delay_entries_delay_3s_miui">3с</string>
   <string name="auto_answer_delay_entries_delay_5s_miui">5с</string>
@@ -657,8 +669,15 @@
   <string name="auto_country_code_miui">Автоматический код города</string>
   <string name="auto_country_code_sum_miui">Автоматически добавляет код города при вызове</string>
   <string name="autoip_miui">Интел-ный набор</string>
+  <string name="auto_ip_summary_not_enabled">Не включено</string>
   <string name="auto_ip_setting_miui">Интеллектуальный IP</string>
   <string name="autoip_sum_miui">Добавить префикс для иностранных номеров. Введите код региона ниже</string>
+  <string name="auto_ip_exception_miui">Номера, которым не нужен IP префикс</string>
+  <string name="auto_ip_no_exceptions_miui">Пожалуйста, добавьте номера, которым не нужен IP префикс</string>
+  <string name="auto_ip_add_exception_numbers_miui">Добавление номера</string>
+  <string name="auto_ip_remove_exception_numbers_confirm_miui">Вы уверены, что хотите удалить %d номера?</string>
+  <string name="auto_ip_exception_summary_miui">%d всего</string>
+  <string name="auto_ip_exception_summary_more_miui">,... %d всего</string>
   <string name="auto_record_call_summary_miui">Начать запись, когда вызов подключен и сохранить их на SD-карту</string>
   <string name="auto_record_call_title_miui">Автоматическая запись</string>
   <string name="auto_redial_pref_summary_miui">Если не удалось дозвонится, то система будет автоматически дозваниваться 10 раз</string>
@@ -679,6 +698,9 @@
 ^2"</string>
   <string name="call_log_number_limit_miui">Ограничение списка вызова</string>
   <string name="call_log_number_limit_summary_miui">Ограничение количества номеров в списке вызовов</string>
+  <string name="call_log_number_limit_setting_title">Параметры хранения</string>
+  <string name="call_log_number_limit_setting_switcher">Ограничения</string>
+  <string name="call_log_number_limit_setting_switcher_summary">Предельная емкость журнала вызовов для обеспечения эффективности</string>
   <string name="call_log_number_limit_key_title">Максимально</string>
   <string name="call_log_number_limit_title">Количество записей</string>
   <string name="call_log_number_limit_subsummary">%d записей</string>
@@ -795,6 +817,8 @@
   <string name="import_sim_entries_finish">Контакты с SIM импортированы успешно</string>
   <string name="delete_sim_entries_finish">Удаление контактов с SIM успешно</string>
   <string name="import_sim_entry_miui">Импорт</string>
+  <string name="incall_screen_background_title_miui">Фон окна вызова</string>
+  <string name="incall_screen_background_summary_miui">Использовать обои блокировки при отсутствии фото абонента</string>
   <string name="invalid_new_pin2_miui">Новый PIN2 введен неверно, пожалуйста, введите новый PIN2 из 4~8 цифр</string>
   <string name="invalid_new_pin_miui">Новый PIN введен неверно, пожалуйста, введите новый PIN2 от 4~8 цифр</string>
   <string name="invalid_pin2_miui">Недопустимые PIN2, пожалуйста, введите код PIN2, состоящий из 4~8 цифр</string>
@@ -872,6 +896,9 @@
   <string name="puk_lock_warning_miui">"
 Обратите внимание, что SIM-карта полностью заблокируется, если вы введете код неверно еще раз!"</string>
   <string name="remove_miui">Удалить</string>
+  <string name="reject_via_sms_miui">Отклонить с сообщением</string>
+  <string name="reject_via_sms_summary_miui">Выберите сообщение для отправки</string>
+  <string name="reject_via_sms_title_miui">Отклонить с сообщением</string>
   <string name="separate_from_conference_miui">Индивидуальный вызов</string>
   <string name="set_smsc_address_error_miui">Не удалось установить номер SMS-центра</string>
   <string name="set_smsc_address_timeout_miui">Не удалось установить номер SMS-центра</string>
@@ -898,6 +925,7 @@
   <string name="tty_mode_option_summary_miui">Установить режим телетайпа</string>
   <string name="tty_mode_option_title_miui">Режим телетайпа</string>
   <string name="turnover_mute_title_miui">Переворот - тишина</string>
+  <string name="turnover_mute_summary_miui">Переверните для выключения звука, когда телефон лежит горизонтально</string>
   <string name="voicemail_miui">Голосовая почта</string>
   <string name="voicemail_provider_miui">Служба голосовой почты</string>
   <string name="voicemail_provider_sum_miui">Выберите услугу голосовой почты</string>
@@ -923,10 +951,13 @@
   <string name="respond_via_sms_canned_response_3_miui">Я сейчас очень занят. Позвоню позже</string>
   <string name="respond_via_sms_canned_response_4_miui">Не могу говорить по телефону прямо сейчас. В чем дело?</string>
   <string name="call_waiting_tone_title_miui">Тон ожидания вызова</string>
-  <string name="call_waiting_tone_summary_miui">Мелодия при ожидающем вызове (кнопки громкости для отключения)</string>
+  <string name="call_waiting_tone_stop_summary">(Нажмите клавишу регулировки громкости для отключения вызова)</string>
   <string name="call_waiting_tone_continuously_miui">Воспроизводить непрерывно</string>
   <string name="call_waiting_tone_twice_only_miui">Воспроизвести тон дважды</string>
   <string name="call_waiting_tone_twice_and_vibrate_miui">Вибрация и играть тон дважды</string>
+  <string name="cdma_display_precise_call_state_title_miui">Display precise call state</string>
+  <string name="cdma_display_precise_call_state_summary_miui">CDMA call timer is restrict by network operator. If local operator supports, call state can be shown precisely.</string>
+  <string name="cdma_display_precise_call_state_message_miui">If your operator does not support, the call state will be incorrect when this switch is opened. Are you sure to open it?</string>
   <string name="label_rn1dp">RUIM network1 unlock PIN</string>
   <string name="label_rn2dp">RUIM network2 unlock PIN</string>
   <string name="label_rhrpd">RUIM hrpd unlock PIN</string>
@@ -948,26 +979,5 @@
   <string name="description_direction_right">Направо для %s</string>
   <string name="description_direction_left">Налево для %s</string>
   <string name="description_direction_up">Вверх для %s</string>
-  <string name="undefined_miui">Неопределено</string>
-  <string name="answer_state_setting_title">Настройка входящих вызовов</string>
-  <string name="answer_state_setting_summary">Настройки датчика приближения, выключения звука и т.д.</string>
-  <string name="answer_state_setting_title_miui">Настройка входящих вызовов</string>
-  <string name="auto_answer_summary_not_enabled">Не включено</string>
-  <string name="auto_answer_summary_delay">(задержка: %s сек)</string>
-  <string name="auto_ip_summary_not_enabled">Не включено</string>
-  <string name="auto_ip_exception_miui">Номера, которым не нужен IP префикс</string>
-  <string name="auto_ip_no_exceptions_miui">Пожалуйста, добавьте номера, которым не нужен IP префикс</string>
-  <string name="auto_ip_add_exception_numbers_miui">Добавление номера</string>
-  <string name="auto_ip_remove_exception_numbers_confirm_miui">Вы уверены, что хотите удалить %d номера?</string>
-  <string name="auto_ip_exception_summary_miui">%d всего</string>
-  <string name="auto_ip_exception_summary_more_miui">,... %d всего</string>
-  <string name="incall_screen_background_title_miui">Фон окна вызова</string>
-  <string name="incall_screen_background_summary_miui">Использовать обои блокировки при отсутствии фото абонента</string>
-  <string name="reject_via_sms_miui">Отклонить с сообщением</string>
-  <string name="reject_via_sms_summary_miui">Выберите сообщение для отправки</string>
-  <string name="reject_via_sms_title_miui">Отклонить с сообщением</string>
-  <string name="turnover_mute_summary_miui">Переверните для выключения звука, когда телефон лежит горизонтально</string>
-  <string name="cdma_display_precise_call_state_title_miui">Display precise call state</string>
-  <string name="cdma_display_precise_call_state_summary_miui">CDMA call timer is restrict by network operator. If local operator supports, call state can be shown precisely.</string>
-  <string name="cdma_display_precise_call_state_message_miui">If your operator does not support, the call state will be incorrect when this switch is opened. Are you sure to open it?</string>
+  <string name="call_waiting_tone_summary_miui">Мелодия при ожидающем вызове (кнопки громкости для отключения)</string>
 </resources>
