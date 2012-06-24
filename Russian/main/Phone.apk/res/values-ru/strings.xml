@@ -599,7 +599,7 @@
   <string name="send_keepalive">SendKeepAlive</string>
   <string name="auto_registration">AutoRegistration</string>
   <string name="set_primary">SetPrimary</string>
-  <string name="advanced_settings_container">Расширенные настройки</string>
+  <string name="advanced_settings_container">advanced settings container</string>
   <string name="auth_username">AuthUserName</string>
   <string name="not_voice_capable">Голосовые вызовы не поддерживаются</string>
   <string name="respond_via_sms_canned_response_1">Не могу говорить. Что случилось?</string>
