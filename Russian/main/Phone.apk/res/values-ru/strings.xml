@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+  <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="phoneAppLabel">Телефон</string>
   <string name="emergencyDialerIconLabel">Номера экстренных вызовов</string>
   <string name="phoneIconLabel">Телефон</string>
@@ -75,6 +76,9 @@
   <string name="label_ndp">PIN для разблокировки сети SIM-карты</string>
   <string name="sim_ndp_unlock_text">Разблокировать</string>
   <string name="sim_ndp_dismiss_text">Закрыть</string>
+  <string name="requesting_unlock">Запрос разблокировки сети...</string>
+  <string name="unlock_failed">Запрос на разблокировку сети не выполнен</string>
+  <string name="unlock_success">Разблокировка сети успешно завершена</string>
   <string name="imei">IMEI</string>
   <string name="meid">MEID</string>
   <string name="labelGSMMore">Настройки вызовов GSM</string>
@@ -170,6 +174,7 @@
   <string name="preferred_network_mode_cdma_evdo_summary">Предпочтительная сеть: CDMA/EvDo</string>
   <string name="preferred_network_mode_cdma_only_summary">Предпочтительная сеть: только CDMA</string>
   <string name="preferred_network_mode_evdo_only_summary">Предпочтительная сеть: только EvDo</string>
+  <string name="preferred_network_mode_lte_cdma_summary">Предпочтительная сеть: LTE или CDMA</string>
   <string name="data_enabled">Передача данных</string>
   <string name="data_enable_summary">Разрешить передачу данных по сети мобильной связи</string>
   <string name="roaming">Интернет-роуминг</string>
@@ -579,15 +584,15 @@
   <string name="no_voip">Интернет-вызов не поддерживается</string>
   <string name="sip_system_decide">Автоматически</string>
   <string name="sip_always_send_keepalive">Отправлять всегда</string>
-  <string name="domain_address">SIP Домен</string>
-  <string name="username">Имя пользователя</string>
-  <string name="password">Пароль</string>
-  <string name="display_name">Выводимое имя</string>
-  <string name="proxy_address">Адрес прокси</string>
-  <string name="port">Порт</string>
-  <string name="transport">Протокол</string>
-  <string name="auto_registration">Авторегистрация</string>
-  <string name="set_primary">Задать первичный</string>
+  <string name="domain_address">SipDomain</string>
+  <string name="username">UserName</string>
+  <string name="password">Password</string>
+  <string name="display_name">DisplayName</string>
+  <string name="proxy_address">ProxyAddress</string>
+  <string name="port">Port</string>
+  <string name="transport">Protocol</string>
+  <string name="auto_registration">AutoRegistration</string>
+  <string name="set_primary">SetPrimary</string>
   <string name="advanced_settings_container">Расширенные настройки</string>
   <string name="auth_username">AuthUserName</string>
   <string name="not_voice_capable">Голосовые вызовы не поддерживаются</string>
@@ -673,8 +678,7 @@
   <string name="calling_via_template_miui">"Звонок через ^1
 ^2"</string>
   <string name="call_log_number_limit_miui">Ограничение списка вызова</string>
-  <string name="call_log_number_limit_summary_miui">Ограничение количества номеров в списке вызовов
-</string>
+  <string name="call_log_number_limit_summary_miui">Ограничение количества номеров в списке вызовов</string>
   <string name="call_log_number_limit_key_title">Максимально</string>
   <string name="call_log_number_limit_title">Количество записей</string>
   <string name="call_log_number_limit_subsummary">%d записей</string>
@@ -914,27 +918,56 @@
   <string name="import_all_sim_entry_miui">Импорт всех</string>
   <string name="cdma_three_way_calls_miui">Три способа вызова</string>
   <string name="cdma_conference_call_miui">Конференц-связь</string>
-  <string name="respond_via_sms_canned_response_1_miui">"Мне жаль, но я не могу отвечать на телефонные звонки прямо сейчас. Я позвоню вам позже"</string>
-  <string name="respond_via_sms_canned_response_2_miui">"Мне жаль, но я не могу отвечать на телефонные звонки прямо сейчас. Что я могу сделать для вас?"</string>
-  <string name="respond_via_sms_canned_response_3_miui">"Я сейчас очень занят. Позвоню позже"</string>
-  <string name="respond_via_sms_canned_response_4_miui">"Не могу говорить по телефону прямо сейчас. В чем дело?"</string>
-  <string name="description_direction_right">Направо для %s</string>
-  <string name="description_direction_left">Налево для %s</string>
-  <string name="description_direction_up">Вверх для %s</string>
-  <string name="requesting_unlock">Запрос разблокировки сети...</string>
-  <string name="unlock_failed">Запрос на разблокировку сети не выполнен</string>
-  <string name="unlock_success">Разблокировка сети успешно завершена</string>
-  <string name="preferred_network_mode_lte_cdma_summary">Предпочтительная сеть: LTE или CDMA</string>
+  <string name="respond_via_sms_canned_response_1_miui">Мне жаль, но я не могу отвечать на телефонные звонки прямо сейчас. Я позвоню вам позже</string>
+  <string name="respond_via_sms_canned_response_2_miui">Мне жаль, но я не могу отвечать на телефонные звонки прямо сейчас. Что я могу сделать для вас?</string>
+  <string name="respond_via_sms_canned_response_3_miui">Я сейчас очень занят. Позвоню позже</string>
+  <string name="respond_via_sms_canned_response_4_miui">Не могу говорить по телефону прямо сейчас. В чем дело?</string>
   <string name="call_waiting_tone_title_miui">Тон ожидания вызова</string>
   <string name="call_waiting_tone_summary_miui">Мелодия при ожидающем вызове (кнопки громкости для отключения)</string>
   <string name="call_waiting_tone_continuously_miui">Воспроизводить непрерывно</string>
   <string name="call_waiting_tone_twice_only_miui">Воспроизвести тон дважды</string>
   <string name="call_waiting_tone_twice_and_vibrate_miui">Вибрация и играть тон дважды</string>
+  <string name="label_rn1dp">RUIM network1 unlock PIN</string>
+  <string name="label_rn2dp">RUIM network2 unlock PIN</string>
+  <string name="label_rhrpd">RUIM hrpd unlock PIN</string>
+  <string name="label_rcdp">RUIM corporate unlock PIN</string>
+  <string name="label_rspdp">RUIM service provider unlock PIN</string>
+  <string name="label_rdp">RUIM RUIM unlock PIN</string>
+  <string name="requesting_rnw1_unlock">Requesting RUIM network1 unlock...</string>
+  <string name="requesting_rnw2_unlock">Requesting RUIM network2 unlock...</string>
+  <string name="requesting_rhrpd_unlock">Requesting RUIM hrpd unlock...</string>
+  <string name="requesting_rsp_unlock">Requesting RUIM service provider unlock...</string>
+  <string name="requesting_rc_unlock">Requesting RUIM corporate unlock...</string>
+  <string name="requesting_ruim_unlock">Requesting RUIM RUIM unlock...</string>
+  <string name="rnw1_unlock_failed">RUIM Network1 unlock request unsuccessful.</string>
+  <string name="rnw2_unlock_failed">RUIM Network2 unlock request unsuccessful.</string>
+  <string name="rhrpd_unlock_failed">RUIM Hrpd unlock request unsuccessful.</string>
+  <string name="rsp_unlock_failed">RUIM Service Provider unlock request unsuccessful.</string>
+  <string name="rc_unlock_failed">RUIM Corporate unlock request unsuccessful.</string>
+  <string name="ruim_unlock_failed">RUIM RUIM unlock request unsuccessful.</string>
+  <string name="description_direction_right">Направо для %s</string>
+  <string name="description_direction_left">Налево для %s</string>
+  <string name="description_direction_up">Вверх для %s</string>
   <string name="undefined_miui">Неопределено</string>
+  <string name="answer_state_setting_title">Настройка входящих вызовов</string>
+  <string name="answer_state_setting_summary">Настройки датчика приближения, выключения звука и т.д.</string>
+  <string name="answer_state_setting_title_miui">Настройка входящих вызовов</string>
+  <string name="auto_answer_summary_not_enabled">Не включено</string>
+  <string name="auto_answer_summary_delay">(задержка: %s сек)</string>
+  <string name="auto_ip_summary_not_enabled">Не включено</string>
   <string name="auto_ip_exception_miui">Номера, которым не нужен IP префикс</string>
   <string name="auto_ip_no_exceptions_miui">Пожалуйста, добавьте номера, которым не нужен IP префикс</string>
-  <string name="auto_ip_add_exception_numbers_miui">Добавление номера</string>  
-  <string name="auto_ip_remove_exception_numbers_confirm_miui">Вы уверены, что хотите удалить %d номера?</string>  
-  <string name="auto_ip_exception_summary_miui"> %d всего</string>  
-  <string name="auto_ip_exception_summary_more_miui">,... %d всего</string> 
+  <string name="auto_ip_add_exception_numbers_miui">Добавление номера</string>
+  <string name="auto_ip_remove_exception_numbers_confirm_miui">Вы уверены, что хотите удалить %d номера?</string>
+  <string name="auto_ip_exception_summary_miui">%d всего</string>
+  <string name="auto_ip_exception_summary_more_miui">,... %d всего</string>
+  <string name="incall_screen_background_title_miui">Фон окна вызова</string>
+  <string name="incall_screen_background_summary_miui">Использовать обои блокировки при отсутствии фото абонента</string>
+  <string name="reject_via_sms_miui">Отклонить с сообщением</string>
+  <string name="reject_via_sms_summary_miui">Выберите сообщение для отправки</string>
+  <string name="reject_via_sms_title_miui">Отклонить с сообщением</string>
+  <string name="turnover_mute_summary_miui">Переверните для выключения звука, когда телефон лежит горизонтально</string>
+  <string name="cdma_display_precise_call_state_title_miui">Display precise call state</string>
+  <string name="cdma_display_precise_call_state_summary_miui">CDMA call timer is restrict by network operator. If local operator supports, call state can be shown precisely.</string>
+  <string name="cdma_display_precise_call_state_message_miui">If your operator does not support, the call state will be incorrect when this switch is opened. Are you sure to open it?</string>
 </resources>
