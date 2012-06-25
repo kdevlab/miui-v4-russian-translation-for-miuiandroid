@@ -260,4 +260,11 @@
         <item>По центру</item>
         <item>Внизу</item>
     </string-array>
+	<string-array name="bluetooth_class_of_device_entries">
+        <item>Наушники</item>
+        <item>ПК</item>
+        <item>Телефон</item>
+        <item>HID(клавиатура, мышка, и т.д.)</item>
+        <item>Все устройства</item>
+    </string-array>
 </resources>
