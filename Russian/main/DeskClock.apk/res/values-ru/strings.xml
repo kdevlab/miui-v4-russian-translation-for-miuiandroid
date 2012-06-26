@@ -2,7 +2,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="full_wday_month_day_no_year">d MMMM, EEEE</string>
-  <string name="elapsed_time_format">(+%s)</string>
   <string name="app_label">Часы</string>
   <string name="alarm_list_title">Будильник</string>
   <string name="add_alarm">Добавить будильник</string>
@@ -38,10 +37,6 @@
   <string name="analog_gadget">Часы</string>
   <string name="settings">Настройки</string>
   <string name="alarm_in_silent_mode_title">Включать всегда</string>
-  <string name="snooze_duration_title">Интервал повтора сигнала</string>
-  <string name="auto_silence_title">Автовыключение</string>
-  <string name="auto_silence_summary">Сигнал отключится через %d мин.</string>
-  <string name="auto_silence_never">Отключено</string>
   <string name="done">Готово</string>
   <string name="revert">Отмена</string>
   <string name="delete">Удалить</string>
@@ -61,7 +56,6 @@
   <string name="nightmode_button_description">Затемнить</string>
   <string name="home_button_description">Рабочий стол</string>
   <string name="desk_clock_button_description">Вид часов</string>
-  <string name="battery_charging_level">%d%%</string>
   <string name="weather_fetch_failure">Информация о погоде сейчас недоступна</string>
   <string name="menu_item_dock_settings">Настройки док-станции</string>
   <string name="alarm_klaxon_service_desc">Служба воспроизведения сигналов в Часах</string>
@@ -107,13 +101,17 @@
   <string name="timer_message_with_hour">таймер на %1$d часов и %2$d минут</string>
   <string name="timer_message">таймер на %1$d минут</string>
   <string name="timer_tutorial">По часовой стрелке</string>
-  <string name="alarm_in_silent_mode_summary">Подавать сигнал, даже если телефон работает в режиме без звука</string>
-  <string name="menu_alarm_setting">Настройки будильника</string>
-  <string name="timer_is_running">таймер запущен</string>
   <string name="alarm_duration">Время сигнала и интервалы (мин.)</string>
   <string name="alarm_duration_title">Продолжительность сигнала</string>
   <string name="alarm_count">Время сигнала перед авто-тишиной (время)</string>
   <string name="alarm_duration_summary">Будильник с интервалом %d мин</string>
   <string name="alarm_count_summary">, беззвука после %d времени</string>
   <string name="alarm_count_never_summary">, не останавливать</string>
+  <string name="snooze_duration_title">Интервал повтора сигнала</string>
+  <string name="auto_silence_title">Автовыключение</string>
+  <string name="auto_silence_summary">Сигнал отключится через %d мин.</string>
+  <string name="auto_silence_never">Отключено</string>
+  <string name="alarm_in_silent_mode_summary">Подавать сигнал, даже если телефон работает в режиме без звука</string>
+  <string name="menu_alarm_setting">Настройки будильника</string>
+  <string name="timer_is_running">таймер запущен</string>
 </resources>
