@@ -54,4 +54,5 @@
     <string name="uninstall_failed_msg">Удалить приложение %1$s не удалось</string>
     <string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
     <string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
+    <string name="uninstall_failed_retained_app_msg">Приложение настроенное оператором не может быть удалено</string>
 </resources>
