@@ -1184,4 +1184,15 @@
     <string name="redo">Вернуть</string>
     <string name="operation_not_allowed">Операция не разрешена</string>
     <string name="exceeded_maxlength">Превышен максимальный размер сообщения</string>
+    <string name="reboot_reboot">Перезагрузка</string>
+    <string name="reboot_recovery">Recovery</string>
+    <string name="reboot_bootloader">Загрузчик</string>
+    <string name="reboot_hot">Быстрая</string>
+    <string name="reboot_bootmenu">Загрузочное меню</string>
+    <string name="reboot_fastboot">Fastboot</string>
+    <string name="reboot_download">Download</string>
+    <string name="reboot_progress">Перезагрузка...</string>
+    <string name="reboot_confirm">Ваш телефон будет перезагружен.</string>
+    <string name="hot_reboot_title">Быстрая перезагрузка телефона</string>
+    <string name="hot_reboot_progress">Перезагрузка ресурсов системы...</string>
 </resources>
