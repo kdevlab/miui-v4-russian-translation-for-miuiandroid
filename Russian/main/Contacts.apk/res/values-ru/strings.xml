@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-  <string name="config_import_vcard_type">default</string>
-  <string name="config_export_vcard_type">default</string>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+  <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="config_export_dir">/sdcard/MIUI/contacts</string>
-  <string name="config_export_file_extension">vcf</string>
   <string name="launcherDialer">Телефон</string>
   <string name="people">Контакты</string>
   <string name="contactsList">Контакты</string>
@@ -81,7 +79,6 @@
   <string name="noAccounts">Для создания групп нужен аккаунт</string>
   <string name="noMatchingContacts">Подходящие контакты не найдены</string>
   <string name="noContactsWithPhoneNumbers">Нет контактов с номерами телефонов</string>
-  <string name="savingContact">Контакт сохраняется...</string>
   <string name="savingDisplayGroups">Варианты отображения сохраняются...</string>
   <string name="contactSavedToast">Контакт сохранен.</string>
   <string name="contactSavedErrorToast">Не удалось сохранить изменения</string>
@@ -180,7 +177,7 @@
   <string name="type_missed">Пропущенный вызов</string>
   <string name="type_voicemail">Голосовая почта</string>
   <string name="callBack">Перезвонить</string>
-    <string name="callDetailsDurationFormat" formatted="false">%s:%s</string>
+  <string name="callDetailsDurationFormat" formatted="false">%s:%s</string>
   <string name="favoritesFrequentContacted">Часто набираемые</string>
   <string name="favoritesFrequentCalled">Часто вызываемые</string>
   <string name="add_contact_dlg_title">Добавить контакт</string>
@@ -222,7 +219,7 @@
   <string name="select_vcard_title">Выбор файла vCard</string>
   <string name="caching_vcard_title">Кэширование</string>
   <string name="caching_vcard_message">Выполняется кэширование файлов vCard в локальное временное хранилище. Импорт скоро начнется.</string>
-    <string name="progress_notifier_message" formatted="false">Импорт %s/%s: %s</string>
+  <string name="progress_notifier_message" formatted="false">Импорт %s/%s: %s</string>
   <string name="importing_vcard_description">Импорт: %s</string>
   <string name="reading_vcard_failed_title">Ошибка чтения vCard-файла</string>
   <string name="importing_vcard_finished_title">Импорт файла vCard %s завершен</string>
@@ -251,7 +248,7 @@
   <string name="composer_failed_to_get_database_infomation">База данных недоступна</string>
   <string name="composer_has_no_exportable_contact">Не найдены контакты для экспорта. Возможно, экспорт контактов с телефона не поддерживается поставщиком услуг передачи данных.</string>
   <string name="composer_not_initialized">Сбой при запуске редактора vCard.</string>
-    <string name="fail_reason_could_not_open_file" formatted="false">Не удалось открыть файл \"%s\". Причина: %s</string>
+  <string name="fail_reason_could_not_open_file" formatted="false">Не удалось открыть файл \"%s\". Причина: %s</string>
   <string name="cancel_import_confirmation_title">Отмена импорта vCard</string>
   <string name="cancel_import_confirmation_message">Отменить импорт файла \"%s\"?</string>
   <string name="cancel_export_confirmation_title">Отмена экспорта vCard</string>
@@ -403,7 +400,7 @@
   <string name="event_edit_field_hint_text">Дата</string>
   <string name="group_edit_field_hint_text">Название группы</string>
   <string name="contact_status_update_attribution">с помощью %1$s</string>
-    <string name="contact_status_update_attribution_with_date" formatted="false">%1$s с помощью %2$s</string>
+  <string name="contact_status_update_attribution_with_date">%1$s с помощью %2$s</string>
   <string name="description_star">избранное</string>
   <string name="edit_contact">Изменить контакт</string>
   <string name="local_invisible_directory">Другое</string>
@@ -428,13 +425,12 @@
   <string name="activity_title_contacts_filter">Фильтр контактов</string>
   <string name="menu_settings">Настройки</string>
   <string name="preference_displayOptions">Варианты отображения</string>
-    <string name="organization_company_and_title" formatted="false">%2$s, %1$s</string>
+  <string name="organization_company_and_title">%2$s, %1$s</string>
   <string name="hint_findContacts">Найти контакты</string>
   <string name="non_phone_caption">Номер телефона</string>
   <string name="non_phone_add_to_contacts">Добавить в контакты</string>
-  <string name="activity_title_confirm_add_detail">Добавление данных</string>
   <string name="non_phone_close">Закрыть</string>
-    <string name="widget_name_and_phonetic" formatted="false">%1$s (%2$s)</string>
+  <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="date_year_toggle">Указать год</string>
   <string name="social_widget_label">Контакт</string>
   <string name="social_widget_loading">Загрузка...</string>
@@ -455,7 +451,7 @@
   <string name="profile_display_name">Настроить профиль</string>
   <string name="enter_contact_name">Имя контакта</string>
   <string name="view_updates_from_group">Обновления</string>
-    <string name="notification_voicemail_callers_list" formatted="false">%1$s, %2$s</string>
+  <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
   <string name="notification_new_voicemail_ticker">Новое гол. сообщение: %1$s</string>
   <string name="voicemail_playback_error">Не удалось воспроизвести сообщение</string>
   <string name="voicemail_buffering">Буферизация...</string>
@@ -474,7 +470,7 @@
   <string name="voicemail_speed_normal">Средняя скорость</string>
   <string name="voicemail_speed_faster">Высокая скорость</string>
   <string name="voicemail_speed_fastest">Максимальная скорость</string>
-    <string name="call_log_item_count_and_date" formatted="false">(%1$d) %2$s</string>
+  <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
   <string name="group_name_hint">Название группы</string>
   <string name="nfc_vcard_file_name">Получено по NFC</string>
   <string name="status_available">На месте</string>
@@ -517,7 +513,7 @@
   <string name="send_contact_shortcut_todesktop_success">Ярлык на рабочем столе создан</string>
   <string name="summary_kind_title">Основная информация</string>
   <string name="callrecordview_item_newcontact">Новый контакт</string>
-    <string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d минут %d секунд</string>
+  <string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d минут %d секунд</string>
   <string name="callrecordview_item_op_time_only_minutes">%d минут</string>
   <string name="callrecordview_item_op_time_only_seconds">%d секунд</string>
   <string name="callrecordview_item_op_time_short_outgoing">" | "</string>
@@ -529,6 +525,7 @@
   <string name="select_photo_from_photo_package">Выберите фотографию из пакета фотографий</string>
   <string name="select_new_photo_from_photo_package">Выберите фотографию из пакета фотографий</string>
   <string name="photo_package_activity_title">Пакет фотографий</string>
+  <string name="lunarBirthdayLabelsGroup">Лунный день рождения</string>
   <string name="callrecordview_menu_show_title">Настройка отображения</string>
   <string name="callrecordview_menu_show_all">Все</string>
   <string name="callrecordview_menu_show_missed">Только пропущенные</string>
@@ -554,7 +551,7 @@
   <string name="t9_search_guide">Введите номер телефона или найдите контакт с помощью T9</string>
   <string name="date_time_set">Настроить</string>
   <string name="sim_no_contact">Нет контактов на SIM-карте</string>
-    <string name="sim_indexed_contact_not_exist" formatted="false">Позиция %1$d не является допустимой на SIM-карте, должна быть между %2$d и %3$d</string>
+  <string name="sim_indexed_contact_not_exist">Позиция %1$d не является допустимой на SIM-карте, должна быть между %2$d и %3$d</string>
   <string name="sim_contact_search_error">Произошла ошибка при поиске контактов с SIM-карты</string>
   <string name="empty_divider_title">Вы можете</string>
   <string name="noContactHelpTextAccountsInfo">Синхронизировать контакты с Google, Exchange</string>
@@ -607,44 +604,46 @@
   <string name="dirty_contacts_notification_title">Вы хотите, синхронизировать контакты?</string>
   <string name="dirty_contacts_notification_description">У вас есть %d не синхронизированных контактов</string>
   <string name="dirty_contacts_notification_message">(Вы можете отключить напоминание в настройках)</string>
-  <string name="remind_btn_not_remind">Не напоминать</string>
   <string name="remind_btn_sync_now">Сейчас</string>
   <string name="remind_btn_ignore">Позже</string>
   <string name="display_only_phones">Только с тел. номером</string>
   <string name="display_sim_contacts">Показать контакты SIM</string>
-  <string name="preference_sim">SIM-карта</string>
   <string name="preference_remove_duplicate">Слияние дубликатов контактов</string>
-  <string name="scan_duplicate">"Поиск дубликатов, пожалуйста, подождите..."</string>
+  <string name="scan_duplicate">Поиск дубликатов, пожалуйста, подождите...</string>
   <string name="scan_merge">Поиск возможных дубликатов контактов, пожалуйста, подождите...</string>
   <string name="scan_duplicate_message">Контакты с полным дублированием данных (%1$d)</string>
-  <string name="scan_merge_message">Контакты с частично дублирующимися данными (%1$d)</string>
   <string name="merge_contact_message">(%1$d) контактов с частично дублирующимися данными, (%2$d) объединено</string>
   <string name="delete_duplicate">Слияние</string>
-  <string name="delete_duplicate_message">"Слияние..."</string>
-  <string name="btn_finished">Готово</string>
-  <string name="label_merge">Объединено</string>
+  <string name="delete_duplicate_message">Слияние...</string>
   <string name="label_no_duplicate_contacts">Отлично! Нет дубликатов контактов на данный момент!</string>
   <string name="quit_dialog_confirm_title">Вы действительно хотите выйти из объединения контактов?</string>
   <string name="label_duplicate_count">(%1$d)</string>
+  <string name="preference_import_export">Импорт/Экспорт</string>
+  <string name="preference_import_export_title">Импорт/Экспорт контактов</string>
+  <string name="import_vcard_description">Импортировать с SD-карты</string>
+  <string name="export_vcard_description">Экспортировать vCard на SD-карту</string>
   <string name="raw_contact_list_title">"Этот контакт содержит %1$d не обработанных контактов
 Нажмите для выбора и редактирования контакта"</string>
   <string name="raw_contact_account_label">Аккаунт: %1$s</string>
+  <string name="move_and_resize">Изменение размера и положения</string>
+  <string name="save_photo_progress">Сохранение фото...</string>
+  <string name="edit_photo">Редактировать фото</string>
+  <string name="edit_hint">Редактировать</string>
+  <string name="next_birthday">Следующий День рождения: %s</string>
+  <string name="today">Сегодня</string>
+  <string name="click_close">Коснитесь экрана, чтобы закрыть</string>
+  <string name="open_contact">Открыть контакт</string>
+  <string name="date_picker_label">Напомнить за 3 дня и в день рождения</string>
+  <string name="pkgLabel">Контакты и телефон</string>
+  <string name="activity_title_confirm_add_detail">Добавление данных</string>
+  <string name="btn_finished">Готово</string>
   <string name="calllog_menu_call_ip_number">Вызов через интернет (вызов %s)</string>
+  <string name="close">Закрыть</string>
+  <string name="label_merge">Объединено</string>
+  <string name="preference_sim">SIM-карта</string>
+  <string name="remind_btn_not_remind">Не напоминать</string>
+  <string name="savingContact">Контакт сохраняется...</string>
+  <string name="scan_merge_message">Контакты с частично дублирующимися данными (%1$d)</string>
   <string name="sim_contacts_invisiable">Скрывать</string>
   <string name="sim_contacts_visiable">Показывать</string>
-  <string name="edit_hint">Редактировать</string>
-  <string name="save_photo_progress">Сохранение фото...</string>
-  <string name="move_and_resize">Изменение размера и положения</string>
-  <string name="edit_photo">Редактировать фото</string>
-  <string name="lunarBirthdayLabelsGroup">Лунный день рождения</string>
-  <string name="date_picker_label">Напомнить за 3 дня и в день рождения</string>
-  <string name="next_birthday">Следующий День рождения: %s</string>  
-  <string name="today">Сегодня</string>  
-  <string name="click_close">Коснитесь экрана, чтобы закрыть</string>
-  <string name="close">Закрыть</string>
-  <string name="export_vcard_description">Экспортировать vCard на SD-карту</string>
-  <string name="import_vcard_description">Импортировать с SD-карты</string>
-  <string name="preference_import_export">Импорт/Экспорт</string>
-  <string name="preference_import_export_title">Импорт/Экспорт контактов</string>
-  <string name="open_contact">Открыть контакт</string>
 </resources>
