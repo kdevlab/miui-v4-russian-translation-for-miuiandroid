@@ -1,7 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="app_name">Бэкап</string>
+  <string name="local_app_name">Резервное копирование</string>
   <string name="local_home_title">Локальное</string>
   <string name="button_backup">Создать резервную копию</string>
   <string name="start_backup">Начать</string>
@@ -83,9 +84,9 @@
   <string name="task_restore_none">Не нуждается в восстановлении</string>
   <string name="task_stopped_exception">Прервано</string>
   <string name="sdcard_no_enough_space">Не хватает памяти на SD-карте</string>
-  <string name="sdcard_no_enough_space_warning">Не хватает 50 МБ памяти на SD-карте, продолжить?</string>
+  <string name="sdcard_no_enough_space_message">Резервное копирование может завершиться с ошибкой, пожалуйста освободите место на SD-карте</string>
   <string name="data_no_enough_space">Не хватает памяти</string>
-  <string name="data_no_enough_space_warning">Не хватает места для восстановления, возможны ошибки, продолжить?</string>
+  <string name="data_no_enough_space_message">Резервное копирование может завершиться с ошибкой, пожалуйста освободите место на внутренней памяти</string>
   <string name="task_running_hint">Служба работает в фоновом режиме, пожалуйста, попробуйте еще раз, чтобы восстановить эту резервную копию!</string>
   <string name="task_running_dialog">Фоновый прогресс резервного копирования и восстановления, чтобы увидеть его, нажмите ОК</string>
   <string name="task_service_not_launched">Сервис не запустился, ждите!</string>
@@ -140,14 +141,14 @@
   <string name="cloud_no_backup">Нет резервных копий</string>
   <string name="current_account">Аккаунт %s</string>
   <string name="current_sim">Текущая SIM-карта</string>
-  <string name="date_format">dd-MM-yyyy H:mm</string>
-  <string name="dir_date_format">dd-MM-yyyy_H.mm</string>
+  <string name="date_format">dd-MM-yyyy H.mm</string>
+  <string name="dir_date_format">dd-MM-yyyy H.mm</string>
   <string name="no_network">Нет сетевого соединения Пожалуйста, проверьте ваше соединение и попробуйте еще раз</string>
   <string name="retry">Повторить</string>
   <string name="select_all">Все</string>
   <string name="reverse_all">Снять все</string>
   <string name="refresh">Обновление</string>
-    <string name="cloud_item_info_summary" formatted="false">(Локально: %1$s|Онлайн: %2$s)</string>
+  <string name="cloud_item_info_summary">(Локально: %1$s|Онлайн: %2$s)</string>
   <string name="total_num">%d всего записей</string>
   <string name="cloud_restore_guide">"Нажмите кнопку Начать для восстановления данных
 Вы можете восстановить %s в Р.К."</string>
@@ -160,4 +161,13 @@
   <string name="guarded_mode_dialog_title">Режим защиты</string>
   <string name="guarded_mode_dialog_message">Не могу работать в режиме защиты</string>
   <string name="multi_select_title">Выбрано: %1$s</string>
+  <string name="delete_failed_backup_confirm">Резервная копия имеет ошибки. Не возможно восстановить</string>
+  <string name="auto_backup_interval">Частота резервного копирования</string>
+  <string name="auto_backup_interval_hint">%d дней</string>
+  <string name="auto_backup_interval_max">30 дней</string>
+  <string name="auto_backup_interval_min">Каждый день</string>
+  <string name="auto_backup_setting_title">Настройки автоматического бэкапа</string>
+  <string name="data_no_enough_space_warning">Не хватает места для восстановления, возможны ошибки, продолжить?</string>
+  <string name="delete_backup">Удалить бэкап</string>
+  <string name="sdcard_no_enough_space_warning">Не хватает 50 МБ памяти на SD-карте, продолжить?</string>
 </resources>
