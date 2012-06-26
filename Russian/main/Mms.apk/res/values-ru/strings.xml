@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-  <string name="conversation_style">bubble</string>
-  <string name="prefDefault_ringtone_repeat">1</string>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+  <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="pref_summary_manage_sim_messages">Управление сообщениями на SIM-карте</string>
   <string name="pref_title_manage_sim_messages">Сообщения на SIM-карте</string>
   <string name="confirm_delete_all_SIM_messages">С SIM-карты будут удалены все сообщения</string>
@@ -279,7 +278,7 @@
   <string name="pick_too_many_recipients">Слишком много получателей</string>
   <string name="adding_recipients">Добавление получателей...</string>
   <string name="draft_separator">", "</string>
-  <string name="message_count_format"> %1$s</string>
+  <string name="message_count_format">%1$s</string>
   <string name="error_state">Данные были изменены</string>
   <string name="error_state_text">Цепочки не соответствуют получателям. Сделайте снимок экрана и отправьте сообщение об ошибке через веб-сайт http://go/droidanizer</string>
   <string name="disable_notifications_dialog_message">Не дублировать уведомления об SMS из приложения обмена сообщениями по умолчанию</string>
@@ -377,7 +376,7 @@
   <string name="pref_title_show_recent_contacts">Показать недавние контакты</string>
   <string name="pref_summary_show_recent_contacts">Показать список последних контактов при создании нового сообщения</string>
   <string name="pref_title_hide_festival">Скрыть вкладку рекомендуемые</string>
-    <string name="pref_summary_hide_festival">Скрыть вкладку Шутки</string>
+  <string name="pref_summary_hide_festival">Скрыть вкладку Шутки</string>
   <string name="pref_key_append_signature_title">Подпись</string>
   <string name="pref_key_append_signature_summary">Добавить подпись к сообщению</string>
   <string name="pref_key_edit_signature_title">Изменить подпись</string>
@@ -432,17 +431,18 @@
   <string name="timed_message_expired_title_2">Вы хотите отправить их сейчас?</string>
   <string name="timed_message_to">для</string>
   <string name="timed_message_in_total">... (всего: %d)</string>
+  <string name="processing">Обработка...</string>
   <string name="confirm_delete_RUIM_message">Это сообщение на RUIM будет удалено</string>
   <string name="confirm_delete_all_RUIM_messages">Все сообщения на RUIM будут удалены</string>
   <string name="festival_sms_sdcard_unready">SD-Карта не готова</string>
-  <string name="pref_summary_manage_ruim_messages">Управление сообщениями, хранящимися на RUIM карте</string>
-  <string name="pref_title_manage_ruim_messages">Управление сообщениями RUIM карты</string>
+  <string name="generating_mms_to_forward">Создание ответа...</string>
   <string name="ruim_empty">Нет сообщений на RUIM карте</string>
   <string name="ruim_full_title">RUIM карта полная</string>
   <string name="ruim_manage_messages_title">Текстовые сообщения на RUIM карте</string>
   <string name="save_to_ruim">Сохранить на карту RUIM</string>
+  <string name="pref_summary_manage_ruim_messages">Управление сообщениями, хранящимися на RUIM карте</string>
+  <string name="pref_title_manage_ruim_messages">Управление сообщениями RUIM карты</string>
   <string name="date_timed_message_dialog">Дата:</string>
   <string name="time_timed_message_dialog">Время:</string>
   <string name="message_title">%1$s %2$s написал:</string>
-  <string name="generating_mms_to_forward">Создание ответа...</string>
 </resources>
