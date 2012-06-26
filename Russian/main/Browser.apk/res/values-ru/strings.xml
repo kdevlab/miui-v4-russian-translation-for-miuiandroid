@@ -1,7 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
-  <string name="pref_default_text_encoding_default">Latin-1</string>
   <string name="application_name">Браузер</string>
   <string name="choose_upload">Выберите файл для загрузки</string>
   <string name="uploads_disabled">Добавление файлов отключено.</string>
@@ -54,7 +53,6 @@
   <string name="add_to_homescreen_menu_option">Главный экран</string>
   <string name="add_to_other_folder_menu_option">Другая папка</string>
   <string name="name">Ярлык</string>
-  <string name="http">http://</string>
   <string name="save_to_bookmarks">Добавить закладку</string>
   <string name="bookmark_this_page">Закладка для этой страницы</string>
   <string name="remove">Удалить</string>
@@ -223,7 +221,6 @@
   <string name="pref_development_visual_indicator">Включить визуальный индикатор</string>
   <string name="pref_development_cpu_upload_path">Включить путь загрузки ЦП</string>
   <string name="js_engine_flags">Установить флаги JS</string>
-  <string name="pref_development_uastring">UAString</string>
   <string name="pref_development_error_console">Показать консоль JavaScript</string>
   <string name="pref_development_reset_prelogin">Сброс предлогин</string>
   <string name="pref_default_text_encoding">Кодировка текста</string>
@@ -239,15 +236,10 @@
   <string name="pref_lab_fullscreen_summary">Чтобы скрыть строку состояния, используйте полноэкранный режим</string>
   <string name="pref_data_title">Настройки контента</string>
   <string name="pref_data_preload_title">Загрузка результатов поиска</string>
-  <string name="pref_data_preload_value_never">NEVER</string>
-  <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
-  <string name="pref_data_preload_value_always">ALWAYS</string>
-  <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
   <string name="pref_data_preload_summary">Разрешить браузеру предварительно загружать результаты поиска в фоновом режиме</string>
   <string name="pref_data_preload_dialogtitle">Загрузка результатов поиска</string>
   <string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
   <string name="browserFrameFileErrorLabel">Проблема с файлом</string>
-  <string name="browserFrameFormResubmitLabel" />
   <string name="browserFrameFormResubmitMessage">Страница, которую вы пытаетесь открыть, содержит уже отправленные данные (POSTDATA). В случае их повторной отправки повторятся все действия, выполненные на странице после заполнения формы (например, поиск или покупка).</string>
   <string name="loadSuspendedTitle">Нет подключения</string>
   <string name="loadSuspended">Не удалось загрузить страницу: нет интернет-подключения.</string>
@@ -258,7 +250,7 @@
   <string name="add_new_bookmark">Добавить закладку</string>
   <string name="add_bookmark_short">Добавить</string>
   <string name="search_label">Браузер</string>
-  <string name="search_hint">Введите условия поиска или URL</string>
+  <string name="search_hint">Ввод адреса</string>
   <string name="search_button_text">Поиск</string>
   <string name="search_settings_description">Закладки и история поиска</string>
   <string name="popup_window_attempt">Открыть всплывающее окно с этого сайта?</string>
@@ -309,7 +301,6 @@
   <string name="error_console_eval_button_text">Оценить</string>
   <string name="defaultBookmarksUpButton">Закладки</string>
   <string name="empty_bookmarks_folder">Нет закладок</string>
-  <string name="rlz_access_point">Y1</string>
   <string name="account_chooser_dialog_title">Выберите аккаунт</string>
   <string name="import_bookmarks_dialog_title">Синхронизация с аккаунтом Google</string>
   <string name="import_bookmarks_dialog_description">Закладки на устройстве пока не связаны с аккаунтом Google. Чтобы сохранить и синхронизировать закладки, добавьте их в аккаунт. В противном случае просто удалите их.</string>
@@ -380,13 +371,24 @@
   <string name="dump_render_tree">Дамп Render дерева в файл</string>
   <string name="dump_display_tree">Дамп Display дерева в файл</string>
   <string name="pref_reading_mode_enabled_title">Режим чтения</string>
+  <string name="pref_reading_mode_enabled_title_summary">Необходимо разрешить JavaScript</string>
+  <string name="pref_developer_options">Разработчик</string>
+  <string name="pref_developer_options_summary">Отладка или сообщить об ошибке</string>
+  <string name="add_xiaomi_account_warning">Пожалуйста, войдите в аккаунт Xiaomi</string>
+  <string name="report_reading_mode_issue">Сообщить о проблеме режима чтения MIUI</string>
+  <string name="warning">Внимание</string>
   <string name="menu_exit">Выход</string>
   <string name="exit_browser_warning">Выйти из браузера?</string>
   <string name="menu_enable_night_mode">Включить ночной режим</string>
   <string name="menu_disable_night_mode">Выключить ночной режим</string>
   <string name="tab_opened_background">Вкладка открыта в фоне.</string>
   <string name="tab_closed">Вкладка закрыта.</string>
-  <string name="navigator_permissions_prompt_message" formatted="false">%s хочет получить доступ к %s на вашем устройстве</string>
+  <string name="search_cancel">Отмена</string>
+  <string name="search_baidu">Baidu</string>
+  <string name="search_google">Google</string>
+  <string name="search_yahoo">Yahoo</string>
+  <string name="search_bing">Bing</string>
+  <string name="navigator_permissions_prompt_message">%s хочет получить доступ к %s на вашем устройстве</string>
   <string name="navigator_permissions_prompt_remember">Запомнить</string>
   <string name="navigator_permissions_prompt_share">Разрешить</string>
   <string name="navigator_permissions_prompt_dont_share">Запретить</string>
@@ -394,9 +396,4 @@
   <string name="pref_lab_slide_tab_transitions">Переходы по вкладкам</string>
   <string name="pref_lab_slide_tab_transitions_summary">Сдвиньте для перещения на другую вкладку в списке.</string>
   <string name="help_page">Помощь</string>
-  <string name="search_baidu">Baidu</string>
-  <string name="search_bing">Bing</string>
-  <string name="search_cancel">Отмена</string>
-  <string name="search_google">Google</string>
-  <string name="search_yahoo">Yahoo</string>
 </resources>
