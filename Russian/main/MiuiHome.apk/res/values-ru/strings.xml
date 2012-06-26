@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+  <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="application_name">Рабочий стол</string>
   <string name="folder_name">Папка</string>
   <string name="chooser_wallpaper">Выбрать обои из</string>
@@ -36,7 +37,7 @@
   <string name="cant_remove_retained_app">Системное приложение удалить нельзя</string>
   <string name="uninstall_body_format">Удалить приложение \"%s\"?</string>
   <string name="uninstall">Удалить</string>
-  <string name="install_body_format">Установить приложение \"%s\"?</string>
+  <string name="starting_preset_app">Запуск...</string>
   <string name="install">Установить</string>
   <string name="cant_remove_folder">Удаление невозможно, папка не пустая</string>
   <string name="failed_to_drop">Перемещение не удалось</string>
@@ -55,6 +56,7 @@
   <string name="encryption">Шифрование</string>
   <string name="default_folder_title_tools">Инструменты</string>
   <string name="default_folder_title_recommend">Рекомендуемые</string>
+  <string name="default_folder_title_game">Игры</string>
   <string name="preferences_title">Параметры рабочего стола</string>
   <string name="preferences_general_title">Основные настройки</string>
   <string name="pref_keep_in_memory_title">Держать в памяти</string>
@@ -91,9 +93,6 @@
   <string name="gadget_load_error">Ошибка загрузки виджета...</string>
   <string name="invalid_contact_shortcut">Недопустимый ярлык</string>
   <string name="guide_tips_editing_mode">Нажмите на иконку виджета и перетащите на рабочий стол</string>
-  <string name="durationformatshort">%2$2d:%5$02d</string>
-  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
-  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="photo_adjust">Редактировать фото</string>
   <string name="select_photo">Фото</string>
   <string name="select_frame">Рамка</string>
@@ -101,7 +100,8 @@
   <string name="photo_load_failed">Ошибка загрузки!</string>
   <string name="gadget_weather_loading">Нет данных о погоде</string>
   <string name="gadget_weather_title_24">Погода 2X4</string>
-  <string name="gadget_weather_title_14">Погода 1X4</string> 
-  <string name="gadget_weather_to">в</string> 
+  <string name="gadget_weather_title_14">Погода 1X4</string>
+  <string name="gadget_weather_to">в</string>
   <string name="gadget_weather_app_not_installed">Пожалуйста, установите Погоду MIUI</string>
+  <string name="install_body_format">Установить приложение \"%s\"?</string>
 </resources>
