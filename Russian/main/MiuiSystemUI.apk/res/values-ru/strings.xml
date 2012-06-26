@@ -162,7 +162,7 @@
   <string name="status_bar_toggle_torch">Фонарик</string>
   <string name="status_bar_toggle_vibrate">Вибрация</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
-  <string name="screen_rotation_freeze_message">Отключить поворот экрана в ландшафтный режим</string>
+  <string name="screen_rotation_freeze_message">Экран заблокирован в ландшафтной ориентации</string>
   <string name="screen_button_disabled_message">Функции кнопок на нижнем экране будут отключены. Вы можете включить их, нажав \"Домой\" и \"Питание\"</string>
   <string name="screen_button_enabled_message">Функции кнопок на нижней части экрана включены</string>
   <string name="screen_button_notification_title">Экранные кнопки отключены</string>
@@ -259,7 +259,7 @@
   <string name="screen_key_back">Назад</string>
   <string name="status_bar_network_flow_today">Сегодня: %1$s</string>
   <string name="status_bar_network_flow">Сегодня: %1$s | Осталось: %2$s | Всего:%3$s</string>
-  <string name="toast_rotation_locked">Поворот заблокирован в ландшафтной ориентации</string>
+  <string name="toast_rotation_locked">Экран заблокирован в ландшафтной ориентации</string>
   <string name="notifications_off_text">Нажмите сюда для включения уведомлений</string>
   <string name="notifications_off_title">Уведомления отключены</string>
   <string name="settings_auto_dismiss_screenshot_notification">Авто-скрытие сообщения о скриншоте</string>
