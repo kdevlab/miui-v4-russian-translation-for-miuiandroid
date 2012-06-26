@@ -166,7 +166,7 @@
   <string name="screen_button_disabled_message">Функции кнопок на нижнем экране будут отключены. Вы можете включить их, нажав \"Домой\" и \"Питание\"</string>
   <string name="screen_button_enabled_message">Функции кнопок на нижней части экрана включены</string>
   <string name="screen_button_notification_title">Экранные кнопки отключены</string>
-  <string name="screen_button_notification_text">\"Зажмите \'Домой\'+\'Питание\', чтобы включить\"</string>
+  <string name="screen_button_notification_text">"\"Зажмите 'Домой'+'Питание', чтобы включить\""</string>
   <string name="status_bar_style_settings">Настройки статус бара</string>
   <string name="settings_toggle_layout_style">Стиль статус бара</string>
   <string name="settings_toggle_layout_style_compact">Компакт</string>
@@ -179,11 +179,14 @@
   <string name="settings_toggle_position_reset">Сбросить переключатели</string>
   <string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
   <string name="settings_notification_icon">Уведомления в строке состояния</string>
+  <string name="settings_screenshot_notification_disabled">Откл. уведомл. о скриншоте</string>
+  <string name="settings_show_network_speed">Скорость сети</string>
   <string name="settings_expanded_view">Настройки выдвижения</string>
   <string name="settings_expandable_under_keyguard">На экране блокировки</string>
   <string name="settings_expandable_under_keyguard_summary">Работает только при отсутствии пароля для разблокировки</string>
   <string name="settings_expandable_under_fullscreen">В полноэкранном режиме</string>
   <string name="settings_expandable_under_fullscreen_summary">Сдвинув вниз от верхней части экрана</string>
+  <string name="settings_show_flow_info">Информация о сети</string>
   <string name="notification_icon_filter_settings">Уведомления</string>
   <string name="notification_icon_filter_settings_loading">Загрузка...</string>
   <string name="notification_icon_filter">Настройки уведомлений</string>
@@ -202,7 +205,7 @@
   <string name="incoming_call_vibrate_hint">Входящий звонок</string>
   <string name="notification_vibrate_hint">Уведомление</string>
   <string name="mms_vibrate_hint">Сообщение</string>
-    <string name="not_all_vibrate_hint" formatted="false">В соответствии с настройками, будет вибрация при: %1$s, а при: %2$s вибрации не будет, вы можете изменить это в настройках</string>
+  <string name="not_all_vibrate_hint">В соответствии с настройками, будет вибрация при: %1$s, а при: %2$s вибрации не будет, вы можете изменить это в настройках</string>
   <string name="no_vibrate_hint">В соответствии с настройками, уведомление о входящем вызове и сообщения не будут вибрировать, включение это пункта не вызовет никакого действия</string>
   <string name="to_vibrate_settings">Настройки вибрации</string>
   <string name="camera_key_action_title">Кнопка MI</string>
@@ -246,15 +249,6 @@
   <string name="ext_media_safe_unmount_notification_message">Вы можете безопасно извлечь USB-хранилище</string>
   <string name="ext_media_nomedia_notification_title">USB-хранилище извлечено</string>
   <string name="ext_media_nomedia_notification_message">Вставьте новую SD-карту</string>
-  <string name="message_screen_button_disabled">Функции кнопок на экране будут отключены</string>
-  <string name="message_screen_button_enabled">Функции кнопок на нижней части экрана включены</string>
-  <string name="settings_other">Другие</string>
-  <string name="settings_screenshot_notification_disabled">Откл. уведомл. о скриншоте</string>
-  <string name="settings_auto_dismiss_screenshot_notification">Авто-скрытие сообщения о скриншоте</string>
-  <string name="battery_indicator_style">Стиль индикатора батареи</string>
-  <string name="default_usb_mode">Тип подключения по USB</string>
-  <string name="notification_icon_filter_message_system_app">Уведомления от системных приложений не могут быть скрыты</string>
-  <string name="settings_show_network_speed">Скорость сети</string>
   <string name="screen_button_custom">Настройка расположения кнопок</string>
   <string name="recent_apps_key">Последние приложения</string>
   <string name="recent_apps_key_show">Последние приложения</string>
@@ -264,6 +258,15 @@
   <string name="screen_key_recent_apps">Последние приложения</string>
   <string name="screen_key_back">Назад</string>
   <string name="status_bar_network_flow_today">Сегодня: %1$s</string>
-  <string name="status_bar_network_flow">"Сегодня: %1$s | Осталось: %2$s | Всего:%3$s"</string>
-  <string name="settings_show_flow_info">Информация о сети</string>
+  <string name="status_bar_network_flow">Сегодня: %1$s | Осталось: %2$s | Всего:%3$s</string>
+  <string name="toast_rotation_locked">Поворот заблокирован в ландшафтной ориентации</string>
+  <string name="notifications_off_text">Нажмите сюда для включения уведомлений</string>
+  <string name="notifications_off_title">Уведомления отключены</string>
+  <string name="settings_auto_dismiss_screenshot_notification">Авто-скрытие сообщения о скриншоте</string>
+  <string name="message_screen_button_disabled">Функции кнопок на экране будут отключены</string>
+  <string name="message_screen_button_enabled">Функции кнопок на нижней части экрана включены</string>
+  <string name="settings_other">Другие</string>
+  <string name="battery_indicator_style">Стиль индикатора батареи</string>
+  <string name="default_usb_mode">Тип подключения по USB</string>
+  <string name="notification_icon_filter_message_system_app">Уведомления от системных приложений не могут быть скрыты</string>
 </resources>
