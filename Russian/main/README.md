@@ -1,1 +1,0 @@
-This is translation files for MIUIAndroid
