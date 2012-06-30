@@ -4,8 +4,8 @@
   <string name="app_name">Темы</string>
   <string name="theme_activity_lable">Темы</string>
   <string name="theme_changing_dialog_title">Подготовка новой темы, пожалуйста, подождите...</string>
-  <string name="theme_changed_message">Тема \"%1$s\" успешно установлена!</string>
-  <string name="theme_changed_failed_message">Установка темы \"%1$s\" не удалась!</string>
+  <string name="theme_changed_message">Тема успешно установлена!</string>
+  <string name="theme_changed_failed_message">Установка темы не удалась!</string>
   <string name="backup_preference_title">Сохранить настройки</string>
   <string name="backup_theme_dialog_ok">Сохранить</string>
   <string name="backup_theme_dialog_message">Тема будет сохранена в %1$s</string>
