@@ -646,4 +646,11 @@
   <string name="scan_merge_message">Контакты с частично дублирующимися данными (%1$d)</string>
   <string name="sim_contacts_invisiable">Скрывать</string>
   <string name="sim_contacts_visiable">Показывать</string>
+  <string name="export_to_sim">Экспорт на SIM-карту</string>
+  <string name="sim_card_no_free_space_title">SIM-карта полная!</string>
+  <string name="sim_card_no_free_space_message">Память SIM-карты заполнена. Пожалуйста, очистите SIM карту и попробуйте еще раз.</string>
+  <string name="sim_contacts">Контакты на SIM</string>
+  <string name="export_sim_contacts_dialog_message">На SIM-карте можно сохранить %d контактов, продолжить?</string>
+  <string name="export_sim_contact_finish">Экспорт на SIM-карту завершен</string>
+  <string name="sim_export_loading">SIM-карта считываются. Операция может занять несколько минут, пожалуйста, подождите</string>
 </resources>
