@@ -13,8 +13,8 @@
   <string name="cancel_sleep_mode">Спящий режим отменён</string>
   <string name="select_quit_time">Время до отключения (в минутах)</string>
   <string name="quit_warining">Автоотключение через %d минут(у)</string>
-  <string name="refresh_media_db">Обновить</string>
-  <string name="refresh_in_processing">Обновление...</string>
+  <string name="refresh_media_db">Обновить медиатеку</string>
+  <string name="refresh_in_processing">Обновление медиатеки...</string>
   <string name="refresh_finish">Обновление завершено</string>
   <string name="refresh_start">Обновлление, пожалуйста, подождите...</string>
   <string name="quit_player">Выход</string>
@@ -68,7 +68,7 @@
   <string name="remove_item">Удалить</string>
   <string name="delete_song_desc">Вы уверены что хотите удалить файл %s с SD-карты?</string>
   <string name="scanning">Сканирование SD-карты…</string>
-  <string name="scanning_nosdcard">Сканирование SD-карты…</string>
+  <string name="scanning_nosdcard">Сканированиение (Нет SD-карты)…</string>
   <string name="nowplaying_title">Проигрывается</string>
   <string name="online_indicator">-онлайн</string>
   <string name="search_title">Поиск</string>
@@ -82,13 +82,13 @@
   <string name="playlist_renamed_message">Плейлист переименован</string>
   <string name="recentlyadded_title">Недавно добавленные</string>
   <string name="recentlyplayed_title">Недавно проигранные</string>
-  <string name="frequentlyplayed_title">Часто воспроизводимые</string>
+  <string name="frequentlyplayed_title">Часто проигрываемые</string>
   <string name="sdcard_missing_message">SD-карта не вставлена в телефон</string>
   <string name="sdcard_missing_message_nosdcard">SD-карта не вставлена в телефон</string>
-  <string name="sdcard_busy_message">К сожалению ваша SD-карта занята</string>
-  <string name="sdcard_busy_message_nosdcard">К сожалению ваш накопитель занят</string>
+  <string name="sdcard_busy_message">SD-карта занята</string>
+  <string name="sdcard_busy_message_nosdcard">SD-карта используется</string>
   <string name="sdcard_error_message">Ошибка на вашей SD-карте</string>
-  <string name="sdcard_error_message_nosdcard">Ошибка на вашем накопителе</string>
+  <string name="sdcard_error_message_nosdcard">Нет SD-карты</string>
   <string name="unknown_artist_name">Неизвестный исполнитель</string>
   <string name="unknown_album_name">Неизвестный альбом</string>
   <string name="ringtone_menu">Как рингтон</string>
@@ -121,7 +121,7 @@
   <string name="online_search_hint">Поиск музыки онлайн</string>
   <string name="load_category_failed">Не удалось получить список, нажмите Повторить</string>
   <string name="load_category_in_process">Получить список</string>
-  <string name="flow_save_confirm">Я знаю</string>
+  <string name="flow_save_confirm">ОК</string>
   <string name="continue_when_wifi_disconnect">Продолжить слушать музыку он-лайн через мобильную сеть</string>
   <string name="stop_when_wifi_disconnect">Wi-Fi соединение потеряно, онлайн воспроизведение остановлено. Если вы хотите слушать онлайн песни с помощью сети оператора, можно изменить настройки.</string>
   <string name="donot_ask_me_again">Больше не спрашивать</string>
@@ -134,7 +134,7 @@
   <string name="clear_search_history">Очистка истории запросов</string>
   <string name="impunity_declaration_title">Примечание</string>
   <string name="impunity_declaration">Онлайн музыка, которую вы собираетесь использовать, предоставляется Baidu Online Music Service. Нажмите \"OK\", чтобы принять и использовать, нажмите кнопку \"Отмена\" для выхода</string>
-  <string name="music_filter_helper">Скрывать файлы, которые не связаны с музыкой, применяется размер фильтра 800K применяется, чтобы скрыть эти файлы от отображения. Порог можно настроить в меню Настройки/Файловый фильтр</string>
+  <string name="music_filter_helper">Чтобы скрывать файлы, которые не связаны с музыкой, применяется размер фильтра 800 КБ. Порог можно настроить в меню Настройки/Файловый фильтр</string>
   <string name="modify_meta">Изменить</string>
   <string name="id3_edit">Изменить ID3 информацию</string>
   <string name="lyric_download">Загрузить текст песни</string>
@@ -143,7 +143,7 @@
   <string name="use_local_album">Установить обложку альбома</string>
   <string name="lyric_picker_not_found">Файловый менеджер, не найден на устройстве</string>
   <string name="lrc_select">Выберите текст</string>
-  <string name="album_picker_not_found">Галерея не найден на устройстве</string>
+  <string name="album_picker_not_found">Галерея не найдена на устройстве</string>
   <string name="id3_edit_failed">Не удалось отредактировать ID3</string>
   <string name="album_search_failed">Обложки альбома не найдены!</string>
   <string name="start_to_download_album">Загрузка обложек для библиотеки песен</string>
@@ -192,7 +192,7 @@
   <string name="playlist_new">Создать новый плейлист</string>
   <string name="playlist_recently_added">Недавно добавленные</string>
   <string name="playlist_recently_played">Недавно играющие</string>
-  <string name="playlist_frequently_played">Часто воспроизводимые</string>
+  <string name="playlist_frequently_played">Часто проигрываемые</string>
   <string name="playlist_favorite">Избранное</string>
   <string name="create_playlist_create_text_prompt">Название плейлиста</string>
   <string name="create_confirm">ОК</string>
@@ -213,14 +213,14 @@
   <string name="max_interval">90</string>
   <string name="default_interval">30</string>
   <string name="folder_title_format" formatted="false">%s(%d)</string>
-  <string name="filter_by_size_max">2MB</string>
-  <string name="filter_by_size_min">0KB</string>
+  <string name="filter_by_size_max">2MБ</string>
+  <string name="filter_by_size_min">0KБ</string>
   <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="category_num_format">(%s)</string>
   <string name="track_num_format">(%s)</string>
-  <string name="delete_song_desc_nosdcard">Вы хотите удалить файл %s с SD-карты?</string>
-  <string name="filter_max">2MB</string>
-  <string name="filter_min">0K</string>
+  <string name="delete_song_desc_nosdcard">Песен, помеченных для удаления с SD-карты: %d</string>
+  <string name="filter_max">2МБ</string>
+  <string name="filter_min">0KБ</string>
   <string name="min_track_size">Минимальный размер</string>
   <string name="online_track_count">\u0020</string>
   <string name="playlist_nowplaying">Сейчас играет</string>
