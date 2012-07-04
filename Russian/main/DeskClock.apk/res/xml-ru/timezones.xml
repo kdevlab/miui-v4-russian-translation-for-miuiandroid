@@ -1,6 +1,6 @@
 <timezones>
     <timezone id="Pacific/Majuro">Маджуро</timezone>
-    <timezone id="Pacific/Midway">Мидуэй, о-ва</timezone>
+    <timezone id="Pacific/Midway">Острова Мидуэй</timezone>
     <timezone id="Pacific/Honolulu">Гонолулу</timezone>
     <timezone id="America/Anchorage">Анкоридж</timezone>
     <timezone id="America/Los_Angeles">Лос-Анджелес</timezone>
@@ -24,7 +24,7 @@
     <timezone id="America/Argentina/Buenos_Aires">Буэнос-Айрес</timezone>
     <timezone id="America/Godthab">Готхоб</timezone>
     <timezone id="America/Montevideo">Монтевидео</timezone>
-    <timezone id="Atlantic/South_Georgia">Ю.Джорджия и Ю.Сэндвинчевы о-ва</timezone>
+    <timezone id="Atlantic/South_Georgia">о-ва Ю.Джорджия и Ю.Сэндвинчевы</timezone>
     <timezone id="Atlantic/Azores">Азорские о-ва</timezone>
     <timezone id="Atlantic/Cape_Verde">Острова Зеленого Мыса</timezone>
     <timezone id="Africa/Casablanca">Касабланка</timezone>
