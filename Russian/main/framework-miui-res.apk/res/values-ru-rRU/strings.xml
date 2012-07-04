@@ -401,6 +401,7 @@
     <string name="silent_mode_vibrate">Режим вибрации</string>
     <string name="silent_mode_ring">Звук включен</string>
     <string name="ellipsis">...</string>
+    <string name="resource_see_more">Еще...</string>
     <string name="power_off">Отключение питания...</string>
     <string name="lockscreen_emergency_call">Только экстренные</string>
     <string name="kilobyteShort">КБ</string>
