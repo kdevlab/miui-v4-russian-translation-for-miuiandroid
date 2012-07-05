@@ -433,4 +433,17 @@
     <string name="resource_system_title">Системные ресурсы</string>
     <string name="resource_downloaded_title">Загруженные ресурсы</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
+    <string name="day_of_month">" %d"</string>
+    <string name="month_of_january">Янв</string>
+    <string name="month_of_february">Фев</string>
+    <string name="month_of_march">Мар</string>
+    <string name="month_of_april">Апр</string>
+    <string name="month_of_may">Май</string>
+    <string name="month_of_june">Июн</string>
+    <string name="month_of_july">Июл</string>
+    <string name="month_of_august">Авг</string>
+    <string name="month_of_september">Сен</string>
+    <string name="month_of_october">Окт</string>
+    <string name="month_of_november">Ноя</string>
+    <string name="month_of_december">Дек</string>
 </resources>
