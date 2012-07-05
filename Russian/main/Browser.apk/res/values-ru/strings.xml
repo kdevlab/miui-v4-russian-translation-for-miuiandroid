@@ -396,4 +396,18 @@
   <string name="pref_lab_slide_tab_transitions">Переходы по вкладкам</string>
   <string name="pref_lab_slide_tab_transitions_summary">Сдвиньте для перещения на другую вкладку в списке.</string>
   <string name="help_page">Помощь</string>
+  <string name="share_link">Отправить ссылку</string>
+  <string name="open_all_bookmarks">Открыть все</string>
+  <string name="multi_select_title">Выбрано %1$s штук(а)</string>
+  <string name="move_to_up_folder">Вверх</string>
+  <string name="google_bookmarks">"Google: "</string>
+  <string name="folder_name">Имя папки</string>
+  <string name="edit">Редактировать</string>
+  <string name="delete_multi_bookmarks_alert_title">Вы уверены, что хотите удалить %1$s закладок?</string>
+  <string name="delete">Удалить</string>
+  <string name="bookmarks_root_folder">Корень</string>
+  <string name="bookmarks_management">Закладки</string>
+  <string name="bookmark_add_to">Добавить в</string>
+  <string name="add_folder">Добавить папку</string>
+  <string name="add_bookmark_to_home_screen">Добавить на рабочий стол</string>
 </resources>
