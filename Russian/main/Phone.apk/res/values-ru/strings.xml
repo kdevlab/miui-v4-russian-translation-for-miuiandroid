@@ -769,7 +769,7 @@
   <string name="cw_title_miui">Ожидание вызова</string>
   <string name="default_contacts_countrycode_hint_miui">Например: 7</string>
   <string name="default_contacts_countrycode_miui">Стандартный код города</string>
-  <string name="default_contacts_countrycode_sum_miui">Задайте стандартный код города</string>
+  <string name="default_contacts_countrycode_sum_miui">Задайте стандартный код города: %s</string>
   <string name="delete_sim_contact_confirm_title_miui">Удалить контакты с SIM</string>
   <string name="description_call_recording_miui">Запись текущего разговора.</string>
   <string name="description_direction_left_miui">Налево для %s</string>
@@ -984,4 +984,5 @@
   <string name="telocation_setting_summary_countrycode_on">Добавлять код города</string>
   <string name="telocation_setting_summary_teloc_off">Скрывать местоположение</string>
   <string name="telocation_setting_summary_teloc_on">Показывать местоположение</string>
+  <string name="set_preferred_network_type_when_data_enabled_miui">Предпочтительный режим сети доступен при выключенной передаче данных</string>
 </resources>
