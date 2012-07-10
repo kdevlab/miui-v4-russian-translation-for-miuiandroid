@@ -1749,4 +1749,5 @@
   <string name="wifi_p2p_on_summary">Включите WiFi-direct</string>
   <string name="wifi_p2p_settings">Настройки WiFi-direct</string>
   <string name="set_dds_error">Ошибка в подписке набора данных</string>
+  <string name="enable_snapshot_screenlock">НАЗАД - для скриншота на экране блокировки</string>
 </resources>

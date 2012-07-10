@@ -448,4 +448,21 @@
   <string name="dialog_title_date_type">Выбор типа даты сообщения</string>
   <string name="summary_date_type">Дата сообщения</string>
   <string name="title_date_type">Дата сообщения</string>
+  <string name="ex_type_mms">MMS</string>
+  <string name="ex_type_mx">Облачное сообщение</string>
+  <string name="ex_type_sms">SMS</string>
+  <string name="mi_msg">Облачное сообщение</string>
+  <string name="msg_type_hint_mms">Мултимедийное сообщение</string>
+  <string name="msg_type_hint_mx">Облачное сообщение</string>
+  <string name="msg_type_hint_sms">Текстовое сообщение</string>
+  <string name="mx_activate_failure">Ошибка активации облачных сообщений</string>
+  <string name="mx_activating">Активация…</string>
+  <string name="mx_auto_resend_sms">Отправить как SMS</string>
+  <string name="mx_auto_resend_sms_summary">Отправить как SMS, когда облачные сообщения не доступны</string>
+  <string name="mx_btn_enable">Включить</string>
+  <string name="mx_count_dspt">После включения, MIUI отправило %d сообщений вам</string>
+  <string name="mx_dspt">Отправлять сообщения через интернет</string>
+  <string name="mx_enable">Включить облачные сообщения</string>
+  <string name="mx_warning_notice">Сообщение SMS было отправлено для активации облачных сообщений</string>
+   <string name="need_download">Ожидание синхронизации…</string>
 </resources>

@@ -653,4 +653,14 @@
   <string name="export_sim_contacts_dialog_message">На SIM-карту можно сохранить %d контактов, продолжить?</string>
   <string name="export_sim_contact_finish">Экспорт на SIM-карту завершен</string>
   <string name="sim_export_loading">SIM-карта считывается. Операция может занять несколько минут, пожалуйста, подождите...</string>
+<string name="import_to_xiaomi_account_confirm">Импорт</string>
+<string name="import_to_xiaomi_account_progress_finish">Импорт завершен</string>
+<string name="import_to_xiaomi_account_progress_message">Импортирование...</string>
+<string name="import_to_xiaomi_account_progress_title">Импортировать контакты в аакаунт Xiaomi</string>
+<string name="import_to_xiaomi_account_title">Вы уверены, что хотите импортировать контакты в аккаунт Xiaomi?</string>
+<string name="pref_summary_import_from_account">Импорт контактов из аккаунта Google в аккаунт Xiaomi</string>
+<string name="pref_title_account_import">Импорт из аккаунта</string>
+<string name="pref_title_import_from_account">Импорт в аккаунт Xiaomi</string>
+<string name="sim_card_no_free_space_message">Нет места на SIM-карте</string>
+<string name="sim_card_no_free_space_title">Внимание!</string>
 </resources>
