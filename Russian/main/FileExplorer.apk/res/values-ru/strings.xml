@@ -91,9 +91,6 @@
   <string name="favorite_ringtone">Мелодии</string>
   <string name="multi_select_title">Выбрано: %1$s</string>
   <string name="file_loading">Загрузка...</string>
-
-  <!--Готово :)) -->
-
   <string name="clear_cache">Очистить кэш</string>
   <string name="create_new_folder_failed">Не удалось создать папку %1$s</string>
   <string name="create_new_folder_succeeded">Папка %1$s успешно создана</string>
@@ -101,9 +98,9 @@
   <string name="delete_file">Удалить?</string>
   <string name="delete_operation_result_all_success">%1$d фалов успешно удалено</string>
   <string name="delete_operation_result_success_and_failed">Удалено: %1$d. Не удалено: %2$d</string>
-  <string name="disconnect_notication">Все загрузки приостановленны, во время отключения сети</string>
-  <string name="download_items_detail_message">Копирование %1$d файлов на SD-Карту...%2$d%%</string>
-  <string name="file_large_error">Файлы более 300 Мб н могут быть выгружены</string>
+  <string name="disconnect_notication">Во время отключения сети, все загрузки будут приостановлены</string>
+  <string name="download_items_detail_message">Копирование %1$d файлов на SD-Карту... %2$d%%</string>
+  <string name="file_large_error">Файлы более 300 Мб не могут быть выгружены</string>
   <string name="guide_access_files_through_phone">"Вы также можете загружать файлы через интернет, и они будут отображаться в MiDrive в телефоне"</string>
   <string name="guide_access_files_through_web">"Ваш файл можно просмотреть на любом компьютере, подключенном к Интернет"</string>
   <string name="guide_advance_tech">Узнать больше</string>
@@ -191,4 +188,19 @@
   <string name="wangpan_root_path">My Drive</string>
   <string name="wifi_notication">Все задачи готовы для повторной загрузки *Wi-Fi*</string>
   <string name="xiaomi_account">Xiaomi аккаунт</string>
+  <string name="clean_message">Удаление %1$s</string>
+  <string name="clean_title">Удалять файлы из корзины, если они лежат там дольше 30 дней</string>
+  <string name="clean_trash_box">Очистить корзину</string>
+  <string name="clean_trash_box_failed">Ошибка удаления файлов из корзины</string>
+  <string name="close">Закрыть</string>
+  <string name="data_capacity">Объем: %1$s</string>
+  <string name="rename_failed">Переименование《%1$s》не удалось</string>
+  <string name="rename_success">Переименование《%1$s》удалось</string>
+  <string name="space_info">Объем в сети: %1$s доступно，всего: %2$s</string>
+  <string name="space_usage">Занято</string>
+  <string name="start_use_xiaomi_account">Начать используя</string>
+  <string name="trash_box_capacity">Объем корзины: %1$s</string>
+  <string name="trash_box_link">Посетите pan.xiaomi.com для очистки корзины</string>
+  <string name="trash_box_message1">"Вы можете удалить не нужные файлы для освобождения места"</string>
+  <string name="trash_box_message2">"Вы можете удалить не нужные файлы или очистить корзину для освобождения места"</string>
 </resources>
