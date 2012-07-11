@@ -126,7 +126,7 @@
   <string name="menu_setting">Настройки</string>
   <string name="no_file_selected">Файл не выбран</string>
   <string name="no_tasks">Задач нет</string>
-  <string name="no_wifi_hint">Wi-Fi соединение не найдено, нажмите для настройки</string>
+  <string name="no_wifi_hint">Нет Wi-Fi соединения</string>
   <string name="nowifi_notication">Все задачи приостановлены на мобильную сеть</string>
   <string name="operation_download_link">Создание ссылки для скачивания</string>
   <string name="pan_settting">Настройки MiDrive</string>
@@ -198,7 +198,7 @@
   <string name="rename_success">Переименование《%1$s》удалось</string>
   <string name="space_info">Объем в сети: %1$s доступно，всего: %2$s</string>
   <string name="space_usage">Занято</string>
-  <string name="start_use_xiaomi_account">Начать используя</string>
+  <string name="start_use_xiaomi_account">Вход</string>
   <string name="trash_box_capacity">Объем корзины: %1$s</string>
   <string name="trash_box_link">Посетите pan.xiaomi.com для очистки корзины</string>
   <string name="trash_box_message1">"Вы можете удалить не нужные файлы для освобождения места"</string>
