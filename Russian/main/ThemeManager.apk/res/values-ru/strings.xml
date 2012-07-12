@@ -78,4 +78,6 @@
   <string name="old_format_fail">Преобразование .mtz в новый формат не удалось</string>
   <string name="old_format_convert_tip1">Тема не в новом формате, преобразование может занять некоторое время</string>
   <string name="old_format_convert_tip2">Ресурсы можно удалить и обновить до новой версии через загрузку</string>
+  <string name="component_lockstyle_personal_title">Настройка</string>
+  <string name="lockstyle_personal_settings">Персонализация</string>
 </resources>

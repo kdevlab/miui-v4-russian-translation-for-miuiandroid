@@ -278,4 +278,5 @@
     <string name="no_storage_title">Нет хранилища</string>
     <string name="no_storage_message">Нет доступных внешних носителей</string>
     <string name="home_recent_albums">последний альбом</string>
+    <string name="show_details">Свойства</string>
 </resources>
