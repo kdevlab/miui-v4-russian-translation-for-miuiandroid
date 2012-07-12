@@ -417,4 +417,10 @@
   <string name="pref_key_gesture_title">Кнопки и жесты</string>
   <string name="pref_volume_key_enabled">Кнопки громкости</string>
   <string name="pref_volume_key_operation">Действие для кнопок громкости</string>
+  <string name="is_first_history_item">Это первая запись в истории</string>
+  <string name="is_first_tab">Это первая вкладка</string>
+  <string name="is_last_history_item">Это последняя запись в истории</string>
+  <string name="is_last_tab">Это последняя вкладка</string>
+  <string name="is_page_bottom">Достигнут конец страницы</string>
+  <string name="is_page_top">Достигнут верх страницы</string>
 </resources>
