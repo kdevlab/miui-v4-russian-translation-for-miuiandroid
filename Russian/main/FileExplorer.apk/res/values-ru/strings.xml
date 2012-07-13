@@ -112,7 +112,7 @@
   <string name="guide_install_app_on_several_computers">Установить MiDrive клиент на нескольких компьютерах</string>
   <string name="guide_login_url">"Посетите на компьютере: pan.xiaomi.com"</string>
   <string name="guide_manage_files_through_computer">"Вы можете легко управлять файлами в MiDrive с вашего компьютера"</string>
-  <string name="guide_senior_tech">Senior Techniques</string>
+  <string name="guide_senior_tech">Обмен между компьютерами</string>
   <string name="kuaipan_over_space">В вашем MiDrive нет больше свободного места</string>
   <string name="kuaipan_tech_support">Техническая поддержка: Kingsoft Kuaipan</string>
   <string name="local_cache">Локальный кэш</string>
@@ -120,7 +120,7 @@
   <string name="login_reg_content">MiDrive позволяет хранить файлы и синхронизировать их между несколькими устройствами.</string>
   <string name="login_reg_login_xiaomi">Аккаунт Xiaomi</string>
   <string name="menu_exit">Выход</string>
-  <string name="menu_item_ftp">FTP</string>
+  <string name="menu_item_ftp">Обмен файлами через Wi-Fi</string>
   <string name="networkView_notConnected">Нет доступных сетей</string>
   <string name="net_lose_connected">Сеть недоступна, не может получить размер</string>
   <string name="menu_setting">Настройки</string>
@@ -134,7 +134,7 @@
   <string name="pref_primary_folder_summary">Папка, которая появляется при запуске программы, текущий путь: %1$s</string>
   <string name="pref_read_root">Чтение корневого каталога</string>
   <string name="preference_title">Основные настройки</string>
-  <string name="remote_management">FTP</string>
+  <string name="remote_management">Обмен файлами Wi-Fi</string>
   <string name="tab_networkdisk">MiDrive</string>
   <string name="show_message">Файл не может быть открыт без загрузки</string>
   <string name="slide_left_text">Сдвиньте влево</string>
@@ -177,11 +177,11 @@
   <string name="ui_task_menu_clean">Очистить все задачи</string>
   <string name="ui_task_menu_goon">Продолжить все задачи</string>
   <string name="ui_task_menu_pause">Приостановить все задачи</string>
-  <string name="ui_task_title">Управление передачами</string>
+  <string name="ui_task_title">Управление обменом файлов</string>
   <string name="ui_task_toast_file_not_exist">Файл “%1$s” не существует</string>
   <string name="upload_file_toolarge_message">"%1$d файлав размером более 300 Мб не могут быть отправлены. Пожалуйста, проверьте в Управлении передачами"</string>
   <string name="upload_items_detail_message">Копирование %1$d фалов в MiDrive...%2$d%%</string>
-  <string name="used">Используется(но)</string>
+  <string name="used">Занято </string>
   <string name="user_guide">Руководство пользователя</string>
   <string name="user_guide_summary">Руководство по MiDrive</string>
   <string name="waiting_refresh">Обновление, пожалуйста, подождите...</string>
@@ -197,7 +197,7 @@
   <string name="rename_failed">Переименование《%1$s》не удалось</string>
   <string name="rename_success">Переименование《%1$s》удалось</string>
   <string name="space_info">Объем в сети: %1$s доступно，всего: %2$s</string>
-  <string name="space_usage">Занято</string>
+  <string name="space_usage">Использование облачного хранилища</string>
   <string name="start_use_xiaomi_account">Вход</string>
   <string name="trash_box_capacity">Объем корзины: %1$s</string>
   <string name="trash_box_link">Посетите pan.xiaomi.com для очистки корзины</string>
