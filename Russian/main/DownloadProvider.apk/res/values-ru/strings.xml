@@ -24,13 +24,13 @@
   <string name="notification_need_wifi_for_size">Загрузка только по Wi-Fi</string>
   <string name="notification_paused_in_background">Загрузка приостановлена</string>
   <string name="wifi_required_title">Слишком большой файл для сети оператора</string>
-  <string name="wifi_required_body" formatted="false">"Для завершения загрузки файла размером %s  необходимо подключение к сети Wi-Fi.
+  <string name="wifi_required_body" formatted="false">"Для завершения загрузки файла размером %s необходимо подключение к сети Wi-Fi.
 
 Чтобы продолжить загрузку позже через Wi-Fi, нажмите %s"</string>
-  <string name="wifi_recommended_title">Поставить в очередь на загрузку позже?</string>
-  <string name="wifi_recommended_body" formatted="false">"Если загрузить %s  сейчас, батарея может быстро разрядиться. Также не исключено превышение трафика и, как результат, увеличение расходов на связь.
+  <string name="wifi_recommended_title">Загрузки</string>
+  <string name="wifi_recommended_body" formatted="false">"Если загрузить файл сейчас, батарея может быстро разрядиться. Также не исключено превышение трафика и, как результат, увеличение расходов на связь.
 
-Чтобы выполнить загрузку позже через Wi-Fi, нажмите %s"</string>
+Чтобы выполнить загрузку позже через Wi-Fi, нажмите Добавить в очередь"</string>
   <string name="button_queue_for_wifi">Добавить в очередь</string>
   <string name="button_cancel_download">Отмена</string>
   <string name="button_start_now">Запустить</string>
