@@ -163,7 +163,7 @@
   <string name="ui_main_menu_option_help">Обратная связь</string>
   <string name="ui_main_menu_option_new">Новый</string>
   <string name="ui_main_menu_option_setting">Параметры</string>
-  <string name="ui_main_menu_option_task_manage">Управлене передачами</string>
+  <string name="ui_main_menu_option_task_manage">Управление обменом файлов</string>
   <string name="ui_main_menu_option_upload">Выгрузить</string>
   <string name="ui_main_progress_txt_open_file">Загрузка...</string>
   <string name="ui_main_toast_shareLink_err">Создание папки внешней ссылке не удалось</string>
