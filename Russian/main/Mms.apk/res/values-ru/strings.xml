@@ -463,6 +463,6 @@
   <string name="mx_count_dspt">После включения, MIUI отправило %d сообщений вам</string>
   <string name="mx_dspt">Отправлять сообщения через интернет</string>
   <string name="mx_enable">Включить облачные сообщения</string>
-  <string name="mx_warning_notice">Сообщение SMS было отправлено для активации облачных сообщений</string>
-   <string name="need_download">Ожидание синхронизации…</string>
+  <string name="mx_warning_notice">Будет отправлено SMS для активации облачных сообщений</string>
+  <string name="need_download">Ожидание синхронизации…</string>
 </resources>
