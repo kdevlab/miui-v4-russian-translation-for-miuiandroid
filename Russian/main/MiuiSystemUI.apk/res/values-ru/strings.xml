@@ -271,4 +271,7 @@
   <string name="default_usb_mode">Тип подключения по USB</string>
   <string name="notification_icon_filter_message_system_app">Уведомления от системных приложений не могут быть скрыты</string>
   <string name="status_bar_recent_clear_nothing_result">Нет памяти для очистки</string>
+  <string name="status_bar_recent_guide_all">Потяните вверх для закрытия, вниз для блокировки</string>
+  <string name="status_bar_recent_guide_top">Потяните вверх для закрытия</string>
+  <string name="status_bar_recent_guide_bottom">Потяните вниз для блокировки</string>
 </resources>
