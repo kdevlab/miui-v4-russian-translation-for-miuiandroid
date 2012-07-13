@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="application_name">Браузер</string>
@@ -344,6 +344,23 @@
   <string name="accessibility_state_incognito">Страница в режиме инкогнито</string>
   <string name="accessibility_state_frozen">Сохраненная страница</string>
   <string name="accessibility_transition_navscreen">Управление вкладками</string>
+  <string name="google_bookmarks">"Google: "</string>
+  <string name="bookmarks_management">Закладки</string>
+  <string name="bookmarks_root_folder">Корень</string>
+  <string name="edit">Редактировать</string>
+  <string name="delete">Удалить</string>
+  <string name="multi_select_title">Выбрано %1$s штук(а)</string>
+  <string name="delete_multi_bookmarks_alert_title">Вы уверены, что хотите удалить %1$s закладок?</string>
+  <string name="add_bookmark">Добавить закладку</string>
+  <string name="add_bookmark_to_home_screen">Добавить на рабочий стол</string>
+  <string name="bookmark_title">Название</string>
+  <string name="bookmark_url">Адрес</string>
+  <string name="bookmark_add_to">Добавить в</string>
+  <string name="add_folder">Добавить папку</string>
+  <string name="folder_name">Имя папки</string>
+  <string name="share_link">Отправить ссылку</string>
+  <string name="open_all_bookmarks">Открыть все</string>
+  <string name="move_to_up_folder">Вверх</string>
   <string name="tab_yellowpage">Интересы</string>
   <string name="tab_quicklinks">Быстрые ссылки</string>
   <string name="pref_content_night_read_mode">Включить ночной режим</string>
@@ -376,9 +393,27 @@
   <string name="pref_developer_options_summary">Отладка или сообщить об ошибке</string>
   <string name="add_xiaomi_account_warning">Пожалуйста, войдите в аккаунт Xiaomi</string>
   <string name="report_reading_mode_issue">Сообщить о проблеме режима чтения MIUI</string>
+  <string name="pref_key_gesture_title">Кнопки и жесты</string>
+  <string name="pref_key_title">Настройки кнопок</string>
+  <string name="pref_volume_key_enabled">Кнопки громкости</string>
+  <string name="pref_volume_key_operation">Действие для кнопок громкости</string>
+  <string name="pref_gesture_title">Жесты</string>
+  <string name="pref_fling_on_border_enabled">Бросить на границе</string>
+  <string name="pref_fling_on_border_operation">Операция Бросить на границе</string>
+  <string name="is_page_top">Достигнут верх страницы</string>
+  <string name="is_page_bottom">Достигнут конец страницы</string>
+  <string name="is_first_tab">Это первая вкладка</string>
+  <string name="is_last_tab">Это последняя вкладка</string>
+  <string name="is_first_history_item">Это первая запись в истории</string>
+  <string name="is_last_history_item">Это последняя запись в истории</string>
   <string name="warning">Внимание</string>
   <string name="menu_exit">Выход</string>
   <string name="exit_browser_warning">Выйти из браузера?</string>
+  <string name="not_remind_again">Больше не напоминать</string>
+  <string name="pref_general_exit_setting_title">Настройки выхода</string>
+  <string name="pref_confirm_for_exit">Спрашивать при выходе</string>
+  <string name="pref_clear_cache_for_exit">Очищать кеш при выходе</string>
+  <string name="pref_clear_history_for_exit">Очищать историю при выходе</string>
   <string name="menu_enable_night_mode">Включить ночной режим</string>
   <string name="menu_disable_night_mode">Выключить ночной режим</string>
   <string name="tab_opened_background">Вкладка открыта в фоне.</string>
@@ -396,31 +431,4 @@
   <string name="pref_lab_slide_tab_transitions">Переходы по вкладкам</string>
   <string name="pref_lab_slide_tab_transitions_summary">Сдвиньте для перещения на другую вкладку в списке.</string>
   <string name="help_page">Помощь</string>
-  <string name="share_link">Отправить ссылку</string>
-  <string name="open_all_bookmarks">Открыть все</string>
-  <string name="multi_select_title">Выбрано %1$s штук(а)</string>
-  <string name="move_to_up_folder">Вверх</string>
-  <string name="google_bookmarks">"Google: "</string>
-  <string name="folder_name">Имя папки</string>
-  <string name="edit">Редактировать</string>
-  <string name="delete_multi_bookmarks_alert_title">Вы уверены, что хотите удалить %1$s закладок?</string>
-  <string name="delete">Удалить</string>
-  <string name="bookmarks_root_folder">Корень</string>
-  <string name="bookmarks_management">Закладки</string>
-  <string name="bookmark_add_to">Добавить в</string>
-  <string name="add_folder">Добавить папку</string>
-  <string name="add_bookmark_to_home_screen">Добавить на рабочий стол</string>
-  <string name="pref_fling_on_border_enabled">Бросить на границе</string>
-  <string name="pref_fling_on_border_operation">Операция Бросить на границе</string>
-  <string name="pref_gesture_title">Жесты</string>
-  <string name="pref_key_title">Настройки кнопок</string>
-  <string name="pref_key_gesture_title">Кнопки и жесты</string>
-  <string name="pref_volume_key_enabled">Кнопки громкости</string>
-  <string name="pref_volume_key_operation">Действие для кнопок громкости</string>
-  <string name="is_first_history_item">Это первая запись в истории</string>
-  <string name="is_first_tab">Это первая вкладка</string>
-  <string name="is_last_history_item">Это последняя запись в истории</string>
-  <string name="is_last_tab">Это последняя вкладка</string>
-  <string name="is_page_bottom">Достигнут конец страницы</string>
-  <string name="is_page_top">Достигнут верх страницы</string>
 </resources>
