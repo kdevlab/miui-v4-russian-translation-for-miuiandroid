@@ -112,4 +112,6 @@
     <string name="search_empty">Не найдено</string>
     <string name="preferences_set_password_title">Задать пароль</string>
     <string name="preferences_set_password_summary">Требуется глобальный пароль при запуске приложения Заметки</string>
+    <string name="button_new_note">Новая заметка</string>
+    <string name="default_folder_name">Заметки</string>
 </resources>

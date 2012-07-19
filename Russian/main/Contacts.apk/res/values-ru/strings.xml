@@ -661,4 +661,6 @@
   <string name="pref_summary_import_from_account">Импорт контактов из аккаунта Google в аккаунт Xiaomi</string>
   <string name="pref_title_account_import">Импорт из аккаунта</string>
   <string name="pref_title_import_from_account">Импорт в аккаунт Xiaomi</string>
+  <string name="batch_delete_msg">"Удалить выбранные контакты (%d)? Контакты в облаке тоже будут удалены!"</string>
+  <string name="menu_batch_delete">Групповое удаление контактов</string>
 </resources>

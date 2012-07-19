@@ -67,4 +67,7 @@
     <string name="might_lead_to_mobile_charge">После отмены, загрузки из сети оператора будут идти без запросов. Это может привести к расходам трафика</string>
     <string name="download_complete">Скачанные</string>
     <string name="download_in_process">В процессе</string>
+    <string name="editmode_menu_delete">Удалить</string>
+    <string name="editmode_menu_share">Отправить</string>
+    <string name="retry_after_network_available">Повторите, когда сеть будет доступна</string>
 </resources>

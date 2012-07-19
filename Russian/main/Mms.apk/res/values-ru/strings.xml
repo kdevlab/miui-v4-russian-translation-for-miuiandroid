@@ -465,4 +465,5 @@
   <string name="mx_enable">Включить облачные сообщения</string>
   <string name="mx_warning_notice">Будет отправлено SMS для активации облачных сообщений</string>
   <string name="need_download">Ожидание синхронизации…</string>
+  <string name="no_sim">SIM-карта недоступна, облачные сообщения недоступны</string>
 </resources>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="application_name">Браузер</string>
@@ -431,4 +431,8 @@
   <string name="pref_lab_slide_tab_transitions">Переходы по вкладкам</string>
   <string name="pref_lab_slide_tab_transitions_summary">Сдвиньте для перещения на другую вкладку в списке.</string>
   <string name="help_page">Помощь</string>
+  <string name="crash_recovcery_message">Браузер был завершен с ошибкой. Восстановить прошлую сессию?</string>
+  <string name="manage_feature_permissions">Управление правами</string>
+  <string name="recover">Восстановить</string>
+  <string name="recover_from_crash">Продолжить последнюю сессию</string>
 </resources>
