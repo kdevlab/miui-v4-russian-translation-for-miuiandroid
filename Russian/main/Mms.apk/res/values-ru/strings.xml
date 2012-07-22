@@ -296,7 +296,7 @@
   <string name="nickname_placeholder">Имя</string>
   <string name="me">Я</string>
   <string name="to_count">Всего: %d</string>
-  <string name="recipient_editor_count_format">%d людей</string>
+  <string name="recipient_editor_count_format">Людей: %d</string>
   <string name="new_message_arrived">Новое сообщение получено</string>
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Загрузка...</string>

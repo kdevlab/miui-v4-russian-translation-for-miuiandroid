@@ -54,7 +54,7 @@
   <string name="HIPS_Perm_CallState_Hint">%1$s приложения, имеющие доступ к состоянию телефона</string>
   <string name="HIPS_Perm_CallMonitor">Управление вызовами</string>
   <string name="HIPS_Perm_CallMonitor_Desc">Управление входящими и исходящими вызовами, контроль громкости, и.т.д</string>
-  <string name="HIPS_Perm_CallMonitor_Hint">%1$s приложения имеющие доступ к управлению вашими входящими и исходящими вызовами, контролю громкости.</string>
+  <string name="HIPS_Perm_CallMonitor_Hint">%1$s приложения имеющие доступ к управлению вашими входящими и исходящими вызовами, контролю громкости</string>
   <string name="HIPS_Perm_Location">Местоположение</string>
   <string name="HIPS_Perm_Location_Desc">Поиск вашего телефона посредством сети или GPS</string>
   <string name="HIPS_Perm_Location_Hint">%1$s Приложения, имеющие разрешения для ослеживания местоположения телефона</string>
@@ -163,7 +163,7 @@
   <string name="Privacy_App_Finish">Готово</string>
   <string name="Privacy_App_Launch">Запуск</string>
   <string name="Privacy_App_TrustDialog_Title">Доверять этому приложению</string>
-  <string name="Privacy_App_TrustDialog_Content">MIUI не будет спрашивать вашего подтверждения какой-либо безопасности и конфиденциальности операций, связанных с этим приложением.</string>
+  <string name="Privacy_App_TrustDialog_Content">MIUI не будет спрашивать вашего подтверждения какой-либо безопасности и конфиденциальности операций, связанных с этим приложением</string>
   <string name="HIPS_Perm_Title">Разрешения</string>
   <string name="HIPS_Perm_Network">Интернет</string>
   <string name="HIPS_Perm_Network_Desc">Интернет</string>

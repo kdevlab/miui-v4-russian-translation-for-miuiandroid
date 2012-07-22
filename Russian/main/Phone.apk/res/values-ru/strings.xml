@@ -653,9 +653,9 @@
   <string name="areacode_required_miui">Вводить свой код города</string>
   <string name="auto_answer_summary_not_enabled">Не включено</string>
   <string name="auto_answer_summary_delay">(задержка: %s сек)</string>
-  <string name="auto_answer_delay_entries_delay_10s_miui">10с</string>
-  <string name="auto_answer_delay_entries_delay_3s_miui">3с</string>
-  <string name="auto_answer_delay_entries_delay_5s_miui">5с</string>
+  <string name="auto_answer_delay_entries_delay_10s_miui">10 с.</string>
+  <string name="auto_answer_delay_entries_delay_3s_miui">3 с.</string>
+  <string name="auto_answer_delay_entries_delay_5s_miui">5 с.</string>
   <string name="auto_answer_delay_entries_immediately_miui">0с</string>
   <string name="auto_answer_delay_title_miui">Задержка при автоответе</string>
   <string name="auto_answer_pref_summary_miui">Включить автоматический ответ на вызовы, но не автоматически отвечать на входящие вызовы</string>
@@ -756,7 +756,7 @@
   <string name="connect_disconnect_vibrate_title_miui">Вибрация</string>
   <string name="connect_disconnect_vibrate_weak_miui">Слабо вибрировать</string>
   <string name="contacts_icon_label_miui">Контакты</string>
-  <string name="count_of_persons_in_conference_miui">Всего %d людей</string>
+  <string name="count_of_persons_in_conference_miui">Всего людей: %d</string>
   <string name="countrycode_alert_message_warning_miui">Код города, который вы ввели возможно не верен, вы хотите продолжить?</string>
   <string name="countrycode_alert_message_wrong_miui">Код города, который вы ввели не верен. Попробуйте снова</string>
   <string name="countrycode_alert_title_miui">Внимание!</string>

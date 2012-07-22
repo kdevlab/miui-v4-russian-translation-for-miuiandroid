@@ -14,8 +14,9 @@
   <string name="status_bar_no_notifications_title">Нет уведомлений</string>
   <string name="status_bar_ongoing_events_title">Постоянные</string>
   <string name="status_bar_latest_events_title">Уведомления</string>
-  <string name="battery_low_title">Подключите зарядное устройство</string>
-  <string name="battery_low_subtitle">Батарея разряжена</string>
+  <string name="battery_low_title">Низкий заряд батареи. 
+  Подключите зарядное устройство</string>
+  <string name="battery_low_subtitle">Батарея разряжается</string>
   <string name="battery_low_percent_format">Осталось %d%%</string>
   <string name="invalid_charger">"Зарядка по USB порту не поддерживается.
 Используйте зарядное устройство из комплекта поставки"</string>
@@ -36,7 +37,7 @@
   <string name="usb_accessory_permission_prompt">Открыть приложению \"%1$s\" доступ к USB-устройству?</string>
   <string name="usb_device_confirm_prompt">Запускать %1$s при подключении этого USB-устройства?</string>
   <string name="usb_accessory_confirm_prompt">Запускать %1$s при подключении этого USB-аксессуара?</string>
-  <string name="usb_accessory_uri_prompt">Приложения не поддерживают это USB-устройство. Подробнее о нем читайте здесь: %1$s.</string>
+  <string name="usb_accessory_uri_prompt">Приложения не поддерживают это USB-устройство. Подробнее о нем читайте здесь: %1$s</string>
   <string name="title_usb_accessory">USB-устройство</string>
   <string name="label_view">Просмотр</string>
   <string name="always_use_device">Использовать по умолчанию для этого USB-устройства</string>
@@ -65,7 +66,7 @@
   <string name="accessibility_compatibility_zoom_example">Уменьшение изображения для увеличения свободного места на экране</string>
   <string name="accessibility_bluetooth_connected">Bluetooth-соединение установлено</string>
   <string name="accessibility_bluetooth_disconnected">Bluetooth-соединение разорвано</string>
-  <string name="accessibility_no_battery">Батарея разряжвется...</string>
+  <string name="accessibility_no_battery">Батарея разряжается...</string>
   <string name="accessibility_battery_one_bar">Заряд батареи: одно деление</string>
   <string name="accessibility_battery_two_bars">Заряд батареи: два деления</string>
   <string name="accessibility_battery_three_bars">Заряд батареи: три деления</string>

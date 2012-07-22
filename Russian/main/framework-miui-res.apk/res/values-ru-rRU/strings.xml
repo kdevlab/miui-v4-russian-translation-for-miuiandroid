@@ -13,7 +13,7 @@
     <string name="resource_notification_default">Уведомления</string>
     <string name="resource_alarm_default">Будильник</string>
     <string name="description_unknown">Неизвестный</string>
-    <string name="description_missed">N/A</string>
+    <string name="description_missed">Не указан</string>
     <string name="description_designer">Дизайнер:</string>
     <string name="description_author">Автор:</string>
     <string name="description_size">Размер:</string>

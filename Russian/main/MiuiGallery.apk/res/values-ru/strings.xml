@@ -100,8 +100,8 @@
     <string name="untagged">Без тегов</string>
     <string name="no_location">Место не указано</string>
     <string name="no_connectivity">Не удалось найти все места из-за проблем с подключением</string>
-    <string name="sync_album_error">Не удалось загрузить фотографии. Повторите попытку позже.</string>
-    <string name="sync_album_set_error">Не удалось загрузить альбомы. Повторите попытку позже.</string>
+    <string name="sync_album_error">Не удалось загрузить фотографии. Повторите попытку позже</string>
+    <string name="sync_album_set_error">Не удалось загрузить альбомы. Повторите попытку позже</string>
     <string name="show_images_only">Только изображения</string>
     <string name="show_videos_only">Только видео</string>
     <string name="show_all">Изображения и видео</string>
@@ -155,8 +155,8 @@
     <string name="Import">Импорт</string>
     <string name="import_complete">Импорт завершен</string>
     <string name="import_fail">Сбой импорта</string>
-    <string name="camera_connected">Камера подключена.</string>
-    <string name="camera_disconnected">Камера отключена.</string>
+    <string name="camera_connected">Камера подключена</string>
+    <string name="camera_disconnected">Камера отключена</string>
     <string name="click_import">Нажмите здесь, чтобы начать импорт</string>
     <string name="widget_type_album">Выбрать альбом</string>
     <string name="widget_type_shuffle">Перемешать все изображения</string>
@@ -174,7 +174,7 @@
     <string name="order_by">Сортировать по</string>
     <string name="set_recent_album">Сделать новый альбом</string>
     <string name="remove_recent_album">Удалить из последних альбомов</string>
-    <string name="set_hidden_album">Скрытый альбом</string>
+    <string name="set_hidden_album">Скрыть альбом(ы)</string>
     <string name="remove_hidden_album">Отменить скрытие</string>
     <string name="all_albums_desc">Альбомы</string>
     <string name="all_recent_albums_desc">Последние альбомы</string>
@@ -222,7 +222,7 @@
     <string name="auto_create_recent_album">Автоматическое создание избранного альбома</string>
     <string name="auto_create_recent_album_over_ten_times">Создает избранный альбом после захода в него более 10 раз</string>
     <string name="not_auto_create_recent_album">Неавтоматическое создание последних альбомов</string>
-    <string name="auto_create_recent_album_confirm">После отключения этой функции, галерея очистит созданные данные последних альбомов. Последние альбомы установленные пользователем, не будут затронуты. Кроме того, можно установить это вручную, долгим нажатием на альбом.</string>
+    <string name="auto_create_recent_album_confirm">После отключения этой функции, галерея очистит созданные данные последних альбомов. Последние альбомы установленные пользователем, не будут затронуты. Кроме того, можно установить это вручную, долгим нажатием на альбом</string>
     <string name="expand_album_in_home_page">Развернуть альбом на домашней странице</string>
     <string name="page_category">Категории</string>
     <string name="slideshow_category">Слайд-шоу</string>
@@ -231,7 +231,7 @@
     <string name="slideshow_interval_invalid">Неверная настройка интервала времени, который должен быть от 1 до 3600. Возобновится интервал времени по умолчанию</string>
     <string name="slideshow_repeat_mode">Повторять</string>
     <string name="clear_thumbnail_cache">Очистить кэш миниатюр</string>
-    <string name="clear_thumbnail_cache_confirm">Кэш миниатюр будет очищен. Галерея повторно сканирует медиа-файлы и заново создаст эскизы позже.</string>
+    <string name="clear_thumbnail_cache_confirm">Кэш миниатюр будет очищен. Галерея повторно сканирует медиа-файлы и заново создаст эскизы позже</string>
     <string name="cleaning_cache">Очистка кэша...</string>
     <string name="seconds">секунд</string>
     <string name="rename_failed">Не удалось переименовать</string>
@@ -277,6 +277,7 @@
     <string name="global_setting">Настройки</string>
     <string name="no_storage_title">Нет хранилища</string>
     <string name="no_storage_message">Нет доступных внешних носителей</string>
+<<<<<<< HEAD
     <string name="home_recent_albums">последний альбом</string>
     <string name="show_details">Свойства</string>
     <string name="cloud_gallery_space_full">Ошибка отправки - облачное хранилище заполнено</string>
@@ -285,4 +286,13 @@
     <string name="move_cloud_data">Данные облачной галереи были перемещены в: %s</string>
     <string name="no_storage_disable_cloud_albums">Облачные альбомы запрещены, повторите когда хранилище будет доступно</string>
     <string name="cloud_albums">Облачные альбомы</string>
+=======
+    <string name="home_recent_albums">последний альбом</string>
+    <string name="show_details">Свойства</string>
+    <string name="cloud_gallery_space_full">Ошибка отправки - облачное хранилище заполнено</string>
+    <string name="cloud_media_set_set">Облачные альбомы</string>
+    <string name="message_no_delete_access">Ошибка доступа. Невозможно удалить файл или папку: %s</string>
+    <string name="move_cloud_data">Данные облачной галереи были перемещены в: %s</string>
+    <string name="no_storage_disable_cloud_albums">Облачные альбомы запрещены, повторите когда хранилище будет доступно</string>
+>>>>>>> Исправления некоторых мелких недочетов в переводе
 </resources>

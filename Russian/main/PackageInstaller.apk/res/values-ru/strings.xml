@@ -6,7 +6,7 @@
     <string name="security_settings_desc">Разрешить приложению:</string>
     <string name="cancel">Отмена</string>
     <string name="unknown">Неизвестно</string>
-    <string name="installing">Установка...</string>
+    <string name="installing">Выполняется установка...</string>
     <string name="install_done">Приложение установлено</string>
     <string name="install_confirm_question">Установить это приложение?</string>
     <string name="install_failed">Приложение не установлено</string>
@@ -16,7 +16,7 @@
     <string name="install_failed_cpu_abi_incompatible">Процессор телефона не поддерживает это приложение</string>
     <string name="install_failed_file_not_found">Указанный пакет удален до завершения установки</string>
     <string name="install_failed_verify_failed">Пакет не проверен и не может быть установлен</string>
-    <string name="install_failed_verify_timeout">Не удалось проверить пакет. Попробуйте установить его позже.</string>
+    <string name="install_failed_verify_timeout">Не удалось проверить пакет. Попробуйте установить его позже</string>
     <string name="install_failed_msg">Установить приложение %1$s не удалось</string>
     <string name="launch">Открыть</string>
     <string name="unknown_apps_dlg_title">Установка заблокирована</string>
@@ -31,13 +31,13 @@
     <string name="dlg_app_replacement_title">Заменить приложение</string>
     <string name="dlg_app_replacement_statement">"Приложение, которое вы устанавливаете, заменит другое приложение.
 
-Все пользовательские данные будут сохранены."</string>
+Все пользовательские данные будут сохранены"</string>
     <string name="dlg_sys_app_replacement_statement">"Это системное приложение. Заменить?
 
-Все пользовательские данные будут сохранены."</string>
+Все пользовательские данные будут сохранены"</string>
     <string name="lift_ban">Снять запрет</string>
     <string name="out_of_space_dlg_title">Недостаточно места</string>
-    <string name="out_of_space_dlg_text">Установить приложение %1$s не удалось. Освободите место и повторите попытку.</string>
+    <string name="out_of_space_dlg_text">Установить приложение %1$s не удалось. Освободите место и повторите попытку</string>
     <string name="dlg_ok">ОК</string>
     <string name="app_not_found_dlg_title">Приложение не найдено</string>
     <string name="app_not_found_dlg_text">Приложение не было найдено в списке установленных приложений</string>
@@ -46,7 +46,7 @@
     <string name="uninstall_activity_text">%1$s является частью следующего приложения:</string>
     <string name="uninstall_application_text">Приложение будет удалено</string>
     <string name="uninstall_update_text">Будет восстановлена исходная версия приложения</string>
-    <string name="uninstalling">Удаление...</string>
+    <string name="uninstalling">Выполняется удаление...</string>
     <string name="uninstall_done">Удаление завершено</string>
     <string name="uninstall_failed">Ошибка при удалении</string>
     <string name="uninstall_failed_device_policy_manager">Не удалось удалить пакет, так как он выбран для администрирования усройства</string>
