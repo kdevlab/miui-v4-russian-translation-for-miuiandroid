@@ -505,7 +505,7 @@
   <string name="add_blacklist">Добавить в черный список</string>
   <string name="unknown_contact_name">Неизвестный контакт</string>
   <string name="primary_indicator">(стандартный)</string>
-  <string name="contactDetailCalllog">Жулнал звонков</string>
+  <string name="contactDetailCalllog">Журнал звонков</string>
   <string name="ringLabelsGroup">Рингтон</string>
   <string name="default_ringtone">По умолчанию</string>
   <string name="callNoAnswerTimeFormat">звонков: %s</string>
