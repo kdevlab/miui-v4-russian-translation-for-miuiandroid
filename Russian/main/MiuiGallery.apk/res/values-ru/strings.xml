@@ -277,7 +277,6 @@
     <string name="global_setting">Настройки</string>
     <string name="no_storage_title">Нет хранилища</string>
     <string name="no_storage_message">Нет доступных внешних носителей</string>
-<<<<<<< HEAD
     <string name="home_recent_albums">последний альбом</string>
     <string name="show_details">Свойства</string>
     <string name="cloud_gallery_space_full">Ошибка отправки - облачное хранилище заполнено</string>
@@ -286,13 +285,4 @@
     <string name="move_cloud_data">Данные облачной галереи были перемещены в: %s</string>
     <string name="no_storage_disable_cloud_albums">Облачные альбомы запрещены, повторите когда хранилище будет доступно</string>
     <string name="cloud_albums">Облачные альбомы</string>
-=======
-    <string name="home_recent_albums">последний альбом</string>
-    <string name="show_details">Свойства</string>
-    <string name="cloud_gallery_space_full">Ошибка отправки - облачное хранилище заполнено</string>
-    <string name="cloud_media_set_set">Облачные альбомы</string>
-    <string name="message_no_delete_access">Ошибка доступа. Невозможно удалить файл или папку: %s</string>
-    <string name="move_cloud_data">Данные облачной галереи были перемещены в: %s</string>
-    <string name="no_storage_disable_cloud_albums">Облачные альбомы запрещены, повторите когда хранилище будет доступно</string>
->>>>>>> Исправления некоторых мелких недочетов в переводе
 </resources>
