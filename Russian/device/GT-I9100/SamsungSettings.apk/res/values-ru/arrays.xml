@@ -21,6 +21,6 @@
     <string-array name="screen_mode_entries">
         <item>Динамический</item>
         <item>Стандартный</item>
-        <item>Фильм</item>
+        <item>Фильмы</item>
     </string-array>
 </resources>

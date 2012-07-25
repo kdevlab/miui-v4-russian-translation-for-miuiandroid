@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated with KDev Group Translator Editor (main repository)-->
-  <string name="AF_Threshold">Установить порог AF (INT)</string>
-  <string name="AF_Valid_Threshold">Установить действующий порог AF (int)</string>
+  <string name="AF_Threshold">Установить AF Threshold (INT)</string>
+  <string name="AF_Valid_Threshold">Установить действующий AF порог (int)</string>
   <string name="CNT">Установить Seek CNT (int)</string>
   <string name="Current_Threshold">Получить текущий порог (int)</string>
   <string name="RSSI">Выбрать Seek RSSI (int)</string>
@@ -14,9 +14,9 @@
   <string name="alarm_text3">Радио отключится через %1$d часов</string>
   <string name="alert">Предупреждение</string>
   <string name="allchannels">Все каналы</string>
-  <string name="alrm_1_hr_past">Автотключение, прошел 1 час</string>
-  <string name="alrm_2_hrs_past">Автотключение, прошло %1$d часов</string>
-  <string name="alrm_30_min_past">Автотключение, %1$d мин прошло</string>
+  <string name="alrm_1_hr_past">Автотключение Радио. Прошел 1 час</string>
+  <string name="alrm_2_hrs_past">Автотключение Радио. Прошло %1$d часов</string>
+  <string name="alrm_30_min_past">Автотключение Радио. %1$d мин прошло</string>
   <string name="app_name">Радио</string>
   <string name="audio_shock_warning">Громкая музыка может привести к повреждению слуха, если слушать ее в течение длительного времени</string>
   <string name="cancel">Отмена</string>
@@ -63,7 +63,7 @@
   <string name="setting_korea">Корея</string>
   <string name="setting_off">Выкл</string>
   <string name="setting_region">Регион</string>
-  <string name="setting_sationid">Показывать ID станции</string>
+  <string name="setting_sationid">Показывать  ID станции</string>
   <string name="setting_stationid_summary">Информация о станции будет отображаться</string>
   <string name="setting_usa">США</string>
   <string name="settings">Настройки</string>
@@ -80,8 +80,8 @@
   <string name="toast_channel_invalid">Неверная частота</string>
   <string name="toast_disabled">%1$s отключен</string>
   <string name="toast_earphone_not_connected">Наушники не подключены</string>
-  <string name="toast_fm_not_played">Невозможно включить радио</string>
-  <string name="toast_initial_access">Запуск автосканирования...</string>
+  <string name="toast_fm_not_played">Невозможно включить Радио</string>
+  <string name="toast_initial_access">Запуск автосканирования ...</string>
   <string name="toast_no_channel_found">Канал не найден</string>
   <string name="toast_no_fav_channel">Нет сохраненных любимых каналов</string>
   <string name="toast_on_alert">Включите Радио</string>
