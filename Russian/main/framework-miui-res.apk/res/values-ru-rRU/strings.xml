@@ -449,7 +449,8 @@
   <string name="valentines_day">День Святого Валентина</string>
   <string name="vernal_equinox" />
   <string name="white_dews" />
-  <string name="wifi_tether_configure_ssid_default">KDG Phone</string>
+  <string name="wifi_tether_configure_ssid_default">Android AP</string>
   <string name="winter_begins" />
   <string name="winter_solstice" />
+  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
