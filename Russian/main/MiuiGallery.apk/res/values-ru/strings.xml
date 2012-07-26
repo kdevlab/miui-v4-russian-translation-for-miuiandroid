@@ -72,6 +72,7 @@
   <string name="exposure_time">Выдержка</string>
   <string name="facelift">Сияние</string>
   <string name="facetan">Загар</string>
+  <string name="fail_init_gallery_db_helper">Ошибка открытия базы галереи. Диск полон. Приложение будет закрыто</string>
   <string name="fail_to_load">Не загружено</string>
   <string name="failure_external_storage_not_writable">Внешний накопитель не доступен для записи!</string>
   <string name="file_info_create_time">Создан:</string>
@@ -154,6 +155,7 @@
   <string name="no_file">Файлы не найдены</string>
   <string name="no_files">Папка пуста</string>
   <string name="no_location">Место не указано</string>
+  <string name="no_map_app">Нет приложений с картами</string>
   <string name="no_recent_album">Альбомы могут быть добавлены в избранное для быстрого просмотра</string>
   <string name="no_storage_disable_cloud_albums">Облачные альбомы запрещены, повторите когда хранилище будет доступно</string>
   <string name="no_storage_message">Нет доступных внешних носителей</string>

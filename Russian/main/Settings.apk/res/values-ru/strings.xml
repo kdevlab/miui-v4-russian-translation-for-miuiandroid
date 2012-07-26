@@ -732,6 +732,7 @@
   <string name="input_methods_and_subtype_enabler_title">Выберите активные способы ввода</string>
   <string name="input_methods_settings_label_format">Настройки %1$s</string>
   <string name="input_methods_settings_title">Ввод текста</string>
+  <string name="input_settings">Настройки ввода</string>
   <string name="install_all_warning">Ваши личные данные и данные телефона более уязвимы для атак приложений из неизвестных источников. Вы соглашаетесь с тем, что несете полную ответственность за любой ущерб, нанесенный телефону, и потерю данных, связанные с использованием этих приложений</string>
   <string name="install_applications">Неизвестные источники</string>
   <string name="install_unknown_applications">Разрешить установку приложений, полученных не из Маркета</string>
@@ -1253,6 +1254,7 @@
   <string name="show_cpu_usage_summary">Экран, показывающий текущую загрузку ЦП</string>
   <string name="show_fc">Показывать FC</string>
   <string name="show_fc_summary">Показывать все FC для приложений (включать нежелательно)</string>
+  <string name="show_magnifier_when_input">Показывать лупу</string>
   <string name="show_owner_info_on_lockscreen_label">Показывать данные о владельце на экране блокировки</string>
   <string name="show_password">Показывать пароль</string>
   <string name="show_password_summary">Показывать пароль, который вы набираете</string>
