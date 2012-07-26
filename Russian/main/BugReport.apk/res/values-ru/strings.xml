@@ -38,7 +38,7 @@
   <string name="privacy_screenshot_desc">Отправить выбранный скриншот</string>
   <string name="privacy_system_log">Включать данные системы</string>
   <string name="privacy_system_log_desc">Поделитесь данными системы с MIUI, чтобы лучше диагностировать проблему</string>
-  <string name="report_miui">Отправить в MIUI</string>
+  <string name="report_miui">Отправить в KDev Group</string>
   <string name="section_feedback">Обратная связь</string>
   <string name="section_privacy">Конфеденц.</string>
   <string name="toast_description_length_too_short">Отзыв пользователя должен содержать по крайней мере 10 символов</string>
