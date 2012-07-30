@@ -50,7 +50,7 @@
   <string name="menu_item_add_item">Добавить на основной экран</string>
   <string name="menu_launcher_setting">Настройки рабочего стола</string>
   <string name="menu_search">Поиск</string>
-  <string name="menu_settings">Настройки системы</string>
+  <string name="menu_settings">Параметры системы</string>
   <string name="menu_sort">Сортировка</string>
   <string name="menu_wallpaper">Настройки обоев</string>
   <string name="menu_workspace_preview">Просмотр</string>
@@ -72,12 +72,12 @@
   <string name="pref_enable_drawing_cache_title">Кэш графики</string>
   <string name="pref_icon_shadow_summary">Включение и выключение теней от значков</string>
   <string name="pref_icon_shadow_title">Тень от значков</string>
-  <string name="pref_keep_in_memory_summary">Держать Лончер в памяти. Приложение не будет отключаться</string>
+  <string name="pref_keep_in_memory_summary">Держать в памяти. Приложение не будет отключаться</string>
   <string name="pref_keep_in_memory_title">Держать в памяти</string>
   <string name="pref_render_in_truecolor_summary">Включите, чтобы улучшить качество цветов</string>
   <string name="pref_render_in_truecolor_title">Качественные цвета</string>
   <string name="pref_screen_transformation_type_title">Эффект перехода экрана</string>
-  <string name="pref_wallpaper_scroll_type_title">Тип прокрутки обоев</string>
+  <string name="pref_wallpaper_scroll_type_title">Прокрутка обоев</string>
   <string name="preferences_general_title">Основные настройки</string>
   <string name="preferences_title">Параметры рабочего стола</string>
   <string name="select_frame">Рамка</string>

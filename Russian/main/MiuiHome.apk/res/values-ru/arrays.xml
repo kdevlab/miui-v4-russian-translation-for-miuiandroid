@@ -11,9 +11,9 @@
         <item>3D Куб</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
-        <item>Как в теме</item>
-        <item>Центр</item>
-        <item>Лево</item>
-        <item>Право</item>
+        <item>Включена</item>
+        <item>Выключена, обои по центру</item>
+        <item>Выключена, обои слева</item>
+        <item>Выключена, обои справа</item>
     </string-array>
 </resources>
