@@ -33,6 +33,7 @@
   <string name="gadget_photo_44_label">Фоторамка</string>
   <string name="gadget_weather_app_not_installed">Нажмите для установки Погоды MIUI</string>
   <string name="gadget_weather_loading">Нет данных о погоде</string>
+  <string name="gadget_weather_time_format">EEE, d.MM</string>
   <string name="gadget_weather_title_14">Погода 1X4</string>
   <string name="gadget_weather_title_24">Погода 2X4</string>
   <string name="gadget_weather_to">в</string>

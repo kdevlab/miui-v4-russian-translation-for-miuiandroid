@@ -8,6 +8,7 @@
   <string name="albums">Альбомы</string>
   <string name="all_album">Все</string>
   <string name="all_albums_desc">Альбомы</string>
+  <string name="all_albums_loading">Загрузка…</string>
   <string name="all_media">Все фото</string>
   <string name="all_recent">Избранные</string>
   <string name="all_recent_albums_desc">Последние альбомы</string>
@@ -22,6 +23,7 @@
   <string name="auto_create_recent_album_confirm">После отключения этой функции, галерея очистит созданные данные последних альбомов. Последние альбомы установленные пользователем, не будут затронуты. Кроме того, можно установить это вручную, долгим нажатием на альбом</string>
   <string name="auto_create_recent_album_over_ten_times">Создает избранный альбом после захода в него более 10 раз</string>
   <string name="autofix">Авто</string>
+  <string name="bigscrren_slide_exit">Выйти из слайдшоу через TV</string>
   <string name="caching_label">Кэширование...</string>
   <string name="camera_connected">Камера подключена</string>
   <string name="camera_disconnected">Камера отключена</string>
@@ -140,6 +142,7 @@
   <string name="message_no_delete_access">Ошибка доступа. Невозможно удалить файл или папку: %s</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk Painting</string>
+  <string name="miliao_saved_folder_display_name">Сохраненные MiTalk</string>
   <string name="mimetype">Тип MIME</string>
   <string name="miui_capture_screen_folder_display_name">Скриншоты</string>
   <string name="model">Модель</string>

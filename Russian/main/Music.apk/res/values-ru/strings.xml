@@ -66,6 +66,7 @@
   <string name="fade_effect_settings">Плавный переход</string>
   <string name="fade_effect_summary">Включение затухания между каждой песней</string>
   <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+  <string name="file_not_found">Файла не существует</string>
   <string name="filter_by_duration">Фильтр по продолжительности</string>
   <string name="filter_by_duration_format">%2$d:%5$02d</string>
   <string name="filter_by_duration_max">5 мин</string>
@@ -120,6 +121,7 @@
   <string name="modify_id3_for_selected">Будет отредактирована информация ID3 выбранных песен</string>
   <string name="modify_meta">Изменить</string>
   <string name="modify_tracks_id3_background">Изменить ID3 выбранной песни в фоновом режиме</string>
+  <string name="music_browser_label">Музыка</string>
   <string name="music_filter">Фильтр размера музыкальных файлов</string>
   <string name="music_filter_helper">Чтобы скрывать файлы, которые не связаны с музыкой, применяется размер фильтра 800 КБ. Порог можно настроить в меню Настройки/Файловый фильтр</string>
   <string name="music_picker_title">Выберите трек</string>
@@ -131,6 +133,7 @@
   <string name="new_playlist_name_template">Новый плейлист %d</string>
   <string name="no_effect">Отключен</string>
   <string name="no_tracks_title">Нет песен</string>
+  <string name="not_selected">Пожалуйста, выберите песню</string>
   <string name="notification_artist_album">%2$s %1$s</string>
   <string name="nowplaying_title">Проигрывается</string>
   <string name="online_indicator">-онлайн</string>

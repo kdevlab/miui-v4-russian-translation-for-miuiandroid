@@ -32,4 +32,10 @@
         <item>8 сек</item>
         <item>9 сек</item>
     </string-array>
+    <string-array name="traffic_uints">
+        <item>" байт"</item>
+        <item>КБ</item>
+        <item>МБ</item>
+        <item>ГБ</item>
+    </string-array>
 </resources>

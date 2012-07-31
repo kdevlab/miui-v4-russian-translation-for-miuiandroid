@@ -683,8 +683,15 @@
   <string name="filter_dlg_title">Выберите параметры фильтра</string>
   <string name="finish_button_label">Готово</string>
   <string name="firmware_version">Версия Android</string>
+  <string name="font_size_huge">Огромный</string>
+  <string name="font_size_large">Большой</string>
+  <string name="font_size_medium">Средний</string>
+  <string name="font_size_normal">Нормальный</string>
+  <string name="font_size_preview">KDev Group</string>
   <string name="font_size_preview_text">Miui V4 from Russia :)</string>
   <string name="font_size_save">ОК</string>
+  <string name="font_size_small">Маленький</string>
+  <string name="font_size_summary">Настройка размера шрифта в приложениях (Телефон, Сообщения, Контакты и другие)</string>
   <string name="force_hw_ui">Ускорить работу GPU</string>
   <string name="force_hw_ui_summary">Использовать аппаратное ускорение 2D в приложениях</string>
   <string name="force_stop">Остановить</string>
