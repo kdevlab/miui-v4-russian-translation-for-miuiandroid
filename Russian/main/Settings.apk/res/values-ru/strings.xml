@@ -161,7 +161,7 @@
   <string name="automatic_brightness">Автонастройка</string>
   <string name="available_size">%s</string>
   <string name="awake">Время включения устройства</string>
-  <string name="back_long_press">Кнопка НАЗАД</string>
+  <string name="back_long_press">Долгое удержание кнопки НАЗАД</string>
   <string name="back_long_press_timeout">Задержка нажатия</string>
   <string name="background_data">Фоновый режим</string>
   <string name="background_data_dialog_message">Отключение фонового режима обмена данными экономит заряд батареи и уменьшает объем трафика, однако некоторые приложения могут использовать этот режим даже после его отключения</string>
@@ -758,8 +758,8 @@
   <string name="keep_screen_on">Оставить включенным</string>
   <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
   <string name="kernel_version">Версия ядра</string>
-  <string name="key_settings">Кнопки управления</string>
-  <string name="key_settings_title">Кнопки управления</string>
+  <string name="key_settings">Настройки кнопок</string>
+  <string name="key_settings_title">Настройки кнопок</string>
   <string name="keyboard_settings_category">Клавиатура и способы ввода</string>
   <string name="keyboard_settings_title">Клавиатура Android</string>
   <string name="language_keyboard_settings_title">Язык и ввод</string>
