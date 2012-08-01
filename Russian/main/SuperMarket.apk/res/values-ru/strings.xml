@@ -51,7 +51,7 @@
   <string name="failed_to_send_activate_email">Не удалось отправить Email для активации</string>
   <string name="forget_password">Забыл(а) пароль?</string>
   <string name="header_processing">Идет скачивание...</string>
-  <string name="header_waiting">Ожидание скачивания</...string>
+  <string name="header_waiting">Ожидание скачивания...</string>
   <string name="hot_rank_tag">Топ рейтинга</string>
   <string name="input_password_hint">Введите пароль</string>
   <string name="install">Скачать</string>
