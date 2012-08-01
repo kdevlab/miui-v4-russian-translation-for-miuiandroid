@@ -67,8 +67,8 @@
   <string name="install_on_data_description">您在使用数据网络，下载可能产生流量费用，是否立即安装%1$s等%2$s款应用？</string>
   <string name="install_only_on_wifi_description">您在下载管理中开启了『仅在WLAN下下载』设置，暂时无法在线安装应用，请连接WLAN网络后重试</string>
   <string name="install_title">Установка приложения</string>
-  <string name="installed">Установлено</string>
-  <string name="installing">Установка...</string>
+  <string name="installed">устан.</string>
+  <string name="installing">установка...</string>
   <string name="kilobytes_unit">%1$sKB</string>
   <string name="launch">Запустить приложение</string>
   <string name="launch_failed_text">Ошибка запуска %1$s</string>
@@ -131,13 +131,13 @@
   <string name="password_hint_text">6~16 chars</string>
   <string name="paused">Пауза</string>
   <string name="pending">Подождите...</string>
-  <string name="permission_button">Разрешений: (%1$s)</string>
+  <string name="permission_button">Необходимые разрешения (%1$s)</string>
   <string name="permission_extra">Другие разрешения</string>
   <string name="permission_risky_money">Отправка SMS</string>
   <string name="permission_risky_privacy">Конфиденциальность</string>
   <string name="permission_risky_security">Безопасность</string>
-  <string name="permissions_expand_title">Полный доступ к:</string>
-  <string name="permissions_title">%1$s разрешения</string>
+  <string name="permissions_expand_title">Другие разрешения</string>
+  <string name="permissions_title">Разрешения для %1$s</string>
   <string name="pref_list_always_enable">Всегда скрывать</string>
   <string name="pref_list_auto_update">Автообновление</string>
   <string name="pref_list_data_network">Скрывать при 3G/GPRS</string>
