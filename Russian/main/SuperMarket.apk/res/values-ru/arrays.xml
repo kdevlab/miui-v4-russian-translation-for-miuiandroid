@@ -3,14 +3,14 @@
     <string-array name="permission_label">
         <item>(Веб-интерфейс), грубая позиция</item>
         <item>Точное место (GPS)</item>
-        <item>Дополнительная информация о местоположении, чтобы обеспечить программе команды</item>
+        <item>Дополнительная информация о местоположении</item>
         <item>Моделирование расположение источника тест</item>
-        <item>应用 MTP 协议</item>
+        <item>Применение протокола MTP</item>
         <item>Просмотр состояния сети</item>
         <item>Доступ SurfaceFlinger</item>
         <item>Просмотр статуса Wi-Fi</item>
         <item>Просмотр состояния WiMAX</item>
-        <item>作为 AccountManagerService</item>
+        <item>AccountManagerService</item>
         <item>Добавить голосовую почту</item>
         <item>Использование любых декодеров для воспроизведения медиа</item>
         <item>Информация о внутренних устройствах хранения данных</item>
