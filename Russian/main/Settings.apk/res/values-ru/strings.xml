@@ -654,9 +654,9 @@
   <string name="enableNetwork">Включить Сеть</string>
   <string name="enable_adb">Отладка Android</string>
   <string name="enable_adb_summary">Включить режим отладки при подключении к компьютеру по USB или по сети</string>
-  <string name="enable_back_long_press">По долгому нажатию - завершить приложение</string>
+  <string name="enable_back_long_press">Завершение по удержанию</string>
   <string name="enable_compatibility">Масштабировать приложения</string>
-  <string name="enable_snapshot_screenlock">НАЗАД - для скриншота на экране блокировки</string>
+  <string name="enable_snapshot_screenlock">Открыть камеру на экр. блок.</string>
   <string name="enable_text">Включить</string>
   <string name="enter_password">Введите пароль для расшифровки данных хранилища</string>
   <string name="erase_application">Удаление приложений</string>
@@ -1004,7 +1004,7 @@
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Подсветка</string>
   <string name="pref_button_light_summary">Индикаторы кнопок МЕНЮ, НАЗАД, ДОМОЙ</string>
-  <string name="pref_operational_key">Оперативный ключ</string>
+  <string name="pref_operational_key">Остальные кнопки</string>
   <string name="pref_volume_category_title">Кнопки громкости</string>
   <string name="pref_volume_wake_summary">Нажатие увеличения / уменьшения громкости для просыпания устройства</string>
   <string name="pref_volume_wake_title">Включение экрана при нажатии</string>
