@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated with KDev Group Translator Editor (main repository)-->
+  <string name="alert_edit_action_delete">Удалить</string>
+  <string name="alert_edit_action_update">Обновить</string>
   <string name="alert_message_delete_folder">Папка вместе с содержащимися в ней заметками будет удалена</string>
   <string name="alert_message_delete_note">Заметка будет удалена</string>
   <string name="alert_message_delete_notes">Выбранные заметки будут удалены</string>
@@ -8,6 +10,9 @@
   <string name="app_name">Заметки</string>
   <string name="app_widget2x2">Заметки</string>
   <string name="app_widget4x4">Заметки</string>
+  <string name="attachment_camera">Камера</string>
+  <string name="attachment_contact">Контакт</string>
+  <string name="attachment_gallery">Галерея</string>
   <string name="button_cancel">Отмена</string>
   <string name="button_check">Выбрать всё</string>
   <string name="button_check_none">Снять выделение</string>
@@ -37,6 +42,12 @@
   <string name="format_folder_files_count">" (%d)"</string>
   <string name="format_move_notes_to_folder">Заметки %1$d перемещены в %2$s</string>
   <string name="hint_foler_name">Введите имя</string>
+  <string name="image_edit_action_delete">Удалить</string>
+  <string name="image_edit_action_replace">Заменить</string>
+  <string name="image_edit_action_replace_menu_camera">@string/attachment_camera</string>
+  <string name="image_edit_action_replace_menu_gallery">@string/attachment_gallery</string>
+  <string name="image_edit_action_replace_menu_title">Замена</string>
+  <string name="image_edit_action_view">Просмотр</string>
   <string name="info_note_enter_desktop">Заметка добавлена на рабочий стол</string>
   <string name="menu_alert">Напомнить мне</string>
   <string name="menu_create_folder">Создать папку</string>
@@ -104,6 +115,7 @@
   <string name="search_setting_description">Текст в заметках</string>
   <string name="select_text">Выделить текст</string>
   <string name="set_remind_time_message">Установить напоминание</string>
+  <string name="snippet_image_stub">[Картинка]</string>
   <string name="success_sdcard_export">Экспорт завершен</string>
   <string name="success_sync_account">Синхронизация с аккаунтом %1$s выполнена успешно</string>
   <string name="sync_progress_init_list">Получение удаленного списка заметок...</string>
@@ -113,6 +125,9 @@
   <string name="ticker_fail">Синхронизация не удалась</string>
   <string name="ticker_success">Синхронизация завершена</string>
   <string name="ticker_syncing">Синхронизация заметок...</string>
+  <string name="time_picker_dialog_title">Установка времени напоминания</string>
+  <string name="toast_message_add_image_fail">Не удалось вставить изображение!</string>
+  <string name="toast_message_replace_image_fail">Не удалось заменить изображение!</string>
   <string name="widget_havenot_content">Нет заметок, нажмите сюда, чтобы создать заметку</string>
   <string name="widget_under_visit_mode">Не возможно просмотреть заметки, потому что включен гостевой режим</string>
 </resources>
