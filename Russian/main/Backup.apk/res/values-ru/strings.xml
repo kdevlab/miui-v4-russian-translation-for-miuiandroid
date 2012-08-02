@@ -174,13 +174,13 @@
   <string name="unknown_hint">Неизвестно</string>
   <string name="wifi_title">Настройки Wi-Fi</string>
 
-  <!-- Please, translate this -->
+  <!-- ага, готово -->
 
-  <string name="enable_encrypt_summery1">"System will encrypt your local backup based on Xiaomi account, you need to log in to your Xiaomi account when removing data or using other devices to restore   the backup."</string>
-  <string name="enable_encrypt_summery2">"The new backup will be automatically encrypted. You need to log into your Xiaomi account when removing data or using other devices to restore the backup."</string>
-  <string name="enable_encrypt_title">Encryption enabled</string>
-  <string name="enable_encrypt_xiaomi_account">This backup was created by %1$s, please delete the current account, and log in to %2$s in order to restore the data.</string>
-  <string name="exchange_account">Exchange account</string>
-  <string name="no_encrypt_password">No password encryption</string>
-  <string name="read_encrypt_fail">Encryption read failed</string>
+  <string name="enable_encrypt_summery1">"Система зашифрует ваш локальный бэкап на основе аккаунта Xiaomi, вам нужно будет войти в свою учетную запись Xiaomi - для удаления данных или использованияс других устройств для восстановления резервной копии"</string>
+  <string name="enable_encrypt_summery2">"Новый бэкап будет автоматически шифроваться. Вы должны войти в свой аккаунт Xiaomi - для удаления данных или использования других устройств для восстановления резервной копии."</string>
+  <string name="enable_encrypt_title">Шифрование включено</string>
+  <string name="enable_encrypt_xiaomi_account">Эта резервная копия была создана %1$s, пожалуйста, удалите текущий аккаунт, и войдите в %2$s для восстановления данных</string>
+  <string name="exchange_account">Сменить аккаунт</string>
+  <string name="no_encrypt_password">Нет шифрования пароля</string>
+  <string name="read_encrypt_fail">Не удалось расшифровать</string>
 </resources>
