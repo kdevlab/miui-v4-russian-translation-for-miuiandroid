@@ -5,7 +5,7 @@
   <string name="activity_not_found">Действие не поддерживается ни в одном приложении</string>
   <string name="add_account">Добавить аккаунт</string>
   <string name="add_bookmark">Добавить в избранное</string>
-  <string name="albums">Альбомы</string>
+  <string name="albums">альбомы</string>
   <string name="all_album">Все</string>
   <string name="all_albums_desc">Альбомы</string>
   <string name="all_albums_loading">Загрузка…</string>
