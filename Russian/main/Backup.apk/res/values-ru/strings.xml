@@ -77,6 +77,11 @@
   <string name="enable_encrypt_fail">Включение шифрования не удалось</string>
   <string name="enable_encrypt_indicator">Резервные копировании не зашифрованы, нажмите кнопку для включения шифрования</string>
   <string name="enable_encrypt_ok">OK</string>
+  <string name="enable_encrypt_summery1">"Система зашифрует ваш локальный бэкап на основе аккаунта Xiaomi, вам нужно будет войти в свою учетную запись Xiaomi - для удаления данных или использованияс других устройств для восстановления резервной копии"</string>
+  <string name="enable_encrypt_summery2">"Новый бэкап будет автоматически шифроваться. Вы должны войти в свой аккаунт Xiaomi - для удаления данных или использования других устройств для восстановления резервной копии."</string>
+  <string name="enable_encrypt_title">Шифрование включено</string>
+  <string name="enable_encrypt_xiaomi_account">Эта резервная копия была создана %1$s, пожалуйста, удалите текущий аккаунт, и войдите в %2$s для восстановления данных</string>
+  <string name="exchange_account">Сменить аккаунт</string>
   <string name="fail">Ошибка</string>
   <string name="findlost_contact">Найти удаленый контакт(ы)</string>
   <string name="findlost_contact_online">Онлайн восстановление контактов</string>
@@ -101,6 +106,7 @@
   <string name="miliao_account_login">Войти в MiTalk</string>
   <string name="mms_title">Сообщения MMS</string>
   <string name="multi_select_title">Выбрано: %1$s</string>
+  <string name="no_encrypt_password">Нет шифрования пароля</string>
   <string name="no_network">Нет сетевого соединения Пожалуйста, проверьте ваше соединение и попробуйте еще раз</string>
   <string name="note_title">Заметки</string>
   <string name="nothing_searched">Ничего не найдено</string>
@@ -109,6 +115,7 @@
   <string name="prompt_reading">Чтение...</string>
   <string name="prompt_sending">Отправка...</string>
   <string name="prompt_writing">Запись...</string>
+  <string name="read_encrypt_fail">Не удалось расшифровать</string>
   <string name="refresh">Обновление</string>
   <string name="restore">Восстановление</string>
   <string name="restore_contact">Восстановление контактов</string>
@@ -173,14 +180,4 @@
   <string name="unit_piece">" записей"</string>
   <string name="unknown_hint">Неизвестно</string>
   <string name="wifi_title">Настройки Wi-Fi</string>
-
-  <!-- ага, готово -->
-
-  <string name="enable_encrypt_summery1">"Система зашифрует ваш локальный бэкап на основе аккаунта Xiaomi, вам нужно будет войти в свою учетную запись Xiaomi - для удаления данных или использованияс других устройств для восстановления резервной копии"</string>
-  <string name="enable_encrypt_summery2">"Новый бэкап будет автоматически шифроваться. Вы должны войти в свой аккаунт Xiaomi - для удаления данных или использования других устройств для восстановления резервной копии."</string>
-  <string name="enable_encrypt_title">Шифрование включено</string>
-  <string name="enable_encrypt_xiaomi_account">Эта резервная копия была создана %1$s, пожалуйста, удалите текущий аккаунт, и войдите в %2$s для восстановления данных</string>
-  <string name="exchange_account">Сменить аккаунт</string>
-  <string name="no_encrypt_password">Нет шифрования пароля</string>
-  <string name="read_encrypt_fail">Не удалось расшифровать</string>
 </resources>
