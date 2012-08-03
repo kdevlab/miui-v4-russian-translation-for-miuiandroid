@@ -5,7 +5,7 @@
   <string name="about_settings_summary">Просмотр юридической информации, состояния планшетного ПК и версии ПО</string>
   <string name="ac_enable_title">Ограничение доступа</string>
   <string name="ac_privacy_mode_title">Режим гостя</string>
-  <string name="ac_set_apps_title">Скрыть приложения</string>
+  <string name="ac_set_apps_title">Защита приложений</string>
   <string name="accelerometer_summary_off">Автоматически менять ориентацию экрана при повороте телефона</string>
   <string name="accelerometer_summary_on">Автоматически менять ориентацию экрана при повороте телефона</string>
   <string name="accelerometer_title">Автоповорот экрана</string>
