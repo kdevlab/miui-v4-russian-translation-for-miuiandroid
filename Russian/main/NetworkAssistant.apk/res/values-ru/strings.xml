@@ -78,7 +78,7 @@
   <string name="pref_connect_settings_exceed_limit">Отключить передачу данных</string>
   <string name="pref_connect_settings_exceed_limit_hint">Сообщить и отключить Интернет, когда превышен ежемесячный лимит трафика</string>
   <string name="pref_connect_settings_notify_in_statusbar">Показывать уведомления в панели уведомлений</string>
-  <string name="pref_connect_settings_title">Настройки проложения Монитор</string>
+  <string name="pref_connect_settings_title">Настройки приложения Монитор</string>
   <string name="pref_network_speed_internal_title">Интервал опроса</string>
   <string name="pref_network_speed_settings">Показывать скорость сети в панели уведомлений</string>
   <string name="pref_network_status_bar">Панель уведомлений</string>
