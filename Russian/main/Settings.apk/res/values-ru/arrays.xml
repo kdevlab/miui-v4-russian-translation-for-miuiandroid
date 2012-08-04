@@ -24,15 +24,6 @@
         <item>10 минут</item>
         <item>30 минут</item>
     </string-array>
-	<string-array name="screen_timeout_values">
-        <item>15000</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>1800000</item>
-    </string-array>
     <string-array name="dream_timeout_entries">
         <item>Никогда</item>
         <item>15 секунд</item>
@@ -42,16 +33,6 @@
         <item>5 минут</item>
         <item>10 минут</item>
         <item>30 минут</item>
-    </string-array>
-	<string-array name="dream_timeout_values">
-        <item>0</item>
-        <item>15000</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>1800000</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Немедленно</item>
@@ -64,17 +45,6 @@
         <item>10 минут</item>
         <item>30 минут</item>
     </string-array>
-	<string-array name="lock_after_timeout_values">
-        <item>0</item>
-        <item>5000</item>
-        <item>15000</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>1800000</item>
-    </string-array>
     <string-array name="entries_font_size">
         <item>Мелкий</item>
         <item>Обычный</item>
@@ -85,7 +55,7 @@
         <item>Очень медленно</item>
         <item>Медленно</item>
         <item>Нормально</item>
-        <item>Бстро</item>
+        <item>Быстро</item>
         <item>Очень быстро</item>
     </string-array>
     <string-array name="tts_pitch_entries">
@@ -109,7 +79,7 @@
         <item>Авторизация…</item>
         <item>Получение IP-адреса…</item>
         <item>Подключено</item>
-        <item>Suspended</item>
+        <item>Сон</item>
         <item>Отключение…</item>
         <item>Отключено</item>
         <item>Не удалось соединиться</item>
@@ -121,7 +91,7 @@
         <item>Авторизация на %1$s…</item>
         <item>Получение IP-адреса от %1$s…</item>
         <item>Подключено к %1$s</item>
-        <item>Suspended</item>
+        <item>Сон</item>
         <item>Отключение от %1$s…</item>
         <item>Отключено</item>
         <item>Не удалось отключиться</item>
@@ -321,33 +291,51 @@
         <item>Проценты</item>
         <item>Полоса в баре</item>
     </string-array>
-	<string-array name="usb_connection_mode_entries">
+    <string-array name="usb_connection_mode_entries">
         <item>Запрос при подкл.</item>
         <item>Зарядка</item>
         <item>Подключить SD карту</item>
     </string-array>
+    <string-array name="led_color_values">
+        <item>green</item>
+        <item>red</item>
+        <item>blue</item>
+        <item>yellow</item>
+        <item>cyan</item>
+        <item>\#800080</item>
+        <item>\#ffc0cb</item>
+        <item>\#ffa500</item>
+    </string-array>
     <string-array name="led_color_entries">
-        <item>Белый</item>
         <item>Зеленый</item>
         <item>Красный</item>
         <item>Синий</item>
         <item>Желтый</item>
         <item>Голубой</item>
-        <item>Пурпурный</item>
+        <item>Фиолетовый</item>
         <item>Розовый</item>
         <item>Оранжевый</item>
-        <item>Сапфир</item>
+    </string-array>
+    <string-array name="led_color_values_for_mione">
+        <item>blue</item>
+        <item>red</item>
+        <item>green</item>
+        <item>\#FFFF0033</item>
+        <item>\#FF5500FF</item>
+        <item>\#FFAA00AA</item>
+        <item>\#FF00FF55</item>
+        <item>\#FF00AAAA</item>
+        <item>\#FF0033FF</item>
     </string-array>
     <string-array name="led_color_entries_for_mione">
-        <item>Белый</item>
-        <item>Зеленый</item>
-        <item>Красный</item>
         <item>Синий</item>
-        <item>Желтый</item>
-        <item>Голубой</item>
-        <item>Пурпурный</item>
+        <item>Красный</item>
+        <item>Зеленый</item>
         <item>Розовый</item>
-        <item>Оранжевый</item>
+        <item>Фиолетовый</item>
+        <item>Пурпурный</item>
+        <item>Изумрудный</item>
+        <item>Голубой</item>
         <item>Сапфир</item>
     </string-array>
     <string-array name="multi_sim_entries">
