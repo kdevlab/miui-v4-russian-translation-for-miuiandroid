@@ -139,7 +139,7 @@
   <string name="app_process_limit_title">Лимит фоновых процессов</string>
   <string name="application_info_label">О приложении</string>
   <string name="application_size_label">Приложение</string>
-  <string name="applications_settings">Приложения</string>
+  <string name="applications_settings">Менеджер приложений</string>
   <string name="applications_settings_header">Настройки приложения</string>
   <string name="applications_settings_summary">Управление приложениями, настройка клавиш быстрого запуска</string>
   <string name="ask_compatibility">Спрашивать при запуске</string>
@@ -458,8 +458,8 @@
   <string name="clear_failed_dlg_text">Не удалось удалить данные</string>
   <string name="clear_failed_dlg_title">Стереть данные</string>
   <string name="clear_user_data_text">Стереть данные</string>
-  <string name="common_settings">Общие настройки</string>
-  <string name="complete_settings">Все настройки</string>
+  <string name="common_settings">Быстрые</string>
+  <string name="complete_settings">Полные</string>
   <string name="computing_size">Вычисление...</string>
   <string name="config_list_label">Конфигурация сетей</string>
   <string name="configure_input_method">Настройка методов ввода</string>
@@ -625,8 +625,8 @@
   <string name="display_label">Параметры экрана</string>
   <string name="display_order_text">Упорядочить по:</string>
   <string name="display_preview_label">Предварительный просмотр:</string>
-  <string name="display_settings">Экран</string>
-  <string name="display_settings_title">Параметры экрана</string>
+  <string name="display_settings">Параметры экрана</string>
+  <string name="display_settings_title">Экран</string>
   <string name="dlg_cancel">Отмена</string>
   <string name="dlg_confirm_unmount_text">Если отключить SD-карту, некоторые приложения перестанут работать и могут оставаться недоступными до ее подключения.</string>
   <string name="dlg_confirm_unmount_title">Отключить SD-карту?</string>
@@ -764,7 +764,7 @@
   <string name="keyboard_settings_title">Клавиатура Android</string>
   <string name="language_keyboard_settings_title">Язык и ввод</string>
   <string name="language_picker_title">Язык</string>
-  <string name="language_settings">Язык и ввод</string>
+  <string name="language_settings">Язык телефона и ввода</string>
   <string name="language_settings_category">Языковые настройки</string>
   <string name="large_font">Большой</string>
   <string name="launch_count_label">Подсчет</string>
@@ -1076,7 +1076,7 @@
   <string name="radioInfo_service_out">Вне зоны обслуживания</string>
   <string name="radioInfo_unknown">неизвестно</string>
   <string name="radio_controls_summary">Wi-Fi, Bluetooth, режим полета, мобильные сети и VPN</string>
-  <string name="radio_controls_title">Ещё...</string>
+  <string name="radio_controls_title">Дополнительно</string>
   <string name="radio_info_band_mode_label">Выбрать радиостанцию</string>
   <string name="radio_info_call_redirect_label">Перенаправление вызовов:</string>
   <string name="radio_info_call_status_label">Состояние вызова:</string>
@@ -1320,7 +1320,7 @@
   <string name="sound_category_notification_title">Оповещения</string>
   <string name="sound_category_sound_title">Общие</string>
   <string name="sound_effects_enable_title">Звук нажатия на экран</string>
-  <string name="sound_settings">Установки звука</string>
+  <string name="sound_settings">Настройки звука</string>
   <string name="spellchecker_security_warning">Для проверки орфографии будет использоваться приложение %1$s, которое может собирать все вводимые данные, в том числе пароли и номера кредитных карт. Продолжить?</string>
   <string name="spellcheckers_settings_title">Проверка орфографии</string>
   <string name="ssid_label">"SSID: "</string>
@@ -1349,7 +1349,7 @@
   <string name="status_wimax_mac_address">МАС-адрес для 4G</string>
   <string name="storage_label">Память</string>
   <string name="storage_menu_usb">USB-подключение к компьютеру</string>
-  <string name="storage_settings">Память</string>
+  <string name="storage_settings">Состояние памяти</string>
   <string name="storage_settings_summary">Отключение SD-карты, сведения о доступной памяти</string>
   <string name="storage_settings_title">Настройки хранилища</string>
   <string name="storage_title_usb">USB-подключение к компьютеру</string>
@@ -1541,7 +1541,7 @@
   <string name="verifier_device_identifier_not_available">Информация об устройстве недоступна</string>
   <string name="version_text">Версия %1$s</string>
   <string name="vibrate_category_title">Вибрация</string>
-  <string name="vibrate_in_normal_title">Вибрация в обычном режиме</string>
+  <string name="vibrate_in_normal_title">Вибрация в Обычном режиме</string>
   <string name="vibrate_in_silent_title">Вибрация в режиме Без звука</string>
   <string name="vibrate_on_ring_title">Вибрация в Обычном режиме</string>
   <string name="voice_category">Голосовой ввод</string>
