@@ -222,7 +222,7 @@
   <string name="battery_info_power_usb">USB</string>
   <string name="battery_info_scale_label">Шкала батареи:</string>
   <string name="battery_info_screen_on">Время работы экрана:</string>
-  <string name="battery_info_status_charging">Птание от сети (зарядка)</string>
+  <string name="battery_info_status_charging">Питание от сети (зарядка)</string>
   <string name="battery_info_status_charging_ac">от сети</string>
   <string name="battery_info_status_charging_usb">по USB</string>
   <string name="battery_info_status_discharging">Работа от батареи</string>
