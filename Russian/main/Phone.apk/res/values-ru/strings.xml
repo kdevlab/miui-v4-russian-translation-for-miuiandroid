@@ -157,7 +157,7 @@
   <string name="call_settings">Вызовы</string>
   <string name="call_settings_category_miui">Настройка вызова</string>
   <string name="call_settings_miui">Вызовы</string>
-  <string name="call_title_redialing_with_times_miui">Есть %d раз(а) повторного набора</string>
+  <string name="call_title_redialing_with_times_miui">Повторный набор: попытка №%d</string>
   <string name="call_waiting_sum_miui">Во время разговора, сообщите мне о входящих звонках</string>
   <string name="call_waiting_tone_continuously_miui">Воспроизводить непрерывно</string>
   <string name="call_waiting_tone_stop_summary">(Нажмите клавишу регулировки громкости для отключения вызова)</string>
@@ -614,7 +614,7 @@
   <string name="onscreenSwapCallsText">Перевод звонка</string>
   <string name="onscreenUnholdText">Снять удержание</string>
   <string name="onscreen_add_call_text_miui">Контакт</string>
-  <string name="onscreen_audio_mode_bluetooth_miui">Bluetooth</string>
+  <string name="onscreen_audio_mode_bluetooth_miui">Bluetooth-гарнитура</string>
   <string name="onscreen_audio_mode_handset_miui">Динамик телефона</string>
   <string name="onscreen_audio_mode_headset_miui">Наушники</string>
   <string name="onscreen_audio_mode_miui">Ответ используя</string>

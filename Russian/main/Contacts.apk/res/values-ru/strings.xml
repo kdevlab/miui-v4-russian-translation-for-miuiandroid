@@ -128,8 +128,8 @@
   <string name="contactSavedErrorToast">Не удалось сохранить изменения</string>
   <string name="contactSavedToast">Контакт сохранен.</string>
   <string name="contact_directory_description">Каталог %1$s</string>
-  <string name="contact_editor_prompt_multiple_accounts">Выберите аккаунт, в который следует добавить новый контакт.</string>
-  <string name="contact_editor_prompt_one_account">Контакт будет добавлен в аккаунт %1$s.</string>
+  <string name="contact_editor_prompt_multiple_accounts">Выберите аккаунт, в который следует добавить новый контакт</string>
+  <string name="contact_editor_prompt_one_account">Контакт будет добавлен в аккаунт %1$s</string>
   <string name="contact_editor_prompt_zero_accounts">Резервная копия нового контакта не будет сохранена. Добавить аккаунт для сохранения контактов в Интернете?</string>
   <string name="contact_pick_photo">Фото</string>
   <string name="contact_read_only">Здесь доступно только для чтения</string>
@@ -140,9 +140,9 @@
   <string name="contactsGroupsLabel">Группы</string>
   <string name="contactsJoinedMessage">Контакты объединены</string>
   <string name="contactsList">Контакты</string>
-  <string name="contacts_unavailable_add_account">Войдите в аккаунт</string>
+  <string name="contacts_unavailable_add_account">Войти в аккаунт</string>
   <string name="contacts_unavailable_create_contact">Создать новый контакт</string>
-  <string name="contacts_unavailable_import_contacts">Импорт контактов из файла</string>
+  <string name="contacts_unavailable_import_contacts">Импортировать контакты из файла</string>
   <string name="copy_text">Копировать в буфер обмена</string>
   <string name="create_group_dialog_title">Создание новой группы</string>
   <string name="create_group_item_label">[Создать новую группу]</string>
@@ -350,7 +350,7 @@
   <string name="menu_group_sms">Групповые SMS</string>
   <string name="menu_import_export">Импорт/экспорт</string>
   <string name="menu_joinAggregate">Объединить</string>
-  <string name="menu_newContact">Новый контакт</string>
+  <string name="menu_newContact">Создать новый контакт</string>
   <string name="menu_new_contact_action_bar">Добавить</string>
   <string name="menu_new_favorite_action_bar">Новый</string>
   <string name="menu_new_group_action_bar">Новая группа</string>
@@ -456,9 +456,9 @@
   <string name="no_contact_details">Нет других данных об этом контакте</string>
   <string name="no_contact_name">Нет имени контакта</string>
   <string name="no_contacts_selected">Контакты не выбраны</string>
-  <string name="no_sdcard_message">SD-карта не обнаружена.</string>
+  <string name="no_sdcard_message">SD-карта не обнаружена</string>
   <string name="no_sdcard_title">Нет SD-карты</string>
-  <string name="non_phone_add_to_contacts">Добавить в контакты</string>
+  <string name="non_phone_add_to_contacts">Добавить номер к контакту</string>
   <string name="non_phone_caption">Номер телефона</string>
   <string name="non_phone_close">Закрыть</string>
   <string name="not_applied">Не поддерживается</string>
@@ -621,12 +621,12 @@
   <string name="type_outgoing">Исходящий вызов</string>
   <string name="type_voicemail">Голосовая почта</string>
   <string name="unknown">Неизвестно</string>
-  <string name="unknown_contact_name">Неизвестный контакт</string>
+  <string name="unknown_contact_name">Неизвестный номер</string>
   <string name="unkown_location">Неизвестное местоположение</string>
   <string name="upgrade_in_progress">Список контактов обновляется...</string>
   <string name="upgrade_out_of_memory">"Контакты обновляются.
 
-Для этого требуется около %s Мб внутренней памяти.
+Для этого требуется около %s МБ внутренней памяти.
 
 Выберите подходящую опцию:"</string>
   <string name="upgrade_out_of_memory_retry">Повторить попытку обновления</string>

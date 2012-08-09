@@ -49,7 +49,7 @@
         <item quantity="one">выбран %d плейлист</item>
     </plurals>
     <plurals name="Ntrack_in_sdcard_format">
-        <item quantity="other">песен на SD-карте: %d</item>
+        <item quantity="other">Песен на SD-карте: %d</item>
         <item quantity="one">%d песня на SD-карте</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
