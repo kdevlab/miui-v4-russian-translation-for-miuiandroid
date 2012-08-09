@@ -687,9 +687,9 @@
   <string name="device_picker">Выбор устройства Bluetooth</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
-  <string name="device_status_summary">Phone number, signal, etc.</string>
+  <string name="device_status_summary">Номер телефона, уровень сигнала, и т.д.</string>
   <string name="diagnostics_and_usage_title">Диагностика и использование</string>
-  <string name="dialog_title_font_size">Font size</string>
+  <string name="dialog_title_font_size">Размер шрифта</string>
   <string name="disable_text">Disable</string>
   <string name="disabled">Disabled</string>
   <string name="display_font_size_label">Размер шрифта:</string>
@@ -700,7 +700,7 @@
   <string name="display_saving_mode_summary">Экономия электроэнергии на основе анализа изображений и регулировка яркости ЖК-дисплея</string>
   <string name="display_settings">Экран</string>
   <string name="display_settings_title">Экран</string>
-  <string name="dlg_cancel">Cancel</string>
+  <string name="dlg_cancel">Отмена</string>
   <string name="dlg_confirm_unmount_text">Unmounting SD card will stop some applications from functioning. Applications may not be available until you mount the SD card again</string>
   <string name="dlg_confirm_unmount_title">Unmount SD card?</string>
   <string name="dlg_error_unmount_text">Unable to unmount SD card. Try later</string>

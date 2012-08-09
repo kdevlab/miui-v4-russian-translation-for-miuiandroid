@@ -37,7 +37,7 @@
         <item quantity="one">выбран %d альбом</item>
     </plurals>
     <plurals name="Nartists_batch_selection">
-        <item quantity="other">выбраны %d исполнителя</item>
+        <item quantity="other">выбрано исполнителей: %d</item>
         <item quantity="one">выбран %d исполнитель</item>
     </plurals>
     <plurals name="Nfolders_batch_selection">
@@ -54,11 +54,11 @@
     </plurals>
     <plurals name="NNNtrackstoplaylist">
         <item quantity="other">%d песен добавлены в плейлист</item>
-        <item quantity="one">песня добавлена в плейлист</item>
+        <item quantity="one">Песня добавлена в плейлист</item>
     </plurals>
     <plurals name="NNNtrackstofavoriteplaylist">
         <item quantity="other">%d песен добавлены в плейлист</item>
-        <item quantity="one">песня добавлена в плейлист</item>
+        <item quantity="one">Песня добавлена в плейлист</item>
     </plurals>
     <plurals name="Nonlinecategory">
         <item quantity="other">" категорий"</item>
@@ -70,7 +70,7 @@
     </plurals>
     <plurals name="NNNtracksdeleted">
         <item quantity="other">%d песен были удалены</item>
-        <item quantity="one">песня была удалена</item>
+        <item quantity="one">Песня была удалена</item>
     </plurals>
     <plurals name="Nnowplaying">
         <item quantity="other">песен проигрываются</item>
