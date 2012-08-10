@@ -291,4 +291,7 @@
   <string name="widget_type_shuffle">Перемешать все изображения</string>
   <string name="width">Ширина</string>
   <string name="yes">Да</string>
+  <string name="cloud_gallery_setting">Настройки облачной галереи</string>
+  <string name="sync_history_power_on">Синхр-ция истории изображений только во время зарядки</string>
+  <string name="sync_history_power_on_summary">Рекомендуется включить, иначе расход батареи может увеличиться</string>
 </resources>
