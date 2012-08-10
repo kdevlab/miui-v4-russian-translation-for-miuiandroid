@@ -168,7 +168,7 @@
 				        <Alpha a="128*not(#show_preview)" time="500"/>
 				        <Alpha a="128*not(#show_preview)" time="1000000000000000"/>
 			        </AlphaAnimation>
-		            <DateTime x="#screen_width/2" y="150" align="center" color="#FFFFFFFF" size="18" format="MMMM dd, yyyy">
+		            <DateTime x="#screen_width/2" y="150" align="center" color="#FFFFFFFF" size="18" format="dd MMMM, yyyy">
 		            </DateTime>
 		            <!-- xx的小米手机 -->
 		            <Text x="#screen_width/2" y="50" align="center" w="460" marqueeSpeed="30" size="18" color="#FFFFFFFF" text="@owner_info" visibility="not(isnull(@owner_info))">
@@ -184,13 +184,13 @@
                     <!-- 未接电话 -->
                     <Image x="#screen_width/2-55" y="190" src="icon_phone.png" align="center" alignV="center" visibility="#call_missed_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="178" color="#FFFFFFFF" size="18" format="%d missed calls" paras="#call_missed_count" visibility="#call_missed_count">
+                    <Text x="#screen_width/2-35" y="178" color="#FFFFFFFF" size="18" format="Пропущенных вызовов %d" paras="#call_missed_count" visibility="#call_missed_count">
                     </Text>
 
                     <!-- 未读短信, 如果没有未接电话，位置往上移 -->
                     <Image x="#screen_width/2-55" y="190+28*min(#call_missed_count,1)" src="icon_sms.png" align="center" alignV="center" visibility="#sms_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="178+28*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="%d messages" paras="#sms_count" visibility="#sms_count">
+                    <Text x="#screen_width/2-35" y="178+28*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="Новых сообщений: %d" paras="#sms_count" visibility="#sms_count">
                     </Text>
                 </Group>
 
@@ -235,15 +235,15 @@
                         <Alpha a="0" time="1000000000000000"/>
                     </AlphaAnimation>
                     <!-- 低电状态 low battery -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(2,#battery_state)" color="#80FF0000" size="18" format="Low battery (%d%%)" paras="#battery_level">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(2,#battery_state)" color="#80FF0000" size="18" format="Батарея разряжается... Осталось %d%%" paras="#battery_level">
                     </Text>
 
                     <!-- 充电进度 charging -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(1,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" format="Charging (%d%%)" paras="#battery_level">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(1,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" format="Идет зарядка... (%d%%)" paras="#battery_level">
                     </Text>
 
                     <!-- 已充满 battery full -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(3,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" text="Charged">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(3,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" text="Батарея полностью заряжена">
                     </Text>
                 </Group>
 
@@ -300,7 +300,7 @@
                         <Alpha a="128" time="500"/>
                         <Alpha a="128" time="1000000000000000"/>
                     </AlphaAnimation>
-                    <DateTime x="#screen_width/2" y="150" align="center" color="#FFFFFFFF" size="18" format="MMMM dd, yyyy">
+                    <DateTime x="#screen_width/2" y="150" align="center" color="#FFFFFFFF" size="18" format="dd MMMM, yyyy">
                     </DateTime>
                     <!-- xx的小米手机 -->
                     <Text x="#screen_width/2" y="50" align="center" w="460" marqueeSpeed="30" size="18" color="#FFFFFFFF" text="@owner_info" visibility="not(isnull(@owner_info))">
@@ -316,13 +316,13 @@
                     <!-- 未接电话 -->
                     <Image x="#screen_width/2-55" y="190" src="icon_phone.png" align="center" alignV="center" visibility="#call_missed_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="178" color="#FFFFFFFF" size="18" format="%d missed calls" paras="#call_missed_count" visibility="#call_missed_count">
+                    <Text x="#screen_width/2-35" y="178" color="#FFFFFFFF" size="18" format="Пропущенных звонков: %d" paras="#call_missed_count" visibility="#call_missed_count">
                     </Text>
 
                     <!-- 未读短信, 如果没有未接电话，位置往上移 -->
                     <Image x="#screen_width/2-55" y="190+28*min(#call_missed_count,1)" src="icon_sms.png" align="center" alignV="center" visibility="#sms_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="178+28*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="%d messages" paras="#sms_count" visibility="#sms_count">
+                    <Text x="#screen_width/2-35" y="178+28*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="Новых сообщений: %d" paras="#sms_count" visibility="#sms_count">
                     </Text>
                 </Group>
 
@@ -367,11 +367,11 @@
                         <Alpha a="128" time="1000000000000000"/>
                     </AlphaAnimation>
                     <!-- 低电状态 low battery -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(2,#battery_state)" color="#80FF0000" size="18" format="Low battery (%d%%)" paras="#battery_level">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(2,#battery_state)" color="#80FF0000" size="18" format="Батарея разряжается... Осталось %d%%" paras="#battery_level">
                     </Text>
 
                     <!-- 充电进度 charging -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(1,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" format="Charging (%d%%)" paras="#battery_level">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(1,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" format="Идет зарядка... (%d%%)" paras="#battery_level">
                     </Text>
 
                     <!-- 已充满 battery full -->
