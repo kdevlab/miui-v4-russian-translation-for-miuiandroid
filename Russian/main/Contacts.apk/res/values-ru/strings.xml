@@ -663,4 +663,5 @@
   <string name="websiteLabelsGroup">Веб-сайт</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Очистить данные</string>
+  <string name="select_show_contacts">Отображение контактов</string>
 </resources>
