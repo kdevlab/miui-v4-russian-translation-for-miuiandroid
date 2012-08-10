@@ -13,6 +13,7 @@
   <string name="confirm_btn_label">ОК</string>
   <string name="default_folder_title_game">Игры</string>
   <string name="default_folder_title_recommend">Рекомендуемые</string>
+  <string name="default_folder_title_security">Безопасность</string>
   <string name="default_folder_title_tools">Инструменты</string>
   <string name="edit_folder_title">Изменение</string>
   <string name="editing_tips">Добавить или изменить виджет</string>
