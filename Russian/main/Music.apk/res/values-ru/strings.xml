@@ -231,4 +231,21 @@
   <string name="unknown_artist_name">Неизвестный исполнитель</string>
   <string name="use_local_album">Установить обложку альбома</string>
   <string name="use_local_lyric">Присвоить текст песни</string>
+  <string name="discovery_music">Слушать онлайн</string>
+  <string name="recommend">Рекомендуем</string>
+  <string name="billboard">Billboard</string>
+  <string name="channel">FM</string>
+  <string name="new_albums">Новые альбомы</string>
+  <string name="hot_artists">Популярные исполнители</string>
+  <string name="search_suggestion">Поиск предложений:</string>
+  <string name="load_channel_in_process">Загрузка списка каналов</string>
+  <string name="load_channel_failed">Не удалось загрузить список каналов, попробуйте еще раз</string>
+  <string name="load_bill_in_process">Загрузка списка Billboard</string>
+  <string name="load_bill_failed">Не удалось загрузить список Billboard, попробуйте еще раз</string>
+  <string name="load_artist_in_process">Загрузка список исполнителей</string>
+  <string name="load_artist_failed">Не удалось загрузить список исполнителей, попробуйте еще раз</string>
+  <string name="load_album_in_process">Загрузка списка альбомов</string>
+  <string name="load_album_failed">Не удалось загрузить список альбомов, попробуйте еще раз</string>
+  <string name="load_audio_in_process">Загрузка списка песен</string>
+  <string name="load_audio_failed">Не удалось загрузить список песен, пожалуйста, попробуйте еще раз</string>
 </resources>
