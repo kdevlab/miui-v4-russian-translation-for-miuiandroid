@@ -1,20 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="mobile_operator_numeric_values">
-        <item>46000</item>
-        <item>46001</item>
-        <item>46002</item>
-        <item>46003</item>
-        <item>46007</item>
-        <item>46009</item>
+        <item>25001</item>
+        <item>25002</item>
+        <item>25003</item>
+        <item>25004</item>
+        <item>25005</item>
+        <item>25006</item>
+        <item>25007</item>
+        <item>25009</item>
+        <item>25010</item>
+        <item>25011</item>
+        <item>25012</item>
+        <item>25013</item>
+        <item>25015</item>
+        <item>25016</item>
+        <item>25017</item>
+        <item>25019</item>
+        <item>25020</item>
+        <item>25023</item>
+        <item>25028</item>
+        <item>25035</item>
+        <item>25038</item>
+        <item>25039</item>
+        <item>25050</item>
+        <item>25099</item>
     </string-array>
     <string-array name="mobile_operator_display_names">
-        <item>China Mobile</item>
-        <item>China Unicom</item>
-        <item>China Mobile</item>
-        <item>China Telecom</item>
-        <item>China Mobile</item>
-        <item>China Telecom</item>
+        <item>Mobile TeleSystems</item>
+        <item>MegaFon OJSC</item>
+        <item>Nizhegorodskaya Cellular Communications</item>
+        <item>Sibchallenge</item>
+        <item>Yeniseytelecom</item>
+        <item>CJSC Saratov System of Cellular Communications</item>
+        <item>Zao SMARTS</item>
+        <item>Khabarovsky Cellular Phone</item>
+        <item>Dontelekom</item>
+        <item>Scartel</item>
+        <item>Baykal Westcom</item>
+        <item>Kuban GSM</item>
+        <item>SMARTS Ufa</item>
+        <item>New Telephone Company</item>
+        <item>JSC Uralsvyazinform</item>
+        <item>INDIGO</item>
+        <item>Tele2</item>
+        <item>Mobicom - Novosibirsk</item>
+        <item>Beeline</item>
+        <item>MOTIV</item>
+        <item>Central Telecommunication Company</item>
+        <item>Uralsvyazinform</item>
+        <item>Bezlimitno.ru</item>
+        <item>OJSC Vimpel-Communications</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>\#</item>
