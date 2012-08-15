@@ -458,8 +458,8 @@
   <string name="clear_failed_dlg_text">Не удалось удалить данные</string>
   <string name="clear_failed_dlg_title">Стереть данные</string>
   <string name="clear_user_data_text">Стереть данные</string>
-  <string name="common_settings">Быстрые</string>
-  <string name="complete_settings">Полные</string>
+  <string name="common_settings">ЧАСТЫЕ</string>
+  <string name="complete_settings">ПОЛНЫЕ</string>
   <string name="computing_size">Вычисление...</string>
   <string name="config_list_label">Конфигурация сетей</string>
   <string name="configure_input_method">Настройка методов ввода</string>
