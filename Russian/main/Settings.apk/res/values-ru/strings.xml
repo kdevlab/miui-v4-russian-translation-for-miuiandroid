@@ -973,7 +973,7 @@
   <string name="owner_info_settings_summary" />
   <string name="owner_info_settings_title">Сведения о владельце</string>
   <string name="packages_subtitle">Вложенные пакеты</string>
-  <string name="password_guard">Безопасность</string>
+  <string name="password_guard">Защита</string>
   <string name="percentage">%d%%</string>
   <string name="permissions_label">Разрешения</string>
   <string name="personal_data_section_title">Возврат к заводским настройкам</string>
