@@ -58,7 +58,6 @@
   <string name="theme_component_title_wallpaper">Обои</string>
   <string name="theme_description_title_customized">Настройка</string>
   <string name="theme_description_title_default">По умолчанию</string>
-  <string name="wrong_title">Ошибка</string>
   <string name="theme_format_wrong_content">Неверный формат темы</string>
   <string name="theme_import">Импорт</string>
   <string name="theme_select_others">Прочее</string>
@@ -74,4 +73,5 @@
   <string name="wallpaper_set_as_destop">Применить как обои</string>
   <string name="wallpaper_set_as_lockscreen">Применить на экран блокировки</string>
   <string name="wallpaper_settings">Обои</string>
+  <string name="wrong_title">Ошибка</string>
 </resources>

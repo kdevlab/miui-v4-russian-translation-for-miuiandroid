@@ -37,6 +37,7 @@
   <string name="click_import">Нажмите здесь, чтобы начать импорт</string>
   <string name="close">Закрыть</string>
   <string name="cloud_albums">Облачные альбомы</string>
+  <string name="cloud_gallery_setting">Настройки облачной галереи</string>
   <string name="cloud_gallery_space_full">Ошибка отправки - облачное хранилище заполнено</string>
   <string name="cloud_media_set_set">Облачные альбомы</string>
   <string name="confirm_delete">Удалить</string>
@@ -266,6 +267,8 @@
   <string name="switch_to_camera">Переключиться на камеру</string>
   <string name="sync_album_error">Не удалось загрузить фотографии. Повторите попытку позже</string>
   <string name="sync_album_set_error">Не удалось загрузить альбомы. Повторите попытку позже</string>
+  <string name="sync_history_power_on">Синхр-ция истории изображений только во время зарядки</string>
+  <string name="sync_history_power_on_summary">Рекомендуется включить, иначе расход батареи может увеличиться</string>
   <string name="sync_picasa_albums">Обновить</string>
   <string name="tags">Теги</string>
   <string name="temperature">Тепло</string>
@@ -291,7 +294,4 @@
   <string name="widget_type_shuffle">Перемешать все изображения</string>
   <string name="width">Ширина</string>
   <string name="yes">Да</string>
-  <string name="cloud_gallery_setting">Настройки облачной галереи</string>
-  <string name="sync_history_power_on">Синхр-ция истории изображений только во время зарядки</string>
-  <string name="sync_history_power_on_summary">Рекомендуется включить, иначе расход батареи может увеличиться</string>
 </resources>

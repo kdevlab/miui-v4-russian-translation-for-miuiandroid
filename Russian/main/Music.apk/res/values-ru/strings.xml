@@ -17,10 +17,12 @@
   <string name="artist_details_format">%1$s, %2$s</string>
   <string name="artist_edit">Артист</string>
   <string name="artists_title">Исполнители\u0020</string>
+  <string name="billboard">Billboard</string>
   <string name="buffering">Кэширование...</string>
   <string name="cancel">Отмена</string>
   <string name="cancel_sleep_mode">Спящий режим отменён</string>
   <string name="category_num_format">(%s)</string>
+  <string name="channel">FM</string>
   <string name="clear_search_history">Очистка истории запросов</string>
   <string name="click_to_shuffle">Коснитесь для перемешивания всех песен</string>
   <string name="confirm">ОК</string>
@@ -41,6 +43,7 @@
   <string name="detail_format">"Формат: "</string>
   <string name="detail_genre">"Жанр: "</string>
   <string name="detail_size">"Размер: "</string>
+  <string name="discovery_music">Слушать онлайн</string>
   <string name="donot_ask_me_again">Больше не спрашивать</string>
   <string name="download">Загрузить</string>
   <string name="download_album_settings">Загрузка обложек</string>
@@ -90,6 +93,7 @@
   <string formatted="false" name="folder_title_format">%s(%d)</string>
   <string name="folders_title">Папки\u0020</string>
   <string name="frequentlyplayed_title">Часто проигрываемые</string>
+  <string name="hot_artists">Популярные исполнители</string>
   <string name="id3_edit">Изменить ID3 информацию</string>
   <string name="id3_edit_failed">Не удалось отредактировать ID3</string>
   <string name="id3_modify_confirm_check">Сохранить изменения ID3?</string>
@@ -100,8 +104,18 @@
   <string name="keep_quit_position_summary">Возврат трека на последнюю позиции после повторного запуска приложения</string>
   <string name="listen_to_music_online_settings">Прослушивать онлайн</string>
   <string name="listen_to_online_summary">Прослушиванеие музыки с помощью мобильной сети или Wi-Fi</string>
+  <string name="load_album_failed">Не удалось загрузить список альбомов, попробуйте еще раз</string>
+  <string name="load_album_in_process">Загрузка списка альбомов</string>
+  <string name="load_artist_failed">Не удалось загрузить список исполнителей, попробуйте еще раз</string>
+  <string name="load_artist_in_process">Загрузка список исполнителей</string>
+  <string name="load_audio_failed">Не удалось загрузить список песен, пожалуйста, попробуйте еще раз</string>
+  <string name="load_audio_in_process">Загрузка списка песен</string>
+  <string name="load_bill_failed">Не удалось загрузить список Billboard, попробуйте еще раз</string>
+  <string name="load_bill_in_process">Загрузка списка Billboard</string>
   <string name="load_category_failed">Не удалось получить список, нажмите Повторить</string>
   <string name="load_category_in_process">Получить список</string>
+  <string name="load_channel_failed">Не удалось загрузить список каналов, попробуйте еще раз</string>
+  <string name="load_channel_in_process">Загрузка списка каналов</string>
   <string name="loading">Загрузка</string>
   <string name="lpa_off_hint">Необходимо отключить режим экономии энергии для включения эквалайзера</string>
   <string name="lrc_search_failed">Текст песни не найден!</string>
@@ -128,6 +142,7 @@
   <string name="music_settings">Настройки</string>
   <string name="musicbrowserlabel">Музыка</string>
   <string name="network_error">Нет подключения к сети, пожалуйста, проверьте сетевые настройки</string>
+  <string name="new_albums">Новые альбомы</string>
   <string name="new_equalizer_name_template">Профиль %d</string>
   <string name="new_playlist">Новый плейлист</string>
   <string name="new_playlist_name_template">Новый плейлист %d</string>
@@ -167,6 +182,7 @@
   <string name="quit_warining">Автоотключение через %d минут(у)</string>
   <string name="recentlyadded_title">Недавно добавленные</string>
   <string name="recentlyplayed_title">Недавно проигранные</string>
+  <string name="recommend">Рекомендуем</string>
   <string name="refresh_finish">Обновление завершено</string>
   <string name="refresh_in_processing">Обновление медиатеки...</string>
   <string name="refresh_media_db">Обновить медиатеку</string>
@@ -196,6 +212,7 @@
   <string name="search_in_process">Поиск</string>
   <string name="search_result_format">\"%s\"</string>
   <string name="search_settings_description">Исполнитель, альбом и трек</string>
+  <string name="search_suggestion">Поиск предложений:</string>
   <string name="search_title">Поиск</string>
   <string name="select_all">Все</string>
   <string name="select_folder">Выберите папку</string>
@@ -231,21 +248,4 @@
   <string name="unknown_artist_name">Неизвестный исполнитель</string>
   <string name="use_local_album">Установить обложку альбома</string>
   <string name="use_local_lyric">Присвоить текст песни</string>
-  <string name="discovery_music">Слушать онлайн</string>
-  <string name="recommend">Рекомендуем</string>
-  <string name="billboard">Billboard</string>
-  <string name="channel">FM</string>
-  <string name="new_albums">Новые альбомы</string>
-  <string name="hot_artists">Популярные исполнители</string>
-  <string name="search_suggestion">Поиск предложений:</string>
-  <string name="load_channel_in_process">Загрузка списка каналов</string>
-  <string name="load_channel_failed">Не удалось загрузить список каналов, попробуйте еще раз</string>
-  <string name="load_bill_in_process">Загрузка списка Billboard</string>
-  <string name="load_bill_failed">Не удалось загрузить список Billboard, попробуйте еще раз</string>
-  <string name="load_artist_in_process">Загрузка список исполнителей</string>
-  <string name="load_artist_failed">Не удалось загрузить список исполнителей, попробуйте еще раз</string>
-  <string name="load_album_in_process">Загрузка списка альбомов</string>
-  <string name="load_album_failed">Не удалось загрузить список альбомов, попробуйте еще раз</string>
-  <string name="load_audio_in_process">Загрузка списка песен</string>
-  <string name="load_audio_failed">Не удалось загрузить список песен, пожалуйста, попробуйте еще раз</string>
 </resources>
