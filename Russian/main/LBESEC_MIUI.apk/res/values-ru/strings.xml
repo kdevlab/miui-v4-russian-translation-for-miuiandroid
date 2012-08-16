@@ -9,7 +9,7 @@
   <string name="Dashboard_Log_Clear_Content">Все логи будут удалены. Вы уверены что хотите этого?</string>
   <string name="Dashboard_Log_Clear_Title">Очистить логи</string>
   <string name="Dashboard_Perm">Разрешения</string>
-  <string name="Dashboard_Perm_AutoStart">Управление автозагрузкой</string>
+  <string name="Dashboard_Perm_AutoStart">Автозагрузка</string>
   <string name="Dashboard_Perm_AutoStart_Desc">Включение или выключение автозагрузки для приложений</string>
   <string name="Dashboard_Perm_AutoStart_Switch">Управление автозагрузкой</string>
   <string name="Dashboard_Perm_HIPS">Управление доступом приложений</string>
