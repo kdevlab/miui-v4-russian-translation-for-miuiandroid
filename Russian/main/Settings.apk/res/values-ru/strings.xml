@@ -654,6 +654,7 @@
   <string name="enableNetwork">Включить Сеть</string>
   <string name="enable_adb">Отладка Android</string>
   <string name="enable_adb_summary">Включить режим отладки при подключении к компьютеру по USB или по сети</string>
+  <string name="enable_assist_key_long_press">Вызов голосового помощника</string>
   <string name="enable_back_long_press">Завершение по удержанию</string>
   <string name="enable_compatibility">Масштабировать приложения</string>
   <string name="enable_snapshot_screenlock">Открыть камеру на экр. блок.</string>
@@ -919,6 +920,7 @@
   <string name="memory_size">Всего места</string>
   <string name="menu_cancel">Отменить</string>
   <string name="menu_delete">Удалить APN</string>
+  <string name="menu_key">Клавиша МЕНЮ</string>
   <string name="menu_new">Новая точка доступа</string>
   <string name="menu_restore">Восстановить настройки по умолчанию</string>
   <string name="menu_save">Сохранить</string>
@@ -1549,8 +1551,9 @@
   <string name="virus_scan_app_find_risk">%d приложений с риском, рекомендуется немедленно удалить</string>
   <string name="virus_scan_app_finish">Закрыть</string>
   <string name="virus_scan_app_force_stop">Сканирование оставнолено</string>
+  <string name="virus_scan_app_is_stop_scan">Остановить сканирование?</string>
   <string name="virus_scan_app_multi_engines">Выбор двигателя, время сканирования может занять больше времени</string>
-  <string name="virus_scan_app_no_risk">Вирусов не обнаружено</string>
+  <string name="virus_scan_app_no_risk">Угрозы не найдены</string>
   <string name="virus_scan_app_passed">Сканирование прошло успешно</string>
   <string name="virus_scan_app_risk">Найдена угроза!</string>
   <string name="virus_scan_app_safe_scanning">Проверка файлов на вирусы...</string>
