@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated with KDev Group Translator Editor (main repository)-->
+  <string name="activating">Активация...</string>
   <string name="all_resources">Все</string>
   <string name="android_lockscreen_glogin_checking_password">@android:string/lockscreen_glogin_checking_password</string>
   <string name="android_lockscreen_glogin_forgot_pattern">@android:string/lockscreen_glogin_forgot_pattern</string>
@@ -371,6 +372,7 @@
   <string name="national_day" />
   <string name="never">Никогда</string>
   <string name="new_years_day">Новый год</string>
+  <string name="no_sim">Нет SIM-карты</string>
   <string name="online_hottest">Популярные</string>
   <string name="online_hottest_short">Топ</string>
   <string name="online_latest">Новые</string>
@@ -439,6 +441,7 @@
   <string name="stopping_the_heat" />
   <string name="summer_begins" />
   <string name="summer_solstice" />
+  <string name="sync_one_time_sync">Нажмите для синхронизации（%1$s)</string>
   <string name="teachers_day" />
   <string name="text_pastelist">Буфер обмена</string>
   <string name="the_armys_day" />

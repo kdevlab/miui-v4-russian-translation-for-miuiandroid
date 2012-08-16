@@ -102,6 +102,8 @@
   <string name="uninstall">Удалить</string>
   <string name="uninstall_body_format">Удалить приложение \"%s\"?</string>
   <string name="unknown_artist_name">Неизвестный артист</string>
+  <string name="upside_apps_title">Выбор приложения</string>
+  <string name="upside_edit_bottom_empty_tip">Нажмите для изменения</string>
   <string name="widget_favorite_contacts_edit">Изменить</string>
   <string name="widget_favorite_contacts_label">Контакты</string>
   <string name="widget_favorite_contacts_style">Вид</string>

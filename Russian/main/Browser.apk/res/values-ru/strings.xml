@@ -71,8 +71,11 @@
   <string name="bookmark_page">Добавить в закладки последнюю просмотренную страницу</string>
   <string name="bookmark_saved">Сохранено в закладках</string>
   <string name="bookmark_this_page">Закладка для этой страницы</string>
+  <string name="bookmark_this_page_to_readmodelist">"Добавить эту страницу в список чтения"</string>
   <string name="bookmark_thumbnail_view">Изображения</string>
   <string name="bookmark_title">Название</string>
+  <string name="bookmark_to_readmodelist_not_saved">"Не могу сохранить в список чтения"</string>
+  <string name="bookmark_to_readmodelist_saved">"Сохранено в список чтения"</string>
   <string name="bookmark_url">Адрес</string>
   <string name="bookmark_url_not_valid">Неправильный URL</string>
   <string name="bookmarks">Закладки</string>
@@ -360,6 +363,7 @@
   <string name="pref_zoom_on_double_tap">Увеличение при двойном нажатии</string>
   <string name="preview">Предварительный просмотр</string>
   <string name="progress_dialog_setting_wallpaper">Установка обоев...</string>
+  <string name="readmodelist_bookmarks_to_show">"Список чтения"</string>
   <string name="recover">Восстановить</string>
   <string name="recover_from_crash">Продолжить последнюю сессию</string>
   <string name="reload">Обновить</string>
