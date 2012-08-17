@@ -667,4 +667,11 @@
   <string name="websiteLabelsGroup">Веб-сайт</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Очистить данные</string>
+  <string name="listTotalAllContactsZero">Контактов нет</string>
+  <string name="listTotalAllContactsZeroCustom">Нет видимых контактов</string>
+  <string name="listTotalAllContactsZeroGroup">Нет контактов в %s</string>
+  <string name="listSingleContact">Одиночный контакт</string>
+  <string name="listCustomView">Контакты в пользовательском виде</string>
+  <string name="listAllContactsInAccount">Контактов в %s</string>
+  <string name="listTotalPhoneContactsZero">Нет контактов с номерами телефонов</string>
 </resources>
