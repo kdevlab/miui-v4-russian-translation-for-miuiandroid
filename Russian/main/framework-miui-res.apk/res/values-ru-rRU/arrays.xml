@@ -25,19 +25,19 @@
         <item>25039</item>
         <item>25050</item>
         <item>25099</item>
-		<item>26201</item>
+        <item>26201</item>
         <item>26202</item>
         <item>26203</item>
         <item>26204</item>
         <item>26206</item>
         <item>26207</item>
         <item>26208</item>
-		<item>26211</item>
+        <item>26211</item>
         <item>26277</item>
     </string-array>
     <string-array name="mobile_operator_display_names">
-        <item>Mobile TeleSystems</item>
-        <item>MegaFon OJSC</item>
+        <item>МТС</item>
+        <item>МегаФон</item>
         <item>Nizhegorodskaya Cellular Communications</item>
         <item>Sibchallenge</item>
         <item>Yeniseytelecom</item>
@@ -54,20 +54,20 @@
         <item>INDIGO</item>
         <item>Tele2</item>
         <item>Mobicom - Novosibirsk</item>
-        <item>Beeline</item>
+        <item>Билайн</item>
         <item>MOTIV</item>
         <item>Central Telecommunication Company</item>
         <item>Uralsvyazinform</item>
         <item>Bezlimitno.ru</item>
         <item>OJSC Vimpel-Communications</item>
-		<item>T-Mobile Deutschland GmbH</item>
+        <item>T-Mobile Deutschland GmbH</item>
         <item>Vodafone D2 GmbH</item>
         <item>E-Plus Mobilfunk</item>
         <item>Vodafone</item>
         <item>E-Plus (Reserved)</item>
         <item>O2 (Germany) GmbH</item>
         <item>O2 (Reserved)</item>
-		<item>O2 (Reserved 2)</item>
+        <item>O2 (Reserved 2)</item>
         <item>E-Plus (Reserved 2)</item>
     </string-array>
     <string-array name="alphabet_table">
