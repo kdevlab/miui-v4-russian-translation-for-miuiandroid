@@ -189,11 +189,11 @@
   <string name="settings_toggle_position_reset">Сбросить переключатели</string>
   <string name="status_bar_accessibility_dismiss_recents">Закрыть недавние приложения</string>
   <string name="status_bar_clear_all_button">Очистить</string>
-  <string name="status_bar_date_format">EEEE, d MMMM yyyy</string>
+  <string name="status_bar_date_format">EEE, d MMMM yyyy</string>
   <string name="status_bar_do_not_disturb_button">Не беспокоить</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Настройка способов ввода</string>
   <string name="status_bar_latest_events_title">Уведомления</string>
-  <string name="status_bar_network_flow">Сегодня: %1$s | Осталось: %2$s</string>
+  <string name="status_bar_network_flow">Сегодня: %1$s | Осталось: %2$s | Всего: %3$s</string>
   <string name="status_bar_network_flow_exceed">"Сегодня: %1$s | Осталось: %2$s"</string>
   <string name="status_bar_network_flow_today">Сегодня: %1$s</string>
   <string name="status_bar_network_name_separator">" "</string>
