@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Refixed, updated, merged by KDG Translation Suite-->
   <string name="activity_not_found">Приложение не найдено</string>
   <string name="application_name">Рабочий стол</string>
   <string name="buffering">Буферизация…</string>

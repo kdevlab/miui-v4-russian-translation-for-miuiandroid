@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Refixed, updated, merged by KDG Translation Suite-->
   <string name="app_label">Хранилище настроек</string>
 </resources>

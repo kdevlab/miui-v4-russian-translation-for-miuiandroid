@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Refixed, updated, merged by KDG Translation Suite-->
   <string name="VideoView_error_button">OK</string>
   <string name="VideoView_error_text_invalid_progressive_playback">К сожалению, это видео не является допустимым для потока на этом устройстве</string>
   <string name="VideoView_error_text_unknown">К сожалению, это видео не может быть воспроизведено</string>

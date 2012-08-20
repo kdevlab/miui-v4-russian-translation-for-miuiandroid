@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Refixed, updated, merged by KDG Translation Suite-->
   <string name="account">Аккаунт</string>
   <string name="account_delete_dlg_instructions_fmt">Аккаунт \"%s\" будет удален из Email</string>
   <string name="account_delete_dlg_title">Удалить аккаунт</string>

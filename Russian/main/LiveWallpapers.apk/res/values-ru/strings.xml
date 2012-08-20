@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Refixed, updated, merged by KDG Translation Suite-->
   <string name="clock_settings">Полярные часы: настройки</string>
   <string name="palette">Цветовая палитра</string>
   <string name="palette_black_c">Черная дыра (анимация)</string>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Refixed, updated, merged by KDG Translation Suite-->
   <string name="Dashboard_App">Приложения</string>
   <string name="Dashboard_HIPS_Disable_Content">"Отключение оставит вашу систему MIUI без управления приложениями и без защиты безопасности и конфиденциальности.
 Вы действительно хотите ее отключить?"</string>

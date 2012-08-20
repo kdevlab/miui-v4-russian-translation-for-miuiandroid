@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+  <!--Translated by KDev Group (main repository)-->
+  <!--Refixed, updated, merged by KDG Translation Suite-->
   <string name="a_sensor_summary">Горизонтальная калибровка правильно используя акселерометр</string>
   <string name="a_sensor_title">Горизонтальная калибровка</string>
   <string name="display_saving">Авторегулировка экрана</string>
