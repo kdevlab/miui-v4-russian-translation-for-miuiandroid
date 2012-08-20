@@ -65,8 +65,7 @@
   <string name="localPhoneName">Мое название</string>
   <string name="no_transfers">Нет данных</string>
   <string name="not_exist_file">Нет файла</string>
-  <string name="not_exist_file_desc">"Файл не существует.
-"</string>
+  <string name="not_exist_file_desc">"Файл не существует"</string>
   <string name="noti_caption">Удачно: %1$s, неудачно: %2$s.</string>
   <string name="notification_received">Передача по Bluetooth: файл %1$s получен</string>
   <string name="notification_received_fail">Передача по Bluetooth: файл %1$s не получен</string>
@@ -108,8 +107,7 @@
   <string name="unknownNumber">Неизвестно</string>
   <string name="unknown_device">Неизвестное устройство</string>
   <string name="unknown_file">Неизвестный файл</string>
-  <string name="unknown_file_desc">"Нет приложений для работы с файлами этого типа
-"</string>
+  <string name="unknown_file_desc">"Нет приложений для работы с файлами этого типа"</string>
   <string name="update_record">Подтвердить запись</string>
   <string name="upload_fail_cancel">Закрыть</string>
   <string name="upload_fail_line1">Файл не был отправлен на устройство \"%1$s\"</string>
@@ -120,5 +118,5 @@
   <string name="upload_line5">Отправка файла...</string>
   <string name="upload_succ_line5">Файл отправлен</string>
   <string name="upload_succ_ok">ОК</string>
-  <string name="upload_success">Отправлено: %1$s.</string>
+  <string name="upload_success">Отправлено: %1$s</string>
 </resources>
