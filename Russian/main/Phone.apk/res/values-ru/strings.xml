@@ -681,7 +681,7 @@
   <string name="pin2_changed_miui">PIN2 успешно изменен</string>
   <string name="pin2_invalid">Номер ограниченного набора не обновлен: вы ввели неверный PIN-код</string>
   <string name="pin2_lock_warning_miui">"
-Обратите внимание, что PIN2 будет заблокирован, если еще раз ошибетесь!"</string>
+Функционал, касающийся PIN2, будет заблокирован при неудачной попытке!"</string>
   <string name="pin2_locked_message_miui">Incorrect PIN2, and the PIN2 related functionality is locked. Please reset PIN2 by PUK2</string>
   <string name="pinUnlocked">SIM-карта разблокирована</string>
   <string name="pin_attempts_miui">Осталось %d попыток</string>
@@ -689,7 +689,7 @@
   <string name="pin_changed_miui">PIN SIM-карты успешно изменен</string>
   <string name="pin_failed">Введен неверный PIN</string>
   <string name="pin_lock_warning_miui">"
-Обратите внимание, что телефон будет заблокирован, если не удастся ввести еще раз!"</string>
+Телефон будет заблокирован при неудачной попытке!"</string>
   <string name="pin_progress_change_pin2_miui">Изменение PIN2...</string>
   <string name="pin_progress_change_pin_miui">Изменение PIN-кода...</string>
   <string name="pin_progress_set_fdn_lock_miui">Настройка FDN состояния блокировки...</string>
@@ -713,8 +713,8 @@
   <string name="preferred_network_mode_title">Режим сети</string>
   <string name="preferred_network_mode_wcdma_only_summary">Предпочтительная сеть: только WCDMA</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Предпочтительная сеть: WCDMA</string>
-  <string name="preferred_network_type_3g_only_warning_miui">"Вы выбрали только 3G как тип сети, из-за этого возможна потеря сети при плохом покрытии сетей 3G
-Нажмите OK для продолжения"</string>
+  <string name="preferred_network_type_3g_only_warning_miui">Вы выбрали 3G как предпочтительный режим, сигнала может не быть, если ваша SIM-карта не поддерживает 3G!
+Нажмите OK для продолжения.</string>
   <string name="preferred_network_type_cdma_miui">CDMA</string>
   <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_miui">Предпочтительно 3G</string>
@@ -734,7 +734,7 @@
   <string name="pstn_phone">Вызов по сотовой сети</string>
   <string name="puk2_requested">Неверный пароль, SIM-карта заблокирована! Введите код PUK2</string>
   <string name="puk_lock_warning_miui">"
-Обратите внимание, что SIM-карта полностью заблокируется, если вы введете код неверно еще раз!"</string>
+SIM-карта будет заблокирована навсегда при неудачной попытке!"</string>
   <string name="puk_requested">Неверный пароль, SIM-карта заблокирована! Введите код PUK2</string>
   <string name="puk_unlocked">SIM-карта разблокирована. Осуществляется разблокировка телефона...</string>
   <string name="radio_off_error">Чтобы увидеть эти настройки, нужно включить радио</string>
