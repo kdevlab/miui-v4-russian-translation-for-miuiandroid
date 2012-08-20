@@ -39,12 +39,10 @@ http://n1torch.googlecode.com/
   <string name="setting_frequency_title">Частота стробоскопа</string>
   <string name="setting_widget_bright">Виджет яркости</string>
   <string name="setting_widget_strobe">Виджет стробоскопа</string>
-  <string name="torch_message">"Фонарик можно быстро включить, удерживая [icon], на экране блокировки
-"</string>
+  <string name="torch_message">"Фонарик можно быстро включить, удерживая [icon], на экране блокировки"</string>
   <string name="warning">"Осторожно: Долгое свечение светодиода вызовет его перегрев.
 
-Полная яркость 'Всегда включено' успешно тестировалась на 30 минутах, но существует вероятность повредить светодиод.
-"</string>
+Полная яркость 'Всегда включено' успешно тестировалась на 30 минутах, но существует вероятность повредить светодиод."</string>
   <string name="warning_label">Осторожно</string>
   <string name="widget_label">Фонарик</string>
   <string name="widget_options">Основные настройки</string>
