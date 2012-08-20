@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
-  <!--Refixed, updated, merged by KDG Translation Suite-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="ErrorTooManyRequests">Обрабатывается слишком много запросов. Повторите попытку позднее.</string>
   <string name="ack_record">Запись подтверждения</string>
   <string name="airplane_error_msg">В режиме полета нельзя использовать Bluetooth.</string>

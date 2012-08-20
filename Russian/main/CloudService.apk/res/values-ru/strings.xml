@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
-  <!--Refixed, updated, merged by KDG Translation Suite-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="account">Аккаунт</string>
   <string name="account_banner">Войти в Xiaomi для MIUI и MiTalk</string>
   <string name="account_deleted">Учетная запись удалена</string>

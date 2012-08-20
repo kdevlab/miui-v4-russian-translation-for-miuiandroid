@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
-  <!--Refixed, updated, merged by KDG Translation Suite-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="abs__action_bar_home_description">Домой</string>
   <string name="abs__action_bar_up_description">Вверх</string>
   <string name="abs__action_menu_overflow_description">Другие варианты</string>

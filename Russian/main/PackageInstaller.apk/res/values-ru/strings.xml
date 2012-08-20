@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
-  <!--Refixed, updated, merged by KDG Translation Suite-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
   <string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
   <string name="allow_source_dlg_text">"%1$s хочет установить другие приложения.

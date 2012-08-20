@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
-  <!--Refixed, updated, merged by KDG Translation Suite-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="allow_backup_button_label">Создать резервную копию данных</string>
   <string name="allow_restore_button_label">Восстановить данные</string>
   <string name="backup_confirm_text">"Запрошено резервное копирование всех данных на подключенном компьютере. Разрешить?

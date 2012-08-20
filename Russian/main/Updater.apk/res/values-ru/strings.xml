@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
-  <!--Refixed, updated, merged by KDG Translation Suite-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="about_device">О системе</string>
   <string name="app_name">Обновления</string>
   <string name="apply_buddy_update_info_message">Нажмите Обновление и телефон начнет процесс обновления</string>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
-  <!--Refixed, updated, merged by KDG Translation Suite-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="accessibility_airplane_mode">Режим полета</string>
   <string name="accessibility_back">Назад</string>
   <string name="accessibility_battery_full">Батарея полностью заряжена</string>

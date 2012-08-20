@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
-  <!--Refixed, updated, merged by KDG Translation Suite-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="about_settings">Сведения о телефоне</string>
   <string name="about_settings_summary">Просмотр юридической информации, состояния планшетного ПК и версии ПО</string>
   <string name="ac_enable_title">Ограничение доступа</string>
