@@ -166,7 +166,7 @@
   <string name="play_and_download_summary">Автоматически загружать треки, прослушанные онлайн. Рекомендуется включить.</string>
   <string name="play_selection">Слушать</string>
   <string name="playback_failed">К сожалению, проигрыватель не поддерживает этот тип аудио файлов</string>
-  <string name="playback_failed_by_bad_file">"'%s'Невозможно проиграть трэк, не поддерживается формат файла"</string>
+  <string name="playback_failed_by_bad_file">"Невозможно проиграть трэк '%s', не поддерживается формат файла"</string>
   <string name="playback_failed_by_network">"'%s'Невозможно проиграть трэк, проверьте сетевое подключение"</string>
   <string name="playback_failed_no_title_by_bad_file">Невозможно проиграть трэк, не поддерживается формат файла</string>
   <string name="playback_failed_no_title_by_network">Невозможно проиграть трэк, проверьте сетевое подключение</string>

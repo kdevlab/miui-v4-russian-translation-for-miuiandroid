@@ -130,24 +130,24 @@
         <item>Отличный</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
-        <item>Выключен</item>
-        <item>Если подключено питание</item>
-        <item>Включен</item>
+        <item>Выключен (энергосбережение)</item>
+        <item>Включен, если подключено питание</item>
+        <item>Включен (б. расх. батареи!)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
-        <item>Выключен</item>
-        <item>Если подключено питание</item>
-        <item>Включен</item>
+        <item>Выключен(энергосбережение)</item>
+        <item>Включен, если подключено питание</item>
+        <item>Включен (б. расх. батареи!)</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Автоматически</item>
-        <item>5 GHz</item>
-        <item>2.4 GHz</item>
+        <item>5 ГГц</item>
+        <item>2.4 ГГц</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Время использования</item>
         <item>Launch count</item>
-        <item>App name</item>
+        <item>Название приложения</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
         <item>Нет</item>
@@ -286,9 +286,9 @@
         <item>Полоса в баре</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
-        <item>Запрос при подкл.</item>
-        <item>Зарядка</item>
-        <item>Подключить SD карту</item>
+        <item>Запрос при подключении</item>
+        <item>Только зарядка</item>
+        <item>Подключить SD-карту</item>
     </string-array>
     <string-array name="led_color_values">
         <item>green</item>

@@ -816,7 +816,7 @@
   <string name="intent_sender_resource_label">Ресурс:</string>
   <string name="intent_sender_sendbroadcast_text">Отправить broadcast</string>
   <string name="intent_sender_startactivity_text">Начать activity</string>
-  <string name="internal_memory">Внутренний накопитель</string>
+  <string name="internal_memory">Память телефона</string>
   <string name="internal_storage">Внутренний накопитель</string>
   <string name="invalid_location">Недопустимое место установки</string>
   <string name="invalid_size_value">Не удалось вычислить размер пакета</string>
