@@ -302,9 +302,4 @@
   <string name="widget_type_shuffle">Перемешать все изображения</string>
   <string name="width">Ширина</string>
   <string name="yes">Да</string>
-  <string name="fail_init_gallery_db_helper">Приложение будет закрыто: ошибка при открытии базыданных Галереи; недостаточно места на диске</string>
-  <string name="message_no_delete_access">Отказано в доступе. Невозможно удалить файл/папку %s</string>
-  <string name="tab_all_text">Выбрать все</string>
-  <string name="tab_lockscreen_text">Обои экрана блокировки</string>
-  <string name="tab_wallpaper_text">Обои рабочего стола</string>
 </resources>
