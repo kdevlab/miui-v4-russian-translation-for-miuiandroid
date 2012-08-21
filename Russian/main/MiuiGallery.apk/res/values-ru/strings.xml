@@ -78,7 +78,7 @@
   <string name="exposure_time">Выдержка</string>
   <string name="facelift">Сияние</string>
   <string name="facetan">Загар</string>
-  <string name="fail_init_gallery_db_helper">Ошибка открытия базы галереи. Диск полон. Приложение будет закрыто</string>
+  <string name="fail_init_gallery_db_helper">Ошибка открытия базы данных галереи. Диск полон.</string>
   <string name="fail_to_load">Не загружено</string>
   <string name="failure_external_storage_not_writable">Внешний накопитель не доступен для записи!</string>
   <string name="file_info_create_time">Создан:</string>
@@ -143,7 +143,7 @@
   <string name="menu_item_sort_size_desc">По размеру (Z-A)</string>
   <string name="menu_item_sort_visit_asc">По частоте (A-Z)</string>
   <string name="menu_item_sort_visit_desc">По частоте (Z-A)</string>
-  <string name="message_no_delete_access">Ошибка доступа. Невозможно удалить файл или папку: %s</string>
+  <string name="message_no_delete_access">Отказано в доступе. Невозможно удалить файл или папку: %s</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk Painting</string>
   <string name="miliao_saved_folder_display_name">Сохраненные MiTalk</string>
@@ -275,6 +275,9 @@
   <string name="sync_only_in_wifi">Только Wi-Fi</string>
   <string name="sync_only_in_wifi_summary">Рекомендуется включить, иначе будет потребление мобильного трафика</string>
   <string name="sync_picasa_albums">Обновить</string>
+  <string name="tab_all_text">Установить на все</string>
+  <string name="tab_lockscreen_text">Обои экрана блокировки</string>
+  <string name="tab_wallpaper_text">Обои рабочего стола</string>
   <string name="tags">Теги</string>
   <string name="temperature">Тепло</string>
   <string name="time">Время</string>
