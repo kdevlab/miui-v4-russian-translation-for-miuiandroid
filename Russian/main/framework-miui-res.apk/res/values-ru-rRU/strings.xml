@@ -386,6 +386,8 @@
   <string name="perm_activate_lab">Активация сервиса Xiaomi</string>
   <string name="perm_get_user_info_dspt">Получить подробную информацию о аккаунте Xiaomi</string>
   <string name="perm_get_user_info_lab">Получить информацию о аккаунте Xiaomi</string>
+  <string name="perm_tigger_toggle_dspt">Разрешить программам переключать функции в строке состояния</string>
+  <string name="perm_tigger_toggle_lab">Пререключатели из статусбара</string>
   <string name="phoneTypeMms">MMS</string>
   <string name="power_off">Отключение питания...</string>
   <string name="private_num">Приватный номер</string>

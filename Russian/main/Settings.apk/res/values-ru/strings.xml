@@ -1613,6 +1613,8 @@
   <string name="usage_type_wifi_running">Wi-Fi</string>
   <string name="usb_connection_category">Подключить как</string>
   <string name="usb_label_installer_cd">Установить инструменты передачи файлов</string>
+  <string name="usb_msd_driver_installer_summary">Вы можете получить установщик драйвера для Windows или OS X тут</string>
+  <string name="usb_msd_driver_installer_title">Диск установки драйверов (MSD)</string>
   <string name="usb_msd_summary">Передача файлов на Windows и Mac</string>
   <string name="usb_msd_title">Подключение USB</string>
   <string name="usb_mtp_summary">Позволяет передавать файлы мультимедиа в ОС Windows или использовать для этого Android File Transfer в ОС Mac (см. www.android.com/filetransfer)</string>
