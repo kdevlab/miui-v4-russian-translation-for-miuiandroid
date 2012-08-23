@@ -277,6 +277,7 @@
   <string name="every_day">Каждый день</string>
   <string name="factorytest_reboot">Перезагрузить телефон</string>
   <string name="fast_scroll_alphabet">" АБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЫЭЮЯ"</string>
+  <string name="find_device_sim_change_instructions">"Ваше устройство заблокировано. Вставьте SIM-карту или введите ваш пароль для аккаунта Xiaomi"</string>
   <string name="firewall_setting">Черный список</string>
   <string name="first_back_long_press_message">"Чтобы принудительно закрывать приложения удержанием кнопки НАЗАД, зайдите в:
 Настройки -&gt; Система -&gt; Кнопки
@@ -388,6 +389,8 @@
   <string name="perm_get_user_info_lab">Получить информацию о аккаунте Xiaomi</string>
   <string name="perm_tigger_toggle_dspt">Разрешить программам переключать функции в строке состояния</string>
   <string name="perm_tigger_toggle_lab">Пререключатели из статусбара</string>
+  <string name="perm_use_find_device">Обнаружение устройства</string>
+  <string name="perm_use_pin_security">Использовать защиту PIN</string>
   <string name="phoneTypeMms">MMS</string>
   <string name="power_off">Отключение питания...</string>
   <string name="private_num">Приватный номер</string>
