@@ -282,7 +282,7 @@
   <string name="usb_storage_stop_notification_message">Выберите для отключения режима накопителя</string>
   <string name="usb_storage_stop_notification_title">Выключить режим накопителя</string>
   <string name="usb_storage_stop_title">Режим накопителя используется</string>
-  <string name="usb_storage_title">USB-кабель підключений</string>
+  <string name="usb_storage_title">USB подключение</string>
   <string name="use_mtp_button_title">Подключить как мультимедийный проигрыватель (MTP)</string>
   <string name="use_ptp_button_title">Установить как камеру (PTP)</string>
   <string name="user_guide_for_call">Вернуться к телефонному разговору можно, перетащив панель уведомлений вниз и нажав кнопку Текущий вызов</string>
