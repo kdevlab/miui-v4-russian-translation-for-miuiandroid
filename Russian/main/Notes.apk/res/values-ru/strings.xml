@@ -64,7 +64,8 @@
   <string name="menu_font_size">Размер шрифта</string>
   <string name="menu_font_small">Маленький</string>
   <string name="menu_font_super">Огромный</string>
-  <string name="menu_list_mode">Список</string>
+  <string name="menu_grid_mode">Вид просмотра: Сетка</string>
+  <string name="menu_list_mode">Вид просмотра: Список</string>
   <string name="menu_move">Переместить в папку</string>
   <string name="menu_move_parent_folder">Назад</string>
   <string name="menu_normal_mode">Отключить список</string>
@@ -115,6 +116,7 @@
   <string name="search_label">Поиск заметок</string>
   <string name="search_setting_description">Текст в заметках</string>
   <string name="select_text">Выделить текст</string>
+  <string name="send_to_note">Отправить в заметку</string>
   <string name="set_remind_time_message">Установить напоминание</string>
   <string name="snippet_image_stub">[Картинка]</string>
   <string name="success_sdcard_export">Экспорт завершен</string>
