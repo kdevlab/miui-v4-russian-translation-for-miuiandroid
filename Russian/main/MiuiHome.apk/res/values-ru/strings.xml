@@ -50,8 +50,10 @@
   <string name="menu_add">Добавить</string>
   <string name="menu_back_desktop">Домой</string>
   <string name="menu_edit">Режим редактирования</string>
+  <string name="menu_exit_scene">Выйти из экрана</string>
   <string name="menu_item_add_item">Добавить на основной экран</string>
   <string name="menu_launcher_setting">Настройки рабочего стола</string>
+  <string name="menu_reset_scene">Сбросить</string>
   <string name="menu_search">Поиск</string>
   <string name="menu_settings">Параметры системы</string>
   <string name="menu_sort">Сортировка</string>
@@ -83,6 +85,7 @@
   <string name="pref_wallpaper_scroll_type_title">Прокрутка обоев</string>
   <string name="preferences_general_title">Основные настройки</string>
   <string name="preferences_title">Параметры рабочего стола</string>
+  <string name="reset_scene_prompt">Экран будет сброшен в стандартное значение</string>
   <string name="select_frame">Рамка</string>
   <string name="select_photo">Фото</string>
   <string name="sort_by_abc">По имени</string>
@@ -104,6 +107,8 @@
   <string name="uninstall_body_format">Удалить приложение \"%s\"?</string>
   <string name="unknown_artist_name">Неизвестный артист</string>
   <string name="upside_apps_title">Выбор приложения</string>
+  <string name="upside_edit_bar_empty">Пусто</string>
+  <string name="upside_edit_bar_select_app">Выбрать приложение</string>
   <string name="upside_edit_bottom_empty_tip">Нажмите для изменения</string>
   <string name="widget_favorite_contacts_edit">Изменить</string>
   <string name="widget_favorite_contacts_label">Контакты</string>
