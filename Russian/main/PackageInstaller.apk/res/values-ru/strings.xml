@@ -42,6 +42,7 @@
   <string name="ok">ОК</string>
   <string name="out_of_space_dlg_text">Установить приложение %1$s не удалось. Освободите место и повторите попытку</string>
   <string name="out_of_space_dlg_title">Недостаточно места</string>
+  <string name="safe_guard_support">Техническая поддержка %1$s</string>
   <string name="security_settings_desc">Разрешить приложению:</string>
   <string name="settings">Настройки</string>
   <string name="uninstall_activity_text">%1$s является частью следующего приложения:</string>
