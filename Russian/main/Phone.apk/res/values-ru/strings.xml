@@ -683,7 +683,7 @@
   <string name="pin2_invalid">Номер ограниченного набора не обновлен: вы ввели неверный PIN-код</string>
   <string name="pin2_lock_warning_miui">"
 Функционал, касающийся PIN2, будет заблокирован при неудачной попытке!"</string>
-  <string name="pin2_locked_message_miui">>Неверный PIN2, функционал, касающийся PIN2, заблокирован. Сбросьте PIN2 введя PUK2.</string>
+  <string name="pin2_locked_message_miui">&gt;Неверный PIN2, функционал, касающийся PIN2, заблокирован. Сбросьте PIN2 введя PUK2.</string>
   <string name="pinUnlocked">SIM-карта разблокирована</string>
   <string name="pin_attempts_miui">Осталось %d попыток</string>
   <string name="pin_changed">PIN SIM-карты успешно изменен</string>
