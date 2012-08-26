@@ -192,9 +192,9 @@
   <string name="cdma_activate_device">Активировать устройство</string>
   <string name="cdma_cell_broadcast_sms">Широковещательные SMS-службы</string>
   <string name="cdma_conference_call_miui">Конференц-связь</string>
-  <string name="cdma_display_precise_call_state_message_miui">If your operator does not support, the call state will be incorrect when this switch is opened. Are you sure to open it?</string>
-  <string name="cdma_display_precise_call_state_summary_miui">CDMA call timer is restrict by network operator. If local operator supports, call state can be shown precisely.</string>
-  <string name="cdma_display_precise_call_state_title_miui">Display precise call state</string>
+  <string name="cdma_display_precise_call_state_message_miui">Если ваш оператор не поддерживает это, состояние вызова будет неправильно, если включен этот пункт. Продолжить?</string>
+  <string name="cdma_display_precise_call_state_summary_miui">CDMA таймер вызова ограничен оператором сотовой сети. Если местный оператор поддерживает, состояние может быть показано точно.</string>
+  <string name="cdma_display_precise_call_state_title_miui">Показывать состояние вызова</string>
   <string name="cdma_lte_data_service">Настроить передачу данных</string>
   <string name="cdma_network_preferences_dialogtitle">Настройки сети CDMA</string>
   <string name="cdma_network_preferences_title">Параметры сети CDMA</string>
@@ -343,7 +343,7 @@
   <string name="dtmf_tones_summary_miui">Настроить длительность тональных сигналов DTMF</string>
   <string name="dtmf_tones_title">Тональные сигналы DTMF</string>
   <string name="dtmf_tones_title_miui">Тональные сигналы DTMF</string>
-  <string name="ecm_exit_dialog">ДиалогВыходаРАЭВ</string>
+  <string name="ecm_exit_dialog">EcmExitDialog</string>
   <string name="edit_custom_location_title_miui">Настройка региональных приставок</string>
   <string name="edit_fdn_contact">Изменить номер ограниченного набора</string>
   <string name="emergencyDialerIconLabel">Номера экстренных вызовов</string>
@@ -683,7 +683,7 @@
   <string name="pin2_invalid">Номер ограниченного набора не обновлен: вы ввели неверный PIN-код</string>
   <string name="pin2_lock_warning_miui">"
 Функционал, касающийся PIN2, будет заблокирован при неудачной попытке!"</string>
-  <string name="pin2_locked_message_miui">Incorrect PIN2, and the PIN2 related functionality is locked. Please reset PIN2 by PUK2</string>
+  <string name="pin2_locked_message_miui">>Неверный PIN2, функционал, касающийся PIN2, заблокирован. Сбросьте PIN2 введя PUK2.</string>
   <string name="pinUnlocked">SIM-карта разблокирована</string>
   <string name="pin_attempts_miui">Осталось %d попыток</string>
   <string name="pin_changed">PIN SIM-карты успешно изменен</string>
@@ -848,6 +848,7 @@ SIM-карта будет заблокирована навсегда при н�
   <string name="sip_accounts">Аккаунты интернет-телефонии (SIP)</string>
   <string name="sip_accounts_summary">Управление аккаунтами и состоянием интернет-вызовов (SIP)</string>
   <string name="sip_accounts_title">Аккаунты</string>
+  <string name="sip_add_account_tip_text">Пожалуйста, добавьте аккаунт для интернет-телефонии</string>
   <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
   <string name="sip_always">SIP_ALWAYS</string>
   <string name="sip_always_send_keepalive">Отправлять всегда</string>
