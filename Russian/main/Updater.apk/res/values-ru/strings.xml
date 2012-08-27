@@ -31,8 +31,8 @@
   <string name="choose_recommend">Пожалуйста, выберите рекомендуете или нет</string>
   <string name="confirm_download_cancelation_dialog_message">Вы уверены, что хотите отменить загрузку обновления?</string>
   <string name="copy_install_log">Скопировано в буфер обмена</string>
-  <string name="current_version_text">Установленная версия:</string>
-  <string name="current_version_update_monthly_build">Установленная версия:</string>
+  <string name="current_version_text">Установлено:</string>
+  <string name="current_version_update_monthly_build">Установлено:</string>
   <string name="daily_build">Ежедневная сборка</string>
   <string name="dialog_no">Нет</string>
   <string name="dialog_ok">OK</string>
@@ -106,7 +106,7 @@
   <string name="share_update_content_sign">I’ve updated MIUI to %1$s! My update user rank is %2$s. For detailed changelog, please visit %3$s</string>
   <string name="share_update_content_unsign">I’ve updated MIUI to %1$s! For detailed changelog, please visit %2$s</string>
   <string name="sign_in_add_account_helper">В вашем телефоне нет аккаунта MIUI, пожалуйста добавьте его</string>
-  <string name="sign_in_info">Рейтинг: %1$s\n%2$s\n%3$s версия</string>
+  <string name="sign_in_info">Рейтинг: %1$s\n%2$s\nВерсия: %3$s</string>
   <string name="sign_in_info_rank_more">"Your update ranking is after %1$s
 Over %2$s users have signed in for MIUI %3$s"</string>
   <string name="sign_in_info_total_more">"Your update ranking is %1$s
