@@ -2,8 +2,12 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="about_device">О системе</string>
-  <string name="app_name">Обновления</string>
+  <string name="about_device">Сведения о системе</string>
+  <string name="active_xiaomi_account">Активный</string>
+  <string name="active_xiaomi_account_msg">"Пожалуйста, перейдите на форум MIUI для активного аккаунта Xiaomi:
+"</string>
+  <string name="active_xiaomi_account_title">Активный аккаунт</string>
+  <string name="app_name">Обновление</string>
   <string name="apply_buddy_update_info_message">Нажмите Обновление и телефон начнет процесс обновления</string>
   <string name="apply_existing_update_md5error_title">Ошибка проверки целостности</string>
   <string name="apply_later_button_text">Обновить позже</string>
@@ -11,13 +15,14 @@
   <string name="apply_unable_to_reboot_toast">Невозможно перезагрузить</string>
   <string name="apply_update_dialog_cancel_button">Отмена</string>
   <string name="apply_update_dialog_update_button">Обновление</string>
-  <string name="apply_update_fail">Ошибка обновления!</string>
-  <string name="apply_update_guide">Обновление продолжится в фоне</string>
+  <string name="apply_update_fail">Ошибка обновления</string>
+  <string name="apply_update_guide">Обновление в фоновом режиме, не влияет на нормальное использование</string>
   <string name="apply_update_refuse">Идет обновление системы, хотите прервать?</string>
   <string name="apply_upload_info_message">Нажатие Обновление автоматически перезагрузит телефон для применения обновления</string>
   <string name="apply_upload_info_message_manually">Вы можете сами установить обновление с SD-карты (%s)</string>
   <string name="applying_rom_message">Применение обновления</string>
-  <string name="applying_update">Обновление (%s)</string>
+  <string name="applying_update">Применение обновления...%s</string>
+  <string name="best_update">2.Лучшее обновление</string>
   <string name="boot_recovery">В режим восстановления</string>
   <string name="cancel_download_buton_text">Отмена</string>
   <string name="check_update_policy">Настройки</string>
@@ -27,41 +32,53 @@
   <string name="confirm_download_cancelation_dialog_message">Вы уверены, что хотите отменить загрузку обновления?</string>
   <string name="copy_install_log">Скопировано в буфер обмена</string>
   <string name="current_version_text">Установленная версия:</string>
-  <string name="current_version_update_monthly_build">Сейчас версия</string>
+  <string name="current_version_update_monthly_build">Установленная версия:</string>
+  <string name="daily_build">Ежедневная сборка</string>
   <string name="dialog_no">Нет</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_yes">Да</string>
-  <string name="download_current_rom">Скачать последнюю версию полного пакета</string>
+  <string name="download_current_rom">Скачать полный пакет</string>
   <string name="download_ota_rom">Обновление (%s)</string>
   <string name="download_whole_rom">Полный пакет (%s)</string>
   <string name="downloading_description">Скачивание...</string>
+  <string name="emegency_build">Сборка:</string>
   <string name="emegency_update_helper">Системе может потребоваться перезагрузка после установки патча на вашем телефоне</string>
-  <string name="emegency_update_size">Размер:%s</string>
+  <string name="emegency_update_size">Размер: %s</string>
   <string name="emegency_version">Обновление</string>
   <string name="exception_while_downloading">Произошла ошибка при загрузке обновления</string>
+  <string name="expect">4.Ожидание</string>
   <string name="file_not_found_error_message">Запрошенный файл не найден</string>
+  <string name="finish">Готово</string>
   <string name="finish_download">Скачивание завершено</string>
-  <string name="install_email">Установить E-mail</string>
+  <string name="get_update_error">Не удалось получить информацию об обновлении</string>
+  <string name="install_email">Установить E-Mail</string>
   <string name="install_file_explorer">Установите приложение Файлы</string>
   <string name="install_rom_from_sd">Прошивка</string>
   <string name="install_whole_rom">Мы рекомендуем вам скачать полный пакет для обновления системы</string>
   <string name="loading">Загрузка MIUI</string>
-  <string name="md5_check_cancelled">MD5 проверка остановлена</string>
+  <string name="md5_check_cancelled">Проверка MD5 отменена</string>
   <string name="mione_update_fail_description">Обновление MI-ONE завершено с ошибкой</string>
   <string name="mione_update_fail_title">Ошибка обновления</string>
   <string name="mione_update_success_description">MI-ONE обновлен</string>
   <string name="mione_update_success_title">Обновление завершено</string>
+  <string name="monthly_build">Ежемесячная сборка</string>
   <string name="move_data_to_sdcard_not_enough_space_message">Не хватает места %dМб для копирования файлов на SD-карту</string>
   <string name="move_data_to_sdcard_title">Копирование файлов на SD-карту</string>
   <string name="moving_data_to_sdcard_message">"Выполняется перенос данных
 пожалуйста подождите..."</string>
   <string name="moving_data_to_sdcard_progress_format">Перенесено: %1$dКб из %2$dКб</string>
+  <string name="my_best_update">Я выбрал лучшее обновление</string>
+  <string name="my_expect_update">Я выбрал ожидания </string>
+  <string name="my_rank">Рейтинг обновления:</string>
+  <string name="my_update_feel">Мои ощущения</string>
+  <string name="my_worst_update">Я выбрал худшее обновление</string>
   <string name="network_error">Ошибка подключения к сети или сервер занят</string>
   <string name="new_update_content_title">Обновление:\u0020%s</string>
   <string name="new_update_download_complete_body">Готово к установке: %s</string>
   <string name="new_update_downloading_body">Скачивание новой версии:%s</string>
   <string name="new_updates_found_notification_title">Новое обновление системы!</string>
   <string name="new_updates_found_title">Найдены обновления</string>
+  <string name="next">Далее</string>
   <string name="no_proper_updates">Для текущей версии обновлений нет</string>
   <string name="no_updatecheck_executed">Не выполнять проверку обновлений</string>
   <string name="no_updates_found">Нет новых версий</string>
@@ -71,22 +88,30 @@
   <string name="page_error">Нет доступа к MIUI из-за проблем с GPRS/3G или недоступности сервера</string>
   <string name="page_error_title">Нет доступа</string>
   <string name="page_reload">Повторить</string>
+  <string name="previous">Назад</string>
   <string name="reboot_to_new_system">Перезагрузка в новую систему</string>
   <string name="recommend">Рекомендуемое</string>
   <string name="recommend_comment_hint">Комментарий:</string>
   <string name="recommend_vote_title">MIUI Beta Team Poll</string>
+  <string name="refuse_recommend_reason">Пожалуйста, заполните свои причины</string>
   <string name="sdcard_has_no_space_dialog_body">Нет места на SD карте, пожалуйста очистите</string>
   <string name="sdcard_has_no_space_dialog_title">Нет места на SD карте</string>
   <string name="sdcard_is_not_present_dialog_body">Вам нужна SD-карта для загрузки обновления</string>
   <string name="sdcard_is_not_present_dialog_title">Нет SD-карты</string>
   <string name="send_install_log">Отправить журнал</string>
   <string name="send_install_log_error">Ошибка отправки</string>
+  <string name="share_qq">Post it via Tencent weibo</string>
+  <string name="share_sina">Post it via Sina weibo</string>
+  <string name="share_update">Share system update info</string>
+  <string name="share_update_content_sign">I’ve updated MIUI to %1$s! My update user rank is %2$s. For detailed changelog, please visit %3$s</string>
+  <string name="share_update_content_unsign">I’ve updated MIUI to %1$s! For detailed changelog, please visit %2$s</string>
   <string name="sign_in_add_account_helper">В вашем телефоне нет аккаунта MIUI, пожалуйста добавьте его</string>
   <string name="sign_in_info">Рейтинг: %1$s\n%2$s\n%3$s версия</string>
   <string name="sign_in_info_rank_more">"Your update ranking is after %1$s
 Over %2$s users have signed in for MIUI %3$s"</string>
   <string name="sign_in_info_total_more">"Your update ranking is %1$s
 Over %2$s users have signed in for MIUI %3$s"</string>
+  <string name="stable_build">Стабильная сборка</string>
   <string name="start_update">Начать обновление</string>
   <string name="submit">Подтвердить</string>
   <string name="submit_fail">Ошибка подтверждения</string>
@@ -98,13 +123,30 @@ Over %2$s users have signed in for MIUI %3$s"</string>
   <string name="system_backup_error_message">Ошибка резервного копирования системы</string>
   <string name="system_backup_ok_text">Р.К.</string>
   <string name="sytemt_backup_helper">Обновление не влияет на пользовательские данные. Однако, для того чтобы защитить ваши данные безопасности, мы рекомендуем сделать резервную копию.</string>
+  <string name="update_comment_hint">(optional)</string>
+  <string name="update_comment_title">I have something to say</string>
+  <string name="update_feedback">Four-grid Update Feedback</string>
+  <string name="update_feedback_expired">"It's a pity that you miss Four-grid Update Feedback!
+Please poll next Tuesday"</string>
+  <string name="update_feel">1.How are you feeling?</string>
+  <string name="update_general">So-so</string>
+  <string name="update_happy">Happy</string>
+  <string name="update_monthly_build_only">Только ежемесячные обновления</string>
+  <string name="update_sad">Sad</string>
   <string name="update_success">Поздравляем, обновление успешно</string>
   <string name="update_success_body">Поздравляем, система успешно обновлена</string>
   <string name="update_success_title">Обновление</string>
+  <string name="upgrade_close">Закрыть</string>
+  <string name="upgrade_kernel">Обновления ядра</string>
+  <string name="upgrade_kernel_msg">"Ваше ядро несовместимо с прошивкой MIUI. Вы должны обновить его вручную. Зайтите на сайт, чтобы узнать как обновить ядро:
+"</string>
   <string name="verify_and_apply_dialog_message">Проверка целостности...</string>
   <string name="verify_and_apply_dialog_title">Проверка</string>
   <string name="view_details">Подробнее</string>
   <string name="view_install_log">Просмотр журнала</string>
-  <string name="wifi_not_available_body">Файл ROM большой, рекомендуется скачать его через Wi-Fi. Ваш Wi-Fi в настоящее время отключен, вы хотите продолжить загрузку через мобильную сеть?</string>
+  <string name="view_upgrade_tutorial">Помощь с обновлением</string>
+  <string name="weekly_build">Еженедельные сборки</string>
+  <string name="wifi_not_available_body">Файл прошивки слишком большой, рекомендуется скачать его через Wi-Fi. Ваш Wi-Fi в настоящее время отключен, вы хотите продолжить загрузку через мобильную сеть?</string>
   <string name="wifi_not_available_title">Wi-Fi не подключен</string>
+  <string name="worst_update">3.Worst update</string>
 </resources>
