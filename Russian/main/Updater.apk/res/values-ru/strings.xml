@@ -33,7 +33,7 @@
   <string name="copy_install_log">Скопировано в буфер обмена</string>
   <string name="current_version_text">Установлено:</string>
   <string name="current_version_update_monthly_build">Установлено:</string>
-  <string name="daily_build">Ежедневная сборка</string>
+  <string name="daily_build">ежедневная сборка</string>
   <string name="dialog_no">Нет</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_yes">Да</string>
@@ -61,7 +61,7 @@
   <string name="mione_update_fail_title">Ошибка обновления</string>
   <string name="mione_update_success_description">MI-ONE обновлен</string>
   <string name="mione_update_success_title">Обновление завершено</string>
-  <string name="monthly_build">Ежемесячная сборка</string>
+  <string name="monthly_build">ежемесячная сборка</string>
   <string name="move_data_to_sdcard_not_enough_space_message">Не хватает места %dМб для копирования файлов на SD-карту</string>
   <string name="move_data_to_sdcard_title">Копирование файлов на SD-карту</string>
   <string name="moving_data_to_sdcard_message">"Выполняется перенос данных
@@ -111,7 +111,7 @@
 Over %2$s users have signed in for MIUI %3$s"</string>
   <string name="sign_in_info_total_more">"Your update ranking is %1$s
 Over %2$s users have signed in for MIUI %3$s"</string>
-  <string name="stable_build">Стабильная сборка</string>
+  <string name="stable_build">стабильная сборка</string>
   <string name="start_update">Начать обновление</string>
   <string name="submit">Подтвердить</string>
   <string name="submit_fail">Ошибка подтверждения</string>
@@ -145,7 +145,7 @@ Please poll next Tuesday"</string>
   <string name="view_details">Подробнее</string>
   <string name="view_install_log">Просмотр журнала</string>
   <string name="view_upgrade_tutorial">Помощь с обновлением</string>
-  <string name="weekly_build">Еженедельные сборки</string>
+  <string name="weekly_build">еженедельная сборка</string>
   <string name="wifi_not_available_body">Файл прошивки слишком большой, рекомендуется скачать его через Wi-Fi. Ваш Wi-Fi в настоящее время отключен, вы хотите продолжить загрузку через мобильную сеть?</string>
   <string name="wifi_not_available_title">Wi-Fi не подключен</string>
   <string name="worst_update">3.Worst update</string>
