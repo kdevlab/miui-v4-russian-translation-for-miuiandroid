@@ -92,7 +92,7 @@
   <string name="reboot_to_new_system">Перезагрузка в новую систему</string>
   <string name="recommend">Рекомендуемое</string>
   <string name="recommend_comment_hint">Комментарий:</string>
-  <string name="recommend_vote_title">MIUI Beta Team Poll</string>
+  <string name="recommend_vote_title">Опрос MIUI Beta Team</string>
   <string name="refuse_recommend_reason">Пожалуйста, заполните свои причины</string>
   <string name="sdcard_has_no_space_dialog_body">Нет места на SD карте, пожалуйста очистите</string>
   <string name="sdcard_has_no_space_dialog_title">Нет места на SD карте</string>
@@ -100,17 +100,6 @@
   <string name="sdcard_is_not_present_dialog_title">Нет SD-карты</string>
   <string name="send_install_log">Отправить журнал</string>
   <string name="send_install_log_error">Ошибка отправки</string>
-  <string name="share_qq">Post it via Tencent weibo</string>
-  <string name="share_sina">Post it via Sina weibo</string>
-  <string name="share_update">Share system update info</string>
-  <string name="share_update_content_sign">I’ve updated MIUI to %1$s! My update user rank is %2$s. For detailed changelog, please visit %3$s</string>
-  <string name="share_update_content_unsign">I’ve updated MIUI to %1$s! For detailed changelog, please visit %2$s</string>
-  <string name="sign_in_add_account_helper">В вашем телефоне нет аккаунта MIUI, пожалуйста добавьте его</string>
-  <string name="sign_in_info">Рейтинг: %1$s\n%2$s\nВерсия: %3$s</string>
-  <string name="sign_in_info_rank_more">"Your update ranking is after %1$s
-Over %2$s users have signed in for MIUI %3$s"</string>
-  <string name="sign_in_info_total_more">"Your update ranking is %1$s
-Over %2$s users have signed in for MIUI %3$s"</string>
   <string name="stable_build">стабильная сборка</string>
   <string name="start_update">Начать обновление</string>
   <string name="submit">Подтвердить</string>
@@ -123,16 +112,16 @@ Over %2$s users have signed in for MIUI %3$s"</string>
   <string name="system_backup_error_message">Ошибка резервного копирования системы</string>
   <string name="system_backup_ok_text">Р.К.</string>
   <string name="sytemt_backup_helper">Обновление не влияет на пользовательские данные. Однако, для того чтобы защитить ваши данные безопасности, мы рекомендуем сделать резервную копию.</string>
-  <string name="update_comment_hint">(optional)</string>
-  <string name="update_comment_title">I have something to say</string>
-  <string name="update_feedback">Four-grid Update Feedback</string>
-  <string name="update_feedback_expired">"It's a pity that you miss Four-grid Update Feedback!
-Please poll next Tuesday"</string>
-  <string name="update_feel">1.How are you feeling?</string>
-  <string name="update_general">So-so</string>
-  <string name="update_happy">Happy</string>
+  <string name="update_comment_hint">(опционально)</string>
+  <string name="update_comment_title">У меня есть что сказать</string>
+  <string name="update_feedback">Отзывы о прошивке</string>
+  <string name="update_feedback_expired">"Жаль, что вы пропустили возможность участия в отзывах о прошивке!
+Пожалуйста, попробуйте опрос в следующий вторник"</string>
+  <string name="update_feel">1.Ваши ощущения?</string>
+  <string name="update_general">Более-менее</string>
+  <string name="update_happy">Счастливый</string>
   <string name="update_monthly_build_only">Только ежемесячные обновления</string>
-  <string name="update_sad">Sad</string>
+  <string name="update_sad">Грустный</string>
   <string name="update_success">Поздравляем, обновление успешно</string>
   <string name="update_success_body">Поздравляем, система успешно обновлена</string>
   <string name="update_success_title">Обновление</string>
@@ -148,5 +137,5 @@ Please poll next Tuesday"</string>
   <string name="weekly_build">еженедельная сборка</string>
   <string name="wifi_not_available_body">Файл прошивки слишком большой, рекомендуется скачать его через Wi-Fi. Ваш Wi-Fi в настоящее время отключен, вы хотите продолжить загрузку через мобильную сеть?</string>
   <string name="wifi_not_available_title">Wi-Fi не подключен</string>
-  <string name="worst_update">3.Worst update</string>
+  <string name="worst_update">3.Ужастное обновление</string>
 </resources>
