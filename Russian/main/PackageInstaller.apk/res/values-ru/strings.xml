@@ -50,7 +50,7 @@
   <string name="out_of_space_dlg_title">Недостаточно места</string>
   <string name="privacyPerms">Конфиденциальность</string>
   <string name="safe_guard_support">Техническая поддержка: %1$s</string>
-  <string name="security_settings_desc">Разрешить приложению:</string>
+  <string name="security_settings_desc">Разрешения приложения:</string>
   <string name="settings">Настройки</string>
   <string name="uninstall_activity_text">%1$s является частью следующего приложения:</string>
   <string name="uninstall_application_text">Приложение будет удалено</string>
@@ -64,6 +64,6 @@
   <string name="uninstall_update_title">Удаление обновления</string>
   <string name="uninstalling">Выполняется удаление...</string>
   <string name="unknown">Неизвестно</string>
-  <string name="unknown_apps_dlg_text">Из соображений безопасности на вашем телефоне заблокирована установка приложений, полученных не из Google Play</string>
+  <string name="unknown_apps_dlg_text">Из-за соображений безопасности на вашем телефоне заблокирована установка приложений, полученных не из Google Play</string>
   <string name="unknown_apps_dlg_title">Установка заблокирована</string>
 </resources>

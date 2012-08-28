@@ -70,6 +70,7 @@
   <string name="title_local">Телефон</string>
   <string name="title_online">Онлайн</string>
   <string name="title_system_resource">Системные ресурсы</string>
+  <string name="wallpaper_crop">Обрезать</string>
   <string name="wallpaper_decoded_error">Ошибка</string>
   <string name="wallpaper_loading_text">Загрузка...</string>
   <string name="wallpaper_set_as_both">Применить на обои и экран блокировки</string>

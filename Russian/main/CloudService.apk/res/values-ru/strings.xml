@@ -29,6 +29,8 @@
   <string name="email_not_verified">E-mail не проверен</string>
   <string name="enable_mitalk_dialog_message">Будет входить в MiTalk с системной учетной записью. Если это соответствует текущему аккаунту MiTalk, ваши данные будут очищены. Уверены?</string>
   <string name="enable_mitalk_dialog_title">Включить синхронизацию MiTalk</string>
+  <string name="find_device">Найти устройство</string>
+  <string name="find_device_stop_noise">Нажмите \"OK\", чтобы остановить сигнал</string>
   <string name="forget_password">Забыли пароль?</string>
   <string name="get_vercode">Получить код проверки</string>
   <string name="has_bound">Учетная запись существует</string>
@@ -56,6 +58,9 @@
   <string name="password">Пароль</string>
   <string name="password_hint">Введите пароль</string>
   <string name="password_hint_text">6~16 знаков</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Рекомендуется включить, иначе возможно чрезмерное потребление трафика</string>
+  <string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Исполь. только Wi-Fi, для отображения фото</string>
   <string name="prev">Назад</string>
   <string name="register_success">успешно зарегистрирована</string>
   <string name="registered_account">Имя пользователя</string>
@@ -66,8 +71,12 @@
   <string name="service_unavailable">Служба недоступна</string>
   <string name="settings_safetylegal_activity_unreachable">Ваш телефон не подключен к службе информации. Чтобы просмотреть эту информацию сейчас, перейдите по адресу: %s</string>
   <string name="show_password">Показать пароль</string>
+  <string name="sub_sync_item_sms_summary">Рекомендуется включить, иначе возможно чрезмерное потребление трафика</string>
+  <string name="sub_sync_item_sms_title_wifi_only">Исполь. только Wi-Fi для синхр. SMS/MMS</string>
   <string name="succeed">Готово</string>
   <string name="sync_info">Синхронизация</string>
+  <string name="sync_item_sms_summary">Прочитанные SMS сообщения будут автоматически синхронизированы</string>
+  <string name="sync_item_sms_title">Синхронизация SMS</string>
   <string name="sync_settings">Аккаунты и синхронизация</string>
   <string name="terms_not_agreed">Вы должны согласиться с условиями MIUI</string>
   <string name="too_many_times">Зарегистрировано слишком много раз</string>

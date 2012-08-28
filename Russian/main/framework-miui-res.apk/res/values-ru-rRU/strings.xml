@@ -2,6 +2,8 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="activate">Включить</string>
+  <string name="activate_fail_notification_title">Пожалуйста, активируйте повторно услугу Xiaomi синхронизации</string>
   <string name="activating">Активация...</string>
   <string name="all_resources">Все</string>
   <string name="android_lockscreen_glogin_checking_password">@android:string/lockscreen_glogin_checking_password</string>
@@ -17,6 +19,8 @@
   <string name="autumn_equinox" />
   <string name="callNoAnswerTimeFormat">%s гудков</string>
   <string name="caller_info_name_delimiter">или</string>
+  <string name="check_phone_error_title">Не удалось открыть Синхронизацию</string>
+  <string name="check_phone_io_error">Ошибка сети</string>
   <string name="childrens_day" />
   <string name="chinese_youth_day" />
   <string name="christmas_dad">Рождество</string>
@@ -385,6 +389,7 @@
   <string name="payphone">Телефоный автомат</string>
   <string name="perm_activate_dspt">Отправить сообщение для активации сервиса Xiaomi?</string>
   <string name="perm_activate_lab">Активация сервиса Xiaomi</string>
+  <string name="perm_auto_backup">Автоматическое резервное копирование</string>
   <string name="perm_get_user_info_dspt">Получить подробную информацию о аккаунте Xiaomi</string>
   <string name="perm_get_user_info_lab">Получить информацию о аккаунте Xiaomi</string>
   <string name="perm_tigger_toggle_dspt">Разрешить программам переключать функции в строке состояния</string>
@@ -436,12 +441,15 @@
   <string name="sdcard_status_changed_dialog_title">SD-карта не доступна</string>
   <string name="select">Выбрать</string>
   <string name="select_all">Выбрать все</string>
+  <string name="send_sms_for_sync_notice">Будет отправлено SMS сообщение для активации, продолжить?</string>
+  <string name="send_sms_for_sync_title">Отправка SMS для активации синхронизации</string>
   <string name="shutdown_confirm">Ваш телефон будет выключен</string>
   <string name="silent_mode_ring">Звук включен</string>
   <string name="silent_mode_silent">Режим \"Без звука\"</string>
   <string name="silent_mode_vibrate">Режим вибрации</string>
   <string name="slight_cold" />
   <string name="slight_heat" />
+  <string name="sim_changed_reactivate_notice">Текущая SIM-карта не активирована. Необходима отправка SMS для активации услуги Xiaomi синхронизации. Активировать сейчас?</string>
   <string name="spring_begins" />
   <string name="ssl_certificate">Сертификат безопасности</string>
   <string name="stopping_the_heat" />
