@@ -478,7 +478,7 @@
   <string name="organizationLabelsGroup">Организация</string>
   <string name="organization_company_and_title">%2$s, %1$s</string>
   <string name="payphone">Телефон-автомат</string>
-  <string name="people">Контакты</string>
+  <string name="people">Люди</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Телефон</string>
   <string name="photoPickerNotFoundText">В телефоне нет картинок</string>
