@@ -23,4 +23,12 @@
         <item quantity="other">" и еще %d"</item>
         <item quantity="one">" и еще 1"</item>
     </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d событий</item>
+        <item quantity="one">1 событие</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d событий</item>
+        <item quantity="one">+1 событие</item>
+    </plurals>
 </resources>

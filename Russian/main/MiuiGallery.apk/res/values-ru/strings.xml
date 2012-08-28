@@ -50,7 +50,7 @@
   <string name="crop_action">Кадрировать</string>
   <string name="crop_label">Обрезать фотографию</string>
   <string name="crop_not_saved">Изображение не сохранено</string>
-  <string name="crop_save_text">Кадрировать</string>
+  <string name="crop_save_text">Сохранить</string>
   <string name="crop_saved">Изображение сохранено в папке \"Загрузки\"</string>
   <string name="crop_tooltip">Чтобы кадрировать фото, перетащите маркеры</string>
   <string name="crossprocess">Кросс-обработка</string>
@@ -241,7 +241,7 @@
   <string name="set_label_local_albums">Офлайн-альбомы</string>
   <string name="set_label_mtp_devices">MTP-устройства</string>
   <string name="set_label_picasa_albums">Альбомы Picasa</string>
-  <string name="set_lock_or_wallpaper">Установить как фоновый рисунок</string>
+  <string name="set_lock_or_wallpaper">Как фон</string>
   <string name="set_lockscreen">Экран блокировки</string>
   <string name="set_recent_album">Сделать новый альбом</string>
   <string name="set_wallpaper">Рабочий стол</string>
@@ -275,7 +275,7 @@
   <string name="sync_only_in_wifi">Только Wi-Fi</string>
   <string name="sync_only_in_wifi_summary">Рекомендуется включить, иначе будет потребление мобильного трафика</string>
   <string name="sync_picasa_albums">Обновить</string>
-  <string name="tab_all_text">Установить на все</string>
+  <string name="tab_all_text">На все</string>
   <string name="tab_lockscreen_text">Экран блокировки</string>
   <string name="tab_wallpaper_text">Рабочий стол</string>
   <string name="tags">Теги</string>
@@ -288,7 +288,7 @@
   <string name="turn_left">Повернуть</string>
   <string name="turn_right">Повернуть</string>
   <string name="unit_mm">мм</string>
-  <string name="unknown_location">Unknown location</string>
+  <string name="unknown_location">Нет местоположения</string>
   <string name="untagged">Без тегов</string>
   <string name="video_err">Не удалось воспроизвести видео</string>
   <string name="video_property">Свойства видео</string>

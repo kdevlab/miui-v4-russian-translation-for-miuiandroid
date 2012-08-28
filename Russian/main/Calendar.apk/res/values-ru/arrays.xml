@@ -4,6 +4,7 @@
         <item>Оповещение</item>
         <item>Эл. почта</item>
         <item>SMS</item>
+        <item>Будильник</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
         <item>0 минут</item>
@@ -65,7 +66,8 @@
         <item>Богота</item>
         <item>Восточное время</item>
         <item>Венесуэла</item>
-        <item>Атлантич. время</item>
+        <item>Атлантика (Барбадос)</item>
+        <item>Атлантика (Канада)</item>
         <item>Манаус</item>
         <item>Сантьяго</item>
         <item>Ньюфаундленд</item>
@@ -179,5 +181,11 @@
         <item>Всегда</item>
         <item>Только в режиме без звука</item>
         <item>Никогда</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Опоздаю на несколько минут</item>
+        <item>Буду там через 10 минут</item>
+        <item>Начинайте без меня</item>
+        <item>"Извините, я не могу этого сделать. Нужно пересмотреть расписание"</item>
     </string-array>
 </resources>

@@ -582,7 +582,7 @@
   <string name="notification_network_selection_title">Сеть не найдена</string>
   <string name="notification_on_hold">На удержании</string>
   <string name="notification_ongoing_call_format">Активный вызов (%s)</string>
-  <string name="notification_ongoing_calling_format_miui">Вызываю (%s)</string>
+  <string name="notification_ongoing_calling_format_miui">Вызов</string>
   <string name="notification_voicemail_no_vm_number">Номер голосовой почты неизвестен</string>
   <string name="notification_voicemail_text_format">Набор %s</string>
   <string name="notification_voicemail_title">Новое сообщение голосовой почты</string>
@@ -985,7 +985,7 @@ SIM-карта будет заблокирована навсегда при н�
   <string name="voicemail_provider_miui">Служба голосовой почты</string>
   <string name="voicemail_provider_sum_miui">Выберите услугу голосовой почты</string>
   <string name="voicemail_settings">Настройки голосовой почты</string>
-  <string name="voicemail_settings_for">Настройки (%s)</string>
+  <string name="voicemail_settings_for">Настройки для %s</string>
   <string name="voicemail_settings_miui">Настройки голосовой почты</string>
   <string name="voicemail_settings_number_hint_miui">Введите номер автоответчика</string>
   <string name="voicemail_settings_number_label">Номер голосовой почты</string>
