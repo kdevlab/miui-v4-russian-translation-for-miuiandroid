@@ -725,6 +725,8 @@
   <string name="erase_application_description">Удаление установленных приложений</string>
   <string name="erase_external_storage">Очистить SD-карту</string>
   <string name="erase_external_storage_description">Удалить с SD-карты все данные, в том числе музыку и фотографии</string>
+  <string name="erase_internal_storage">Очистить внутреннюю память</string>
+  <string name="erase_internal_storage_description">Удалить с внутренней памяти все данные, в том числе музыку и фотографии</string>
   <string name="erase_optional">Опциональная очистка</string>
   <string name="erase_personal_data">Персональные данные</string>
   <string name="erase_personal_data_description">В том числе учетных записей, контактов, звонков и другие данные</string>
@@ -815,7 +817,13 @@
   <string name="intent_sender_data_label">Данные:</string>
   <string name="intent_sender_resource_label">Ресурс:</string>
   <string name="intent_sender_sendbroadcast_text">Отправить broadcast</string>
-  <string name="intent_sender_startactivity_text">Начать activity</string>
+  <string name="intent_sender_startactivity_text">Начать действие</string>
+  <string name="internal_format">Форматирование внутреннего хранилища</string>
+  <string name="internal_format_summary">После форматирования внутреннего хранилища, будут удалены все файлы, такие как музыка, фотографии, игры и т.д.</string>
+  <string name="internal_media_format_button_text">Очистить</string>
+  <string name="internal_media_format_desc">Очистить внутреннюю память? Вы потеряете все данные, такие как музыка, фотографии, игры и т.д.</string>
+  <string name="internal_media_format_final_desc">Очистка внутренней памяти, будут удалены все сохраненные файлы! Вы не можете отменить это действие! После завершения процесса, телефон будет перезагружен!</string>
+  <string name="internal_media_format_title">Очистка внутреннего хранилища</string>
   <string name="internal_memory">Память телефона</string>
   <string name="internal_storage">Внутренний накопитель</string>
   <string name="invalid_location">Недопустимое место установки</string>
