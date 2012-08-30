@@ -6,7 +6,14 @@
   <string name="adjust_traffic_auto_adjust_open_hint">Авторегуляция включена, система автоматически контролирует объем поторебляемого трафика</string>
   <string name="adjust_traffic_auto_adjust_title">Авторегуляция трафика</string>
   <string name="adjust_traffic_carrier_adjust">Получить от оператора</string>
+  <string name="adjust_traffic_carrier_adjusting">Настройка трафика…</string>
   <string name="adjust_traffic_carrier_settings_title">Оператор</string>
+  <string name="adjust_traffic_carrier_summary_more_onemonth_before">"Не обновлялось более месяца"</string>
+  <string name="adjust_traffic_carrier_summary_more_oneweek_before">"Не обновлялось более недели"</string>
+  <string name="adjust_traffic_carrier_summary_oneweek_before">Обновлено неделю назад</string>
+  <string name="adjust_traffic_carrier_summary_three_day_before">Обновлено 3 дня назад</string>
+  <string name="adjust_traffic_carrier_summary_today">Обновлено сегодня в %1$02d:%2$02d</string>
+  <string name="adjust_traffic_carrier_summary_yesterday">Обновлено вчера в %1$02d:%2$02d</string>
   <string name="adjust_traffic_manual_adjust">Ввести вручную</string>
   <string name="adjust_traffic_relate_settings">Другие настройки трафика</string>
   <string name="adjust_traffic_sms_template_update">Обновить шаблон SMS</string>
