@@ -29,6 +29,8 @@
   <string name="menu_view_record_list">Открыть список записей</string>
   <string name="minute">%d минут</string>
   <string name="no_file">Нет записей</string>
+  <string name="notification_playback">Воспроизведение...</string>
+  <string name="notification_playback_paused">Пауза...</string>
   <string name="notification_recording">Запись</string>
   <string name="notification_stopped">Запись остановлена</string>
   <string name="notification_warning">Мало места (меньше чем для %d минут)...</string>

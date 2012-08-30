@@ -146,6 +146,9 @@
   <string name="fetion_prefix">[Fetion]</string>
   <string name="flatshow_page_no">%1$d</string>
   <string name="forward_prefix">"От: "</string>
+  <string name="found_old_messages">"Найдены сообщения с предыдущего аккаунта на вашем телефоне:%1$s
+Вы хотите скопировать их в ваш аккаунт: %2$s?"</string>
+  <string name="found_old_messages_title">Загрузка сообщений</string>
   <string name="found_wild_messages_title">Скачка сообщений</string>
   <string name="from_label">"От: "</string>
   <string name="full_phrase">Не более 50 фраз</string>
@@ -166,6 +169,7 @@
   <string name="layout_bottom">Расположение (внизу)</string>
   <string name="layout_selector_title">"Макет слайд-шоу "</string>
   <string name="layout_top">Расположение (внизу)</string>
+  <string name="loading_all_messages">Загрузка всех сообщений...</string>
   <string name="loading_contacts">Загрузка контактов...</string>
   <string name="loading_conversations">Загрузка цепочек...</string>
   <string name="me">Я</string>
@@ -401,6 +405,7 @@
   <string name="service_network_problem">Не удалось отправить сообщение из-за ошибки сети</string>
   <string name="service_not_activated">Услуга не активирована в сети</string>
   <string name="set">Сохранить</string>
+  <string name="show_all_messages">Показать все сообщения</string>
   <string name="sim_copy_to_phone_memory">Копировать в память телефона</string>
   <string name="sim_delete">Удалить</string>
   <string name="sim_empty">На SIM-карте нет сообщений</string>

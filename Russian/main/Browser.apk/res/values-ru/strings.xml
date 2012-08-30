@@ -2,6 +2,7 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="MIUI_homepage">Домашняя страница MIUI</string>
   <string name="accessibility_button_addbookmark">Добавить страницу в закладки</string>
   <string name="accessibility_button_back">Назад</string>
   <string name="accessibility_button_bookmarks">Закладки</string>
@@ -364,6 +365,7 @@
   <string name="pref_zoom_on_double_tap">Увеличение при двойном нажатии</string>
   <string name="preview">Предварительный просмотр</string>
   <string name="progress_dialog_setting_wallpaper">Установка обоев...</string>
+  <string name="readmode_reach_last_page">"Это последняя страница"</string>
   <string name="readmodelist_bookmarks_to_show">"Список чтения"</string>
   <string name="recover">Восстановить</string>
   <string name="recover_from_crash">Продолжить последнюю сессию</string>
