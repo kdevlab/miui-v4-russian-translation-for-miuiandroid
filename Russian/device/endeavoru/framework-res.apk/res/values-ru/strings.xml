@@ -50,6 +50,8 @@
   <string name="activity_chooser_view_dialog_title_default">Выбор действия</string>
   <string name="activity_chooser_view_see_all">Просмотреть все</string>
   <string name="activity_list_empty">Подходящих действий не найдено</string>
+  <string name="activity_resolver_use_always">Всегда</string>
+  <string name="activity_resolver_use_once">Один раз</string>
   <string name="activitychooserview_choose_application">Выберите приложение</string>
   <string name="adb_active_notification_message">Нажмите, чтобы отключить отладку USB</string>
   <string name="adb_active_notification_title">Отладка по USB разрешена</string>
@@ -99,6 +101,7 @@
   <string name="badPin">Введен неверный старый PUK</string>
   <string name="badPuk">Введен неверный PUK</string>
   <string name="beforeOneMonthDurationPast">Более месяца назад</string>
+  <string name="bluetooth_a2dp_audio_route_name">Аудио Bluetooth</string>
   <string name="byteShort">\u0020Б</string>
   <string name="cancel">Отмена</string>
   <string name="candidates_style" />
@@ -190,6 +193,11 @@
   <string name="days">дн.</string>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
   <string name="defaultVoiceMailAlphaTag">Голосовая почта</string>
+  <string name="default_audio_route_category_name">Система</string>
+  <string name="default_audio_route_name">Телефон</string>
+  <string name="default_audio_route_name_dock_speakers">Динамики дока</string>
+  <string name="default_audio_route_name_hdmi">Аудио HDMI</string>
+  <string name="default_audio_route_name_headphones">Наушники</string>
   <string name="default_permission_group">По умолчанию</string>
   <string name="delete">Удалить</string>
   <string name="deleteText">удалить</string>
@@ -439,6 +447,7 @@
   <string name="media_bad_removal">SD-карта была извлечена до отключения</string>
   <string name="media_checking">Выполняется проверка SD-карты</string>
   <string name="media_removed">SD-карта была отключена</string>
+  <string name="media_route_chooser_grouping_done">Готово</string>
   <string name="media_shared">Сейчас SD-карта используется компьютером</string>
   <string name="media_unknown_state">Неизвестно состояние внешнего носителя</string>
   <string name="megabyteShort">\u0020МБ</string>
@@ -1028,7 +1037,7 @@
   <string name="select_character">Введите символ</string>
   <string name="select_input_method">Выберите способ ввода</string>
   <string name="sendText">Выберите действие для текста</string>
-  <string name="sending">Отправка...</string>
+  <string name="sending">Отправка…</string>
   <string name="serial_number">Серийный номер:</string>
   <string name="serviceClassData">Данные</string>
   <string name="serviceClassDataAsync">Асинхр.</string>

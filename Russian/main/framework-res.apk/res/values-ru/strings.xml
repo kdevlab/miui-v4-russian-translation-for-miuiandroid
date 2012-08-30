@@ -102,7 +102,7 @@
   <string name="badPin">Введен неверный старый PUK</string>
   <string name="badPuk">Введен неверный PUK</string>
   <string name="beforeOneMonthDurationPast">Более месяца назад</string>
-  <string name="bluetooth_a2dp_audio_route_name">Bluetooth аудио</string>
+  <string name="bluetooth_a2dp_audio_route_name">Аудио Bluetooth</string>
   <string name="byteShort">\u0020Б</string>
   <string name="cancel">Отмена</string>
   <string name="candidates_style" />
@@ -198,8 +198,8 @@
   <string name="defaultVoiceMailAlphaTag">Голосовая почта</string>
   <string name="default_audio_route_category_name">Система</string>
   <string name="default_audio_route_name">Телефон</string>
-  <string name="default_audio_route_name_dock_speakers">Док-станция</string>
-  <string name="default_audio_route_name_hdmi">HDMI аудио</string>
+  <string name="default_audio_route_name_dock_speakers">Динамики дока</string>
+  <string name="default_audio_route_name_hdmi">Аудио HDMI</string>
   <string name="default_audio_route_name_headphones">Наушники</string>
   <string name="default_permission_group">По умолчанию</string>
   <string name="delete">Удалить</string>
@@ -1058,7 +1058,7 @@
   <string name="select_keyboard_layout_notification_message">Коснитесь для выбора раскладки клавиатуры.</string>
   <string name="select_keyboard_layout_notification_title">Выберите раскладку клавиатуры</string>
   <string name="sendText">Выберите действие для текста</string>
-  <string name="sending">Отправка...</string>
+  <string name="sending">Отправка…</string>
   <string name="serial_number">Серийный номер:</string>
   <string name="serviceClassData">Данные</string>
   <string name="serviceClassDataAsync">Асинхр.</string>
