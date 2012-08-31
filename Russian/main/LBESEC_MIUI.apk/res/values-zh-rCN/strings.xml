@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="Dashboard_App">程序</string>
   <string name="Dashboard_HIPS_Disable_Content">将关闭权限监控。系统将不会监控您安装的程序行为并弹出提醒。确定要关闭吗？</string>
   <string name="Dashboard_HIPS_Disable_Title">关闭权限监控</string>
