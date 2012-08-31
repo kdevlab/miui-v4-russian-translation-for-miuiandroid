@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string-array name="mobile_operator_display_names">
+  <string-array name="mobile_operator_display_names">
       <item>"T-Mobile UK"</item> 
       <item>"AT&amp;T"</item> 
       <item>"IDEA"</item> 
