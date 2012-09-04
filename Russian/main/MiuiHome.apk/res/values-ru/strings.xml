@@ -65,10 +65,12 @@
   <string name="menu_workspace_preview">Просмотр</string>
   <string name="out_of_space">На этом экране нет свободного места</string>
   <string name="permdesc_install_shortcut">Позволяет приложению добавлять ярлыки без участия пользователя</string>
+  <string name="permdesc_install_widget">Позволяет приложению добавлять виджеты без вмешательства пользователя</string>
   <string name="permdesc_read_settings">Позволяет приложению считывать настройки и ярлыки на начальной странице</string>
   <string name="permdesc_uninstall_shortcut">Позволяет приложению удалять ярлыки без участия пользователя</string>
   <string name="permdesc_write_settings">Позволяет приложению изменять настройки и ярлыки начальной страницы</string>
   <string name="permlab_install_shortcut">Установка ярлыков</string>
+  <string name="permlab_install_widget">Установка виджетов</string>
   <string name="permlab_read_settings">Читать настройки и ярлыки начальной страницы</string>
   <string name="permlab_uninstall_shortcut">Удалить ярлыки</string>
   <string name="permlab_write_settings">Записать настройки главной страницы и ярлыки</string>

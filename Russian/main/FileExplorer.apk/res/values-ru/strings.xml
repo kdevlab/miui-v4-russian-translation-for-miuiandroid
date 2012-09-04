@@ -199,6 +199,8 @@
   <string name="ui_main_menu_option_task_manage">Управление обменом файлов</string>
   <string name="ui_main_menu_option_upload">Выгрузить</string>
   <string name="ui_main_progress_txt_open_file">Загрузка...</string>
+  <string name="ui_main_toast_favorite_removed">Избранных удалено</string>
+  <string name="ui_main_toast_operation_failed">Удаление избранного %1$s не удалось</string>
   <string name="ui_main_toast_shareLink_err">Создание папки внешней ссылке не удалось</string>
   <string name="ui_main_toast_shareLink_header">Я делюсь %1$s через MiDrive, нажмите на ссылку ниже, чтобы посмотреть:</string>
   <string name="ui_taks_doing_txt_lose_connect">Нет подключения к сети, синхронизации приостановлена</string>

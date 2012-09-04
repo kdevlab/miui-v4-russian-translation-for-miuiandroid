@@ -277,6 +277,10 @@
   <string name="double_seventh_day" />
   <string name="download_failed">Не удается загрузить превью</string>
   <string name="download_preview_failed">Не удалось загрузить предварительный просмотр</string>
+  <string name="error_forbidden">Ваш аккаунт имеет некоторые проблемы. Синхронизация отключена.</string>
+  <string name="error_not_acceptable">Произошла ошибка сервера. Синхронизация отключена.</string>
+  <string name="error_title">Ошибка синхронизации %s</string>
+  <string name="error_unauthorized">Слишком много неудач для аутентификации. Синхронизация отключена.</string>
   <string name="ellipsis">...</string>
   <string name="every_day">Каждый день</string>
   <string name="factorytest_reboot">Перезагрузить телефон</string>
@@ -289,6 +293,7 @@
   <string name="first_back_long_press_title">Принудителное завершение приложений кнопкой НАЗАД</string>
   <string name="fools_day" />
   <string name="force_exit_message">Приложение \"%1$s\" было закрыто</string>
+  <string name="format_time_in_12_hours">%1$s %2$s</string>
   <string name="gigabyteShort">ГБ</string>
   <string name="global_action_power_off">Выключить телефон</string>
   <string name="global_action_privacy_mode_dialog_message">В режиме гостя сообщения, журналы вызовов и заметки будут скрыты, а также вы не сможете редактировать рабочий стол</string>
@@ -432,6 +437,7 @@
   <string name="ringtone_silent">Без звука</string>
   <string name="ringtone_unknown">Неизвестный звонок</string>
   <string name="safetylegal_activity_unreachable">Ваш телефон не подключен к сети. Для просмотра этой информации в настоящее время, перейдите к %s с любого компьютера.</string>
+  <string name="screen_on_proximity_sensor_hint">"Принуд. выход: долгое нажатие кнопки 'Power'. Режим защиты датчиком может быть отключен в разделе "Настройки - Параметры экрана'"</string>
   <string name="sd_not_available">SD-карта не доступна, вставьте или подключите ее</string>
   <string name="sd_not_available_low_internal_storage">SD-карта не доступна и отсутствует внутреннее устройство хранения</string>
   <string name="sd_not_available_saved_to_internal_storage">Файл сохранен во внутреннюю память</string>

@@ -25,6 +25,10 @@
   <string name="Dashboard_Perm_SU">Управление доступом суперпользователя</string>
   <string name="Dashboard_Perm_SU_Desc">Управление %1$d доступом для приложений суперпользователя</string>
   <string name="Dashboard_Perm_SU_Disabled">Управление разрешениями суперпользователя отключены</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT не доступен на стабильных версиях MIUI</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"ROOT разрешения могут привести к нестабильности системы или потери личных данных, системы или повреждения оборудования. Пожалуйста, переключитесь на версию MIUI от разработчика, чтобы включить ROOT разрешения"</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Скачать MIUI</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://romz.bz/pages/download_miui/</string>
   <string name="Dashboard_Perm_SU_Switch">Разрешения суперпользователя</string>
   <string name="Dashboard_Su_Enable_Content">Включение позволит приложениям запрашивать доступ от суперпользователя. Сообщение: Приложения с разрешениями могут вызвать нестабильность системы, потерю персональных данных, повреждение системы или аппаратной части, будьте осторожны. Вы уверены что хотите сделать это?</string>
   <string name="Dashboard_Su_Enable_Title">Разрешения суперпользователя</string>
@@ -130,6 +134,7 @@
   <string name="HIPS_Perm_PromptAll">Запрос всех</string>
   <string name="HIPS_Perm_ROOT">Суперпользователь</string>
   <string name="HIPS_Perm_ROOT_Desc">Запрос на доступ от имени суперпользователя</string>
+  <string name="HIPS_Perm_ROOT_Desc_Stable">Недоступно в MIUI стабильной версии</string>
   <string name="HIPS_Perm_ROOT_Hint">%1$s приложения с правами суперпользователя</string>
   <string name="HIPS_Perm_ROOT_Title">получить права суперпользователя</string>
   <string name="HIPS_Perm_RejectAll">Запретить все</string>

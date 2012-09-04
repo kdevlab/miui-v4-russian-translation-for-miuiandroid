@@ -80,6 +80,13 @@
   <string name="auto_ip_support_local_numbers">Поддержка местных номеров</string>
   <string name="auto_record_call_summary_miui">Начать запись, когда вызов подключен и сохранить их на SD-карту</string>
   <string name="auto_record_call_title_miui">Автоматическая запись</string>
+  <string name="auto_record_scenario_enteries_always_miui">Автозапись для всех номеров</string>
+  <string name="auto_record_scenario_enteries_whitelist_miui">Автозапись для выбранных номеров</string>
+  <string name="auto_record_scenario_title_miui">Режим автозаписи</string>
+  <string name="auto_record_whitelist_miui">Выбрать номера</string>
+  <string name="auto_record_whitelist_no_item_miui">Нажмите на нижнюю кнопку, чтобы добавить номера для автоматической записи</string>
+  <string name="auto_record_whitelist_summary_for_one_miui">1</string>
+  <string name="auto_record_whitelist_summary_miui">Номеров: %d</string>
   <string name="auto_redial_pref_summary_miui">Если не удалось дозвонится, то система будет автоматически дозваниваться 10 раз</string>
   <string name="auto_redial_pref_title_miui">Автодозвон</string>
   <string name="auto_reg">Автоматическая регистрация</string>
@@ -153,6 +160,7 @@
   <string name="call_record_sample_prefix_miui">MIUI_Recording</string>
   <string name="call_record_sd_error_miui">Ошибка доступа к SD-карте!</string>
   <string name="call_record_sd_space_low_miui">Мало места на SD-карте</string>
+  <string name="call_record_setting_miui">Настройки записи звонков</string>
   <string name="call_recording_notification_summary_miui">Включить уведомления о начале и конце записи звонка</string>
   <string name="call_recording_notification_title_miui">Уведомление записи разговоров</string>
   <string name="call_recording_prompt_miui">Идет запись...</string>

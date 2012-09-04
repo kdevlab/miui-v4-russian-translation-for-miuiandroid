@@ -48,6 +48,7 @@
   <string name="contact_photo">Фото контакта</string>
   <string name="crop">Кадрировать</string>
   <string name="crop_action">Кадрировать</string>
+  <string name="crop_fail_to_load_image">Ошибка загрузки изображения для кадрирования</string>
   <string name="crop_label">Обрезать фотографию</string>
   <string name="crop_not_saved">Изображение не сохранено</string>
   <string name="crop_save_text">Сохранить</string>
