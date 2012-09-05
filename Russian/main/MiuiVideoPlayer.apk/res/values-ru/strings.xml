@@ -1,48 +1,3 @@
-<<<<<<< HEAD
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="VideoView_error_button">OK</string>
-  <string name="VideoView_error_text_invalid_progressive_playback">К сожалению, это видео не является допустимым для потока на этом устройстве</string>
-  <string name="VideoView_error_text_unknown">К сожалению, это видео не может быть воспроизведено</string>
-  <string name="VideoView_error_title">Не могу воспроизвести это видео</string>
-  <string name="about_app_name">MiPlayer</string>
-  <string name="about_title">О программе</string>
-  <string name="about_version">V4.0 (Русская версия от KDGDev)</string>
-  <string name="adjust_position_next_media_notice">Далее</string>
-  <string name="adjust_position_prev_media_notice">Последний</string>
-  <string name="airkan_control_device_des">Вы можете управлять воспроизведением видео с помощью кнопки в нижней части</string>
-  <string name="airkan_device_xiaomi_phone">Xiaomi</string>
-  <string name="airkan_video_playing" />
-  <string name="airkan_video_playing_in">Воспроизведение…</string>
-  <string name="app_name">MiВидео</string>
-  <string name="buffering">Буферизация…</string>
-  <string name="hello">Привет мир</string>
-  <string name="loading_video_netplay_label">Загрузка, пожалуйста подождите...</string>
-  <string name="menu_item_about_label">О программе</string>
-  <string name="menu_item_hide_media_info_label">Скрыть информацию о видео</string>
-  <string name="menu_item_media_info_label">Показать информацию о видео</string>
-  <string name="menu_item_orientation_auto_sensor_action">Включить вращение</string>
-  <string name="menu_item_orientation_fixed_by_videosize_action">Отключить вращение</string>
-  <string name="menu_item_screen_shot">Скриншоты</string>
-  <string name="menu_item_switch_width_height_label">Выбор пропорций</string>
-  <string name="menu_wh_item_adapt_height_label">По высоте</string>
-  <string name="menu_wh_item_adapt_width_label">По ширине</string>
-  <string name="menu_wh_item_auto_select_label">Автоматически</string>
-  <string name="menu_wh_item_full_screen_label">На весь экран</string>
-  <string name="menu_wh_item_using_16_9_label">Принудительно 16:9</string>
-  <string name="menu_wh_item_using_4_3_label">Принудительно 4:3</string>
-  <string name="toast_back_key_pressed_notice">Нажмите НАЗАД еще раз для выхода</string>
-  <string name="video_info_audio_bitrate_label">Аудио битрейт:</string>
-  <string name="video_info_audio_coding_label">Формат кодирования аудио:</string>
-  <string name="video_info_audio_null">Нет</string>
-  <string name="video_info_frame_rate_label">Частота кадров:</string>
-  <string name="video_info_length_label">Длина:</string>
-  <string name="video_info_resolution_label">Размер видео:</string>
-  <string name="video_info_video_coding_label">Формат кодирования видео:</string>
-</resources>
-=======
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
@@ -86,4 +41,3 @@
   <string name="video_info_resolution_label">Размер видео:</string>
   <string name="video_info_video_coding_label">Формат кодирования видео:</string>
 </resources>
->>>>>>> Repo sync
