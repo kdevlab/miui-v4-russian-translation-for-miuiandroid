@@ -24,6 +24,10 @@
   <string name="Dashboard_Perm_SU">Manage ROOT Permission</string>
   <string name="Dashboard_Perm_SU_Desc">Monitoring %1$d apps for ROOT Permission</string>
   <string name="Dashboard_Perm_SU_Disabled">ROOT Permission is disabled</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT is not available in Stable MIUI versions</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Grant ROOT permission to 3rd party apps may cause system instability, or loss of personal data, system or hardware damage. Please switch to a development version of MIUI to enable ROOT permissions."</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Download MIUI</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miuiandroid.com/community/</string>
   <string name="Dashboard_Perm_SU_Switch">ROOT Permission</string>
   <string name="Dashboard_Su_Enable_Content">"Enabling it will allow apps to request ROOT permission. Note: Apps with the permission may cause system instability, even loss of personal data, system or hardware damage, please be cautions. Are you sure to enable it?"</string>
   <string name="Dashboard_Su_Enable_Title">ROOT Permission</string>
@@ -126,6 +130,7 @@
   <string name="HIPS_Perm_PromptAll">Prompt all</string>
   <string name="HIPS_Perm_ROOT">ROOT</string>
   <string name="HIPS_Perm_ROOT_Desc">Request ROOT Permission</string>
+  <string name="HIPS_Perm_ROOT_Desc_Stable">Unavailable in MIUI Stable version</string>
   <string name="HIPS_Perm_ROOT_Hint">%1$s apps are allowed to get ROOT Permission</string>
   <string name="HIPS_Perm_ROOT_Title">obtain ROOT Permission</string>
   <string name="HIPS_Perm_RejectAll">Deny all</string>

@@ -33,6 +33,7 @@
   <string name="error_sync_cancelled">Синхронизация отменена</string>
   <string name="error_sync_internal">Синхронизация не удалась из-за внутренней ошибки</string>
   <string name="error_sync_network">Синхронизация не удалась, проверьте настройки сети и аккаунта</string>
+  <string name="error_widget_exist_for_send_to_desktop">Эта заметка уже есть на рабочем столе</string>
   <string name="failed_sdcard_export">Экспорт неудался</string>
   <string name="file_name_txt_format">notes_%s.txt</string>
   <string name="file_path">/MIUI/notes/</string>
