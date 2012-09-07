@@ -437,7 +437,9 @@
   <string name="ringtone_silent">Без звука</string>
   <string name="ringtone_unknown">Неизвестный звонок</string>
   <string name="safetylegal_activity_unreachable">Ваш телефон не подключен к сети. Для просмотра этой информации в настоящее время, перейдите к %s с любого компьютера.</string>
-  <string name="screen_on_proximity_sensor_hint">"Принудительный выход: долгое удержание кнопки 'Power'. Режим предотвращения ошибок может быть отключен в 'Параметры - Параметры экрана'"</string>
+  <string name="screen_on_proximity_sensor_hint">"Принудительный выход: нажмите кнопки 'НАЗАД'+'Громкость +'"</string>
+  <string name="screen_on_proximity_sensor_summary">"Не закрывайте верхнюю половину экрана"</string>
+  <string name="screen_on_proximity_sensor_title">Режим предотвращения ошибок</string>
   <string name="sd_not_available">SD-карта не доступна, вставьте или подключите ее</string>
   <string name="sd_not_available_low_internal_storage">SD-карта не доступна и отсутствует внутреннее устройство хранения</string>
   <string name="sd_not_available_saved_to_internal_storage">Файл сохранен во внутреннюю память</string>
@@ -481,6 +483,7 @@
   <string name="user_agreement5">, Нажимая ОК, вы соглашаетесь с вышеуказаннным, нажмите Отмена для выхода</string>
   <string name="valentines_day">День Святого Валентина</string>
   <string name="vernal_equinox" />
+  <string name="wake_alarm_message">Отключать будильник через %s звонков</string>
   <string name="white_dews" />
   <string name="wifi_tether_configure_ssid_default">KDG Phone</string>
   <string name="winter_begins" />
