@@ -220,7 +220,7 @@
   <string name="mms">MMS</string>
   <string name="move_down">Переместить вниз</string>
   <string name="move_up">Переместить вверх</string>
-  <string name="msg_type_hint_mms">Мултимедийное сообщение</string>
+  <string name="msg_type_hint_mms">Мультимедийное сообщение</string>
   <string name="msg_type_hint_mx">Облачное сообщение</string>
   <string name="msg_type_hint_sms">Текстовое сообщение</string>
   <string name="multi_select_title_conversation">Выбрано %1$s цепочек</string>
