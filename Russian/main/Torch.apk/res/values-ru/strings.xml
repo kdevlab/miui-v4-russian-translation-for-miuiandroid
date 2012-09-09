@@ -15,8 +15,7 @@
   <string name="brightwarn_accept">Принять</string>
   <string name="brightwarn_negative">Нет, спасибо</string>
   <string name="brightwarn_title">"Пов. яркость 'Вкл' включить!!!"</string>
-  <string name="description">"Эта программа управляет светодиодом камеры.
-"</string>
+  <string name="description">"Эта программа управляет светодиодом камеры"</string>
   <string name="label_frequency">Частота: (сдвиньте, чтобы изменить)</string>
   <string name="label_high">Высокая яркость</string>
   <string name="label_off">Отключено</string>
