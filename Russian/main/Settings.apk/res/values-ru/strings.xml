@@ -1704,6 +1704,7 @@
   <string name="virus_scan_app_stop_scan">Остановить сканирование</string>
   <string name="virus_scan_app_uninstall">Пакетное удаление (%d)</string>
   <string name="virus_scan_app_waiting">Подождите</string>
+  <string name="virus_scanner_kinsoft_provider">Поддержка безопасности: Kingsoft Phone Guardian</string>
   <string name="virus_scanner_scan">Сканировать</string>
   <string name="virus_scanner_scanning">Проверка приложений на вирусы</string>
   <string name="virus_scanner_select_Cancel">Отмена</string>

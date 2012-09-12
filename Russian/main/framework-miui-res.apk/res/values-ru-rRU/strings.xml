@@ -266,11 +266,13 @@
   <string name="description_author">Автор:</string>
   <string name="description_designer">Дизайнер:</string>
   <string name="description_download">Скачано:</string>
+  <string name="description_downloadtime">Время скачивания:</string>
   <string name="description_file">Файл:</string>
   <string name="description_missed">Не указан</string>
   <string name="description_modifiedtime">Изменено:</string>
   <string name="description_size">Размер:</string>
   <string name="description_unknown">Неизвестный</string>
+  <string name="description_uploadtime">Время загрузки:</string>
   <string name="description_version">Версия:</string>
   <string name="dial_number_using">"Вызвать
 используя %s"</string>

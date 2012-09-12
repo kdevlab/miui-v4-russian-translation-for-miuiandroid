@@ -25,6 +25,7 @@
   <string name="menu_item_orientation_auto_sensor_action">Включить переворот</string>
   <string name="menu_item_orientation_fixed_by_videosize_action">Выключить переворот</string>
   <string name="menu_item_screen_shot">Скриншот</string>
+  <string name="menu_item_sub_title">Субтитры</string>
   <string name="menu_item_switch_width_height_label">Выбор пропорций</string>
   <string name="menu_wh_item_adapt_height_label">По высоте</string>
   <string name="menu_wh_item_adapt_width_label">По ширине</string>
@@ -32,7 +33,12 @@
   <string name="menu_wh_item_full_screen_label">Полный экран</string>
   <string name="menu_wh_item_using_16_9_label">Принудительно 16:9</string>
   <string name="menu_wh_item_using_4_3_label">Принудительно 4:3</string>
+  <string name="temp_play_history_button_label">Показать историю плеера</string>
   <string name="toast_back_key_pressed_notice">Нажмите НАЗАД еще раз для выхода</string>
+  <string name="toast_message_continue_play_from">Продолжить проигрывание с</string>
+  <string name="toast_message_continue_play_hour">часов</string>
+  <string name="toast_message_continue_play_minute">минут</string>
+  <string name="toast_message_continue_play_second_and_play">секунд</string>
   <string name="video_info_audio_bitrate_label">Аудио битрейт:</string>
   <string name="video_info_audio_coding_label">Формат кодирования аудио:</string>
   <string name="video_info_audio_null">Нет</string>
