@@ -279,6 +279,7 @@
   <string name="groupsLabel">Группы</string>
   <string name="hint_findContacts">Найти контакты</string>
   <string name="hint_search_contacts">Поиск контактов</string>
+  <string name="hint_search_phone_numbers">Телефонов: %d</string>
   <string name="imLabelsGroup">Чат</string>
   <string name="imei">IMEI</string>
   <string name="import_all_vcard_string">Импорт всех файлов VCard</string>

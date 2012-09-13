@@ -115,6 +115,11 @@
   <string name="opt_reject_blacklist_stranger">Отклонять неизвестные</string>
   <string name="opt_reject_blacklist_stranger_summary">Отклонение контактов которые не в списке</string>
   <string name="remove">Удалить</string>
+  <string name="remove_call_log">Удалить все журналы вызовов?</string>
+  <string name="remove_contact">Удалить выбранный контакт?</string>
+  <string name="remove_delete">Удалить</string>
+  <string name="remove_inf">Удалить выбранную информацию?</string>
+  <string name="remove_sms">Удалить все сообщение?</string>
   <string name="save_button">Сохранить</string>
   <string name="show_firewall_notification">Показывать значок</string>
   <string name="show_notification">Показать уведомления</string>

@@ -81,6 +81,7 @@
   <string name="menu_sync">Синхронизация</string>
   <string name="menu_sync_cancel">Отмена синхронизации</string>
   <string name="menu_title_select_folder">Выберите папку</string>
+  <string name="move_to_parent">Переместить в папку</string>
   <string name="note_alert_expired">Просрочено</string>
   <string name="note_link_email">Отправить emale</string>
   <string name="note_link_other">Открыть карту</string>

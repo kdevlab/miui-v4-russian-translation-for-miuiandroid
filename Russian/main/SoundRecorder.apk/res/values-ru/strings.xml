@@ -21,6 +21,7 @@
   <string name="error_app_internal">Внутренняя ошибка приложения</string>
   <string name="error_mediadb_new_record">Невозможно сохранить записанный звук</string>
   <string name="error_sdcard_access">Не удалось получить доступ к SD-карте</string>
+  <string name="fm_record">Запись радио (%d)</string>
   <string name="hour">%d часов</string>
   <string name="insert_sd_card">Вставьте SD-карту</string>
   <string name="mark_now">(Сейчас)</string>
