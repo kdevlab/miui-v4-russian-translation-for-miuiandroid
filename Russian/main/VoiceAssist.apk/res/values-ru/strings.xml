@@ -4,7 +4,7 @@
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="about">О программе</string>
   <string name="act_find_city_hint">搜索2400个位置(中文/拼音)</string>
-  <string name="act_find_city_hot_title">热门城市</string>
+  <string name="act_find_city_hot_title">Популярные города</string>
   <string name="act_find_city_null_data">没有你要查询的地区天气</string>
   <string name="act_find_city_title">添加位置</string>
   <string name="act_set_city_delete_city">你确定要删除 %s 吗？</string>
@@ -12,10 +12,10 @@
   <string name="act_set_city_find_side">定位中...</string>
   <string name="act_set_city_find_side_error">定位失败</string>
   <string name="act_set_city_find_side_on">开启定位</string>
-  <string name="act_set_city_title">编辑位置</string>
+  <string name="act_set_city_title">Изменить местоположение</string>
   <string name="act_weather_cycle_add_city">保存位置</string>
   <string name="act_weather_cycle_offreport">无</string>
-  <string name="act_weather_cycle_update">更新中...</string>
+  <string name="act_weather_cycle_update">Обновление...</string>
   <string name="act_weather_main_data_null">"暂无当天详情
 点击刷新"</string>
   <string name="act_weather_main_net_error">网络错误,请重试</string>
@@ -23,14 +23,14 @@
   <string name="act_weather_range_title">周边天气</string>
   <string name="act_weather_update_time">Обновлено: %s</string>
   <string name="address">Адрес:</string>
-  <string name="alarm">提醒</string>
+  <string name="alarm">Напомнить</string>
   <string name="alarming">Добавлено ​​напоминание:：%1$s %2$s</string>
   <string name="alert_provider_message">Разрешить приложению использовать ваше текущее местоположение?</string>
   <string name="alert_provider_title">Уведомления местоположения</string>
   <string name="app_about_1">v4.0.4</string>
   <string name="app_about_2">Copyright © 2012 miui.com, All Rights Reserved</string>
   <string name="app_def_city">北京</string>
-  <string name="app_del">删除</string>
+  <string name="app_del">Удалить</string>
   <string name="app_exit">Выход</string>
   <string name="app_love_add_btn">添加联系人</string>
   <string name="app_love_back_btn">返回</string>
@@ -46,7 +46,7 @@
   <string name="app_not_found">Приложение не найдено</string>
   <string name="app_off">关闭</string>
   <string name="app_ok">ОК</string>
-  <string name="app_on">开启</string>
+  <string name="app_on">Открыто</string>
   <string name="app_unquiet_net">网络不稳定，请稍候重试</string>
   <string name="app_upgradeDetail">修复某些情况下时间不更新的问题。</string>
   <string name="app_upgradeDownloading">正在下载中</string>
@@ -87,7 +87,7 @@
   <string name="contact_menu_6">Удалить контакты</string>
   <string name="contact_not_found">Контакты не найдены</string>
   <string name="contact_select">Пожалуйста, выберите контакт</string>
-  <string name="day">日</string>
+  <string name="day">День</string>
   <string formatted="false" name="descript_format">%s - %s</string>
   <string name="durationformatlong">-%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">-%2$d:%5$02d</string>
@@ -172,9 +172,9 @@
   <string name="set_vad_off_sample">VAD关闭</string>
   <string name="set_vad_on_sample">VAD开启</string>
   <string name="setting">Настройки</string>
-  <string name="sms_content">content</string>
+  <string name="sms_content">содержимое</string>
   <string name="sms_report">Message report</string>
-  <string name="sms_sender">sender</string>
+  <string name="sms_sender">Отправитель</string>
   <string name="stock_not_found">没有此股票的信息</string>
   <string name="summary_response_timeout">设置反应超时</string>
   <string name="summary_sensitivity">Установите уровень чувствительности</string>
@@ -217,6 +217,6 @@
   <string name="weather_no_city">无当地的天气信息</string>
   <string name="weather_no_date">无当天的天气信息</string>
   <string name="widget_loading">Нет информации о погоде</string>
-  <string name="year">年</string>
+  <string name="year">год</string>
   <string name="you_can_say_so">Вы можете сказать, что это:</string>
 </resources>
