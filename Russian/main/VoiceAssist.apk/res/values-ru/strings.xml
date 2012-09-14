@@ -54,9 +54,9 @@
   <string name="app_upgradeNo">下次再说</string>
   <string name="app_upgradeTitle">软件升级</string>
   <string name="app_upgradeYes">现在升级</string>
-  <string name="app_w_1x4">Погода 1x4</string>
-  <string name="app_w_1x4_color">Погода 1x4</string>
-  <string name="app_w_2x4">Погода 2x4</string>
+  <string name="app_w_1x4">Погода</string>
+  <string name="app_w_1x4_color">Погода</string>
+  <string name="app_w_2x4">Погода</string>
   <string name="app_weather_friend_1">开启当前位置提醒</string>
   <string name="app_weather_friend_2">雨,雪,降温等突发天气时通知</string>
   <string name="app_weather_friend_btn">添加联系人</string>
@@ -116,7 +116,7 @@
   <string name="menu_report_on">展开提醒</string>
   <string name="menu_set">设置</string>
   <string name="menu_sms">短信转发</string>
-  <string name="month">月</string>
+  <string name="month">Месяц</string>
   <string name="msg_begin_record">Запись начинается</string>
   <string name="msg_cancle">Отмена</string>
   <string name="msg_hava_res">Идентификация результатов</string>
