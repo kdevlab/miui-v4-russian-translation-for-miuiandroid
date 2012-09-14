@@ -61,7 +61,7 @@
     <Var name="preview_sms_y" expression="#preview_y-12-#preview_sms_count*#preview_item_height"/>
     <Var name="preview_call_y" expression="#preview_sms_y-#preview_call_count*#preview_item_height"/>
 
-    <!-- 音乐控制 -->
+        <!-- 音乐控制 -->
     <MusicControl x="0" y="#unlock_y-226" w="#screen_width" h="#screen_width" name="music_control" autoShow="true" visibility="false" defAlbumCover="default_album_cover.png">
         <!-- 背景 -->
         <Image x="0" y="226+#screen_width/2" alignV="bottom" src="music_bg.png"/>
@@ -178,12 +178,7 @@
 				        <Alpha a="128*not(#show_preview)" time="1000000000000000"/>
 			        </AlphaAnimation>
 		            </Text>
-		            		            						<Group>
-		            <Image x="#screen_width/2+30" y="180" src="volumn.png" visibility="1">
-		            </Image>
-		        </Group>
-
-		        <Group>
+		            		            								        <Group>
                     <AlphaAnimation>
                         <Alpha a="255" time="0"/>
                         <Alpha a="255*not(#show_preview)" time="500"/>
@@ -294,7 +289,7 @@
                 </Image>
 
 
-                                                                                <!-- 时间、日期 -->
+                                                                                                <!-- 时间、日期 -->
                 <Group>
                     <AlphaAnimation>
                         <Alpha a="192*not(#preview_call_count+#sms_count)" time="0"/>
