@@ -9,6 +9,7 @@
   <string name="alert_message_delete_notes">Выбранные заметки будут удалены</string>
   <string name="alert_title_delete">Удалить выбранные заметки</string>
   <string name="app_name">Заметки</string>
+  <string name="app_widget">Заметки</string>
   <string name="app_widget2x2">Заметки</string>
   <string name="app_widget4x4">Заметки</string>
   <string name="attachment_camera">Камера</string>
