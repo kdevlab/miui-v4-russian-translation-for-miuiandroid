@@ -89,9 +89,9 @@
   <string name="set_alarm">Установить будильник</string>
   <string name="settings">Настройки</string>
   <string name="show_clock">Показать часы</string>
-  <string name="shutdown_alarm_title">Выключение будильника</string>
-  <string name="shutdown_alarm_enable_summary">Включено отключение будильника</string>
   <string name="shutdown_alarm_disable_summary">Отключение будильника выключено</string>
+  <string name="shutdown_alarm_enable_summary">Включено отключение будильника</string>
+  <string name="shutdown_alarm_title">Выключение будильника</string>
   <string name="silent_alarm_summary">Без звука</string>
   <string name="slide_down_delelte_alarm">Сдвиньте вниз, чтобы отключить</string>
   <string name="snooze_duration_title">Интервал повтора сигнала</string>
