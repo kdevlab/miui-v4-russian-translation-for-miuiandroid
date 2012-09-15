@@ -17,7 +17,7 @@
   <string name="alarm_duration">Время сигнала и интервалы (мин.)</string>
   <string name="alarm_duration_summary">Будильник с интервалом %d мин</string>
   <string name="alarm_duration_title">Продолжительность сигнала</string>
-  <string name="alarm_in_silent_mode_summary">Подавать сигнал, даже если телефон работает в режиме без звука</string>
+  <string name="alarm_in_silent_mode_summary">Подавать сигнал, даже если телефон работает в беззвучном режиме</string>
   <string name="alarm_in_silent_mode_title">Включать всегда</string>
   <string name="alarm_klaxon_service_desc">Служба воспроизведения сигналов в Часах</string>
   <string name="alarm_list_title">Будильник</string>

@@ -38,7 +38,7 @@
   <string name="carrier_query_number_location">Атрибуция</string>
   <string name="carrier_query_number_title">Настройка операторов</string>
   <string name="close_txt">Закрыть</string>
-  <string name="control_app_internet">Контроль за использованием сети</string>
+  <string name="control_app_internet">Кон-ль за использ. сети</string>
   <string name="current_warning_value">Предупреждать при достижении: %s</string>
   <string name="daily_limit_dialog_disconnect_hint">Интернет отключается, когда трафик превышает установленный предел</string>
   <string name="daily_limit_dialog_hint">Дневной лимит трафика (0 означает отсутствие лимита)</string>

@@ -33,11 +33,11 @@
   <string name="live_wallpaper">Живые обои</string>
   <string name="lockscreen_wallpaper">Обои экрана блокир.</string>
   <string name="lockstyle_personal_settings">Настроить</string>
-  <string name="long_ringtone_resource">Длинные(&gt;5сек)</string>
+  <string name="long_ringtone_resource">Длинные(&gt;5 сек.)</string>
   <string name="play_all_audio_effect">воспроизвести звуковой эффект (всего: %1$s)</string>
   <string name="resource_fail_to_show">Тема не содержит соответствующий ресурс</string>
   <string name="resource_preview">Просмотр</string>
-  <string name="short_ringtone_resource">Короткие(&lt;5сек)</string>
+  <string name="short_ringtone_resource">Короткие(&lt;5 сек.)</string>
   <string name="theme_activity_lable">Темы</string>
   <string name="theme_changed_failed_message">Установка темы не удалась!</string>
   <string name="theme_changed_message">Тема успешно установлена!</string>
@@ -70,7 +70,7 @@
   <string name="third_party_pickers_activity_title">Установить %1$s</string>
   <string name="title_component">Компоненты</string>
   <string name="title_download_resource">Загруженные ресурсы</string>
-  <string name="title_local">Телефон</string>
+  <string name="title_local">Загруженные</string>
   <string name="title_online">Онлайн</string>
   <string name="title_system_resource">Системные ресурсы</string>
   <string name="wallpaper_crop">Обрезка</string>

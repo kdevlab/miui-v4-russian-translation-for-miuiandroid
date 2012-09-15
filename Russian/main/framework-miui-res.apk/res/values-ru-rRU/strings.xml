@@ -455,7 +455,7 @@
   <string name="send_sms_for_sync_title">Отправка SMS для активации синхронизации</string>
   <string name="shutdown_confirm">Ваш телефон будет выключен</string>
   <string name="silent_mode_ring">Звук включен</string>
-  <string name="silent_mode_silent">Режим \"Без звука\"</string>
+  <string name="silent_mode_silent">Беззвучный режим</string>
   <string name="silent_mode_vibrate">Режим вибрации</string>
   <string name="sim_changed_reactivate_notice">Текущая SIM-карта не активирована. Необходима отправка SMS для активации услуги Xiaomi синхронизации. Активировать сейчас?</string>
   <string name="slight_cold" />

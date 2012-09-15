@@ -6,8 +6,8 @@
   <string name="alert_edit_action_update">Обновить</string>
   <string name="alert_message_delete_folder">Папка вместе с содержащимися в ней заметками будет удалена</string>
   <string name="alert_message_delete_note">Заметка будет удалена</string>
-  <string name="alert_message_delete_notes">Выбранные заметки будут удалены</string>
-  <string name="alert_title_delete">Удалить выбранные заметки</string>
+  <string name="alert_message_delete_notes">Заметка будет удалена</string>
+  <string name="alert_title_delete">Удалит выбранную заметку</string>
   <string name="app_name">Заметки</string>
   <string name="app_widget">Заметки</string>
   <string name="app_widget2x2">Заметки</string>
