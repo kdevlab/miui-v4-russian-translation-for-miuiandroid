@@ -79,6 +79,8 @@
   <string name="error_should_not_select_video">Внимание: пожалуйста, не выбирайте видео файл</string>
   <string name="expand_album_in_home_page">Развернуть альбом на домашней странице</string>
   <string name="exposure_time">Выдержка</string>
+  <string name="external_sd_card">SD-карта</string>
+  <string name="external_usb_device">USB-устройство</string>
   <string name="facelift">Сияние</string>
   <string name="facetan">Загар</string>
   <string name="fail_init_gallery_db_helper">Ошибка открытия базы данных галереи. Диск полон.</string>
@@ -119,11 +121,13 @@
   <string name="how_many_pics">Фотографий: %d</string>
   <string name="how_many_sub_folders">Папок: %d</string>
   <string name="how_many_videos">Видео: %d</string>
+  <string name="how_many_volumes">%d устройств хранения</string>
   <string name="image_property">Свойства фотографии</string>
   <string name="import_complete">Импорт завершен</string>
   <string name="import_fail">Сбой импорта</string>
   <string name="internal_camera_folder_display_name">Фото в памяти телефона</string>
   <string name="internal_miui_capture_screen_folder_display_name">Скриншоты в памяти телефона</string>
+  <string name="internal_sd_card">Внутренняя SD-карта</string>
   <string name="iso">ISO</string>
   <string name="loading">Идет загрузка…</string>
   <string name="loading_account">Загрузка аккаунта...</string>
@@ -268,6 +272,7 @@
   <string name="slideshow_interval_dialog_title">Промежуток времени более 0 секунд</string>
   <string name="slideshow_interval_invalid">Неверная настройка интервала времени, который должен быть от 1 до 3600. Возобновится интервал времени по умолчанию</string>
   <string name="slideshow_repeat_mode">Повторять</string>
+  <string name="storage_all_volumes">Все устройства хранения</string>
   <string name="straighten">Выравнивание</string>
   <string name="straighten_tooltip">Чтобы выровнять фото, перетащите его</string>
   <string name="switch_to_camera">Переключиться на камеру</string>
