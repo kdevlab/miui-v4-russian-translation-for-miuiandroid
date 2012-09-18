@@ -2,7 +2,7 @@
 <resources>
     <string-array name="transformation_entries">
         <item>Стандартный</item>
-        <item>Стд.(Без проскакивания)</item>
+        <item>Стд.(без проскакивания)</item>
         <item>Угасание</item>
         <item>Поворот</item>
         <item>Страница</item>

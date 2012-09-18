@@ -1250,7 +1250,7 @@
   <string name="screen_on_proximity_sensor_title">Предотвращение ошибок</string>
   <string name="screen_timeout">Спящий режим</string>
   <string name="screen_timeout_summary">После %1$s бездействия</string>
-  <string name="screen_timeout_title">Спящий режим</string>
+  <string name="screen_timeout_title">Переход в спящий р-м после</string>
   <string name="screensaver_activate_on_dock_title">Включить в док-станции</string>
   <string name="screensaver_component_title">Заставка</string>
   <string name="screensaver_settings_summary_off">Выключено</string>

@@ -111,7 +111,7 @@
   <string name="ext_media_safe_unmount_notification_title">Можете извлечь</string>
   <string name="ext_media_unmountable_notification_message">Поврежденное USB-хранилище. Пожалуйста сформатируйте его</string>
   <string name="ext_media_unmountable_notification_title">Поврежденное USB-хранилище</string>
-  <string name="gps_notification_found_text">Местоположение установлено с помощью GPS</string>
+  <string name="gps_notification_found_text">Местополож. определено по GPS</string>
   <string name="gps_notification_searching_text">Поиск GPS</string>
   <string name="incoming_call_vibrate_hint">Входящий звонок</string>
   <string name="installer_cd_button_title">Установить приложение</string>
