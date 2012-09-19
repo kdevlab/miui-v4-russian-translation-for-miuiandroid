@@ -119,6 +119,7 @@
   <string name="upside_edit_bottom_empty_tip">Нажмите для изменения</string>
   <string name="upside_enter_tip">Сдвиньте вниз двумя пальцами, чтобы перейти к свободному рабочему столу</string>
   <string name="upside_exit_tip">Сдвиньте вверх два пальца, чтобы выйти из свободного рабочего стола</string>
+  <string name="upside_londing_text">Загрузка рабочего стола…</string>
   <string name="widget_favorite_contacts_edit">Изменить</string>
   <string name="widget_favorite_contacts_label">Контакты</string>
   <string name="widget_favorite_contacts_style">Вид</string>

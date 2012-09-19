@@ -327,6 +327,11 @@
   <string name="dial_button_label">Набор номера</string>
   <string name="dial_emergency_empty_error">Вызов не осуществлен, наберите номер экстренного вызова!</string>
   <string name="dial_emergency_error">Вызов не осуществляется, так как %s не является номером экстренного вызова!</string>
+  <string name="dial_pad_touch_tone_default_miui">Стандартный</string>
+  <string name="dial_pad_touch_tone_human_miui">Голос человека</string>
+  <string name="dial_pad_touch_tone_miui">Сенсорная панель</string>
+  <string name="dial_pad_touch_tone_piano_miui">Фортепианный звук</string>
+  <string name="dial_pad_touch_tone_setting_miui">Настройки тона набора</string>
   <string name="dialerKeyboardHintText">Используйте клавиатуру для набора номера</string>
   <string name="dialer_emptyListWorking">Идет загрузка…</string>
   <string name="disable">Отключить</string>
@@ -952,6 +957,7 @@ SIM-карта будет заблокирована навсегда при н�
   <string name="throttle_time_frame">Время передачи данных</string>
   <string name="throttle_time_frame_subtext">"%1$s превышен максимум.
 Частота данных уменьшена до %2$d кБ/с"</string>
+  <string name="tone_miui">Тон</string>
   <string name="transport">Protocol</string>
   <string name="transport_title">Протокол</string>
   <string name="tty_mode_entries_full_miui">TTY Full</string>
