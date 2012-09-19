@@ -99,6 +99,7 @@
   <string name="auto_retry_mode_title_miui">Автодозвон</string>
   <string name="autoip_miui">Интел-ный набор</string>
   <string name="autoip_sum_miui">Добавить префикс для иностранных номеров. Введите код региона ниже</string>
+  <string name="back_miui">Назад</string>
   <string name="badPin">Введен неверный прежний PIN. Повторите попытку</string>
   <string name="badPin2">Введен неверный прежний код PIN2. Повторите попытку</string>
   <string name="badPuk">Неверный код PUK</string>
