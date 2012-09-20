@@ -26,6 +26,8 @@
   <string name="compress_title">Сжать</string>
   <string name="confirm">OК</string>
   <string name="confirm_know">OK</string>
+  <string name="copy_failed">Ошибка копирования</string>
+  <string name="copy_success">Скопировано</string>
   <string name="create_new_folder_failed">Не удалось создать папку %1$s</string>
   <string name="create_new_folder_succeeded">Папка %1$s успешно создана</string>
   <string name="cution">Советы</string>
@@ -84,6 +86,8 @@
   <string name="instruction">Адрес синхронизации:</string>
   <string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
   <string name="kuaipan_over_space">В вашем MiDrive нет больше свободного места</string>
+  <string name="kuaipan_prompt">MiDrive</string>
+  <string name="kuaipan_prompt_message">Сервер в режиме обслуживания, Пожалуйста, попробуйте позже...</string>
   <string name="kuaipan_tech_support">Техническая поддержка: Kingsoft Kuaipan</string>
   <string name="local_cache">Локальный кэш</string>
   <string name="local_cache_size">Размер локального кэш: %s</string>
@@ -98,6 +102,8 @@
   <string name="menu_item_sort_size">По размеру</string>
   <string name="menu_item_sort_type">По типу</string>
   <string name="menu_setting">Настройки</string>
+  <string name="move_failed">Ошибка перемещения</string>
+  <string name="move_success">Перемещено</string>
   <string name="multi_select_title">Выбрано: %1$s</string>
   <string name="net_lose_connected">Сеть недоступна, не может получить размер</string>
   <string name="networkView_notConnected">Нет доступных сетей</string>
