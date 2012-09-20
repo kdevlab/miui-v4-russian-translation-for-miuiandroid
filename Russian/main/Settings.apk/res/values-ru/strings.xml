@@ -784,8 +784,8 @@
   <string name="header_add_an_account">Добавление аккаунта</string>
   <string name="header_application_sync_settings">Настройки синхронизации</string>
   <string name="header_category_device">ПАРАМЕТРЫ УСТРОЙСТВА</string>
-  <string name="header_category_personal">ЛИЧНЫЕ ДАННЫЕ</string>
-  <string name="header_category_system">СИСТЕМНЫЕ НАСТРОЙКИ</string>
+  <string name="header_category_personal">ПЕРСОНАЛИЗАЦИЯ</string>
+  <string name="header_category_system">ПАРАМЕТРЫ СИСТЕМЫ</string>
   <string name="header_category_wireless_networks">БЕСПРОВОДНЫЕ СЕТИ</string>
   <string name="header_data_and_synchronization">Cинхронизация данных</string>
   <string name="heavy_weight_stop_description">Если закрыть это приложение, можно потерять несохраненные данные</string>
