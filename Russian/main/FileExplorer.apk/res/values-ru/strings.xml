@@ -87,7 +87,7 @@
   <string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
   <string name="kuaipan_over_space">В вашем MiDrive нет больше свободного места</string>
   <string name="kuaipan_prompt">MiDrive</string>
-  <string name="kuaipan_prompt_message">Сервер в режиме обслуживания, Пожалуйста, попробуйте позже...</string>
+  <string name="kuaipan_prompt_message">Идет обслуживание сервиса, пожалуйста, попробуйте позже...</string>
   <string name="kuaipan_tech_support">Техническая поддержка: Kingsoft Kuaipan</string>
   <string name="local_cache">Локальный кэш</string>
   <string name="local_cache_size">Размер локального кэш: %s</string>
