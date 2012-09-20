@@ -121,6 +121,6 @@
   <string name="user_agreement_p2">Условиями соглашения Xiaomi</string>
   <string name="user_agreement_p3"> и </string>
   <string name="user_agreement_p4">Политикой безопасности</string>
-  <string name="user_agreement_p5">Регистрируясь, вы соглащаетесь с\n</string>
+  <string name="user_agreement_p5">Регистрируясь, вы соглашаетесь с\n</string>
   <string name="xmpp_server_addr" />
 </resources>
