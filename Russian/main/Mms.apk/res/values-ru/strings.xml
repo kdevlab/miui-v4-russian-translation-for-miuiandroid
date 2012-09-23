@@ -447,7 +447,7 @@
   <string name="title_timed_message_dialog">Настройка времени отправки сообщения</string>
   <string name="to_address_label">"Кому: "</string>
   <string name="to_count">Всего: %d</string>
-  <string name="to_hint">Кому:</string>
+  <string name="to_hint">введите адресатов</string>
   <string name="to_label">Кому:</string>
   <string name="to_send_wrapper">Сообщение запланировано на: %s</string>
   <string name="too_many_attachments">Для вложений установлено ограничение: %1$s. Будет добавлено вложений: %2$s.</string>
