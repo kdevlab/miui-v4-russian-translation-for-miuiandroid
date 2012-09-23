@@ -59,6 +59,7 @@
   <string name="crossprocess">Кросс-обработка</string>
   <string name="cut">Обрезать</string>
   <string name="damaged_file">Файл поврежден</string>
+  <string name="defalt_local_mobile">Мобильный</string>
   <string name="delete">Файл будет удален</string>
   <string name="deleting_files">Удаление файлов...</string>
   <string name="description">Описание</string>
@@ -106,6 +107,7 @@
   <string name="focal_length">Фокус. расст.</string>
   <string name="free_space_format">Свободно: %s</string>
   <string name="gadget_title">Рамка фотографии</string>
+  <string name="gallery_cloud_provider_name">Галерея</string>
   <string name="global_setting">Настройки</string>
   <string name="grain">Зернистость</string>
   <string name="grayscale">Ч/Б</string>
@@ -123,7 +125,7 @@
   <string name="how_many_pics">Фотографий: %d</string>
   <string name="how_many_sub_folders">Папок: %d</string>
   <string name="how_many_videos">Видео: %d</string>
-  <string name="how_many_volumes">%d устройств хранения</string>
+  <string name="how_many_volumes">Устройств хранения: %d</string>
   <string name="image_property">Свойства фотографии</string>
   <string name="import_complete">Импорт завершен</string>
   <string name="import_fail">Сбой импорта</string>
@@ -277,7 +279,7 @@
   <string name="slideshow_interval">Интервал слайд-шоу</string>
   <string name="slideshow_interval_dialog_title">Промежуток времени более 0 секунд</string>
   <string name="slideshow_interval_invalid">Неверная настройка интервала времени, который должен быть от 1 до 3600. Возобновится интервал времени по умолчанию</string>
-  <string name="slideshow_repeat_mode">Повторять</string>
+  <string name="slideshow_repeat_mode">Повтор при завершении</string>
   <string name="storage_all_volumes">Все устройства хранения</string>
   <string name="straighten">Выравнивание</string>
   <string name="straighten_tooltip">Чтобы выровнять фото, перетащите его</string>

@@ -4,7 +4,7 @@
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="access_denied">доступ запрещен</string>
   <string name="account">Аккаунт</string>
-  <string name="account_hint_text">Электронная почта</string>
+  <string name="account_hint_text">Введите свой e-mail или ID</string>
   <string name="account_name">Аккаунт: %1$s</string>
   <string name="activate_fail_notification_title">Ошибка активации</string>
   <string name="activating">Активация...</string>
@@ -44,7 +44,7 @@
   <string name="header_data_and_synchronization">Данные и синхронизация</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Введите пароль</string>
-  <string name="login">Вход</string>
+  <string name="login">Войти</string>
   <string name="login_failed">Ошибка входа</string>
   <string name="login_notice">Вход...</string>
   <string name="login_retry">Повтор</string>
