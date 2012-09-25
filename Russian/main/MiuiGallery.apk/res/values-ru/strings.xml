@@ -20,7 +20,7 @@
   <string name="already_saved">Фотография сохранена в: %s</string>
   <string name="aperture">Диафрагма</string>
   <string name="app_name">Галерея</string>
-  <string name="apply_pic_for">Установить фото на...</string>
+  <string name="apply_pic_for">Установить</string>
   <string name="appwidget_empty_text">Нет фотографий</string>
   <string name="appwidget_title">Фотогалерея</string>
   <string name="auto">Авто</string>
@@ -45,7 +45,7 @@
   <string name="cloud_gallery_setting">Настройки облачной галереи</string>
   <string name="cloud_gallery_space_full">Ошибка отправки - облачное хранилище заполнено</string>
   <string name="cloud_media_set_set">Облачные альбомы</string>
-  <string name="confirm_delete">Удалить</string>
+  <string name="confirm_delete">Удалить выбранные файлы?</string>
   <string name="confirm_know">OK</string>
   <string name="contact_photo">Фото контакта</string>
   <string name="crop">Кадрировать</string>
@@ -60,14 +60,14 @@
   <string name="cut">Обрезать</string>
   <string name="damaged_file">Файл поврежден</string>
   <string name="defalt_local_mobile">Мобильный</string>
-  <string name="delete">Файл будет удален</string>
+  <string name="delete">Удаление</string>
   <string name="deleting_files">Удаление файлов...</string>
   <string name="description">Описание</string>
   <string name="deselect_all">Отменить все</string>
   <string name="details">Сведения</string>
   <string formatted="false" name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string formatted="false" name="details_ms">%1$02d:%2$02d</string>
-  <string formatted="false" name="details_title">Элементов %1$d из %2$d:</string>
+  <string formatted="false" name="details_title">Файл %1$d из %2$d:</string>
   <string name="disallowed_operation">Не поддерживается для данного типа данных</string>
   <string name="documentary">Документальные</string>
   <string name="done">Готово</string>
@@ -232,7 +232,7 @@
   <string name="save_to_sdcard">Сохранить на SD-карту</string>
   <string name="saving_failure">Не удалось сохранить фото</string>
   <string name="saving_image">Сохранение картинки...</string>
-  <string name="screen_saver_wallpaper">Экран блокировки</string>
+  <string name="screen_saver_wallpaper">На экран блокировки</string>
   <string name="sd_explorer">Карта памяти</string>
   <string name="sd_folder">Папки SD карты</string>
   <string name="sd_not_available">SD-карта размонтирована или недоступна</string>
@@ -249,17 +249,17 @@
   <string name="sending_video_title">Отправить (%s)</string>
   <string name="sepia">Сепия</string>
   <string formatted="false" name="sequence_in_set">%1$d из %2$d:</string>
-  <string name="set_as">Установить как</string>
+  <string name="set_as">Установить</string>
   <string name="set_hidden_album">Скрыть альбом(ы)</string>
-  <string name="set_image">Установить картинку как</string>
+  <string name="set_image">Применить</string>
   <string name="set_label_all_albums">Все альбомы</string>
   <string name="set_label_local_albums">Офлайн-альбомы</string>
   <string name="set_label_mtp_devices">MTP-устройства</string>
   <string name="set_label_picasa_albums">Альбомы Picasa</string>
-  <string name="set_lock_or_wallpaper">Как фон</string>
-  <string name="set_lockscreen">Экран блокировки</string>
+  <string name="set_lock_or_wallpaper">Применить</string>
+  <string name="set_lockscreen">Установка на экран блокировки..</string>
   <string name="set_recent_album">Сделать новый альбом</string>
-  <string name="set_wallpaper">Рабочий стол</string>
+  <string name="set_wallpaper">Установка на рабочий стол..</string>
   <string name="settings">Настройки</string>
   <string name="shadow">Затенение</string>
   <string name="share">Отправить</string>
@@ -268,7 +268,7 @@
   <string name="show_details">Свойства</string>
   <string name="show_hidden_album">Показать скрытые альбомы</string>
   <string name="show_images_only">Только изображения</string>
-  <string name="show_on_map">Показать на карте</string>
+  <string name="show_on_map">На карте</string>
   <string name="show_videos_only">Только видео</string>
   <string name="size_above">%1$s или более</string>
   <string name="size_below">%1$s или менее</string>
@@ -277,7 +277,7 @@
   <string name="slideshow_category">Слайд-шоу</string>
   <string name="slideshow_dream_name">Слайд-шоу</string>
   <string name="slideshow_interval">Интервал слайд-шоу</string>
-  <string name="slideshow_interval_dialog_title">Промежуток времени более 0 секунд</string>
+  <string name="slideshow_interval_dialog_title">Промежуток времени в секундах</string>
   <string name="slideshow_interval_invalid">Неверная настройка интервала времени, который должен быть от 1 до 3600. Возобновится интервал времени по умолчанию</string>
   <string name="slideshow_repeat_mode">Повтор при завершении</string>
   <string name="storage_all_volumes">Все устройства хранения</string>
@@ -287,15 +287,15 @@
   <string name="sync_album">Синхронизировать альбом</string>
   <string name="sync_album_error">Не удалось загрузить фотографии. Повторите попытку позже</string>
   <string name="sync_album_set_error">Не удалось загрузить альбомы. Повторите попытку позже</string>
-  <string name="sync_history_power_on">Синхр-ция истории изображений только во время зарядки</string>
-  <string name="sync_history_power_on_summary">Рекомендуется включить, иначе расход батареи может увеличиться</string>
+  <string name="sync_history_power_on">Синхр. во время зарядки</string>
+  <string name="sync_history_power_on_summary">Сонхронизация изображений только во время зарядки. Рекомендуется включить.</string>
   <string name="sync_not_open">Вы можете синхронизировать ваши снимки в облако для вашего удобства</string>
   <string name="sync_only_in_wifi">Только Wi-Fi</string>
   <string name="sync_only_in_wifi_summary">Рекомендуется включить, иначе будет потребление мобильного трафика</string>
   <string name="sync_picasa_albums">Обновить</string>
   <string name="tab_all_text">На все</string>
-  <string name="tab_lockscreen_text">Экран блокировки</string>
-  <string name="tab_wallpaper_text">Рабочий стол</string>
+  <string name="tab_lockscreen_text">На локскрин</string>
+  <string name="tab_wallpaper_text">На стол</string>
   <string name="tags">Теги</string>
   <string name="temperature">Тепло</string>
   <string name="time">Время</string>

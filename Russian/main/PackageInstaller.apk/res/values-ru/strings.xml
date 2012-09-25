@@ -14,15 +14,15 @@
   <string name="caller_app">Запрос от %1$s</string>
   <string name="cancel">Отмена</string>
   <string name="devicePerms">Доступ к устройству</string>
-  <string name="dlg_app_replacement_statement">"Приложение, которое вы устанавливаете, заменит другое приложение.
+  <string name="dlg_app_replacement_statement">"Приложение, которое вы устанавливаете, заменит уже существующее.
 
-Все пользовательские данные будут сохранены"</string>
-  <string name="dlg_app_replacement_title">Заменить приложение</string>
+Все пользовательские данные будут сохранены."</string>
+  <string name="dlg_app_replacement_title">Замена приложения</string>
   <string name="dlg_ok">ОК</string>
-  <string name="dlg_sys_app_replacement_statement">"Это системное приложение. Заменить?
+  <string name="dlg_sys_app_replacement_statement">"Приложение, которое вы устанавливаете - системное. Хотите заменить?
 
-Все пользовательские данные будут сохранены"</string>
-  <string name="done">Готово</string>
+Все пользовательские данные будут сохранены."</string>
+  <string name="done">Закрыть</string>
   <string name="install">Установить</string>
   <string name="install_confirm_question">Установить это приложение?</string>
   <string name="install_confirm_question_no_perms">Установить данное приложение? Ему не требуется специальных разрешений</string>

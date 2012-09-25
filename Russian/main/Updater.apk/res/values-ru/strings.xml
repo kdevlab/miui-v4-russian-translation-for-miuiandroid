@@ -31,7 +31,7 @@
   <string name="choose_recommend">Пожалуйста, выберите рекомендуете или нет</string>
   <string name="confirm_download_cancelation_dialog_message">Вы уверены, что хотите отменить загрузку обновления?</string>
   <string name="copy_install_log">Скопировано в буфер обмена</string>
-  <string name="current_version_text">Установлено:</string>
+  <string name="current_version_text">Текущая прошивка:</string>
   <string name="current_version_update_monthly_build">Установлено:</string>
   <string name="daily_build">ежедневная сборка</string>
   <string name="dialog_no">Нет</string>
@@ -53,7 +53,9 @@
   <string name="get_update_error">Не удалось получить информацию об обновлении</string>
   <string name="install_email">Установить E-Mail</string>
   <string name="install_file_explorer">Установите приложение Файлы</string>
+  <string name="install_qq">Установить QQ</string>
   <string name="install_rom_from_sd">Прошивка</string>
+  <string name="install_sina">Установить Sina</string>
   <string name="install_whole_rom">Мы рекомендуем вам скачать полный пакет для обновления системы</string>
   <string name="loading">Загрузка MIUI</string>
   <string name="md5_check_cancelled">Проверка MD5 отменена</string>
@@ -100,7 +102,7 @@
   <string name="sdcard_is_not_present_dialog_title">Нет SD-карты</string>
   <string name="send_install_log">Отправить журнал</string>
   <string name="send_install_log_error">Ошибка отправки</string>
-  <string name="share_update">Отправить информацию об обновлении</string>
+  <string name="share_update">Поделиться информацией обновления</string>
   <string name="sign_in_add_account_helper">В вашем телефоне нет аккаунта MIUI, пожалуйста добавьте его</string>
   <string name="sign_in_info">Рейтинг обновления: %1$s%%\n%2$s\nВерсия: %3$s</string>
   <string name="stable_build">стабильная сборка</string>
