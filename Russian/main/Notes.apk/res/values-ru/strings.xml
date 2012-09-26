@@ -5,6 +5,8 @@
   <string name="alert_edit_action_delete">Удалить</string>
   <string name="alert_edit_action_update">Обновить</string>
   <string name="alert_message_delete_folder">Папка вместе с содержащимися в ней заметками будет удалена</string>
+  <string name="alert_message_delete_folders">Удалить выбранные папки (%1$s)?</string>
+  <string name="alert_message_delete_folders_notes">Удалить выбранные папки (%1$s) и заметки (%2$s)?</string>
   <string name="alert_message_delete_note">Заметка будет удалена</string>
   <string name="alert_message_delete_notes">Заметка будет удалена</string>
   <string name="alert_title_delete">Удаление выбранной заметки</string>
@@ -122,6 +124,7 @@
   <string name="send_to_note">Отправить в заметку</string>
   <string name="set_remind_time_message">Установить напоминание</string>
   <string name="snippet_image_stub">[Картинка]</string>
+  <string name="snippet_image_template">[%1$s]</string>
   <string name="success_sdcard_export">Экспорт завершен</string>
   <string name="success_sync_account">Синхронизация с аккаунтом %1$s выполнена успешно</string>
   <string name="sync_progress_init_list">Получение удаленного списка заметок...</string>

@@ -173,6 +173,7 @@
   <string name="tab_networkdisk">MiDrive</string>
   <string name="tab_remote">Обмен</string>
   <string name="tab_sd">SD-карта</string>
+  <string name="toast_file_not_can_read">Этот файл нельзя прочитать</string>
   <string name="trash_box_capacity">Объем корзины: %1$s</string>
   <string name="trash_box_link">Посетите pan.xiaomi.com для очистки корзины</string>
   <string name="trash_box_message1">"Вы можете удалить не нужные файлы для освобождения места"</string>
@@ -190,6 +191,7 @@
   <string name="ui_bar_txt_download_success">MiDrive: загрузка зевершена</string>
   <string name="ui_bar_txt_file_not_found">MiDrive: файл не найден</string>
   <string name="ui_bar_txt_remain_task">%1$d осталось</string>
+  <string name="ui_bar_txt_text">Отправка файла в MiDrive...%1$d осталось (%2$d%%)</string>
   <string name="ui_bar_txt_upload_failed">MiDrive: Сбой при передаче</string>
   <string name="ui_bar_txt_upload_msg">Отправка %1$s</string>
   <string name="ui_bar_txt_upload_outline">Всего выгружено: %1$d файлов</string>
