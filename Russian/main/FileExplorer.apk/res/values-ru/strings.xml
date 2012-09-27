@@ -173,7 +173,7 @@
   <string name="tab_networkdisk">MiDrive</string>
   <string name="tab_remote">Обмен</string>
   <string name="tab_sd">SD-карта</string>
-  <string name="toast_file_not_can_read">Этот файл нельзя прочитать</string>
+  <string name="toast_file_not_can_read">Этот тип файла не поддерживается</string>
   <string name="trash_box_capacity">Объем корзины: %1$s</string>
   <string name="trash_box_link">Посетите pan.xiaomi.com для очистки корзины</string>
   <string name="trash_box_message1">"Вы можете удалить не нужные файлы для освобождения места"</string>
