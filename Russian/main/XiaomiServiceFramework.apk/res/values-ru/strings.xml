@@ -4,6 +4,7 @@
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="access_denied">доступ запрещен</string>
   <string name="account">Аккаунт</string>
+  <string name="account_dspt">"Аккаунт Xiaomi может синхронизировать и резервировать ваши SMS, Контакты, фото, заметки и другое"</string>
   <string name="account_hint_text">Введите свой e-mail или ID</string>
   <string name="account_name">Аккаунт: %1$s</string>
   <string name="activate_fail_notification_title">Ошибка активации</string>

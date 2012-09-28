@@ -37,6 +37,7 @@
   <string name="gadget_weather_download_message">Необходимо скачать тему: %1$s. размер: %2$s. Пожалуйста, выберите снова после завершения скачивания</string>
   <string name="gadget_weather_download_start">начать</string>
   <string name="gadget_weather_download_title">Скачать</string>
+  <string name="gadget_weather_downloading">Пакет темы скачивается. Пожалуйста, выберите снова после завершения загрузки</string>
   <string name="gadget_weather_loading">Нет данных о погоде</string>
   <string name="gadget_weather_theme_type">Тип виджета</string>
   <string name="gadget_weather_time_format">EEE, d.MM</string>
