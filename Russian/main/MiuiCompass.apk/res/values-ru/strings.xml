@@ -4,6 +4,7 @@
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="altitude">Высота %.1f метров</string>
   <string name="app_label">Компас</string>
+  <string name="calibrate_success">Калибрация завершена</string>
   <string name="cannot_get_location">Невозможно получить данные о вашем местоположении</string>
   <string name="getting_location">Поиск местоположения...</string>
   <string name="location_east">%s В</string>
