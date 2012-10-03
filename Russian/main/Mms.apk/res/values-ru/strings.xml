@@ -61,7 +61,7 @@
   <string name="confirm_delete_RUIM_message">Это сообщение на RUIM будет удалено</string>
   <string name="confirm_delete_SIM_message">Сообщение будет удалено с SIM-карты</string>
   <string name="confirm_delete_all_RUIM_messages">Все сообщения на RUIM будут удалены</string>
-  <string name="confirm_delete_all_SIM_messages">С SIM-карты будут удалены все сообщения</string>
+  <string name="confirm_delete_all_SIM_messages">Все сообщения с SIM-карты будут удалены</string>
   <string name="confirm_delete_all_conversations">Все цепочки будут удалены</string>
   <string name="confirm_delete_conversation">Вся цепочка будет удалена</string>
   <string name="confirm_delete_group_message">Сообщения будут удалены</string>
@@ -72,7 +72,7 @@
   <string name="confirm_rate_limit">Отправляется большое количество MMS. Продолжить?</string>
   <string name="context_menu_add_contact">Добавить в контакты</string>
   <string name="context_menu_browse_web">Перейти</string>
-  <string name="context_menu_contact">Контакт:%1$s</string>
+  <string name="context_menu_contact">Контакт: %1$s</string>
   <string name="context_menu_copy">Копировать</string>
   <string name="context_menu_copy_notice">Текст был скопирован в буфер обмена</string>
   <string name="context_menu_dial">Вызов</string>
@@ -211,8 +211,8 @@
   <string name="message_send_read_report">Будет отправлен отчет о прочтении</string>
   <string name="message_size_label">"Размер сообщения: "</string>
   <string name="message_title">%1$s %2$s написал:</string>
-  <string name="message_too_big_for_audio">Сообщение слишком велико, чтобы прикрепить аудио</string>
-  <string name="message_too_big_for_video">Сообщение слишком велико, чтобы приложить видео</string>
+  <string name="message_too_big_for_audio">Слишком большое сообщение, чтобы прикрепить аудио</string>
+  <string name="message_too_big_for_video">Сообщение слишком большое, чтобы приложить видео</string>
   <string name="message_type_label">"Тип: "</string>
   <string name="messagelist_sender_self">Я</string>
   <string name="messaging_intent_label">Сообщения</string>
@@ -371,7 +371,7 @@
   <string name="replace">Заменить</string>
   <string name="replace_image">Заменить картинку</string>
   <string name="resent_message">Повторить</string>
-  <string name="resize_image_error_information">Изображение слишком велико для отправки даже после изменения размера.</string>
+  <string name="resize_image_error_information">Изображение слишком большое для отправки, даже после изменения размера</string>
   <string name="restore_default">Восстановить настройки</string>
   <string name="ruim_empty">Нет сообщений на RUIM карте</string>
   <string name="ruim_full_title">RUIM карта полная</string>
@@ -414,7 +414,7 @@
   <string name="sim_empty">На SIM-карте нет сообщений</string>
   <string name="sim_full_body">Удалите несколько сообщений, чтобы освободить место</string>
   <string name="sim_full_title">SIM-карта заполнена</string>
-  <string name="sim_manage_messages_title">Текстовые сообщения на SIM-карте</string>
+  <string name="sim_manage_messages_title">Сообщения на SIM-карте</string>
   <string name="sim_view">Просмотр</string>
   <string name="slide_number">Слайд %s</string>
   <string name="slide_show_part">Часть %1$s из %2$s</string>

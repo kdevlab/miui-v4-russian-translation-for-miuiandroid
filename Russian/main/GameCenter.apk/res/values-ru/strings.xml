@@ -129,5 +129,5 @@
   <string name="update_date">%3$02d-%2$02d-%1$d</string>
   <string name="update_result_new">Доступно обновление</string>
   <string name="verifying">проверка</string>
-  <string name="version_label">Версия：%s</string>
+  <string name="version_label">Версия：</string>
 </resources>

@@ -173,7 +173,7 @@
   <string name="HIPS_SecurityPrompt_Title">%1$s пытается %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d разрешения</string>
   <string name="Privacy_AppPerm_Count_Trust">%1$d разрешения - &lt;font color=#478800&gt;доверенные&lt;/font&gt;</string>
-  <string name="Privacy_App_Finish">Готово</string>
+  <string name="Privacy_App_Finish">Закрыть</string>
   <string name="Privacy_App_Installed">Настройка доступа</string>
   <string name="Privacy_App_Launch">Открыть</string>
   <string name="Privacy_App_Log">Логи</string>
