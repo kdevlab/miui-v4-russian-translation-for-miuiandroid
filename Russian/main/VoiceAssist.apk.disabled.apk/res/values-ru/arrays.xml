@@ -87,6 +87,14 @@
         <item>周五</item>
         <item>周六</item>
     </string-array>
+	<string-array name="res_no_voice">
+        <item>Не знаю, что вы говорите</item>
+        <item>Пожалуйста, повторите</item>
+        <item>Что ты сказал</item>
+        <item>О, я не слышу, и я не хочу, чтобы прошептать?</item>
+        <item>Ну, что? Я не понял.</item>
+        <item>Снова не понял</item>
+    </string-array>
     <string-array name="report_method_entries">
         <item>При подключении наушников</item>
         <item>Всегда</item>
@@ -96,6 +104,30 @@
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    </string-array>
+	<string-array name="voice_effect_names">
+        <item>XiaoYan (default)</item>
+        <item>JiaJia</item>
+        <item>XiaoRong</item>
+        <item>XiaoMei</item>
+        <item>NanNan</item>
+        <item>XiaoFeng</item>
+        <item>XiaoQiang</item>
+        <item>XiaoKun</item>
+        <item>DaLong</item>
+        <item>Donald Duck</item>
+    </string-array>
+    <string-array name="voice_effect_descs">
+        <item>Китайско-английский женский голос</item>
+        <item>Китайский женский голос</item>
+        <item>Сычуань женский голос</item>
+        <item>Кантонской женский голос</item>
+        <item>Китайско-английский голос девушки</item>
+        <item>Китайско-английский мужской голос</item>
+        <item>Хунань мужской голос</item>
+        <item>Хэнань мужской голос</item>
+        <item>Кантонской мужской голос</item>
+        <item>Мультипликационный</item>
     </string-array>
     <string-array name="send_item">
         <item>短信</item>
