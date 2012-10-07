@@ -1226,4 +1226,5 @@
   <string name="years">г.</string>
   <string name="yes">ОК</string>
   <string name="yesterday">Вчера</string>
+  <string name="sp_usb_massstorage_notification_title_NORMAL">Режим накопителя запущен</string>
 </resources>
