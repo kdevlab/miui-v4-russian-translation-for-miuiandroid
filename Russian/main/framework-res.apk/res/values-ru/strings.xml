@@ -1104,6 +1104,7 @@
   <string name="sms_control_yes">ОК</string>
   <string name="smv_application">Приложение %1$s (процесс %2$s) нарушило собственную политику StrictMode</string>
   <string name="smv_process">Процесс %1$s нарушил собственную политику StrictMode</string>
+  <string name="sp_usb_massstorage_notification_title_NORMAL">Режим накопителя запущен</string>
   <string name="ssl_certificate">Сертификат безопасности</string>
   <string name="ssl_certificate_is_valid">Этот сертификат действителен</string>
   <string name="status_bar_device_locked">Устройство заблокировано</string>
@@ -1226,5 +1227,4 @@
   <string name="years">г.</string>
   <string name="yes">ОК</string>
   <string name="yesterday">Вчера</string>
-  <string name="sp_usb_massstorage_notification_title_NORMAL">Режим накопителя запущен</string>
 </resources>
