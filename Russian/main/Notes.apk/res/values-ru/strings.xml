@@ -17,6 +17,7 @@
   <string name="attachment_camera">Камера</string>
   <string name="attachment_contact">Контакт</string>
   <string name="attachment_gallery">Галерея</string>
+  <string name="blank_char">" "</string>
   <string name="button_cancel">Отмена</string>
   <string name="button_check">Выбрать всё</string>
   <string name="button_check_none">Снять выделение</string>

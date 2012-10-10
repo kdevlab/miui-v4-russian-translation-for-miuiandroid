@@ -115,6 +115,8 @@
   <string name="sync_traffic_fail_message">Не удалось получить информацию от оператора мобильной связи, сервер занят. Пожалуйста, повторите попытку позже или позвоните в службу поддержки: %s</string>
   <string name="sync_traffic_fail_title">Не удалось получить информацию</string>
   <string name="sync_traffic_ing">Получение информации от оператора, пожалуйста, подождите...</string>
+  <string name="sync_traffic_no_cmd_detail">"Подтвердите ваш город или провинцию, ICC и оператора связи тут: http://www.miui.com/forum-172-1.html. Спасибо"</string>
+  <string name="sync_traffic_no_cmd_title">Нет шаблона</string>
   <string name="sync_traffic_success">Информация о пакетах трафика получена, настройки обновлены</string>
   <string name="this_month">Месяц</string>
   <string name="today">Сегодня</string>
