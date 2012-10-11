@@ -565,7 +565,7 @@
   <string name="missed_call_notify_ten_times">Десять раз</string>
   <string name="missed_call_notify_ten_times_miui">10 раз</string>
   <string name="missed_call_notify_thrice">Три раза</string>
-  <string name="missed_call_notify_thrice_miui">3 раз</string>
+  <string name="missed_call_notify_thrice_miui">3 раза</string>
   <string name="missed_call_notify_times_summary_miui">Количество напоминаний о пропущенном вызове</string>
   <string name="missed_call_notify_times_title_miui">Количество напоминаний</string>
   <string name="missed_call_notify_twice">Два раза</string>
@@ -944,7 +944,7 @@ SIM-карта будет заблокирована навсегда при н�
   <string name="t9_indexing_method_pinyin">PinYin</string>
   <string name="t9_indexing_method_title_miui">Настройки поиска T9</string>
   <string name="t9_indexing_method_zhuyin">ZhuYin</string>
-  <string name="t9_indexing_rebuilding_message">Обновление базы T9, подождите пожалуйста...</string>
+  <string name="t9_indexing_rebuilding_message">Обновление базы данных T9, пожалуйста, подождите...</string>
   <string name="technology_news_disable">Новости технологий отключены</string>
   <string name="technology_news_enable">Новости технологий включены</string>
   <string name="telocation_setting_miui">Настройки положения</string>
