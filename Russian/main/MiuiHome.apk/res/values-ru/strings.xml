@@ -39,6 +39,7 @@
   <string name="gadget_weather_download_title">Скачать</string>
   <string name="gadget_weather_downloading">Пакет темы скачивается. Пожалуйста, выберите снова после завершения загрузки</string>
   <string name="gadget_weather_loading">Нет данных о погоде</string>
+  <string name="gadget_weather_low_temp">холодно</string>
   <string name="gadget_weather_theme_type">Тип виджета</string>
   <string name="gadget_weather_time_format">EEE, d.MM</string>
   <string name="gadget_weather_title_14">Погода 1X4</string>

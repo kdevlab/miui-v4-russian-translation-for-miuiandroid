@@ -51,4 +51,5 @@
   <string name="sd_card_not_available">SD-карта не доступна</string>
   <string name="second">%d секунд</string>
   <string name="storage_is_full">SD-карта заполнена</string>
+  <string name="unknown_caller">Неизветный вызов</string>
 </resources>
