@@ -24,9 +24,11 @@
   <string name="Dashboard_Perm_Header_Disabled">Управление доступом отключено</string>
   <string name="Dashboard_Perm_SU">Управление доступом суперпользователя</string>
   <string name="Dashboard_Perm_SU_Desc">Управление %1$d доступом для приложений суперпользователя</string>
-  <string name="Dashboard_Perm_SU_Disabled">Управление разрешениями суперпользователя отключены</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable">Права администратора не доступны в стабильной версии MIUI</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Разрешение прав администратора может привести к нестабильности системы или потери личных данных, системы или повреждения оборудования. Пожалуйста, переключитесь на версию для разработчиков"</string>
+  <string name="Dashboard_Perm_SU_Disabled">Права суперпользователя отключены</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable">Права суперпользователя недоступны</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Разрешение прав администратора может привести к нестабильности системы или потери личных данных, системы или повреждения оборудования. 
+  
+  Пожалуйста, переключитесь на версию для разработчиков"</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Скачать MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://romz.bz/pages/download_miui/</string>
   <string name="Dashboard_Perm_SU_Switch">Разрешения суперпользователя</string>
