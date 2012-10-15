@@ -230,6 +230,13 @@
   <string name="multimedia_message">Мультимедийное сообщение</string>
   <string name="multimedia_notification">Уведомление о MMS</string>
   <string name="mx_activate_failure">Ошибка активации облачных сообщений</string>
+  <string name="mx_activate_error_malformed_info">Ваша личная информация остановлена. Необходимо повторить активацию облачных сообщений.</string>
+  <string name="mx_activate_error_server">Отказ сервера, не удалось активировать облачные сообщения</string>
+  <string name="mx_activate_error_sim_change">Смена Sim-карты. Необходимо повторить активацию облычных сообщений.</string>
+  <string name="mx_activate_error_title">Не удалось активировать облачные сообщения</string>
+  <string name="mx_activate_hint_malformed_info">Ваша личная информация прервана. Для возобновления облачных сообщений, необходима отправка СМС сообщения. Продолжить?</string>
+  <string name="mx_activate_hint_sim_change">Обнаружена смена Sim-карты. Для возобновления пользования облачными сообщениями, необходима отправка СМС сообщения. Продолжить?</string>
+  <string name="mx_activate_hint_server">Сервисная ошибка. Не удается активировать облачные сообщения. Для активации, необходима отправка СМС сообщения. Продолжить?</string>
   <string name="mx_activating">Активация…</string>
   <string name="mx_auto_resend_sms">Отправить как SMS</string>
   <string name="mx_auto_resend_sms_summary">Отправить как SMS, когда облачные сообщения не доступны</string>
@@ -240,6 +247,7 @@
   <string name="mx_enable">Включить облачные сообщения</string>
   <string name="mx_offline">Не в сети</string>
   <string name="mx_online">В сети</string>
+  <string name="mx_reactivate">Повторное активирование облачных сообщений</string>
   <string name="mx_warning_notice">Будет отправлено SMS для активации облачных сообщений</string>
   <string name="need_download">Ожидание синхронизации…</string>
   <string name="new_message">Новое сообщение</string>
