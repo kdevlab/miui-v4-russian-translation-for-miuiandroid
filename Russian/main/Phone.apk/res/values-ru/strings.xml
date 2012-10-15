@@ -941,9 +941,9 @@ SIM-карта будет заблокирована навсегда при н�
   <string name="sum_select_automatically_option_miui">Автовыбор предпочтительной сети, %s</string>
   <string name="sum_show_caller_id">Количество отображаемых в исходящих звонках</string>
   <string name="sum_voicemail_choose_provider">Выберите службу голосовой почты</string>
-  <string name="t9_indexing_method_pinyin">PinYin</string>
+  <string name="t9_indexing_method_pinyin">Алфавитный</string>
   <string name="t9_indexing_method_title_miui">Настройки поиска T9</string>
-  <string name="t9_indexing_method_zhuyin">ZhuYin</string>
+  <string name="t9_indexing_method_zhuyin">Китайский</string>
   <string name="t9_indexing_rebuilding_message">Обновление базы данных T9, пожалуйста, подождите...</string>
   <string name="technology_news_disable">Новости технологий отключены</string>
   <string name="technology_news_enable">Новости технологий включены</string>
