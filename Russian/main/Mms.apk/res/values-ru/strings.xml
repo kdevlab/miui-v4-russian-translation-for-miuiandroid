@@ -72,6 +72,7 @@
   <string name="confirm_rate_limit">Отправляется большое количество MMS. Продолжить?</string>
   <string name="context_menu_add_contact">Добавить в контакты</string>
   <string name="context_menu_browse_web">Перейти</string>
+  <string name="context_menu_call">Вызов</string>
   <string name="context_menu_contact">Контакт: %1$s</string>
   <string name="context_menu_copy">Копировать</string>
   <string name="context_menu_copy_notice">Текст был скопирован в буфер обмена</string>
@@ -229,14 +230,14 @@
   <string name="multi_select_title_message_init">Пожалуйста, выберите сообщение(я)</string>
   <string name="multimedia_message">Мультимедийное сообщение</string>
   <string name="multimedia_notification">Уведомление о MMS</string>
-  <string name="mx_activate_error_malformed_info">Ваша личная информация остановлена. Необходимо повторить активацию облачных сообщений.</string>
+  <string name="mx_activate_error_malformed_info">Ваша личная информация заблокирована. Необходимо повторить активацию облачных сообщений.</string>
   <string name="mx_activate_error_server">Отказ сервера, не удалось активировать облачные сообщения</string>
   <string name="mx_activate_error_sim_change">Смена Sim-карты. Необходимо повторить активацию облычных сообщений.</string>
   <string name="mx_activate_error_title">Не удалось активировать облачные сообщения</string>
   <string name="mx_activate_failure">Ошибка активации облачных сообщений</string>
-  <string name="mx_activate_hint_malformed_info">Ваша личная информация прервана. Для возобновления облачных сообщений, необходима отправка СМС сообщения. Продолжить?</string>
+  <string name="mx_activate_hint_malformed_info">Ваша личная информация повреждена. Для возобновления облачных сообщений, необходима отправка СМС сообщения. Продолжить?</string>
   <string name="mx_activate_hint_server">Сервисная ошибка. Не удается активировать облачные сообщения. Для активации, необходима отправка СМС сообщения. Продолжить?</string>
-  <string name="mx_activate_hint_sim_change">Обнаружена смена Sim-карты. Для возобновления пользования облачными сообщениями, необходима отправка СМС сообщения. Продолжить?</string>
+  <string name="mx_activate_hint_sim_change">Обнаружена смена SIM-карты. Для возобновления пользования облачными сообщениями, необходима отправка СМС сообщения. Продолжить?</string>
   <string name="mx_activating">Активация…</string>
   <string name="mx_auto_resend_sms">Отправить как SMS</string>
   <string name="mx_auto_resend_sms_summary">Отправить как SMS, когда облачные сообщения не доступны</string>
@@ -245,6 +246,7 @@
   <string name="mx_dspt">Отправлять сообщения через интернет</string>
   <string name="mx_dspt_disabled">Отправка сообщений через Интернет от MIUI, включите отправку через оператора, если появились ошибки</string>
   <string name="mx_enable">Включить облачные сообщения</string>
+  <string name="mx_enable_popup_msg">Облачные сообщения позволят вам обмениваться сообщениями с другими пользователями MIUI. Требуется обычная СМС для активации. Активировать сейчас?</string>
   <string name="mx_offline">Не в сети</string>
   <string name="mx_online">В сети</string>
   <string name="mx_reactivate">Повторное активирование облачных сообщений</string>

@@ -14,7 +14,7 @@
   <string name="airkan_control_device_des">Вы можете управлять воспроизведением видео с помощью кнопки в нижней части</string>
   <string name="airkan_device_xiaomi_phone">Xiaomi</string>
   <string name="airkan_video_playing" />
-  <string name="airkan_video_playing_in">Проигрывается…</string>
+  <string name="airkan_video_playing_in">Видео проигрывается...</string>
   <string name="app_name">Видео</string>
   <string name="buffering">Буферизация…</string>
   <string name="hello">Привет мир</string>
@@ -46,4 +46,9 @@
   <string name="video_info_length_label">Длина:</string>
   <string name="video_info_resolution_label">Размер видео:</string>
   <string name="video_info_video_coding_label">Формат кодирования видео:</string>
+  <string name="vp_VideoView_error_button">OK</string>
+  <string name="vp_VideoView_error_network_not_available">Сеть не доступна</string>
+  <string name="vp_VideoView_error_text_invalid_progressive_playback">Извините, но этот формат видео не возможно проиграть на этом устройстве</string>
+  <string name="vp_VideoView_error_text_unknown">Извините, но этот формат видео не возможно проиграть на этом устройстве</string>
+  <string name="vp_VideoView_error_title">Ошибка проигрывания!</string>
 </resources>

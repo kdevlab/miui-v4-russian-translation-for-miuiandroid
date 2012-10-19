@@ -1740,6 +1740,7 @@
   <string name="volume_system_description">Громкость системы, затвор камеры, локскрин и другие системные уведомления</string>
   <string name="volume_voice_description">Громкость разговора</string>
   <string name="vpn_cancel">Отмена</string>
+  <string name="vpn_configure">Настроить VPN</string>
   <string name="vpn_connect">Подключиться</string>
   <string name="vpn_connect_to">Подключиться к сети %s</string>
   <string name="vpn_create">Добавить сеть VPN</string>
@@ -1762,10 +1763,12 @@
   <string name="vpn_not_used">(не используется)</string>
   <string name="vpn_password">Пароль</string>
   <string name="vpn_routes">Маршруты пересылки (например, 10.0.0.0/8)</string>
+  <string name="vpn_safe">Защита VPN</string>
   <string name="vpn_save">Сохранить</string>
   <string name="vpn_save_login">Сохранить учетные данные</string>
   <string name="vpn_search_domains">Домены для поиска DNS</string>
   <string name="vpn_server">Адрес сервера</string>
+  <string name="vpn_settings_password">Настройки пароля VPN</string>
   <string name="vpn_settings_title">VPN</string>
   <string name="vpn_show_options">Дополнительно</string>
   <string name="vpn_title">Настройки VPN</string>
@@ -1783,6 +1786,8 @@
   <string name="wfd_menu_searching">Поиск…</string>
   <string name="wfd_menu_teardown">Завершить</string>
   <string name="wfd_settings_title">Дисплей Wi-Fi</string>
+  <string name="wfd_wps_keypad">Нажатие кнопки</string>
+  <string name="wfd_wps_pbc">Ввод PIN-кода</string>
   <string name="widget_picker_title">Выбор виджета</string>
   <string name="wifi_access_points">Сети Wi-Fi</string>
   <string name="wifi_add_network">Добавить сеть</string>

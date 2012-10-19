@@ -156,6 +156,7 @@
   <string name="default_ringtone">По умолчанию</string>
   <string name="delete">Очистить</string>
   <string name="deleteConfirmation">Этот контакт будет удален</string>
+  <string name="deleteConfirmationDetail">\"%s\" будет удален</string>
   <string name="deleteConfirmation_title">Удаление контакта</string>
   <string name="delete_call_log_title">Выбрать журналы для удаления?</string>
   <string name="delete_contact_calllog_title">Журнал вызовов будет очищен</string>
@@ -380,6 +381,7 @@
   <string name="missing_name">Имя не указано</string>
   <string name="move_and_resize">Изменение размера и положения</string>
   <string name="multipleContactDeleteConfirmation">Удаление этого контакта приведет к потере данных из нескольких аккаунтов</string>
+  <string name="multipleContactDeleteConfirmationDetail">Удаление \"%s\" удалит всю информацию о этом контакте из аккаунтов</string>
   <string name="nameLabelsGroup">Имя</string>
   <string name="name_family">Фамилия</string>
   <string name="name_given">Имя</string>
@@ -476,6 +478,13 @@
   <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
   <string name="openDialKeyboard">Клавиатура</string>
   <string name="open_contact">Открыть контакт</string>
+  <string name="option_delete_contact">Удалить</string>
+  <string name="option_edit_contact">Изменить</string>
+  <string name="option_not_in_group">Удалить</string>
+  <string name="option_not_star">Убрать из избранного</string>
+  <string name="option_send_to_desktop">Отправить на рабочий стол</string>
+  <string name="option_send_to_others">Отправить...</string>
+  <string name="option_view_contact">Просмотр</string>
   <string name="organizationLabelsGroup">Организация</string>
   <string name="organization_company_and_title">%2$s, %1$s</string>
   <string name="payphone">Телефон-автомат</string>
@@ -523,6 +532,7 @@
   <string name="raw_contact_list_title">"Этот контакт содержит %1$d не обработанных контактов
 Нажмите для выбора и редактирования контакта"</string>
   <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" включает в себя информацию из нескольких аккаунтов. Информация только для чтения будет скрыта из списка, но не удалена</string>
   <string name="readOnlyContactWarning">Невозможно удалить контакты из аккаунта, доступного только для чтения, однако их можно скрыть в списках контактов</string>
   <string name="reading_vcard_failed_title">Ошибка чтения vCard-файла</string>
   <string name="recentCallsIconLabel">История звонков</string>
