@@ -117,7 +117,7 @@
   <string name="composer_has_no_exportable_contact">Не найдены контакты для экспорта. Возможно, экспорт контактов с телефона не поддерживается поставщиком услуг передачи данных.</string>
   <string name="composer_not_initialized">Сбой при запуске редактора vCard.</string>
   <string name="config_export_dir">/sdcard/MIUI/contacts</string>
-  <string name="confirm_delete_selected_call_log">Вы уверены, что хотите удалить эти контакты (%1d)?</string>
+  <string name="confirm_delete_selected_call_log">Вы уверены, что хотите удалить эту(и) запись(и) журнала вызовов?</string>
   <string name="confirm_export_message">Список контактов будет экспортирован в файл \"%s\"</string>
   <string name="confirm_export_title">Экспорт контактов</string>
   <string name="connections">Связи</string>
@@ -159,7 +159,7 @@
   <string name="deleteConfirmationDetail">\"%s\" будет удален</string>
   <string name="deleteConfirmation_title">Удаление контакта</string>
   <string name="delete_call_log_title">Выбрать журналы для удаления?</string>
-  <string name="delete_contact_calllog_title">Журнал вызовов будет очищен</string>
+  <string name="delete_contact_calllog_title">Запись(и) журнала вызовов была(и) удалена(ы)</string>
   <string name="delete_duplicate">Слияние</string>
   <string name="delete_duplicate_message">Слияние...</string>
   <string name="delete_group_dialog_message">Действительно удалить группу \"%1$s\"? (Контакты не будут удалены.)</string>
@@ -204,7 +204,7 @@
   <string name="dialog_sync_add">Добавить группу синхронизации</string>
   <string name="directory_search_label">Каталог</string>
   <string name="dirty_contacts_notification_description">У вас есть %d не синхронизированных контактов</string>
-  <string name="dirty_contacts_notification_message">(Вы можете отключить напоминание в настройках)</string>
+  <string name="dirty_contacts_notification_message">(Вы можете отключить напоминание в настройках) </string>
   <string name="dirty_contacts_notification_title">Вы хотите, синхронизировать контакты?</string>
   <string name="display_all_contacts">Все контакты</string>
   <string name="display_more_groups">Другие группы...</string>
@@ -634,7 +634,7 @@
   <string name="take_photo">Сфотографировать</string>
   <string name="titleJoinContactDataWith">Объединить контакты</string>
   <string name="toast_call_detail_error">Не удается получить сведения о вызове</string>
-  <string name="toast_finish_delete_call_log">Журналы будут удалены</string>
+  <string name="toast_finish_delete_call_log">Журнал(ы) будут удалены</string>
   <string name="toast_for_failed_saving_nickname">Не удалось сохранить изменения</string>
   <string name="toast_for_saving_nickname">Изменения сохранены</string>
   <string name="toast_join_with_empty_contact">Укажите имя контакта, который хотите объединить.</string>

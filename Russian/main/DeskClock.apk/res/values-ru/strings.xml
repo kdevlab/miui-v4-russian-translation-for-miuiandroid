@@ -12,7 +12,7 @@
   <string name="alarm_button_description">Будильник</string>
   <string name="alarm_count">Время сигнала перед авто-тишиной (время)</string>
   <string name="alarm_count_never_summary">, не останавливать</string>
-  <string name="alarm_count_summary">, беззвука после %d времени</string>
+  <string name="alarm_count_summary">, без звука после %d мин.</string>
   <string name="alarm_disabled">Отключен</string>
   <string name="alarm_duration">Время сигнала и интервалы (мин.)</string>
   <string name="alarm_duration_summary">Будильник с интервалом %d мин</string>
