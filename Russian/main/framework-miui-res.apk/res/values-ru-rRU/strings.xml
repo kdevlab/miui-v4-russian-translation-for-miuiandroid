@@ -366,6 +366,8 @@
   <string name="lunar_yue" />
   <string name="lunar_zheng" />
   <string name="megabyteShort">МБ</string>
+  <string name="memory_clear_nothing_result">Нет памяти для очистки</string>
+  <string name="memory_clear_result">"Освобождено: %1$s | Доступно: %2$s"</string>
   <string name="miui_copyright_title">Авторское право</string>
   <string name="miui_privacy_policy_title">Политика конфиденциальности</string>
   <string name="miui_user_agreement_title">Пользовательское соглашение</string>
@@ -403,6 +405,8 @@
   <string name="perm_tigger_toggle_lab">Пререключатели из статусбара</string>
   <string name="perm_use_find_device">Обнаружение устройства</string>
   <string name="perm_use_pin_security">Использовать защиту PIN</string>
+  <string name="permdesc_accessNote">Приложение сможет считывать и изменять заметки, которые хранятся на вашем телефоне. Вредоносные программы могут использовать эту возможность для передачи заметок другим людям или удаления всех заметок.</string>
+  <string name="permlab_accessNote">Доступ к заметкам</string>
   <string name="phoneTypeMms">MMS</string>
   <string name="power_off">Отключение питания...</string>
   <string name="private_num">Приватный номер</string>

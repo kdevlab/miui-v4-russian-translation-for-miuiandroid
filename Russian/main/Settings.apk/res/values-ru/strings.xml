@@ -1027,6 +1027,25 @@
   <string name="move_app_to_internal">Переместить на телефон</string>
   <string name="move_app_to_sdcard">Переместить на SD-карту</string>
   <string name="moving">Перемещение</string>
+  <string name="msd_help_summary">"Проблемы с доступом к мобильному устройству с помощью компьютера? Пожалуйста, выберите операционную систему вашего компьютера:"</string>
+  <string name="msd_help_title">Помощь</string>
+  <string name="msd_install">Установить драйвер</string>
+  <string name="msd_install_finish">OK</string>
+  <string name="msd_install_next">Далее</string>
+  <string name="msd_install_retry_linux">"Если ваш компьютер не распознает устройство,
+Попробуйте следующее:
+1) Используйте инструменты в командной строке: sudo aptitude install mtpfs libfuse-dev libmad0-dev
+2) Создайте папку: mkdir /media/mtp
+3) Подтвердите права групп пользователей в текущей группе пользователей
+4) Перезайдите в учетную запись
+5) Access mounted device mtpfs /media/mtp через файловый менеджер, как в локальную папку
+6) Удаление устройства: fusermount -u /media/mtp
+ Заметка: Для ubuntu 8.04"</string>
+  <string name="msd_install_retry_mac">"Если компьютер не обнаружит устройство правильно, попробуйте следующее:"</string>
+  <string name="msd_install_retry_windows_vista">"Если компьютер не обнаружит устройство правильно, попробуйте следующее:"</string>
+  <string name="msd_install_retry_windows_xp">"Если компьютер не обнаружит устройство правильно, попробуйте следующее:"</string>
+  <string name="msd_install_succeed">Драйвер установлен</string>
+  <string name="msd_install_windows_xp_step_2_1">"1. Если отображается мастер установки, пожалуйста, следуйте инструкциям, чтобы завершить установку драйвера"</string>
   <string name="multi_sim_settings_summary">Настройка настроек нескольких сим, для передачи голоса, данных и SMS</string>
   <string name="multi_sim_settings_title">Настройка нескольких сим</string>
   <string name="multi_touch_points_category_title">Точки мултитач</string>

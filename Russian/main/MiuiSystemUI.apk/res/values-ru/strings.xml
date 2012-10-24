@@ -272,7 +272,13 @@
   <string name="usb_mode_dont_ask">Запомнить мой выбор</string>
   <string name="usb_mode_mount_storage_title">Подключить USB накопитель?</string>
   <string name="usb_mode_notification">Режим накопителя</string>
+  <string name="usb_mtp_text">Файлы</string>
+  <string name="usb_notification">USB подключено</string>
+  <string name="usb_notification_mtp_info">Доступ к файлам через подключение к компьютеру</string>
+  <string name="usb_notification_mtp_problem">Помощь &gt;</string>
+  <string name="usb_notification_ptp_info">Доступ к фотографиям через подключение к компьютеру</string>
   <string name="usb_preference_title">Параметры передачи данных по USB</string>
+  <string name="usb_ptp_text">Фотографии</string>
   <string name="usb_storage_error_message">Ошибка подключения</string>
   <string name="usb_storage_message">Вы подключили телефон к компьютеру через USB. Нажмите кнопку если вы хотите скопировать файлы между компьютером и телефоном</string>
   <string name="usb_storage_notification_message">Выберите файлы для копирования с/на ваш компьютер</string>

@@ -239,6 +239,8 @@
   <string name="mx_activate_hint_server">Сервисная ошибка. Не удается активировать облачные сообщения. Для активации, необходима отправка СМС сообщения. Продолжить?</string>
   <string name="mx_activate_hint_sim_change">Обнаружена смена SIM-карты. Для возобновления пользования облачными сообщениями, необходима отправка СМС сообщения. Продолжить?</string>
   <string name="mx_activating">Активация…</string>
+  <string name="mx_auto_resend_mms">Авто повторная отправка MMS</string>
+  <string name="mx_auto_resend_mms_summary">Отправить как MMS, когда облачные сообщения недоступны. Цены зависят от оператора сети</string>
   <string name="mx_auto_resend_sms">Отправить как SMS</string>
   <string name="mx_auto_resend_sms_summary">Отправить как SMS, когда облачные сообщения не доступны</string>
   <string name="mx_btn_enable">Включить</string>
