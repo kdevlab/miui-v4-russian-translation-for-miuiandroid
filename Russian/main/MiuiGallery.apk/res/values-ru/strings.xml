@@ -52,6 +52,7 @@
   <string name="confirm_delete">Удалить</string>
   <string name="confirm_know">OK</string>
   <string name="contact_photo">Фото контакта</string>
+  <string name="contrast">Контраст</string>
   <string name="crop">Кадрировать</string>
   <string name="crop_action">Кадрировать</string>
   <string name="crop_fail_to_load_image">Ошибка загрузки изображения для обрезки</string>
@@ -109,6 +110,12 @@
   <string name="flip">Отразить</string>
   <string name="flip_tooltip">Чтобы отразить фото, перетащите его край</string>
   <string name="focal_length">Фокус. расст.</string>
+  <string name="frame_black">Черный</string>
+  <string name="frame_button">Рамка</string>
+  <string name="frame_classic">Классическая</string>
+  <string name="frame_movie">Фильм</string>
+  <string name="frame_semicircle">Полукруг</string>
+  <string name="frame_white">Белый</string>
   <string name="free_space_format">Свободно: %s</string>
   <string name="gadget_title">Рамка фотографии</string>
   <string name="gallery_cloud_provider_name">Галерея</string>

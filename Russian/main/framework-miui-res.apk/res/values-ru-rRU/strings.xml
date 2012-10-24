@@ -401,6 +401,8 @@
   <string name="perm_auto_backup">Автоматическое резервное копирование</string>
   <string name="perm_get_user_info_dspt">Получить подробную информацию о аккаунте Xiaomi</string>
   <string name="perm_get_user_info_lab">Получить информацию о аккаунте Xiaomi</string>
+  <string name="perm_send_push_dspt">Разрешить отправлять push-сообщения в Xiaomi</string>
+  <string name="perm_send_push_lab">Отправка push-сообщений</string>
   <string name="perm_tigger_toggle_dspt">Разрешить программам переключать функции в строке состояния</string>
   <string name="perm_tigger_toggle_lab">Пререключатели из статусбара</string>
   <string name="perm_use_find_device">Обнаружение устройства</string>
