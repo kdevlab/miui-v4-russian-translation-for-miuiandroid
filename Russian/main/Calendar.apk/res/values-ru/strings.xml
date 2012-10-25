@@ -87,6 +87,8 @@
   <string name="hint_description">Описание</string>
   <string name="hint_what">Название мероприятия</string>
   <string name="hint_where">Место</string>
+  <string name="jump_date">Перейти</string>
+  <string name="jump_date_full">Перейти к дате</string>
   <string name="loading">Загрузка…</string>
   <string name="local_calendar_display_name">Локальный календарь</string>
   <string name="local_owner_account_name">Локальный аккаунт</string>

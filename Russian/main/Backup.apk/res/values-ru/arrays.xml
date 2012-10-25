@@ -5,15 +5,13 @@
         <item>Все приложения</item>
     </string-array>
     <string-array name="system_package_label">
-        <item>Галерея</item>
-        <item>Музыка</item>
-        <item>Диктофон</item>
         <item>Браузер</item>
-        <item>Фотографии</item>
         <item>Приложение Файлы</item>
-        <item>Галерея</item>	
-        <item>Суперпользователь</item>	
+        <item>Галерея</item>
+        <item>Безопасность</item>
         <item>Камера</item>
+        <item>Монитор</item>
+        <item>Погода</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Контакты</item>
