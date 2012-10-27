@@ -94,6 +94,10 @@
   <string name="shutdown_alarm_title">Выключение будильника</string>
   <string name="silent_alarm_summary">Без звука</string>
   <string name="slide_down_delelte_alarm">Сдвиньте вниз, чтобы отключить</string>
+  <string name="snooze_confirm_cancel">Отменить будильник</string>
+  <string name="snooze_confirm_message">"Будильник будет отложен до %s.
+Вы также можете отменить этот будильник."</string>
+  <string name="snooze_confirm_ok">ОК</string>
   <string name="snooze_duration_title">Интервал повтора сигнала</string>
   <string name="start">Старт</string>
   <string name="start_up">Пуск</string>
