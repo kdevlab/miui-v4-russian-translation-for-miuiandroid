@@ -94,9 +94,9 @@
   <string name="shutdown_alarm_title">Выключение будильника</string>
   <string name="silent_alarm_summary">Без звука</string>
   <string name="slide_down_delelte_alarm">Сдвиньте вниз, чтобы отключить</string>
-  <string name="snooze_confirm_cancel">Отменить будильник</string>
-  <string name="snooze_confirm_message">"Будильник будет отложен до %s.
-Вы также можете отменить этот будильник."</string>
+  <string name="snooze_confirm_cancel">Отключить</string>
+  <string name="snooze_confirm_message">Будильник отложен на %s.
+Или Вы можете вообще отменить этот будильник.</string>
   <string name="snooze_confirm_ok">ОК</string>
   <string name="snooze_duration_title">Интервал повтора сигнала</string>
   <string name="start">Старт</string>
@@ -118,7 +118,7 @@
   <string name="volume_button_dialog_title">Функция кнопок</string>
   <string name="volume_button_setting_summary">Определить функцию этой кнопки во время звонка будильника</string>
   <string name="volume_button_setting_title">Громкость</string>
-  <string name="wait_when_operating_data_message">Обработка данных, подождите</string>
+  <string name="wait_when_operating_data_message">Обработка данных, подождите...</string>
   <string name="weather_fetch_failure">Информация о погоде сейчас недоступна</string>
   <string name="weekend_alarm_clock">По выходным</string>
   <string name="workday_alarm_clock">По рабочим дням</string>
