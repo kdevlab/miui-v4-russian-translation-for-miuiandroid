@@ -4,6 +4,8 @@
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="application_copyright">"Все права защищены © genokolar@gmail.com 2012
 Посетите http://www.iamgeno.com"</string>
+  <string name="dts_mode">Режим звука DTS</string>
+  <string name="dts_mode_summary">Включение/Отключение режима звука DTS</string>
   <string name="dualmic_enable_summary">Использование второго микрофона для устранения эхо в вызовах</string>
   <string name="dualmic_enable_title">Вкл. двойной микрофон</string>
   <string name="fast_power_on_summary">Включение повышенного питания</string>
@@ -15,6 +17,8 @@
   <string name="huawei_settings">Настройки устройства</string>
   <string name="lite_summary">Оптимизация сервисов для увеличения доступной памяти</string>
   <string name="lite_title">Оптимизация системы</string>
+  <string name="lowmem">Управление памятью</string>
+  <string name="lowmem_summary">Выбор режима управления памятью</string>
   <string name="miui">Сервисы MIUI</string>
   <string name="miui_summary">Урезанные версии сервисов MIUI</string>
   <string name="network">Сеть/Безопасность</string>
