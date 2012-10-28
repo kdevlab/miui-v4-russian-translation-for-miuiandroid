@@ -15,7 +15,8 @@
   <string name="brightwarn_accept">Принять</string>
   <string name="brightwarn_negative">Нет, спасибо</string>
   <string name="brightwarn_title">"Пов. яркость 'Вкл' включить!!!"</string>
-  <string name="description">"Эта программа управляет светодиодом камеры"</string>
+  <string name="description">"Эта программа управляет светодиодом камеры.
+"</string>
   <string name="label_frequency">Частота: (сдвиньте, чтобы изменить)</string>
   <string name="label_high">Высокая яркость</string>
   <string name="label_off">Отключено</string>
@@ -38,10 +39,12 @@ http://n1torch.googlecode.com/
   <string name="setting_frequency_title">Частота стробоскопа</string>
   <string name="setting_widget_bright">Виджет яркости</string>
   <string name="setting_widget_strobe">Виджет стробоскопа</string>
-  <string name="torch_message">"Фонарик можно быстро включить, удерживая [icon], на экране блокировки"</string>
+  <string name="torch_message">"Фонарик можно быстро включить, удерживая [icon], на экране блокировки
+"</string>
   <string name="warning">"Осторожно: Долгое свечение светодиода вызовет его перегрев.
 
-Полная яркость 'Всегда включено' успешно тестировалась на 30 минутах, но существует вероятность повредить светодиод."</string>
+Полная яркость 'Всегда включено' успешно тестировалась на 30 минутах, но существует вероятность повредить светодиод.
+"</string>
   <string name="warning_label">Осторожно</string>
   <string name="widget_label">Фонарик</string>
   <string name="widget_options">Основные настройки</string>

@@ -18,32 +18,34 @@
     <string-array name="screen_timeout_entries">
         <item>15 секунд</item>
         <item>30 секунд</item>
-        <item>1 минуты</item>
-        <item>2 минут</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
         <item>5 минут</item>
         <item>10 минут</item>
         <item>30 минут</item>
     </string-array>
+
     <string-array name="dream_timeout_entries">
         <item>Никогда</item>
         <item>15 секунд</item>
         <item>30 секунд</item>
-        <item>1 минуты</item>
-        <item>2 минут</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
         <item>5 минут</item>
         <item>10 минут</item>
         <item>30 минут</item>
     </string-array>
+
     <string-array name="lock_after_timeout_entries">
-        <item>Немедленно</item>
-        <item>5 секунд</item>
-        <item>15 секунд</item>
-        <item>30 секунд</item>
-        <item>1 минуты</item>
-        <item>2 минут</item>
+        <item>Сразу</item>
+        <item>5 сек</item>
+        <item>15 сек</item>
+        <item>30 сек</item>
+        <item>1 мин</item>
+        <item>2 мин</item>
         <item>5 минут</item>
-        <item>10 минут</item>
-        <item>30 минут</item>
+        <item>10 мин</item>
+        <item>30 мин</item>
     </string-array>
     <string-array name="entries_font_size">
         <item>Мелкий</item>
@@ -52,18 +54,18 @@
         <item>Огромный</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>Очень медленно</item>
-        <item>Медленно</item>
-        <item>Нормально</item>
-        <item>Быстро</item>
-        <item>Очень быстро</item>
+        <item>Очень медленная</item>
+        <item>Медленная</item>
+        <item>Обычная</item>
+        <item>Быстрая</item>
+        <item>Очень быстрая</item>
     </string-array>
     <string-array name="tts_pitch_entries">
-        <item>Очень слабо</item>
-        <item>Слабо</item>
-        <item>Нормально</item>
-        <item>Высоко</item>
-        <item>Очень высоко</item>
+        <item>Очень низкий</item>
+        <item>Низкий</item>
+        <item>Обычный</item>
+        <item>Высокий</item>
+        <item>Очень высокий</item>
     </string-array>
     <string-array name="tts_demo_strings">
         <item>This is an example of speech synthesis in English.</item>
@@ -74,29 +76,29 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Сканирование…</item>
-        <item>Подключение…</item>
-        <item>Авторизация…</item>
-        <item>Получение IP-адреса…</item>
+        <item>Поиск...</item>
+        <item>Подключение...</item>
+        <item>Аутентификация...</item>
+        <item>Получение IP-адреса...</item>
         <item>Подключено</item>
-        <item>Сон</item>
-        <item>Отключение…</item>
-        <item>Отключено</item>
-        <item>Не удалось соединиться</item>
+        <item>Приостановлено</item>
+        <item>Отключение...</item>
+        <item>Нет подключения</item>
+        <item>Сбой</item>
         <item>Заблокировано</item>
         <item>Избежание слабого сигнала</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Сканирование…</item>
-        <item>Подключение к %1$s…</item>
-        <item>Авторизация на %1$s…</item>
+        <item>Поиск...</item>
+        <item>Соединение с сетью %1$s…</item>
+        <item>Аутентификация в сети %1$s...</item>
         <item>Получение IP-адреса от %1$s…</item>
         <item>Подключено к %1$s</item>
-        <item>Сон</item>
+        <item>Приостановлено</item>
         <item>Отключение от %1$s…</item>
-        <item>Отключено</item>
-        <item>Не удалось отключиться</item>
+        <item>Нет подключения</item>
+        <item>Сбой</item>
         <item>Заблокировано</item>
         <item>Избежание слабого сигнала</item>
     </string-array>
@@ -106,22 +108,22 @@
         <item>WPA2 PSK</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
-        <item>Кнопка подключеня</item>
-        <item>PIN с подключаемого устройства</item>
-        <item>PIN с этого устройства</item>
+        <item>Push-кнопка</item>
+        <item>PIN-код с обнаруженного устройства</item>
+        <item>PIN-код этого устройства</item>
     </string-array>
     <string-array name="wifi_p2p_status">
-        <item>Подключен</item>
-        <item>Приглашен</item>
-        <item>Неудачно</item>
-        <item>Доступен</item>
-        <item>Не доступен</item>
+        <item>Подключено</item>
+        <item>Приглашено</item>
+        <item>Сбой</item>
+        <item>Доступно</item>
+        <item>Вне диапазона</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 минуты</item>
-        <item>5 минут</item>
-        <item>1 час</item>
-        <item>Бесконечно</item>
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+        <item>1 ч.</item>
+        <item>Всегда</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Слабый</item>
@@ -146,7 +148,7 @@
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Время использования</item>
-        <item>Launch count</item>
+        <item>Количество запусков</item>
         <item>Название приложения</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
@@ -164,7 +166,7 @@
     </string-array>
     <string-array name="wifi_ip_settings">
         <item>Автоматически (DHCP)</item>
-        <item>Статически</item>
+        <item>Статический</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Нет</item>
@@ -176,8 +178,8 @@
         <item>Вибрация</item>
     </string-array>
     <string-array name="special_locale_names">
-        <item>Китайский (Упрощенный)</item>
-        <item>Китайский (Традиционный)</item>
+        <item>Китайский (упрощенный)</item>
+        <item>Китайский (традиционный)</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>Нет</item>
@@ -198,7 +200,7 @@
     <string-array name="bearer_entries">
         <item>LTE</item>
         <item>eHRPD</item>
-        <item>Unspecified</item>
+        <item>Не указано</item>
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Память устройства</item>
@@ -211,18 +213,18 @@
         <item>Без звука</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
-        <item>Маленькая</item>
+        <item>Небольшая</item>
         <item>Средняя</item>
         <item>Большая</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Никогда не проверять</item>
-        <item>Проверять только для DRM содержимого</item>
-        <item>Проверять всегда</item>
+        <item>Проверять только содержание DRM</item>
+        <item>Всегда проверять</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>Никогда не использовать проверку HDCP</item>
-        <item>Использовать HDCP только для проверки DRM содержимого</item>
+        <item>Не использовать проверку HDCP</item>
+        <item>Использовать проверку HDCP только для содержания DRM</item>
         <item>Всегда использовать проверку HDCP</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
@@ -246,10 +248,10 @@
     <string-array name="app_process_limit_entries">
         <item>Стандартное ограничение</item>
         <item>Без фоновых процессов</item>
-        <item>Максимум 1 процесс</item>
-        <item>Максимум 2 процесса</item>
-        <item>Максимум 3 процесса</item>
-        <item>Максимум 4 процесса</item>
+        <item>Не более одного процесса</item>
+        <item>Не более 2 процессов</item>
+        <item>Не более 3 процессов</item>
+        <item>Не более 4 процессов</item>
     </string-array>
     <string-array name="vpn_types">
         <item>PPTP</item>
@@ -269,8 +271,8 @@
     </string-array>
     <string-array name="vpn_states">
         <item>Отключено</item>
-        <item>Инициализация…</item>
-        <item>Подключение…</item>
+        <item>Инициализация...</item>
+        <item>Подключение...</item>
         <item>Подключено</item>
         <item>Таймаут</item>
         <item>Подключение не удалось</item>
@@ -389,5 +391,23 @@
         <item>10 сек</item>	
         <item>20 сек</item>	
         <item>Всегда</item>	
+    </string-array>	
+    <string-array name="entries_dolby_control">
+        <item>Нет</item>
+        <item>Музыка</item>
+        <item>Кино</item>
     </string-array>
+    <string-array name="wfd_status">
+        <item>Устройство подключено, создание сессии...</item>
+        <item>Сессия создана</item>
+        <item>Сессия сорвана...</item>
+        <item>Сессия не создана</item>
+        <item>Истекло время ожидания, повтор...</item>
+        <item>Устройство подключено</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Производительность</item>
+        <item>Нормальный</item>
+        <item>Энергосбережение</item>
+    </string-array>		
 </resources>

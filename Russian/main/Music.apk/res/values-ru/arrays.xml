@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="equalizer_presents">
-        <item>Стандартный</item>
-        <item>Классика</item>
+        <item>Стандартная</item>
+        <item>Классическая</item>
         <item>Танцевальная</item>
-        <item>Народные п.</item>
-        <item>Хэви металл</item>
-        <item>Хип-Хоп</item>
+        <item>Лёгкая</item>
+        <item>Тяжелый метал</item>
+        <item>Хип-хоп</item>
         <item>Джаз</item>
         <item>Поп</item>
         <item>Рок</item>
@@ -26,7 +26,7 @@
         <item>12 недель</item>
     </string-array>
     <string-array name="alphabet_table">
-        <item>\#</item>
+        <item>\u0020</item>
         <item>A</item>
         <item>B</item>
         <item>C</item>

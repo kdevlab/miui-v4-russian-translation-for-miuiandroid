@@ -294,8 +294,8 @@
   <string name="slideshow_interval">Интервал слайд-шоу</string>
   <string name="slideshow_interval_dialog_title">Промежуток времени более 0 секунд</string>
   <string name="slideshow_interval_invalid">Неверная настройка интервала времени, который должен быть от 1 до 3600. Возобновится интервал времени по умолчанию</string>
-  <string name="slideshow_repeat_mode">Повтор при завершении</string>
-  <string name="storage_all_volumes">Все устройства хранения</string>
+  <string name="slideshow_repeat_mode">Повторять</string>
+  <string name="storage_all_volumes">Все накопители</string>
   <string name="straighten">Выравнивание</string>
   <string name="straighten_tooltip">Чтобы выровнять фото, перетащите его</string>
   <string name="switch_to_camera">Переключиться на камеру</string>
@@ -322,7 +322,7 @@
   <string name="turn_left">Повернуть</string>
   <string name="turn_right">Повернуть</string>
   <string name="unit_mm">мм</string>
-  <string name="unknown_location">Нет местоположения</string>
+  <string name="unknown_location">Неизвестное расположение</string>
   <string name="untagged">Без тегов</string>
   <string name="video_err">Не удалось воспроизвести видео</string>
   <string name="video_property">Свойства видео</string>

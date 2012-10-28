@@ -18,7 +18,7 @@
   <string name="add_new_account">Добавить аккаунт</string>
   <string name="add_new_entry_for_section">Добавить</string>
   <string name="add_organization">Добавить организацию</string>
-  <string name="add_to_my_contacts">Добавить в группу \"Мои контакты\"</string>
+  <string name="add_to_my_contacts">Добавить в \"Мои контакты\"</string>
   <string name="aggregation_suggestion_edit_dialog_message">Переключиться на редактирование выбранного контакта? Введенная информация будет скопирована.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Редактировать выбранные контакты</string>
   <string name="aggregation_suggestion_join_dialog_message">Объединить текущий контакт с выбранным контактом?</string>
@@ -33,7 +33,7 @@
   <string name="callBack">Перезвонить</string>
   <string name="callDetailTitle">Сведения о вызове</string>
   <string formatted="false" name="callDetailsDurationFormat">%s:%s</string>
-  <string name="callNoAnswerTimeFormat">звонков: %s</string>
+  <string name="callNoAnswerTimeFormat">гудков: %s</string>
   <string name="callShortcutActivityTitle">Выберите номер для вызова</string>
   <string name="call_assistant">Вызов: %s</string>
   <string name="call_callback">Обратный вызов</string>
@@ -115,8 +115,7 @@
   <string name="close">Закрыть</string>
   <string name="composer_failed_to_get_database_infomation">База данных недоступна</string>
   <string name="composer_has_no_exportable_contact">Не найдены контакты для экспорта. Возможно, экспорт контактов с телефона не поддерживается поставщиком услуг передачи данных.</string>
-  <string name="composer_not_initialized">Сбой при запуске редактора vCard.</string>
-  <string name="config_export_dir">/sdcard/MIUI/contacts</string>
+  <string name="composer_not_initialized">Редактор vCard запущен некорректно</string>
   <string name="confirm_delete_selected_call_log">Вы уверены, что хотите удалить эту(и) запись(и) журнала вызовов?</string>
   <string name="confirm_export_message">Список контактов будет экспортирован в файл \"%s\"</string>
   <string name="confirm_export_title">Экспорт контактов</string>
@@ -364,9 +363,9 @@
   <string name="menu_group_sms">Групповые SMS</string>
   <string name="menu_import_export">Импорт/экспорт</string>
   <string name="menu_joinAggregate">Объединить</string>
-  <string name="menu_newContact">Создать новый контакт</string>
+  <string name="menu_newContact">Новый контакт</string>
   <string name="menu_new_contact_action_bar">Добавить</string>
-  <string name="menu_new_favorite_action_bar">Новый</string>
+  <string name="menu_new_favorite_action_bar">Добавить</string>
   <string name="menu_new_group_action_bar">Новая группа</string>
   <string name="menu_redirect_calls_to_vm">Только голос. почта</string>
   <string name="menu_removeStar">Удалить из избранных</string>
@@ -381,7 +380,7 @@
   <string name="menu_viewContact">Просмотреть контакт</string>
   <string name="merge_contact_message">(%1$d) контактов с частично дублирующимися данными, (%2$d) объединено</string>
   <string name="messageShortcutActivityTitle">Выбрать номер для отправки сообщения</string>
-  <string name="missing_name">Имя не указано</string>
+  <string name="missing_name">(без имени)</string>
   <string name="move_and_resize">Изменение размера и положения</string>
   <string name="multipleContactDeleteConfirmation">Удаление этого контакта приведет к потере данных из нескольких аккаунтов</string>
   <string name="multipleContactDeleteConfirmationDetail">Удаление \"%s\" удалит всю информацию о этом контакте из аккаунтов</string>
@@ -469,7 +468,7 @@
 • Всегда иметь под рукой обновленные данные – на любом устройстве.
 • Синхронизировать все контакты – вы никогда не потеряете их"</string>
   <string name="no_contact_details">Нет других данных об этом контакте</string>
-  <string name="no_contact_name">Нет имени контакта</string>
+  <string name="no_contact_name">Имя контакта не сохранено</string>
   <string name="no_contacts_selected">Контакты не выбраны</string>
   <string name="no_sdcard_message">SD-карта не обнаружена</string>
   <string name="no_sdcard_title">Нет SD-карты</string>
@@ -495,13 +494,13 @@
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Телефон</string>
   <string name="photoPickerNotFoundText">В телефоне нет картинок</string>
-  <string name="photo_package_activity_title">Пакет фотографий</string>
-  <string name="pick_favorites_contacts_list_title">всего избранных контактов: %1$d</string>
-  <string name="pick_favorites_list_title">Всего избранных контактов: %1$d</string>
+  <string name="photo_package_activity_title">Набор фото</string>
+  <string name="pick_favorites_contacts_list_title">Избранных контактов: %1$d</string>
+  <string name="pick_favorites_list_title">Избранных контактов: %1$d</string>
   <string name="pick_new_photo">Выбрать новое фото из Галереи</string>
   <string name="pick_photo">Выбрать фото из галереи</string>
-  <string name="pick_recent_contacts_list_title">всего последних контактов: %1$d</string>
-  <string name="pick_recent_list_title">Всего недавних контактов: %1$d</string>
+  <string name="pick_recent_contacts_list_title">Всего контактов: %1$d</string>
+  <string name="pick_recent_list_title">Последних контактов: %1$d</string>
   <string name="pickerNewContactHeader">Создать новый контакт</string>
   <string name="pkgLabel">Контакты и телефон</string>
   <string name="postalLabelsGroup">Адрес</string>
@@ -573,7 +572,7 @@
   <string name="scanning_sdcard_failed_title">SD-карта не просканирована</string>
   <string name="searchHint">Поиск контактов</string>
   <string name="search_bar_hint">Поиск контактов</string>
-  <string name="search_results_searching">Поиск…</string>
+  <string name="search_results_searching">Поиск...</string>
   <string name="search_settings_description">Имена контактов</string>
   <string name="searching_vcard_message">Поиск данных vCard на SD-карте...</string>
   <string name="searching_vcard_title">Поиск vCard</string>
@@ -586,7 +585,7 @@
   <string name="send_contact_shortcut_todesktop_success">Ярлык на рабочем столе создан</string>
   <string name="separatorJoinAggregateAll">Все контакты</string>
   <string name="separatorJoinAggregateSuggestions">Предлагаемые контакты</string>
-  <string name="service_provider">Предоставление сервисов</string>
+  <string name="service_provider">Поставщик услуг</string>
   <string name="set_default">Установить по умолчанию</string>
   <string name="share_error">Не удалось передать данные.</string>
   <string name="share_via">Способ отправки</string>
@@ -642,8 +641,8 @@
   <string name="sms_work_mobile">SMS:рабочий моб.</string>
   <string name="sms_work_pager">SMS:рабоч. пейдж.</string>
   <string name="social_widget_label">Контакт</string>
-  <string name="social_widget_loading">Загрузка...</string>
-  <string name="splitConfirmation">Этот контакт будет разделен</string>
+  <string name="social_widget_loading">Загрузка…</string>
+  <string name="splitConfirmation">Вы хотите разделить контакт?</string>
   <string name="splitConfirmation_title">Разделение контакта</string>
   <string name="starredList">Помеченные</string>
   <string name="status_available">На месте</string>
@@ -673,11 +672,11 @@
   <string name="unknown_contact_name">Неизвестный номер</string>
   <string name="unkown_location">Неизвестное местоположение</string>
   <string name="upgrade_in_progress">Список контактов обновляется...</string>
-  <string name="upgrade_out_of_memory">"Контакты обновляются.
+  <string name="upgrade_out_of_memory">Список контактов обновляется. 
 
-Для этого требуется около %s МБ внутренней памяти.
+Для обновления требуется около %s МБ встроенной памяти.
 
-Выберите подходящую опцию:"</string>
+Выберите один из следующих вариантов:</string>
   <string name="upgrade_out_of_memory_retry">Повторить попытку обновления</string>
   <string name="upgrade_out_of_memory_uninstall">Удалить некоторые приложения</string>
   <string name="use_photo_as_primary">Использовать эту фотографию</string>
@@ -705,11 +704,11 @@
   <string name="voicemail_speed_slowest">Минимальная скорость</string>
   <string name="voicemail_status_action_call_server">Получить почту</string>
   <string name="voicemail_status_action_configure">Настройка</string>
-  <string name="voicemail_status_audio_not_available">Аудио недоступно</string>
-  <string name="voicemail_status_configure_voicemail">Настройте голосовую почту</string>
-  <string name="voicemail_status_messages_waiting">Не удалось подключиться к серверу. Есть новые сообщения</string>
-  <string name="voicemail_status_voicemail_not_available">Не удалось подключиться к серверу голосовой почты</string>
+  <string name="voicemail_status_audio_not_available">Аудио недоступно.</string>
+  <string name="voicemail_status_configure_voicemail">Настройте голосовую почту.</string>
+  <string name="voicemail_status_messages_waiting">Нет подключения к серверу гол. почты. Имеются новые сообщения.</string>
+  <string name="voicemail_status_voicemail_not_available">Нет подключения к серверу гол. почты</string>
   <string name="websiteLabelsGroup">Веб-сайт</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
-  <string name="wipe_data">Очистить данные</string>
+  <string name="wipe_data">Удалить все записи</string>
 </resources>

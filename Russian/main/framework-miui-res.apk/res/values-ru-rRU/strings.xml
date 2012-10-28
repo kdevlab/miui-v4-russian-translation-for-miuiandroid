@@ -30,7 +30,7 @@
   <string name="common_name_conjunctions" />
   <string name="common_name_prefixes" />
   <string name="common_name_suffixes" />
-  <string name="country_name_ac">Восхождение</string>
+  <string name="country_name_ac">Вознесение</string>
   <string name="country_name_ad">Андорра</string>
   <string name="country_name_ae">Объединенные Арабские Эмираты</string>
   <string name="country_name_af">Афганистан</string>
@@ -41,7 +41,7 @@
   <string name="country_name_an">Нидерландские Антильские острова</string>
   <string name="country_name_ao">Ангола</string>
   <string name="country_name_ar">Аргентина</string>
-  <string name="country_name_as">Восточный Самоа (СШ)</string>
+  <string name="country_name_as">Американские Самоа</string>
   <string name="country_name_at">Австрия</string>
   <string name="country_name_au">Австралия</string>
   <string name="country_name_aw">Аруба</string>
@@ -265,7 +265,7 @@
   <string name="delete">Удалить</string>
   <string name="description_author">Автор:</string>
   <string name="description_designer">Дизайнер:</string>
-  <string name="description_download">Скачано:</string>
+  <string name="description_download">Загрузок:</string>
   <string name="description_downloadtime">Время скачивания:</string>
   <string name="description_file">Файл:</string>
   <string name="description_missed">Не указан</string>
@@ -494,6 +494,6 @@
   <string name="wake_alarm_message">Отключать будильник через %s звонков</string>
   <string name="white_dews" />
   <string name="wifi_tether_configure_ssid_default">KDG Phone</string>
-  <string name="winter_begins" />
+  <string name="winter_begins">Зима</string>
   <string name="winter_solstice" />
 </resources>

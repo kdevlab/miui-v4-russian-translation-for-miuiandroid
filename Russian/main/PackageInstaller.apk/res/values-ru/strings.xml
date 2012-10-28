@@ -8,7 +8,7 @@
 
 Разрешить и запомнить выбор?"</string>
   <string name="allow_source_dlg_title">Разрешить добавление нового источника для приложений?</string>
-  <string name="app_name">Программа установки пакетов</string>
+  <string name="app_name">Программа установки приложений</string>
   <string name="app_not_found_dlg_text">Приложение не было найдено в списке установленных приложений</string>
   <string name="app_not_found_dlg_title">Приложение не найдено</string>
   <string name="caller_app">Запрос от %1$s</string>
@@ -17,12 +17,12 @@
   <string name="dlg_app_replacement_statement">"Приложение, которое вы устанавливаете, заменит уже существующее.
 
 Все пользовательские данные будут сохранены."</string>
-  <string name="dlg_app_replacement_title">Замена приложения</string>
+  <string name="dlg_app_replacement_title">Заменить приложение</string>
   <string name="dlg_ok">ОК</string>
   <string name="dlg_sys_app_replacement_statement">"Приложение, которое вы устанавливаете - системное. Хотите заменить?
 
 Все пользовательские данные будут сохранены."</string>
-  <string name="done">Закрыть</string>
+  <string name="done">Готово</string>
   <string name="install">Установить</string>
   <string name="install_confirm_question">Установить это приложение?</string>
   <string name="install_confirm_question_no_perms">Установить данное приложение? Ему не требуется специальных разрешений</string>
@@ -38,7 +38,7 @@
   <string name="install_failed_older_sdk">Этот пакет поддерживается только в системе Android более поздних версий</string>
   <string name="install_failed_verify_failed">Пакет не проверен и не может быть установлен</string>
   <string name="install_failed_verify_timeout">Не удалось проверить пакет. Попробуйте установить его позже</string>
-  <string name="installing">Выполняется установка...</string>
+  <string name="installing">Установка...</string>
   <string name="launch">Открыть</string>
   <string name="lift_ban">Снять запрет</string>
   <string name="manage_applications">Управление приложениями</string>
@@ -50,7 +50,7 @@
   <string name="out_of_space_dlg_title">Недостаточно места</string>
   <string name="privacyPerms">Конфиденциальность</string>
   <string name="safe_guard_support">Техническая поддержка: %1$s</string>
-  <string name="security_settings_desc">Разрешения приложения:</string>
+  <string name="security_settings_desc">Разрешить этому приложению:</string>
   <string name="settings">Настройки</string>
   <string name="uninstall_activity_text">%1$s является частью следующего приложения:</string>
   <string name="uninstall_application_text">Приложение будет удалено</string>
@@ -62,7 +62,7 @@
   <string name="uninstall_failed_retained_app_msg">Приложение, измененное оператором, не может быть удалено</string>
   <string name="uninstall_update_text">Будет восстановлена исходная версия приложения</string>
   <string name="uninstall_update_title">Удаление обновления</string>
-  <string name="uninstalling">Выполняется удаление...</string>
+  <string name="uninstalling">Удаление...</string>
   <string name="unknown">Неизвестно</string>
   <string name="unknown_apps_dlg_text">Из-за соображений безопасности на вашем телефоне заблокирована установка приложений, полученных не из Google Play</string>
   <string name="unknown_apps_dlg_title">Установка заблокирована</string>

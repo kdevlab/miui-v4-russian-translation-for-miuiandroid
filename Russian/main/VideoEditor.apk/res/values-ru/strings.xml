@@ -91,7 +91,7 @@
   <string name="effect_fifties">Кино 1950-х годов</string>
   <string name="effect_gradient">Эффект градиента</string>
   <string name="effect_negative">Эффект негатива</string>
-  <string name="effect_pan_zoom">Эффект \"Панорама+масштаб\"</string>
+  <string name="effect_pan_zoom">Эффект Кена Бернса</string>
   <string name="effect_sepia">Сепия</string>
   <string name="effects_select_effect">Эффекты</string>
   <string name="export_dialog_export">Экспорт</string>
@@ -118,7 +118,7 @@
   <string name="pan_zoom_end">Конец</string>
   <string name="pan_zoom_small_image_error">К этому изображению невозможно применить эффект Кена Бернса. Размер изображения слишком мал.</string>
   <string name="pan_zoom_start">Начало</string>
-  <string name="pan_zoom_title">Эффект \"Панорама+масштаб\"</string>
+  <string name="pan_zoom_title">Эффект Кена Бернса</string>
   <string name="projects_new_project">Создание проекта</string>
   <string name="projects_project_name">Название проекта</string>
   <string name="remove">Удалить</string>

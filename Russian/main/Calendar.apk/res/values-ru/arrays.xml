@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="reminder_methods_labels">
-        <item>Оповещение</item>
+        <item>Уведомление</item>
         <item>Эл. почта</item>
         <item>SMS</item>
         <item>Будильник</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
-        <item>0 минут</item>
-        <item>1 минута</item>
-        <item>5 минут</item>
-        <item>10 минут</item>
-        <item>15 минут</item>
-        <item>20 минут</item>
-        <item>25 минут</item>
-        <item>30 минут</item>
-        <item>45 минут</item>
-        <item>1 час</item>
-        <item>2 часа</item>
-        <item>3 часа</item>
-        <item>12 часов</item>
-        <item>24 часа</item>
-        <item>2 дня</item>
-        <item>1 неделя</item>
+        <item>сейчас</item>
+        <item>за 1 минуту</item>
+        <item>за 5 минут</item>
+        <item>за 10 минут</item>
+        <item>за 15 минут</item>
+        <item>за 20 минут</item>
+        <item>за 25 минут</item>
+        <item>за 30 минут</item>
+        <item>за 45 минут</item>
+        <item>за 1 час</item>
+        <item>за 2 часа</item>
+        <item>за 3 часа</item>
+        <item>за 12 часов</item>
+        <item>за 24 часа</item>
+        <item>за 2 дня</item>
+        <item>за 1 неделю</item>
     </string-array>
     <string-array name="preferences_default_reminder_labels">
         <item>Нет</item>
-        <item>0 минут</item>
-        <item>1 минута</item>
-        <item>5 минут</item>
-        <item>10 минут</item>
-        <item>15 минут</item>
-        <item>20 минут</item>
-        <item>25 минут</item>
-        <item>30 минут</item>
-        <item>45 минут</item>
-        <item>1 час</item>
-        <item>2 часа</item>
-        <item>3 часа</item>
-        <item>12 часов</item>
-        <item>24 часа</item>
-        <item>2 дня</item>
-        <item>1 неделя</item>
+        <item>сейчас</item>
+        <item>за 1 минуту</item>
+        <item>за 5 минут</item>
+        <item>за 10 минут</item>
+        <item>за 15 минут</item>
+        <item>за 20 минут</item>
+        <item>за 25 минут</item>
+        <item>за 30 минут</item>
+        <item>за 45 минут</item>
+        <item>за 1 час</item>
+        <item>за 2 часа</item>
+        <item>за 3 часа</item>
+        <item>за 12 часов</item>
+        <item>за 24 часа</item>
+        <item>за 2 дня</item>
+        <item>за 1 неделю</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Региональные настройки по умолчанию</item>
@@ -102,7 +102,7 @@
         <item>Баку</item>
         <item>Тбилиси</item>
         <item>Ереван</item>
-        <item>Дубаи</item>
+        <item>Дубай</item>
         <item>Кабул</item>
         <item>Исламабад, Карачи</item>
         <item>Уральск</item>
@@ -138,7 +138,7 @@
     <string-array name="availability">
         <item>Занят</item>
         <item>Доступен</item>
-        <item>Может быть</item>
+        <item>Возможно</item>
     </string-array>
     <string-array name="visibility">
         <item>По умолчанию</item>
@@ -153,9 +153,9 @@
         <item>последн.</item>
     </string-array>
     <string-array name="response_labels1">
-        <item>Нет ответов</item>
+        <item>(Нет ответа)</item>
         <item>Да</item>
-        <item>Может быть</item>
+        <item>Возможно</item>
         <item>Нет</item>
     </string-array>
     <string-array name="delete_repeating_labels">
@@ -168,7 +168,7 @@
         <item>Все мероприятия</item>
     </string-array>
     <string-array name="change_response_labels">
-        <item>Только это мероприятие</item>
+        <item>Только в этот раз</item>
         <item>Все мероприятия в серии</item>
     </string-array>
     <string-array name="buttons_list">
