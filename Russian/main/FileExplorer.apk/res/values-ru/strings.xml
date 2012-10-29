@@ -144,8 +144,8 @@ pan.xiaomi.com на вашем компьютере"</string>
   <string name="operation_create_folder_message">Пожалуйста, введите имя папки</string>
   <string name="operation_decompressing">Распаковка...</string>
   <string name="operation_delete">Удалить</string>
-  <string name="operation_delete_confirm_message">Удалить</string>
-  <string name="operation_delete_confirm_message_folder">"Удаление папки приведет к удалению всех файлов внутри нее.
+  <string name="operation_delete_confirm_message">Подтверждение удаления</string>
+  <string name="operation_delete_confirm_message_folder">"Удаление папки приведет к удалению всех файлов внутри нее
 "</string>
   <string name="operation_deleting">Удаление...</string>
   <string name="operation_download_link">Создание ссылки для скачивания</string>
@@ -170,8 +170,8 @@ pan.xiaomi.com на вашем компьютере"</string>
   <string name="preference_title">Основные настройки</string>
   <string name="remote_management">Обмен файлами Wi-Fi</string>
   <string name="removed_favorite">Удалить из Избранного</string>
-  <string name="rename_failed">Переименование《%1$s》не удалось</string>
-  <string name="rename_success">《%1$s》 успешно переименован</string>
+  <string name="rename_failed">Переименование 《%1$s》 не удалось</string>
+  <string name="rename_success">《%1$s》 успешно переименовано</string>
   <string name="sd_card_available">Свободно: %1$s</string>
   <string name="sd_card_size">SD-карта: %1$s</string>
   <string name="sd_folder">SD-карта</string>
@@ -213,13 +213,13 @@ pan.xiaomi.com на вашем компьютере"</string>
   <string name="ui_bar_txt_download_success">MiDrive: загрузка зевершена</string>
   <string name="ui_bar_txt_file_not_found">MiDrive: файл не найден</string>
   <string name="ui_bar_txt_remain_task">%1$d осталось</string>
-  <string name="ui_bar_txt_text">Отправка файла в MiDrive...%1$d осталось (%2$d%%)</string>
+  <string name="ui_bar_txt_text">Отправка файла в MiDrive... %1$d осталось (%2$d%%)</string>
   <string name="ui_bar_txt_upload_failed">MiDrive: Сбой при передаче</string>
   <string name="ui_bar_txt_upload_msg">Отправка %1$s</string>
   <string name="ui_bar_txt_upload_outline">Всего выгружено: %1$d файлов</string>
   <string name="ui_bar_txt_upload_progress">Отправка...</string>
   <string name="ui_bar_txt_upload_success">MiDrive: успешно отправлено</string>
-  <string name="ui_filechange_btn_download">Загрузка файлов</string>
+  <string name="ui_filechange_btn_download">Загрузка файла</string>
   <string name="ui_main_choose_title">Выберите способ отправки:</string>
   <string name="ui_main_download_file_failed">Не удалось загрузить “%1$s”</string>
   <string name="ui_main_menu_option_exit">Выход</string>
@@ -246,7 +246,7 @@ pan.xiaomi.com на вашем компьютере"</string>
   <string name="ui_task_toast_file_not_exist">Файл “%1$s” не существует</string>
   <string name="upload_file_toolarge_message">"%1$d файлав размером более 300 Мб не могут быть отправлены. Пожалуйста, проверьте в Управлении передачами"</string>
   <string name="upload_items_detail_message">Загрузка файлов в MiDrive... %1$d осталось (%2$d%%)</string>
-  <string name="used">Занято </string>
+  <string name="used">Занято: </string>
   <string name="user_guide">Руководство пользователя</string>
   <string name="user_guide_summary">Руководство по MiDrive</string>
   <string name="utf8_summary">Тип кодировки по умолчанию</string>

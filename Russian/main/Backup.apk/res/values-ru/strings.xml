@@ -65,7 +65,7 @@
   <string name="data_no_enough_space_message">Резервное копирование может завершиться с ошибкой, пожалуйста освободите место на внутренней памяти</string>
   <string name="delete">Удалить</string>
   <string name="delete_backup_process">Выполняется удаление, пожалуйста, подождите...</string>
-  <string name="delete_failed_backup_confirm">Резервная копия имеет ошибки. Не возможно восстановить</string>
+  <string name="delete_failed_backup_confirm">Резервная копия имеет ошибки. Не возможно восстановить.</string>
   <string name="disable_encrypt_title">Отключить шифрование</string>
   <string name="enable_encrypt">Включить сейчас</string>
   <string name="enable_encrypt_fail">Включение шифрования не удалось</string>

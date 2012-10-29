@@ -31,7 +31,7 @@
   <string name="error_sim_not_ready">SIM-карта не готова</string>
   <string name="error_unknown">Ошибка: %1$s</string>
   <string name="failed_to_send_activate_email">Невозможно отправить активацию по почте</string>
-  <string name="find_device">Поиск устройств</string>
+  <string name="find_device">Поиск устройства</string>
   <string name="find_device_check_phone_error_title">Ошибка включения поиска устройств</string>
   <string name="find_device_disabled_notice">"Вы можете включить снова через Параметры - Мои аккаунты - Аккаунт Xiaomi"</string>
   <string name="find_device_disabled_title">Поиск устройств отключен</string>
@@ -42,14 +42,14 @@
   <string name="find_device_notice_p1">Если вы не можете найти свой телефон, посетите</string>
   <string name="find_device_notice_p2">i.xiaomi.com</string>
   <string name="find_device_notice_p3">для его поиска, блокировки или удаления данных</string>
-  <string name="find_device_success_title">Поиск устройств включен</string>
+  <string name="find_device_success_title">Поиск устройства включен</string>
   <string name="forget_password">Забыли пароль?</string>
   <string name="header_data_and_synchronization">Данные и синхронизация</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Введите пароль</string>
-  <string name="login">Вход</string>
-  <string name="login_failed">Ошибка входа</string>
-  <string name="login_notice">Вход...</string>
+  <string name="login">Войти</string>
+  <string name="login_failed">Неверное имя пользователя или пароль</string>
+  <string name="login_notice">Авторизация, пожалуйста, подождите...</string>
   <string name="login_retry">Повтор</string>
   <string name="micloud_about">" "Больше о MiCloud" "</string>
   <string name="micloud_account">Аккаунт</string>
@@ -77,7 +77,7 @@
   <string name="micloud_password_error_inconsistent">Несоответсвие паролей</string>
   <string name="micloud_password_req_notice">8~16 символов, содержит цифры, буквы алфавита, с учетом регистра</string>
   <string name="micloud_reg_new">Создать новый</string>
-  <string name="micloud_resend_active_email">Снова отправить письмо активации</string>
+  <string name="micloud_resend_active_email">Повторно отправить письмо активации</string>
   <string name="micloud_title">MiCloud</string>
   <string name="micloud_use_existing">Существующий</string>
   <string name="micloud_val_sms_alert">Будет отправлено сообщение для подтверждения вашего телефонного номера, продолжить?</string>
@@ -96,7 +96,7 @@
   <string name="remove_account_notice">Что бы вы хотели делать с ранее синхронизированными сообщениями, контактами, журналами вызовов и заметками на устройстве?</string>
   <string name="send_sms_for_sync_notice">Для активации нужно отправить SMS, продолжить?</string>
   <string name="send_sms_for_sync_title">Служба синхронизации не активирована</string>
-  <string name="sim_changed_notification_content">SIM-карта не активирована. Пожалуйста, активируйте</string>
+  <string name="sim_changed_notification_content">SIM-карта не активирована. Пожалуйста, активируйте.</string>
   <string name="sim_changed_reactivate_notice">SIM-карта не активна. Нужна отправка сообщения для активации сервиса, активировать сейчас?</string>
   <string name="skip_setup_account_msg">Использование аккаунта Xiaomi, позволит вам синхронизировать и резервировать ваши SMS, Контакты, фото, заметки и другое. Пропустить и настроить потом?</string>
   <string name="skip_setup_account_title">Пропустить настройку аккаунта</string>
@@ -115,17 +115,17 @@
   <string name="sync_item_sms_title">Синхронизация сообщений</string>
   <string name="sync_off">ВЫКЛ</string>
   <string name="sync_on">ВКЛ</string>
-  <string name="sync_one_time_sync">Нажмите для синхронизации（ %1$s )</string>
+  <string name="sync_one_time_sync">Нажмите для синхронизации (%1$s)</string>
   <string name="sync_settings">Аккаунты и синхронизация</string>
   <string name="sync_sub_dspt">Для активации сервиса будет отправлено SMS</string>
   <string name="title_activate">Активация аккаунта Xiaomi</string>
   <string name="title_login">Вход в аккаунт Xiaomi</string>
   <string name="title_reg">Регистрация в сети Xiaomi</string>
   <string name="unactivated_user">Не активирован</string>
-  <string name="user_agreement_p1">Входя в аккаунт, вы соглащаетесь с\n </string>
+  <string name="user_agreement_p1">Входя в аккаунт, вы соглашаетесь с\n </string>
   <string name="user_agreement_p2">Условиями соглашения Xiaomi</string>
   <string name="user_agreement_p3"> и  </string>
   <string name="user_agreement_p4">Политикой безопасности</string>
-  <string name="user_agreement_p5">Регистрируясь, вы соглашаетесь с\n  </string>
+  <string name="user_agreement_p5">Регистрируясь, вы соглашаетесь с\n </string>
   <string name="xmpp_server_addr" />
 </resources>

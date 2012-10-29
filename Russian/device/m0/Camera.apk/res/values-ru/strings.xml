@@ -101,7 +101,7 @@
   <string name="SM_SMILE">Снимок улыбки</string>
   <string name="SM_STOPMOTION">Стоп-кадр</string>
   <string name="SM_VINTAGE">Винтаж</string>
-  <string name="SPEED_2X_FASTER">2X быстлее</string>
+  <string name="SPEED_2X_FASTER">2X быстрее</string>
   <string name="SPEED_2X_SLOWER">2X медленнее</string>
   <string name="SPEED_4X_FASTER">4X быстрее</string>
   <string name="SPEED_4X_SLOWER">4X медленнее</string>
@@ -182,7 +182,7 @@
   <string name="add_photo_title">Добавить фото</string>
   <string name="app_name">Камера</string>
   <string name="battery_low">Закройте камеру. Температура батареи слишком низкая.</string>
-  <string name="battery_overheat">Выключите камеру. Температура батареи слишком высока</string>
+  <string name="battery_overheat">Выключите камеру. Температура батареи слишком высока.</string>
   <string name="bestpic">Best photo</string>
   <string name="bestpic_off">Выкл</string>
   <string name="bestpic_on">Вкл</string>
