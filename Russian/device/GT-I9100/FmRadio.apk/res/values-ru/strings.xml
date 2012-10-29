@@ -59,7 +59,7 @@
   <string name="setting_backgroud_playing">Воспроизведение в фоне</string>
   <string name="setting_bgplaying_summary">Радио будет играть в фоновом режиме после закрытия</string>
   <string name="setting_europe">Европа</string>
-  <string name="setting_hour">Через 1 час</string>
+  <string name="setting_hour">Через час</string>
   <string name="setting_japan">Япония</string>
   <string name="setting_korea">Корея</string>
   <string name="setting_off">Выкл</string>
