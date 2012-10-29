@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="yandex_ru">
+        <item>Яндекс</item>
+        <item>yandex.ru</item>
+        <item>http://yandex.ru/favicon.ico</item>
+        <item>http://yandex.ru/touchsearch?&amp;clid=1788326&amp;text={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggest.yandex.net/suggest-ff.cgi?&amp;clid=1788326&amp;part={searchTerms}</item>
+    </string-array>
     <string-array name="pref_content_plugins_choices">
         <item>Да</item>
         <item>По требованию</item>
@@ -27,7 +35,7 @@
     </string-array>
     <string-array name="pref_default_text_encoding_choices">
         <item>Latin-1 (ISO-8859-1)</item>
-        <item>Unicode (UTF-8)</item>
+        <item>Юникод (UTF-8)</item>
         <item>Китайская (GBK)</item>
         <item>Китайская (Big5)</item>
         <item>Японская (ISO-2022-JP)</item>
@@ -77,11 +85,11 @@
         <item>bing</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
-        <item>Прокрутка страницы</item>
+        <item>Страница вверх/вниз</item>
         <item>Переключение вкладок</item>
     </string-array>
     <string-array name="pref_fling_on_border_choices">
-        <item>Кнопки назад или вперед</item>
+        <item>Страница вперед/назад</item>
         <item>Переключение вкладок</item>
     </string-array>
 </resources>
