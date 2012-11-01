@@ -653,6 +653,7 @@
   <string name="summary_kind_title">Основная информация</string>
   <string name="sync_xiaomi_cloud_contacts">Восстановить контакты из MIUI-облака</string>
   <string name="t9_search_guide">Введите номер телефона или найдите контакт с помощью T9</string>
+  <string name="t9_search_guide_zhuyin">Введите номер телефона или найдите контакт с помощью T9</string>
   <string name="take_new_photo">Создать новое фото</string>
   <string name="take_photo">Сфотографировать</string>
   <string name="titleJoinContactDataWith">Объединить контакты</string>

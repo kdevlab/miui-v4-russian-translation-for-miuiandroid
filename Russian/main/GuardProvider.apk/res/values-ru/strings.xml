@@ -2,6 +2,8 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="app_name">Антивирус Jinshan</string>
+  <string name="app_name">Антивирус</string>
   <string name="hello">Hello World, MoSecurityProviderActivity!</string>
+  <string name="menu_settings">Настройки</string>
+  <string name="title_activity_main">MainActivity</string>
 </resources>

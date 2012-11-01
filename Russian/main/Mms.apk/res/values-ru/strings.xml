@@ -10,6 +10,7 @@
   <string name="add_music">Добавить музыку</string>
   <string name="add_nickname">Псевдоним</string>
   <string name="add_nickname_title">Добавить псевдоним</string>
+  <string name="add_number_to_sender">Добавить номер в %s</string>
   <string name="add_phrase">Фраза</string>
   <string name="add_picture">Добавить картинку</string>
   <string name="add_slide">Добавить слайд</string>
@@ -173,6 +174,7 @@
   <string name="loading_all_messages">Загрузка сообщений...</string>
   <string name="loading_contacts">Загрузка контактов...</string>
   <string name="loading_conversations">Загрузка цепочек...</string>
+  <string name="loading_mms">Загрузка MMS…</string>
   <string name="me">Я</string>
   <string name="menu_add_address_to_contacts">Добавить в контакты: %s</string>
   <string name="menu_add_to_contacts">Добавить в контакты</string>

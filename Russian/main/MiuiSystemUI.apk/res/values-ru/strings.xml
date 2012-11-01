@@ -248,6 +248,7 @@ d MMMM yyyy"</string>
   <string name="status_bar_toggle_mute_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
   <string name="status_bar_toggle_network_type">Тип сети</string>
   <string name="status_bar_toggle_network_type_action">com.android.phone/.MiuiPreferredNetworkTypeListPreference</string>
+  <string name="status_bar_toggle_power_mode">Режим питания</string>
   <string name="status_bar_toggle_privacy_mode">Гость</string>
   <string name="status_bar_toggle_reboot">Перезагрузка</string>
   <string name="status_bar_toggle_rotate">Поворот</string>

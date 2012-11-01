@@ -468,6 +468,7 @@
   <string name="midnight">полночь</string>
   <string name="minute">мин.</string>
   <string name="minutes">мин.</string>
+  <string name="miro_menu_overflow">Еще...</string>
   <string name="mismatchPin">Введенные PIN-коды не совпадают</string>
   <string name="mmiComplete">Запрос MMI завершен</string>
   <string name="mmiError">Неполадки подключения или неверный код MMI</string>

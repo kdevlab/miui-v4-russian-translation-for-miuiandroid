@@ -67,6 +67,7 @@
   <string name="theme_description_title_default">По умолчанию</string>
   <string name="theme_format_wrong_content">Неверный формат темы</string>
   <string name="theme_import">Импорт</string>
+  <string name="theme_importing">Импортирование темы…</string>
   <string name="theme_select_others">Прочее</string>
   <string name="third_party_pickers_activity_title">Установить %1$s</string>
   <string name="title_component">Компоненты</string>

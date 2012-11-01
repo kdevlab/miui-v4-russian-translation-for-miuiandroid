@@ -5,6 +5,7 @@
   <string name="about_settings">Сведения о телефоне</string>
   <string name="about_settings_summary">Просмотр юридической информации, состояния планшетного ПК и версии ПО</string>
   <string name="ac_enable_title">Ограничение доступа</string>
+  <string name="ac_privacy_mode_sum">Введите пароль доступа для отключения защищенного режима</string>
   <string name="ac_privacy_mode_title">Режим гостя</string>
   <string name="ac_set_apps_title">Защита приложений</string>
   <string name="accelerometer_summary_off">Автоматически менять ориентацию экрана при повороте телефона</string>
@@ -1137,6 +1138,7 @@
   <string name="pref_volume_wake_title">Пробуждение качелькой громкости</string>
   <string name="preference_change_password_title">Изменить пароль</string>
   <string name="preferred_media_app_summary">Выберите музыкальный проигрыватель</string>
+  <string name="privacy_mode_enable_sum">Скрыть журнал вызовов, сообщения и другую информацию при использовании защищенного режима</string>
   <string name="privacy_mode_enable_title">Включить режим конфиденциальности</string>
   <string name="privacy_protect_title">Защита конфиденциальности</string>
   <string name="privacy_settings">Восстановление и сброс</string>
@@ -1530,6 +1532,7 @@
   <string name="sync_plug">"Добро пожаловать в Google Sync! 
 Технология Google синхронизации данных позволяет получать данные о контактах, встречах и многом другом с любого устройства"</string>
   <string name="sync_settings">Аккаунты и синхронизация</string>
+  <string name="sync_wifi_label">Настройки синхр. Wi-Fi</string>
   <string name="system_package">Системные обновления нельзя установить на внешнем носителе</string>
   <string name="system_update_settings_list_item_summary" />
   <string name="system_update_settings_list_item_title">Обновления системы</string>
@@ -1741,7 +1744,14 @@
   <string name="virus_scan_app_stop_scan">Остановить сканирование</string>
   <string name="virus_scan_app_uninstall">Пакетное удаление (%d)</string>
   <string name="virus_scan_app_waiting">Подождите</string>
+  <string name="virus_scanner_auto_update">Автообновление</string>
   <string name="virus_scanner_kinsoft_provider">Поддержка безопасности: Kingsoft Phone Guardian</string>
+  <string name="virus_scanner_lib_already_latest">Вирусные базы обновлены</string>
+  <string name="virus_scanner_lib_update">Доступно обновление вирусных баз</string>
+  <string name="virus_scanner_lib_update_failed">Ошибка обновления вирусных баз!</string>
+  <string name="virus_scanner_lib_updating">Обновление базы...</string>
+  <string name="virus_scanner_manual_update">Обновить вручную</string>
+  <string name="virus_scanner_provider">Техническая поддержка: %s</string>
   <string name="virus_scanner_scan">Сканировать</string>
   <string name="virus_scanner_scanning">Проверка приложений на вирусы</string>
   <string name="virus_scanner_select_Cancel">Отмена</string>
