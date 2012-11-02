@@ -66,7 +66,7 @@
   <string name="error_unknown">Ошибка: %1$s</string>
   <string name="failed_to_send_activate_email">Невозможно отправить активацию по почте</string>
   <string name="fee">%1$s Mi credits</string>
-  <string name="filter_query">Фильтр вопроса</string>
+  <string name="filter_query">Фильтр запроса</string>
   <string name="filter_to">To</string>
   <string name="find_device">Поиск устройства</string>
   <string name="find_device_check_phone_error_title">Ошибка включения поиска устройств</string>
@@ -157,7 +157,7 @@
   <string name="progress_error_waiting">Не обновлен. Пожалуйста, попробуйте позже!</string>
   <string name="progress_loading">Обработка. Пожалуйста, подождите...</string>
   <string name="progress_prepaid_creating">Generating topup order...</string>
-  <string name="progress_querying">Обработка платежного вопроса…</string>
+  <string name="progress_querying">Обработка платежного запроса…</string>
   <string name="progress_submit_hint_init">Topup will be reflected within 3 minutes, it will auto enquire after %1$s seconds</string>
   <string name="progress_submit_hint_query">Topup will be reflected within 3 minutes, you can enquire after %1$s seconds</string>
   <string name="progress_submit_summary">Topup: %1$s RMB</string>
