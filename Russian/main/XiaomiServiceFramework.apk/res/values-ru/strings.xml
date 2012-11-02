@@ -84,8 +84,8 @@
   <string name="header_data_and_synchronization">Данные и синхронизация</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Введите пароль</string>
-  <string name="label_order_name">Продукт: </string>
-  <string name="label_order_price">Количество: </string>
+  <string name="label_order_name">"Продукт: "</string>
+  <string name="label_order_price">"Цена: "</string>
   <string name="login">Войти</string>
   <string name="login_failed">Неверное имя пользователя или пароль</string>
   <string name="login_notice">Авторизация, пожалуйста, подождите...</string>
