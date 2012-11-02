@@ -51,7 +51,7 @@
   <string name="error_mili_summary">Не хватает кредитов Mi, пожалуйста, пополните счет</string>
   <string name="error_mili_title">Не хватает кредитов Mi</string>
   <string name="error_network">Ошибка сети</string>
-  <string name="error_network_summary">Ошибка сети. Пожалуйста, проверьте активность сети являе и попробуйте еще раз</string>
+  <string name="error_network_summary">Ошибка сети. Пожалуйста, проверьте активность сети и попробуйте еще раз</string>
   <string name="error_network_title">Ошибка сети</string>
   <string name="error_no_sms_service">Сервис SMS недоступен</string>
   <string name="error_password_summary">Пожалуйста, проверьте пароль и попробуйте еще раз</string>
