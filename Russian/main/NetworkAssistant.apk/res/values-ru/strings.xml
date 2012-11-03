@@ -72,10 +72,10 @@
   <string name="menu_refresh">Обновить</string>
   <string name="menu_settings">Параметры</string>
   <string name="menu_sort">Сортировка</string>
-  <string name="menu_sort_by_name">По имени приложений</string>
-  <string name="menu_sort_by_mobile_traffic">По 2G/3G трафику</string>
   <string name="menu_sort_by_all_traffic">По общему трафику</string>
   <string name="menu_sort_by_disabled">По откл. приложениям</string>
+  <string name="menu_sort_by_mobile_traffic">По 2G/3G трафику</string>
+  <string name="menu_sort_by_name">По имени приложений</string>
   <string name="menu_traffic_adjust">Регулировка трафика</string>
   <string name="menu_traffic_settings">Тарифный план</string>
   <string name="mobile_traffic">2G/3G: %s</string>
