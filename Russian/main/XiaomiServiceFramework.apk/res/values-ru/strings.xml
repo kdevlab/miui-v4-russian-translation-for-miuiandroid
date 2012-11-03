@@ -143,7 +143,7 @@
   <string name="prepaid_error_password">Пожалуйста, введите верный пароль карты предоплаты</string>
   <string name="prepaid_number_edit_hint">Номер карты предоплаты</string>
   <string name="prepaid_password_edit_hint">Пароль карты предоплаты</string>
-  <string name="prepaid_picker_hint">Выбранное число для пополнения должно быть такое-же как у предоплаченной карты</string>
+  <string name="prepaid_picker_hint">Выбранное число для пополнения должно быть такое-же как у карты предоплаты </string>
   <string name="prev">Назад</string>
   <string name="progress_alipay_creating">Обработка запроса Alipay...</string>
   <string name="progress_alipay_installing">Установка плагина Alipay...</string>
@@ -164,7 +164,7 @@
   <string name="progress_submit_title">Запрос на пополнение подтвержден</string>
   <string name="progress_success_summary">Баланс: %1$s кредитов Mi</string>
   <string name="progress_success_title">Пополнено на %1$s кредитов Mi</string>
-  <string name="quick_login_title">Требуется вход в аккаунт, пожалуйста введите ваш пароль</string>
+  <string name="quick_login_title">Требуется вход в аккаунт. Пожалуйста, введите ваш пароль</string>
   <string name="recharge_alipay_summary">Пополнение Alipay</string>
   <string name="recharge_alipay_title">Alipay</string>
   <string name="recharge_denomination">%1$s RMB</string>
