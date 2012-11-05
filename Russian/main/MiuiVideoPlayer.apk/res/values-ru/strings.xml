@@ -25,7 +25,7 @@
   <string name="menu_item_orientation_auto_sensor_action">Включить Поворот</string>
   <string name="menu_item_orientation_fixed_by_videosize_action">Отключить Поворот</string>
   <string name="menu_item_screen_shot">Скриншот</string>
-  <string name="menu_item_sub_title">Субтитры</string>
+  <string name="menu_item_sub_title">субтитры</string>
   <string name="menu_item_switch_width_height_label">Соотношение сторон</string>
   <string name="menu_wh_item_adapt_height_label">Вместить по высоте</string>
   <string name="menu_wh_item_adapt_width_label">Вместить по ширине</string>
@@ -35,7 +35,7 @@
   <string name="menu_wh_item_using_4_3_label">Принудительно 4:3</string>
   <string name="temp_play_history_button_label">История плеера</string>
   <string name="toast_back_key_pressed_notice">Нажмите НАЗАД еще раз для выхода</string>
-  <string name="toast_message_continue_play_from">Продолжить проигрывание с</string>
+  <string name="toast_message_continue_play_from">"Проиграть начиная с "</string>
   <string name="toast_message_continue_play_hour">часов</string>
   <string name="toast_message_continue_play_minute">минут</string>
   <string name="toast_message_continue_play_second_and_play">секунд</string>

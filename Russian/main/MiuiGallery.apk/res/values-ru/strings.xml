@@ -50,6 +50,13 @@
   <string name="cloud_gallery_space_full">Ошибка отправки - облачное хранилище заполнено</string>
   <string name="cloud_media_set_set">Облачные альбомы</string>
   <string name="confirm_delete">Удалить</string>
+  <string name="confirm_delete_album">Вы уверены, что хотите удалить альбомы (%s) (Включая %s штук)?</string>
+  <string name="confirm_delete_folders_and_pictures">Вы уверены, что хотите удалить %s?</string>
+  <string name="confirm_delete_folders_including">%s папок (включая %s)</string>
+  <string name="confirm_delete_including_null">0 штук</string>
+  <string name="confirm_delete_pictures">%s фотографий</string>
+  <string name="confirm_delete_system_album">%s - это системный альбом, вы уверены, что хотите удалить?</string>
+  <string name="confirm_delete_videos">%s видео</string>
   <string name="confirm_know">OK</string>
   <string name="contact_photo">Фото контакта</string>
   <string name="contrast">Контраст</string>
@@ -131,7 +138,7 @@
   <string name="group_by_time">По времени создания</string>
   <string name="height">Высота</string>
   <string name="highlight">Блики</string>
-  <string name="home_my_captured_items">фото с камеры</string>
+  <string name="home_my_captured_items">Мои фотографии</string>
   <string name="home_recent_albums">последний альбом</string>
   <string name="how_many_pics">Фотографий: %d</string>
   <string name="how_many_sub_folders">Папок: %d</string>
