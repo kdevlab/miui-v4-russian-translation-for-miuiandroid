@@ -48,6 +48,8 @@
   <string name="error_dup_phone">Телефон уже был зарегистрирован</string>
   <string name="error_has_bought_summary">Вы уже купили этот продукт</string>
   <string name="error_has_bought_title">Повторите покупку</string>
+  <string name="error_illegal_order_summary">Произошла ошибка покупки, пожалуйста попробуйте снова</string>
+  <string name="error_illegal_order_title">Ошибка покупки!</string>
   <string name="error_mili_summary">Не хватает кредитов Mi, пожалуйста, пополните счет</string>
   <string name="error_mili_title">Не хватает кредитов Mi</string>
   <string name="error_network">Ошибка сети</string>
@@ -64,6 +66,8 @@
   <string name="error_sim_not_ready">SIM-карта не готова</string>
   <string name="error_time">Выбранная дата/время не может использоваться</string>
   <string name="error_unknown">Ошибка: %1$s</string>
+  <string name="error_user_id_mismatch_summary">Пожалуйста, проверьте настройки аккаунта и попробуйте снова</string>
+  <string name="error_user_id_mismatch_title">Ошибка аутентификации!</string>
   <string name="failed_to_send_activate_email">Невозможно отправить активацию по почте</string>
   <string name="fee">%1$s кредитов Mi</string>
   <string name="filter_query">Фильтр запроса</string>

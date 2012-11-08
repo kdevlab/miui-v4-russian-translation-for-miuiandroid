@@ -3,6 +3,7 @@
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="added_favorite">Добавлено в избранное</string>
+  <string name="adding_upload_tasks">Добавление задач загрузки</string>
   <string name="app_name">Файлы</string>
   <string name="cancel">Отмена</string>
   <string name="category_all">Все</string>
@@ -15,9 +16,11 @@
   <string name="category_theme">Темы</string>
   <string name="category_video">Видео</string>
   <string name="category_zip">Архивы</string>
+  <string name="choose_send_type">Выбор типа отправки</string>
   <string name="choose_upload_location">Выберите место загрузки</string>
   <string name="clean_message">Удаление %1$s</string>
   <string name="clean_title">Удалять файлы из корзины, если они лежат там дольше 30 дней</string>
+  <string name="clean_transh_box_desctiption">Очистка корзины…</string>
   <string name="clean_trash_box">Очистить корзину</string>
   <string name="clean_trash_box_failed">Ошибка удаления файлов из корзины</string>
   <string name="clear_cache">Очистить кэш</string>
@@ -28,8 +31,10 @@
   <string name="confirm_know">OK</string>
   <string name="copy_failed">Ошибка копирования</string>
   <string name="copy_success">Скопировано</string>
+  <string name="create_new_folder_desctiption">Создание новой папки...</string>
   <string name="create_new_folder_failed">Не удалось создать папку %1$s</string>
   <string name="create_new_folder_succeeded">Папка %1$s успешно создана</string>
+  <string name="create_share_link_description">Создание ссылки…</string>
   <string name="cution">Советы</string>
   <string name="data_capacity">Объем: %1$s</string>
   <string name="decompress_cancel">Отмена</string>
@@ -38,7 +43,9 @@
   <string name="decompress_success">Успешно распаковано</string>
   <string name="decompress_to">Распаковать в...</string>
   <string name="decompress_to_here">Распаковать в эту папку</string>
+  <string name="delete_failed">Ошибка удаления</string>
   <string name="delete_file">Вы уверены, что хотите удалить этот файл?</string>
+  <string name="delete_file_description">Удаление…</string>
   <string name="delete_files">Вы уверены, что хотите удалить выбранные файлы (%1$d)?</string>
   <string name="delete_files_and_folders">Вы уверены, что хотите удалить выбранные файлы (%1$d) и папки (%2$d)?</string>
   <string name="delete_folder">Вы уверены, что хотите удалить?</string>
@@ -52,6 +59,7 @@
   <string name="dialog_type_video">Видео</string>
   <string name="disconnect_notication">Во время отключения сети, все загрузки будут приостановлены</string>
   <string name="download_items_detail_message">Загрузка файлов на SD карту... %1$d осталось (%2$d%%)</string>
+  <string name="download_link_completed">"Я загрузил %1$s в MiDrive. Нажмите на ссылку для просмотра: "</string>
   <string name="enable_sd_card">В настоящий момента SD-карта подключена к компьютеру и используется, чтобы видеть ее содержимое, отключите режим накопителя</string>
   <string name="error_info_cant_send_folder">Папка не может быть передана</string>
   <string name="fail_to_create_folder">Не удалось создать папку, папка с таким именем уже существует</string>
@@ -106,6 +114,7 @@ pan.xiaomi.com на вашем компьютере"</string>
   <string name="kuaipan_prompt">MiDrive</string>
   <string name="kuaipan_prompt_message">Идет обслуживание сервиса, пожалуйста, попробуйте позже...</string>
   <string name="kuaipan_tech_support">Техническая поддержка: Kingsoft Kuaipan</string>
+  <string name="load_data_from_local">Загрузка данных...</string>
   <string name="local_cache">Локальный кэш</string>
   <string name="local_cache_size">Размер локального кэш: %s</string>
   <string name="login_reg_content">MiDrive позволяет хранить файлы и синхронизировать их между несколькими устройствами.</string>
@@ -120,6 +129,7 @@ pan.xiaomi.com на вашем компьютере"</string>
   <string name="menu_item_sort_type">По типу</string>
   <string name="menu_setting">Настройки</string>
   <string name="move_failed">Ошибка перемещения</string>
+  <string name="move_file_description">Перемещение…</string>
   <string name="move_success">Перемещено</string>
   <string name="multi_select_title">Выбрано: %1$s</string>
   <string name="net_lose_connected">Сеть недоступна, не может получить размер</string>
@@ -170,6 +180,8 @@ pan.xiaomi.com на вашем компьютере"</string>
   <string name="preference_title">Основные настройки</string>
   <string name="remote_management">Обмен файлами Wi-Fi</string>
   <string name="removed_favorite">Удалить из Избранного</string>
+  <string name="rename">Переименовать</string>
+  <string name="rename_description">Переименование…</string>
   <string name="rename_failed">Переименование 《%1$s》 не удалось</string>
   <string name="rename_success">《%1$s》 успешно переименовано</string>
   <string name="sd_card_available">Свободно: %1$s</string>
@@ -181,6 +193,8 @@ pan.xiaomi.com на вашем компьютере"</string>
   <string name="send_to_midrive_failed_message">Не удалось отправить в MiDrive. Неверный формат файла.</string>
   <string name="server_control_advanced_settings">Расширенные настройки</string>
   <string name="server_control_charset">Кодирование передачи</string>
+  <string name="share_link">Отправить ссылку</string>
+  <string name="share_link_failed">Ошибка создания ссылки, попробуйте снова!</string>
   <string name="show_message">Файл не может быть открыт без загрузки, загрузить?</string>
   <string name="slide_left_text">Сдвиньте влево</string>
   <string name="space_info">Объем в сети: %1$s доступно，всего: %2$s</string>
