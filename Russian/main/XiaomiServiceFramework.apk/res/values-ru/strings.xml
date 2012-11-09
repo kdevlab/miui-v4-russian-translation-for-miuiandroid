@@ -19,7 +19,7 @@
   <string name="alipay_picker_hint">Пожалуйста, выберите количество кредитов Mi для пополнения:</string>
   <string name="app_name">Менеджер аккаунтов Xiaomi</string>
   <string name="bad_authentication">Неверный пароль или имя пользователя</string>
-  <string name="balance">Баланс: %1$s кредитов Mi</string>
+  <string name="balance">Баланс: %1$s MiCredit</string>
   <string name="basic_info">Общая информация</string>
   <string name="btn_activate">Активировать</string>
   <string name="btn_back">Назад</string>
@@ -50,8 +50,8 @@
   <string name="error_has_bought_title">Повторите покупку</string>
   <string name="error_illegal_order_summary">Произошла ошибка покупки, пожалуйста попробуйте снова</string>
   <string name="error_illegal_order_title">Ошибка покупки!</string>
-  <string name="error_mili_summary">Не хватает кредитов Mi, пожалуйста, пополните счет</string>
-  <string name="error_mili_title">Не хватает кредитов Mi</string>
+  <string name="error_mili_summary">Не хватает MiCredit, пожалуйста, пополните счет</string>
+  <string name="error_mili_title">Не хватает MiCredit</string>
   <string name="error_network">Ошибка сети</string>
   <string name="error_network_summary">Ошибка сети. Пожалуйста, проверьте активность сети и попробуйте еще раз</string>
   <string name="error_network_title">Ошибка сети</string>
@@ -127,10 +127,10 @@
   <string name="micloud_waiting">Ожидание...</string>
   <string name="micloud_welcome_banner">Аккаунт Xiaomi</string>
   <string name="micloud_welcome_skip_login" />
-  <string name="mili_center">Центр кредитов Mi</string>
+  <string name="mili_center">Центр MiCredit</string>
   <string name="next">Далее</string>
   <string name="no_sim">Нет SIM-карты, служба синхронизации недоступна</string>
-  <string name="order_price">%1$s кредитов Mi</string>
+  <string name="order_price">%1$s MiCredit</string>
   <string name="other_settings">Остальные параметры</string>
   <string name="password">Пароль</string>
   <string name="password_error">Пожалуйста, введите Ваш пароль</string>
@@ -172,7 +172,7 @@
   <string name="recharge_alipay_summary">Пополнение Alipay</string>
   <string name="recharge_alipay_title">Alipay</string>
   <string name="recharge_denomination">%1$s RMB</string>
-  <string name="recharge_hint">1 RMB равно 1 кредиту Mi</string>
+  <string name="recharge_hint">1 MiCredit равняется 5 рублям</string>
   <string name="recharge_notification">Пополнение на %1$s кредитов Mi</string>
   <string name="recharge_other">Выберите другой способ оплаты</string>
   <string name="recharge_prepaid_summary" />
@@ -213,7 +213,7 @@
   <string name="title_pay_record">%1$s - история пополнений</string>
   <string name="title_payment">Мобильные платежи Xiaomi</string>
   <string name="title_prepaid">Пополнить через карту</string>
-  <string name="title_recharge">Пополнить кредиты Mi</string>
+  <string name="title_recharge">Пополнить MiCredit\'ы</string>
   <string name="title_recharge_record">История пополнения</string>
   <string name="title_reg">Регистрация в сети Xiaomi</string>
   <string name="unactivated_user">Не активирован</string>
