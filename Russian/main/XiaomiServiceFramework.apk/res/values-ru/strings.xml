@@ -152,7 +152,7 @@
   <string name="progress_alipay_creating">Обработка запроса Alipay...</string>
   <string name="progress_alipay_installing">Установка плагина Alipay...</string>
   <string name="progress_creating">Проверка покупки...</string>
-  <string name="progress_error_common">Ошибка пополнения, пожалуйста попробуйте снова</string>
+  <string name="progress_error_common">Ошибка пополнения. Пожалуйста, попробуйте позже</string>
   <string name="progress_error_contact_server">"Still not reflected. Please contact our partner company's customer service in Shenzhou on the following number: 400-001-0195，Please provide the serial number: %1$s"</string>
   <string name="progress_error_invalid_number">Номер и пароль карты не верны. Пожалуйста, попробуйте еще раз.</string>
   <string name="progress_error_network">Повреждено соединение с сетью. Пожалуйста, проверьте статус сети.</string>
