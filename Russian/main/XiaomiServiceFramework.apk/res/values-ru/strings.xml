@@ -23,7 +23,7 @@
   <string name="basic_info">Общая информация</string>
   <string name="btn_activate">Активировать</string>
   <string name="btn_back">Назад</string>
-  <string name="btn_mili_center_recharge">Пополнить кредиты Mi</string>
+  <string name="btn_mili_center_recharge">Пополнить MiCredit</string>
   <string name="btn_query">Узнать сейчас</string>
   <string name="btn_recharge_large">Пополнить</string>
   <string name="btn_recharge_other">Другие методы пополнения</string>
@@ -151,8 +151,8 @@
   <string name="prev">Назад</string>
   <string name="progress_alipay_creating">Обработка запроса Alipay...</string>
   <string name="progress_alipay_installing">Установка плагина Alipay...</string>
-  <string name="progress_creating">Восстановление информации заказа...</string>
-  <string name="progress_error_common">Recharge failed, please try again later.</string>
+  <string name="progress_creating">Проверка покупки...</string>
+  <string name="progress_error_common">Ошибка пополнения, пожалуйста попробуйте снова</string>
   <string name="progress_error_contact_server">"Still not reflected. Please contact our partner company's customer service in Shenzhou on the following number: 400-001-0195，Please provide the serial number: %1$s"</string>
   <string name="progress_error_invalid_number">Номер и пароль карты не верны. Пожалуйста, попробуйте еще раз.</string>
   <string name="progress_error_network">Повреждено соединение с сетью. Пожалуйста, проверьте статус сети.</string>
@@ -209,7 +209,7 @@
   <string name="title_activate">Активация аккаунта Xiaomi</string>
   <string name="title_alipay">Пополнить через Alipay</string>
   <string name="title_login">Вход в аккаунт Xiaomi</string>
-  <string name="title_mili_center">Центр кредитов Mi</string>
+  <string name="title_mili_center">Центр MiCredit</string>
   <string name="title_pay_record">%1$s - история пополнений</string>
   <string name="title_payment">Мобильные платежи Xiaomi</string>
   <string name="title_prepaid">Пополнить через карту</string>

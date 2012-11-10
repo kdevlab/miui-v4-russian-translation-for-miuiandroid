@@ -1029,7 +1029,7 @@
   <string name="menu_stats_refresh">Обновить</string>
   <string name="menu_stats_total">Всего</string>
   <string name="menu_stats_unplugged">%1$s с момента отключения от питания</string>
-  <string name="milicenter_settings">Настройки MiCredit</string>
+  <string name="milicenter_settings">Центр MiCredit</string>
   <string name="misc_files">Разное</string>
   <string name="misc_files_selected_count">выбрано %1$d из %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s из %2$s</string>
