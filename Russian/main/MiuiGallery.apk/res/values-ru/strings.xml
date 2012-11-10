@@ -205,8 +205,8 @@
   <string name="no_thumbnail">Нет уменьшенного изображения</string>
   <string name="none_picture">Нет фотографий в Галерее</string>
   <string name="not_auto_create_recent_album">Неавтоматическое создание последних альбомов</string>
-  <string name="only_upload_in_charging">Изображения загружаются только при зарядке; Пожалуйста, подключите устройство к зарядному устройству</string>
-  <string name="open_map">Open map</string>
+  <string name="only_upload_in_charging">Изображения загружаются только при зарядке. Пожалуйста, подключите телефон к зарядному устройству.</string>
+  <string name="open_map">Открыть карту</string>
   <string name="open_single_image_failure">Ошибка загрузки изображения!</string>
   <string name="open_sync">Синхронизировать</string>
   <string name="operation_cancel">Отмена</string>
@@ -303,6 +303,7 @@
   <string name="slideshow_interval_invalid">Неверная настройка интервала времени, который должен быть от 1 до 3600. Возобновится интервал времени по умолчанию</string>
   <string name="slideshow_repeat_mode">Повторять</string>
   <string name="storage_all_volumes">Все накопители</string>
+  <string name="storage_no_space">Не хватает памяти</string>
   <string name="straighten">Выравнивание</string>
   <string name="straighten_tooltip">Чтобы выровнять фото, перетащите его</string>
   <string name="switch_to_camera">Переключиться на камеру</string>
