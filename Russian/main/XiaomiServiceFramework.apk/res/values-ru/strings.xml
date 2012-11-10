@@ -153,7 +153,7 @@
   <string name="progress_alipay_installing">Установка плагина Alipay...</string>
   <string name="progress_creating">Проверка покупки...</string>
   <string name="progress_error_common">Ошибка пополнения. Пожалуйста, попробуйте позже</string>
-  <string name="progress_error_contact_server">Ошибка сервера. Пожалуйста, свяжитесь с нашей партнерской компанией в Шэньчжоу по следующему номеру: 400-001-0195, и пожалуйста, укажите серийный номер: %1$s.
+  <string name="progress_error_contact_server">Ошибка сервера. Пожалуйста, свяжитесь с нашей партнерской компанией по обслуживанию клиентов в Шэньчжоу по следующему телефону: 400-001-0195. И пожалуйста, укажите серийный номер: %1$s.</string>
   <string name="progress_error_invalid_number">Номер и пароль карты не верны. Пожалуйста, попробуйте еще раз.</string>
   <string name="progress_error_network">Повреждено соединение с сетью. Пожалуйста, проверьте статус сети.</string>
   <string name="progress_error_server">Ошибка сервера. Пожалуйста, попробуйте позже.</string>
