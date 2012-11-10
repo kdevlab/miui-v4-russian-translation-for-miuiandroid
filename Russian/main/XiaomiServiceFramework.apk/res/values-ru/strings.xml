@@ -48,9 +48,9 @@
   <string name="error_dup_phone">Телефон уже был зарегистрирован</string>
   <string name="error_has_bought_summary">Вы уже купили этот продукт</string>
   <string name="error_has_bought_title">Повторите покупку</string>
-  <string name="error_illegal_order_summary">Произошла ошибка покупки, пожалуйста попробуйте снова</string>
+  <string name="error_illegal_order_summary">Произошла ошибка покупки. Пожалуйста, попробуйте снова</string>
   <string name="error_illegal_order_title">Ошибка покупки!</string>
-  <string name="error_mili_summary">Не хватает MiCredit, пожалуйста, пополните счет</string>
+  <string name="error_mili_summary">Не хватает MiCredit. Пожалуйста, пополните счет</string>
   <string name="error_mili_title">Не хватает MiCredit</string>
   <string name="error_network">Ошибка сети</string>
   <string name="error_network_summary">Ошибка сети. Пожалуйста, проверьте активность сети и попробуйте еще раз</string>
@@ -162,8 +162,8 @@
   <string name="progress_loading">Обработка. Пожалуйста, подождите...</string>
   <string name="progress_prepaid_creating">Обработка запроса на пополнение...</string>
   <string name="progress_querying">Обработка платежного запроса…</string>
-  <string name="progress_submit_hint_init">Topup will be reflected within 3 minutes, it will auto enquire after %1$s seconds</string>
-  <string name="progress_submit_hint_query">Topup will be reflected within 3 minutes, you can enquire after %1$s seconds</string>
+  <string name="progress_submit_hint_init">Topup будет отображён в течение 3 минут, он будет автоматически запрошен  через %1$s секунд</string>
+  <string name="progress_submit_hint_query">Topup будет отображён в течение 3 минут, Вы можете запросить через %1$s секунд</string>
   <string name="progress_submit_summary">Пополнение: %1$s RMB</string>
   <string name="progress_submit_title">Запрос на пополнение подтвержден</string>
   <string name="progress_success_summary">Баланс: %1$s кредитов Mi</string>
@@ -221,6 +221,6 @@
   <string name="user_agreement_p2">Условиями соглашения Xiaomi</string>
   <string name="user_agreement_p3"> и  </string>
   <string name="user_agreement_p4">Политикой безопасности</string>
-  <string name="user_agreement_p5">Регистрируясь, вы соглашаетесь с\n </string>
+  <string name="user_agreement_p5">Регистрируясь, Вы соглашаетесь с\n </string>
   <string name="xmpp_server_addr" />
 </resources>
