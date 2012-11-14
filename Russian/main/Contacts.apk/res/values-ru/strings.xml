@@ -658,10 +658,10 @@
   <string name="take_photo">Сфотографировать</string>
   <string name="titleJoinContactDataWith">Объединить контакты</string>
   <string name="toast_call_detail_error">Не удается получить сведения о вызове</string>
-  <string name="toast_finish_delete_call_log">Журнал(ы) будут удалены</string>
+  <string name="toast_finish_delete_call_log">Запись(и) журнала удалена(ы)</string>
   <string name="toast_for_failed_saving_nickname">Не удалось сохранить изменения</string>
   <string name="toast_for_saving_nickname">Изменения сохранены</string>
-  <string name="toast_join_with_empty_contact">Укажите имя контакта, который хотите объединить.</string>
+  <string name="toast_join_with_empty_contact">Укажите имя контакта, который хотите объединить</string>
   <string name="toast_making_personal_copy">Копирование...</string>
   <string name="toast_text_copied">Текст скопирован</string>
   <string name="today">Сегодня</string>
