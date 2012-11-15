@@ -703,10 +703,10 @@
   
   <!--V Пожалуйста, переведите строки ниже V-->
   
-  <string name="dolby_bassboost_high">Высокий</string>
-  <string name="dolby_bassboost_low">Низкий</string>
-  <string name="dolby_bassboost_normal">Нормальный</string>
-  <string name="dolby_bassboost_title">"Уровень баса: "</string>
+  <string name="dolby_bassboost_high">Высокое</string>
+  <string name="dolby_bassboost_low">Низкое</string>
+  <string name="dolby_bassboost_normal">Нормальное</string>
+  <string name="dolby_bassboost_title">"Усиление баса: "</string>
   <string name="dolby_effects">Эффекты Dolby</string>
   <string name="dolby_eq_auto">Пользовательский</string>
   <string name="dolby_eq_blues">Блюз</string>
