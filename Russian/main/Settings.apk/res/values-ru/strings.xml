@@ -700,6 +700,9 @@
   <string name="dock_sounds_enable_summary_on">Воспроизводить звук при установке или извлечении телефона</string>
   <string name="dock_sounds_enable_title">Звук при установке в док-станцию</string>
   <string name="does_not_exist">Приложение не установлено</string>
+  
+  <!--V Пожалуйста, переведите строки ниже V-->
+  
   <string name="dolby_bassboost_high">High</string>
   <string name="dolby_bassboost_low">Low</string>
   <string name="dolby_bassboost_normal">Normal</string>
@@ -738,6 +741,9 @@
   <string name="dolby_roomsize_normal">Normal room</string>
   <string name="dolby_roomsize_summary">Surround sound mode is only available when using headphones</string>
   <string name="dolby_roomsize_title">Surround sound mode: </string>
+  
+  <!--^ Пожалуйста, переведите строки выше ^-->
+
   <string name="drive_mode">В автомобиле</string>
   <string name="drive_mode_auto_reply">Автоответ</string>
   <string name="drive_mode_auto_sms_reply_content">Извините, я сейчас еду. Я перезвоню вам позже.</string>
