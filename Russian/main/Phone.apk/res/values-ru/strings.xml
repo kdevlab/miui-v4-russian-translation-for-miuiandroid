@@ -471,6 +471,8 @@
   <string name="import_sim_entry_miui">Импорт</string>
   <string name="importingSimContacts">Импорт контактов с SIM-карты</string>
   <string name="importing_sim_contacts_miui">Импорт контактов с SIM-карты</string>
+  <string name="in_calling">Вызов</string>
+  <string name="in_sms">Сообщение</string>
   <string name="incall_call_type_label_sip">Интернет-вызов</string>
   <string name="incall_error_call_failed">Вызов не осуществляется</string>
   <string name="incall_error_emergency_only">Нет регистрации в сети</string>
@@ -913,6 +915,8 @@ SIM-карта будет заблокирована навсегда при н�
   <string name="sliding_down_hint_miui">Сдвиньте вниз для ответа</string>
   <string name="sliding_target_hint_miui">Сдвиньте вверх, для отклонения/отправки смс</string>
   <string name="sliding_up_hint_miui">Сдвиньте вверх, чтобы отклонить</string>
+  <string name="sms_content">Содержание сообщения</string>
+  <string name="sms_sender">От</string>
   <string name="sports_news_settings">Новости спорта</string>
   <string name="stock_quotes_disable">Котировки ценных бумаг отключены</string>
   <string name="stock_quotes_enable">Котировки ценных бумаг включены</string>
@@ -989,6 +993,7 @@ SIM-карта будет заблокирована навсегда при н�
   <string name="turnover_mute_title_miui">Переворот - тишина</string>
   <string name="undefined_miui">Неопределено</string>
   <string name="unknown">Неизвестный абонент</string>
+  <string name="unknown_num">Неизвестный номер</string>
   <string name="unlock_failed">Запрос на разблокировку сети не выполнен</string>
   <string name="unlock_success">Разблокировка сети успешно завершена</string>
   <string name="updating_fdn_contact">Выполняется обновление номера ограниченного набора...</string>

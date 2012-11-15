@@ -163,6 +163,8 @@
   <string name="has_draft">Черновик</string>
   <string name="has_invalid_recipient">Недопустимые получатели: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Адрес отправителя скрыт</string>
+  <string name="in_calling">Вызов</string>
+  <string name="in_sms">Сообщение</string>
   <string name="inline_subject">&lt;Тема: %s&gt;</string>
   <string name="insufficient_drm_rights">Обнаруженных прав DRM недостаточно</string>
   <string name="invalid_destination">Неверный адрес получателя</string>
@@ -433,10 +435,12 @@
   <string name="slide_number">Слайд %s</string>
   <string name="slide_show_part">Часть %1$s/%2$s</string>
   <string name="slideshow_activity">Слайд-шоу</string>
+  <string name="sms_content">Содержание сообщения</string>
   <string name="sms_full_body">Память переполнена. Чтобы сохранить новые сообщения, удалите несколько старых.</string>
   <string name="sms_full_title">Память для текстовых сообщений переполнена</string>
   <string name="sms_rejected_body">Входящее сообщение отклонено по неизвестной причине</string>
   <string name="sms_rejected_title">Сообщение отклонено</string>
+  <string name="sms_sender">От</string>
   <string name="status_failed">Сбой</string>
   <string name="status_label">"Статус: "</string>
   <string name="status_none">(Нет)</string>
@@ -480,6 +484,7 @@
 Попыток: %s."</string>
   <string name="undelivered_msg_dialog_title">Недоставленное сообщение</string>
   <string name="undelivered_sms_dialog_body">Не удалось отправить сообщение</string>
+  <string name="unknown_num">Неизвестный номер</string>
   <string name="unknown_sender">Неизвестный отправитель</string>
   <string name="unsupported_media_format">Неподдерживаемый формат (%1$s)</string>
   <string name="view">Просмотр</string>

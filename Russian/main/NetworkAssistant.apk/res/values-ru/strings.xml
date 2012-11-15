@@ -2,6 +2,7 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="about">О программе</string>
   <string name="adjust_traffic_auto_adjust_hint">Система автоматически регулирует запрашивает и передачу данных регулярно от операторов. Вам нужно настроить информацию об операторах</string>
   <string name="adjust_traffic_auto_adjust_open_hint">Авторегуляция включена, система автоматически контролирует объем поторебляемого трафика</string>
   <string name="adjust_traffic_auto_adjust_title">Авторегуляция трафика</string>
@@ -84,6 +85,9 @@
   <string name="notify_carrier_settings_title">Вы не настроили поставщика услуг связи. Настроить сейчас?</string>
   <string name="notify_traffic_settings_cancel_hint">Уведомления и контроль трафика будут отключены. Выйти сейчас?</string>
   <string name="notify_traffic_settings_title">Вы не настроили ваш тарифный план. Настроить сейчас?</string>
+  <string name="overseas_menu_traffic_adjust">Настройка вручную</string>
+  <string name="overseas_menu_traffic_settings">Предел трафика</string>
+  <string name="overseas_unknown_traffic_hint">Предел трафика не настроен. Настроить сейчас?</string>
   <string name="plate_traffic_already_used">Использовано (%s)</string>
   <string name="plate_traffic_exceed">Превышено (%s)</string>
   <string name="plate_traffic_remain">Осталось (%s)</string>

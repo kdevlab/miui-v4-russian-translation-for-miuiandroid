@@ -11,6 +11,7 @@
   <string name="activating">Активация...</string>
   <string name="alert_title_remove_account">Удалить аккаунт</string>
   <string name="alipay_edit_hint">Пополнить</string>
+  <string name="alipay_edit_limit">Менее 500</string>
   <string name="alipay_edit_unit">RMB</string>
   <string name="alipay_error_denomination">Пожалуйста, введите правильную сумму</string>
   <string name="alipay_error_install">Установка мобильной безопасности плагина Alipay не удалась!</string>
@@ -141,6 +142,7 @@
   <string name="prepaid_china_mobile">Оператор 1</string>
   <string name="prepaid_china_telcom">Оператор 2</string>
   <string name="prepaid_china_unicom">Оператор 3</string>
+  <string name="prepaid_edit_limit">знаков</string>
   <string name="prepaid_error_card_number">Введите правильную сумму для пополнения счета</string>
   <string name="prepaid_error_carrier">Пожалуйста, выберите Вашего оператора</string>
   <string name="prepaid_error_denomination">Пожалуйста, выберите сумму пополнения</string>
@@ -148,6 +150,13 @@
   <string name="prepaid_number_edit_hint">Номер карты предоплаты</string>
   <string name="prepaid_password_edit_hint">Пароль карты предоплаты</string>
   <string name="prepaid_picker_hint">Выбранное число для пополнения должно быть такое-же как у карты предоплаты </string>
+  <string name="prepaid_picker_hint_1_1">1.</string>
+  <string name="prepaid_picker_hint_1_2">Поддерживается только разовая плата</string>
+  <string name="prepaid_picker_hint_2_1">2.</string>
+  <string name="prepaid_picker_hint_2_2_a">Выбранная номинальной стоимость должна быть равна стоимости предоплаченной карты, в противном случае это приведет к потере денег.</string>
+  <string name="prepaid_picker_hint_2_2_b">Если номинальная стоимость карты составляет %1$s юаней, это приведет к потере денег</string>
+  <string name="prepaid_picker_title">Размер пополнения</string>
+  <string name="prepaid_picker_value_default">выбрать</string>
   <string name="prev">Назад</string>
   <string name="progress_alipay_creating">Обработка запроса Alipay...</string>
   <string name="progress_alipay_installing">Установка плагина Alipay...</string>

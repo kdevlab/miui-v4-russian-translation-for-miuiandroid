@@ -106,6 +106,8 @@
   <string name="starting_preset_app">Запуск...</string>
   <string name="title_select_live_folder">Выберите папку</string>
   <string name="title_select_shortcut">Выберите ярлык</string>
+  <string name="toggle_select_title">Выбрать переключатели</string>
+  <string name="toggle_title">Переключатели</string>
   <string name="transformation_type_classic">Стандартный</string>
   <string name="transformation_type_classic_no_overshoot">Стд. (без проскакивания)</string>
   <string name="transformation_type_crossfade">Угасание</string>

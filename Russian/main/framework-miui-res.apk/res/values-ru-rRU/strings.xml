@@ -443,6 +443,7 @@
   <string name="resource_get_auth_retrieving">Получение авторизации...</string>
   <string name="resource_local">%1$s (Телефон)</string>
   <string name="resource_mute">Без звука</string>
+  <string name="resource_no_result">Нет результатов</string>
   <string name="resource_notification_default">Уведомления</string>
   <string name="resource_online">%1$s (Интернет)</string>
   <string name="resource_price_format">" (%1$s) "</string>
@@ -492,10 +493,12 @@
   <string name="spring_begins" />
   <string name="ssl_certificate">Сертификат безопасности</string>
   <string name="status_bar_toggle_ac">Упр. доступом</string>
+  <string name="status_bar_toggle_auto_brightness">Авто-подсветка</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Подсветка</string>
   <string name="status_bar_toggle_data">Интернет</string>
   <string name="status_bar_toggle_divider">Настроить</string>
+  <string name="status_bar_toggle_drive_mode">В автомобиле</string>
   <string name="status_bar_toggle_flight_mode">Режим полета</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Блокировка</string>
