@@ -692,7 +692,7 @@
   <string name="dock_audio_summary_none">Телефон не подключен к док-станции</string>
   <string name="dock_audio_summary_unknown">Настройки подключенной док-станции</string>
   <string name="dock_not_found_text">Чтобы настроить док-станцию, установите в нее телефон</string>
-  <string name="dock_not_found_title">Док-станция не найдена.</string>
+  <string name="dock_not_found_title">Док-станция не найдена</string>
   <string name="dock_settings">Док-станция</string>
   <string name="dock_settings_summary">Настройки звука для подключенной док-станции</string>
   <string name="dock_settings_title">Настройки док-станции</string>
@@ -700,9 +700,6 @@
   <string name="dock_sounds_enable_summary_on">Воспроизводить звук при установке или извлечении телефона</string>
   <string name="dock_sounds_enable_title">Звук при установке в док-станцию</string>
   <string name="does_not_exist">Приложение не установлено</string>
-  
-  <!--V Пожалуйста, переведите строки ниже V-->
-  
   <string name="dolby_bassboost_high">Высокое</string>
   <string name="dolby_bassboost_low">Низкое</string>
   <string name="dolby_bassboost_normal">Нормальное</string>
@@ -714,10 +711,10 @@
   <string name="dolby_eq_country">Кантри</string>
   <string name="dolby_eq_dance">Танцевальная музыка</string>
   <string name="dolby_eq_delete">Удалить</string>
-  <string name="dolby_eq_delete_success">Профиль настроек EQ успешно удален</string>
+  <string name="dolby_eq_delete_success">Профиль EQ настроек успешно удален</string>
   <string name="dolby_eq_electronic">Электронная музыка</string>
-  <string name="dolby_eq_enter_alert_msg">Вы хотите открыть режим Эквалайзера Dolby?</string>
-  <string name="dolby_eq_enter_alert_title">Режим Эквалайзера Dolby</string>
+  <string name="dolby_eq_enter_alert_msg">Вы хотите открыть Dolby режим эквалайзера?</string>
+  <string name="dolby_eq_enter_alert_title">Dolby режим эквалайзера</string>
   <string name="dolby_eq_hiphop">Хип-Хоп</string>
   <string name="dolby_eq_jazz">Джаз</string>
   <string name="dolby_eq_jungle">Джангл</string>
@@ -729,8 +726,8 @@
   <string name="dolby_mode_movie">Режим видео</string>
   <string name="dolby_mode_music">Режим аудио</string>
   <string name="dolby_mode_off">Выкл</string>
-  <string name="dolby_movie_advance">Дополнительные настройки видео</string>
-  <string name="dolby_music_advance">Дополнительные настройки аудио</string>
+  <string name="dolby_movie_advance">Расширенные настройки видео</string>
+  <string name="dolby_music_advance">Расширенные настройки аудио</string>
   <string name="dolby_preset_create">Создать</string>
   <string name="dolby_preset_format">Пользовательский %d</string>
   <string name="dolby_preset_hint">Пожалуйста, введите имя настроек</string>
@@ -738,15 +735,12 @@
   <string name="dolby_preset_select">Пожалуйста, выберите настройки</string>
   <string name="dolby_roomsize_high">Большая комната</string>
   <string name="dolby_roomsize_low">Маленькая комната</string>
-  <string name="dolby_roomsize_normal">Нормальная комната</string>
-  <string name="dolby_roomsize_summary">Режим "Звук вокруг" доступен только при использовании наушников</string>
-  <string name="dolby_roomsize_title">Режим "Звук вокруг": </string>
-  
-  <!--^ Пожалуйста, переведите строки выше ^-->
-
+  <string name="dolby_roomsize_normal">Обычная комната</string>
+  <string name="dolby_roomsize_summary">Этот режим доступен только при использовании наушников</string>
+  <string name="dolby_roomsize_title">"Режим объемного звучания:" </string>
   <string name="drive_mode">В автомобиле</string>
   <string name="drive_mode_auto_reply">Автоответ</string>
-  <string name="drive_mode_auto_sms_reply_content">Извините, я сейчас еду. Я перезвоню вам позже.</string>
+  <string name="drive_mode_auto_sms_reply_content">Извините, я сейчас за рулем. Я перезвоню вам позже.</string>
   <string name="drive_mode_auto_sms_reply_content_title">Содержание сообщения</string>
   <string name="drive_mode_calling_auto_sms_reply">Автоответ на вызов сообщением</string>
   <string name="drive_mode_invert_stop_report">Переверните, чтобы остановить отчеты</string>

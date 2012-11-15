@@ -1224,6 +1224,8 @@
   <string name="wifi_p2p_turnon_message">Начать соединение через Wi-Fi Direct. Клиент Wi-Fi и точка доступа будут отключены</string>
   <string name="wifi_watchdog_network_disabled">Не удалось подключиться к сети Wi-Fi</string>
   <string name="wifi_watchdog_network_disabled_detailed">" – плохое интернет-соединение"</string>
+  <string name="zzz_keyguard_password_attempt_count_pin_code">Осталась %1$d попытка</string>
+  <string name="zzz_keyguard_password_attempts_count_pin_code">Осталось попыток: %1$d</string>
   <string name="year">г.</string>
   <string name="years">г.</string>
   <string name="yes">ОК</string>
