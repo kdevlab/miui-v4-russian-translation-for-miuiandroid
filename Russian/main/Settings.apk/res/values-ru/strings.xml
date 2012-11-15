@@ -703,9 +703,9 @@
   
   <!--V Пожалуйста, переведите строки ниже V-->
   
-  <string name="dolby_bassboost_high">Высокий</string>
-  <string name="dolby_bassboost_low">Низкий</string>
-  <string name="dolby_bassboost_normal">Нормальный</string>
+  <string name="dolby_bassboost_high">Высокие</string>
+  <string name="dolby_bassboost_low">Низкие</string>
+  <string name="dolby_bassboost_normal">Нормально</string>
   <string name="dolby_bassboost_title">Уровень усиления баса: </string>
   <string name="dolby_effects">Эффекты Dolby</string>
   <string name="dolby_eq_auto">Пользовательский</string>
@@ -739,7 +739,7 @@
   <string name="dolby_roomsize_high">Большая комната</string>
   <string name="dolby_roomsize_low">Маленькая комната</string>
   <string name="dolby_roomsize_normal">Нормальная комната</string>
-  <string name="dolby_roomsize_summary">Режим "звук вокруг" доступен только при использовании наушников</string>
+  <string name="dolby_roomsize_summary">Режим "Звук вокруг" доступен только при использовании наушников</string>
   <string name="dolby_roomsize_title">Режим "Звук вокруг": </string>
   
   <!--^ Пожалуйста, переведите строки выше ^-->
