@@ -493,7 +493,7 @@
   <string name="spring_begins" />
   <string name="ssl_certificate">Сертификат безопасности</string>
   <string name="status_bar_toggle_ac">Упр. доступом</string>
-  <string name="status_bar_toggle_auto_brightness">Авто-подсветка</string>
+  <string name="status_bar_toggle_auto_brightness">Подсветка</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Подсветка</string>
   <string name="status_bar_toggle_data">Интернет</string>
