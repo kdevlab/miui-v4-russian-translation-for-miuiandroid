@@ -1092,7 +1092,7 @@
   <string name="sim_done_button">Готово</string>
   <string name="sim_removed_message">Пока вы не вставите действующую SIM-карту, мобильная сеть будет недоступна</string>
   <string name="sim_removed_title">SIM-карта удалена</string>
-  <string name="sim_restart_button">Перезапуск</string>
+  <string name="sim_restart_button">Перезагрузка</string>
   <string name="sipAddressTypeCustom">Особый</string>
   <string name="sipAddressTypeHome">Домашний</string>
   <string name="sipAddressTypeOther">Другой</string>
