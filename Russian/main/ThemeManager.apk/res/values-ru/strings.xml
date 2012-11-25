@@ -46,8 +46,8 @@
   <string name="theme_component_title_alarm">Будильник</string>
   <string name="theme_component_title_all">Темы</string>
   <string name="theme_component_title_audio_effect">Звуковые эффекты</string>
-  <string name="theme_component_title_boot_animation">Экран загрузки</string>
-  <string name="theme_component_title_boot_audio">Загрузка</string>
+  <string name="theme_component_title_boot_animation">Анимация вкл.</string>
+  <string name="theme_component_title_boot_audio">Мелодия вкл.</string>
   <string name="theme_component_title_clock">Часы</string>
   <string name="theme_component_title_contact">Контакты</string>
   <string name="theme_component_title_font">Шрифт</string>
