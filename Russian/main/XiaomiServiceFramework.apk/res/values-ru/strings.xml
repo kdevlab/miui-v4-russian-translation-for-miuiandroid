@@ -127,7 +127,7 @@
   <string name="micloud_val_sms_alert">Будет отправлено сообщение для подтверждения вашего телефонного номера, продолжить?</string>
   <string name="micloud_waiting">Ожидание...</string>
   <string name="micloud_welcome_banner">Аккаунт Xiaomi</string>
-  <string name="micloud_welcome_skip_login" />
+  <string name="micloud_welcome_skip_login">Пропустить этот шаг</string>
   <string name="mili_center">Центр MiCredit</string>
   <string name="next">Далее</string>
   <string name="no_sim">Нет SIM-карты, служба синхронизации недоступна</string>
