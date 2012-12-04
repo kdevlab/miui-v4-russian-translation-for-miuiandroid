@@ -3,10 +3,10 @@
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="about_device">Сведения о системе</string>
-  <string name="active_xiaomi_account">Активный</string>
-  <string name="active_xiaomi_account_msg">"Перейдите на форум MIUI для активации аккаунта Xiaomi:
+  <string name="active_xiaomi_account">Активировать</string>
+  <string name="active_xiaomi_account_msg">"Пожалуйста, перейдите на форум MIUI для активации аккаунта Xiaomi:
 "</string>
-  <string name="active_xiaomi_account_title">Активация аккаунта xiaomi</string>
+  <string name="active_xiaomi_account_title">Активация аккаунта</string>
   <string name="app_name">Обновление</string>
   <string name="apply_buddy_update_info_message">Нажмите «Обновить»</string>
   <string name="apply_existing_update_md5error_title">Ошибка проверки целостности</string>
@@ -18,11 +18,11 @@
   <string name="apply_update_fail">Ошибка обновления</string>
   <string name="apply_update_guide">Обновление в фоновом режиме, не влияет на нормальное использование</string>
   <string name="apply_update_refuse">Идет обновление системы, хотите прервать?</string>
-  <string name="apply_upload_info_message">Нажмите «Обновить», телефон будет автоматически перезагружен для применения обновлений.</string>
+  <string name="apply_upload_info_message">Нажмите «Обновить», телефон будет автоматически перезагружен для применения обновлений</string>
   <string name="apply_upload_info_message_manually">Вы можете сами установить обновление с SD-карты (%s)</string>
   <string name="applying_rom_message">Применение обновления</string>
   <string name="applying_update">Применение обновления...%s</string>
-  <string name="best_update">2.Лучшее обновление</string>
+  <string name="best_update">2. Лучшее обновление</string>
   <string name="boot_recovery">В режим восстановления</string>
   <string name="cancel_download_buton_text">Отмена</string>
   <string name="check_update_policy">Параметры обновления</string>
@@ -32,7 +32,7 @@
   <string name="confirm_download_cancelation_dialog_message">Вы уверены, что хотите отменить загрузку обновления?</string>
   <string name="copy_install_log">Копировать в буфер</string>
   <string name="current_version_text">Текущая версия:</string>
-  <string name="current_version_update_monthly_build">Установлено:</string>
+  <string name="current_version_update_monthly_build">Текущая версия:</string>
   <string name="daily_build">ежедневная сборка</string>
   <string name="dialog_no">Нет</string>
   <string name="dialog_ok">ОК</string>
@@ -46,7 +46,7 @@
   <string name="emegency_update_size">Размер: %s</string>
   <string name="emegency_version">Обновление</string>
   <string name="exception_while_downloading">Произошла ошибка при загрузке обновления</string>
-  <string name="expect">4.Ожидания</string>
+  <string name="expect">4. Ожидания</string>
   <string name="file_not_found_error_message">Файл не существует или к нему нет доступа, попробуйте еще раз</string>
   <string name="finish">Готово</string>
   <string name="finish_download">Загрузка завершена</string>
@@ -122,7 +122,7 @@
   <string name="update_feedback">Отзывы о прошивке</string>
   <string name="update_feedback_expired">"Жаль, что вы пропустили возможность участия в отзывах о прошивке!
 Пожалуйста, попробуйте опрос в следующий вторник"</string>
-  <string name="update_feel">1.Что вы ощущаете?</string>
+  <string name="update_feel">1. Что вы ощущаете?</string>
   <string name="update_general">Более-менее</string>
   <string name="update_happy">Счастливый</string>
   <string name="update_monthly_build_only">Только ежемесячные обновления</string>
@@ -142,5 +142,5 @@
   <string name="weekly_build">еженедельная сборка</string>
   <string name="wifi_not_available_body">Файл прошивки слишком большой, рекомендуется скачать его через Wi-Fi. Ваш Wi-Fi в настоящее время отключен, вы хотите продолжить загрузку через мобильную сеть?</string>
   <string name="wifi_not_available_title">Wi-Fi не подключен</string>
-  <string name="worst_update">3.Худшее обновление</string>
+  <string name="worst_update">3. Худшее обновление</string>
 </resources>
