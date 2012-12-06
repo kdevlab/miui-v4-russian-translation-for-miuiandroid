@@ -438,7 +438,7 @@
   <string name="resource_downloading">Скачивание...</string>
   <string name="resource_get_auth">У вас нет авторизации ресурса</string>
   <string name="resource_get_auth_checking">Проверка авторизации...</string>
-  <string name="resource_get_auth_exceed_max_limit_tips">Тема не может быть установлена на данный телефон, так как этот аккаунт Xiaomi используется на более чем 10 устройствах. Попробуйте с другим аккаунтом</string>
+  <string name="resource_get_auth_exceed_max_limit_tips">Тема не может быть установлена на данный телефон, так как Ваш аккаунт используется уже на более чем 10 устройствах. Попробуйте с другим аккаунтом.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Превышен лимит авторизаций</string>
   <string name="resource_get_auth_failed">Ошибка получения авторизации</string>
   <string name="resource_get_auth_missing">Тема не скачена с официального маркета, пожалуйста скачайте похожую с официального маркета</string>
@@ -457,7 +457,7 @@
   <string name="resource_select">Выбрать</string>
   <string name="resource_selected_number">Выбрано %d ресурс(ов)</string>
   <string name="resource_server_out_of_service">Не обслуживается, попробуйте позже</string>
-  <string name="resource_switch_account">Переключить</string>
+  <string name="resource_switch_account">Сменить</string>
   <string name="resource_system_title">Системные ресурсы</string>
   <string name="resource_title">Подробнее</string>
   <string name="resource_transparent_wallpaper">Прозрачный</string>

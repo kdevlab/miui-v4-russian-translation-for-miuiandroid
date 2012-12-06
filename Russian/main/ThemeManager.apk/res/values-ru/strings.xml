@@ -115,7 +115,7 @@
   <string name="theme_pick_import_fail">Ошибка импорта</string>
   <string name="theme_sdcard_importing">Импортирование</string>
   <string name="theme_select_others">Прочее</string>
-  <string name="theme_update_request_content">Необходим новый формат темы, обновление может занять много времени, но не будет потреблять ваш трафик. Нажмите OK для обновления</string>
+  <string name="theme_update_request_content">Необходим новый формат темы. Обновление может занять некоторое время, интернет не требуется. Нажмите OK для обновления.</string>
   <string name="theme_update_request_title">Обновление темы</string>
   <string name="third_party_pickers_activity_title">Установить %1$s</string>
   <string name="title_component">Компоненты</string>
