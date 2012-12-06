@@ -17,7 +17,7 @@
   <string name="alipay_error_install">Установка мобильной безопасности плагина Alipay не удалась!</string>
   <string name="alipay_error_msp">Добавление новых кредитов не удалась!</string>
   <string name="alipay_msp_not_installed">Плагин безопастности Alipay не установлен, установите его сейчас?</string>
-  <string name="alipay_picker_hint">Пожалуйста, выберите количество кредитов Mi для пополнения:</string>
+  <string name="alipay_picker_hint">Пожалуйста, выберите количество кредитов Mi для пополнения</string>
   <string name="app_name">Менеджер аккаунтов Xiaomi</string>
   <string name="bad_authentication">Неверный пароль или имя пользователя</string>
   <string name="balance">Баланс: %1$s MiCredit</string>
@@ -160,6 +160,7 @@
   <string name="prev">Назад</string>
   <string name="progress_alipay_creating">Обработка запроса Alipay...</string>
   <string name="progress_alipay_installing">Установка плагина Alipay...</string>
+  <string name="progress_connecting">Подключение...</string>
   <string name="progress_creating">Проверка покупки...</string>
   <string name="progress_error_common">Ошибка пополнения. Пожалуйста, попробуйте позже</string>
   <string name="progress_error_contact_server">Ошибка сервера. Пожалуйста, свяжитесь с нашей партнерской компанией по обслуживанию клиентов в Шэньчжоу по следующему телефону: 400-001-0195. И пожалуйста, укажите серийный номер: %1$s.</string>
