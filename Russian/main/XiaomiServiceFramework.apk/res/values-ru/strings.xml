@@ -24,6 +24,7 @@
   <string name="basic_info">Общая информация</string>
   <string name="btn_activate">Активировать</string>
   <string name="btn_back">Назад</string>
+  <string name="btn_call">Позвонить</string>
   <string name="btn_mili_center_recharge">Пополнить MiCredit</string>
   <string name="btn_query">Узнать сейчас</string>
   <string name="btn_recharge_large">Пополнить</string>
