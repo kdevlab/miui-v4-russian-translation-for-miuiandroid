@@ -178,6 +178,7 @@
   <string name="progress_submit_title">Запрос на пополнение подтвержден</string>
   <string name="progress_success_summary">Баланс: %1$s кредитов Mi</string>
   <string name="progress_success_title">Пополнено на %1$s кредитов Mi</string>
+  <string name="progress_warning_contact_server">Платеж все еще не подтвержден. \n1. Пожалуйста, свяжитесь со службой поддержки в Шеньчжоу: %1$s \n2. Сообщите свой серийный номер: %2$s</string>
   <string name="quick_login_title">Требуется вход в аккаунт. Пожалуйста, введите ваш пароль</string>
   <string name="recharge_alipay_summary">Пополнение Alipay</string>
   <string name="recharge_alipay_title">Alipay</string>
