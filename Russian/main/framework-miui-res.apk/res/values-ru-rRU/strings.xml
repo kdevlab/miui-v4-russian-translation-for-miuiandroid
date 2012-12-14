@@ -288,7 +288,7 @@
   <string name="every_day">Каждый день</string>
   <string name="factorytest_reboot">Перезагрузить телефон</string>
   <string name="fast_scroll_alphabet">" АБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЫЭЮЯ"</string>
-  <string name="find_device_sim_change_instructions">"Ваше устройство заблокировано. Вставьте SIM-карту или введите ваш пароль для аккаунта Xiaomi."</string>
+  <string name="find_device_sim_change_instructions">"Ваше устройство заблокировано. Вставьте SIM-карту или введите Ваш пароль для аккаунта Xiaomi."</string>
   <string name="find_device_turn_off_flight_mode">Отключите режим полета</string>
   <string name="find_device_turn_off_flight_mode_instructions">"Ваш телефон заблокирован
 Пожалуйста, отключите режим полета"</string>
@@ -298,17 +298,17 @@
   <string name="firewall_setting">Черный список</string>
   <string name="first_back_long_press_message">"Чтобы принудительно закрывать приложения удержанием кнопки НАЗАД, зайдите в:
 Настройки -&gt; Система -&gt; Кнопки
-и включите Закрыть приложение при."</string>
+и включите "Закрыть приложение при."</string>
   <string name="first_back_long_press_title">Принудителное завершение приложений кнопкой НАЗАД</string>
   <string name="fools_day" />
   <string name="force_exit_message">Приложение \"%1$s\" было закрыто</string>
   <string name="format_time_in_12_hours">%1$s %2$s</string>
   <string name="gigabyteShort">ГБ</string>
   <string name="global_action_power_off">Выключить телефон</string>
-  <string name="global_action_privacy_mode_dialog_message">В режиме гостя сообщения, журналы вызовов и заметки будут скрыты, а также вы не сможете редактировать рабочий стол</string>
+  <string name="global_action_privacy_mode_dialog_message">В режиме гостя сообщения, журналы вызовов и заметки будут скрыты, а также Вы не сможете редактировать рабочий стол</string>
   <string name="global_action_privacy_mode_off_status">Режим гостя выключен</string>
   <string name="global_action_privacy_mode_on_status">Режим гостя включен</string>
-  <string name="global_action_privacy_mode_on_toast">Режим гостя включен - сообщения, журналы вызовов и заметки будут скрыты, а также вы не сможете редактировать рабочий стол</string>
+  <string name="global_action_privacy_mode_on_toast">Режим гостя включен - сообщения, журналы вызовов и заметки будут скрыты, а также Вы не сможете редактировать рабочий стол</string>
   <string name="global_action_toggle_privacy_mode">Гость</string>
   <string name="global_actions_airplane_mode_off_status">Режим полета отключен</string>
   <string name="global_actions_airplane_mode_on_status">Режим полета включен</string>
@@ -398,7 +398,7 @@
   <string name="new_years_day">Новый год</string>
   <string name="no_sim">Нет SIM-карты</string>
   <string name="no_vibrate_hint">В соответствии с настройками, уведомление о входящем вызове и сообщения не будут вибрировать, включение это пункта не вызовет никакого действия</string>
-  <string name="not_all_vibrate_hint">В соответствии с настройками, будет вибрация при: %1$s, а при: %2$s вибрации не будет, вы можете изменить это в настройках</string>
+  <string name="not_all_vibrate_hint">В соответствии с настройками, будет вибрация при: %1$s, а при: %2$s вибрации не будет, Вы можете изменить это в настройках</string>
   <string name="notification_vibrate_hint">Уведомление</string>
   <string name="online_hottest">Популярные</string>
   <string name="online_hottest_short">Топ</string>
@@ -564,7 +564,7 @@
   <string name="user_agreement2">Пользовательское соглашение</string>
   <string name="user_agreement3">" и "</string>
   <string name="user_agreement4">Политику конфиденциальности</string>
-  <string name="user_agreement5">, Нажимая ОК, вы соглашаетесь с вышеуказаннным, нажмите Отмена для выхода</string>
+  <string name="user_agreement5">, Нажимая ОК, Вы соглашаетесь с вышеуказанным. Нажмите Отмена для выхода</string>
   <string name="valentines_day">День Святого Валентина</string>
   <string name="vernal_equinox" />
   <string name="wake_alarm_message">Отключать будильник через %s звонков</string>
