@@ -298,7 +298,7 @@
   <string name="firewall_setting">Черный список</string>
   <string name="first_back_long_press_message">"Чтобы принудительно закрывать приложения удержанием кнопки НАЗАД, зайдите в:
 Настройки -&gt; Система -&gt; Кнопки
-и включите "Закрыть приложение при."</string>
+и включите Закрыть приложение при."</string>
   <string name="first_back_long_press_title">Принудителное завершение приложений кнопкой НАЗАД</string>
   <string name="fools_day" />
   <string name="force_exit_message">Приложение \"%1$s\" было закрыто</string>
