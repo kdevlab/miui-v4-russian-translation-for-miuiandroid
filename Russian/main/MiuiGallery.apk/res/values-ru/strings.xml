@@ -3,7 +3,7 @@
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="Import">Импорт</string>
-  <string name="account_not_login">Вы можете войти в ваш аккаунт Xiaomi и синхронизировать ваше облако. Это автоматически отправит ваши снимки в облако для вашего удобства</string>
+  <string name="account_not_login">Вы можете войти в ваш аккаунт Xiaomi и синхронизировать Ваше облако. Это автоматически отправит Ваши снимки в облако для Вашего удобства</string>
   <string name="activity_not_found">Действие не поддерживается ни в одном приложении</string>
   <string name="add_account">Добавить аккаунт</string>
   <string name="add_bookmark">Добавить в избранное</string>
@@ -46,7 +46,7 @@
   <string name="close">Закрыть</string>
   <string name="cloud_albums">Облачные альбомы</string>
   <string name="cloud_gallery_no_pictures">Фото не найдены в MiCloud</string>
-  <string name="cloud_gallery_recyclebin_full">Корзина в облаке полна, пожалуйста очистите корзину, зайдя на i.xiaomi.com.</string>
+  <string name="cloud_gallery_recyclebin_full">Корзина в облаке полна. Пожалуйста очистите корзину, зайдя на i.xiaomi.com.</string>
   <string name="cloud_gallery_setting">Настройки облачной галереи</string>
   <string name="cloud_gallery_space_full">Ошибка отправки - облачное хранилище заполнено</string>
   <string name="cloud_media_set_set">Облачные альбомы</string>
@@ -56,7 +56,7 @@
   <string formatted="false" name="confirm_delete_folders_including">%s папок (включая %s)</string>
   <string name="confirm_delete_including_null">0 штук</string>
   <string name="confirm_delete_pictures">%s фотографий</string>
-  <string name="confirm_delete_system_album">%s - это системный альбом, вы уверены, что хотите удалить?</string>
+  <string name="confirm_delete_system_album">%s - это системный альбом. Вы уверены, что хотите удалить?</string>
   <string name="confirm_delete_videos">%s видео</string>
   <string name="confirm_know">OK</string>
   <string name="contact_photo">Фото контакта</string>
@@ -244,7 +244,7 @@
   <string name="rotate_left">Повернуть влево</string>
   <string name="rotate_right">Повернуть вправо</string>
   <string name="rotate_tooltip">Чтобы повернуть фото, перетащите его край</string>
-  <string name="running_face_detection">Начало идентификации лица, пожалуйста, подождите...</string>
+  <string name="running_face_detection">Начало идентификации лица. Пожалуйста, подождите...</string>
   <string name="saturation">Насыщенность</string>
   <string name="save">Готово</string>
   <string name="save_error">Изображение не сохранено</string>
@@ -311,10 +311,10 @@
   <string name="sync_album">Синхронизировать альбом</string>
   <string name="sync_album_error">Не удалось загрузить фотографии. Повторите попытку позже</string>
   <string name="sync_album_set_error">Не удалось загрузить альбомы. Повторите попытку позже</string>
-  <string name="sync_album_summary">Загрузите ваши фотографии и скриншоты вашего телефона в MiCloud</string>
+  <string name="sync_album_summary">Загрузите ваши фотографии и скриншоты Вашего телефона в MiCloud</string>
   <string name="sync_history_power_on">Синхр-ция истории изображений только во время зарядки</string>
   <string name="sync_history_power_on_summary">Рекомендуется включить, иначе расход батареи может увеличиться</string>
-  <string name="sync_not_open">Вы можете синхронизировать ваши снимки в облако для вашего удобства</string>
+  <string name="sync_not_open">Вы можете синхронизировать Ваши снимки в облако для Вашего удобства</string>
   <string name="sync_only_in_wifi">Только Wi-Fi</string>
   <string name="sync_only_in_wifi_summary">Рекомендуется включить, иначе будет потребление мобильного трафика</string>
   <string name="sync_picasa_albums">Обновить</string>
