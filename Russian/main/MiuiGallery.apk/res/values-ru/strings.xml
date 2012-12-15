@@ -46,6 +46,7 @@
   <string name="close">Закрыть</string>
   <string name="cloud_albums">Облачные альбомы</string>
   <string name="cloud_gallery_no_pictures">Фото не найдены в MiCloud</string>
+  <string name="cloud_gallery_recyclebin_full">Корзина в облаке полна, пожалуйста очистите корзину, зайдя на i.xiaomi.com.</string>
   <string name="cloud_gallery_setting">Настройки облачной галереи</string>
   <string name="cloud_gallery_space_full">Ошибка отправки - облачное хранилище заполнено</string>
   <string name="cloud_media_set_set">Облачные альбомы</string>

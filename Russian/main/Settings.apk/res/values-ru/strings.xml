@@ -1329,12 +1329,16 @@
   <string name="runningservices_settings_summary">Просмотр и управление работающими приложениями</string>
   <string name="runningservices_settings_title">Работающие приложения</string>
   <string name="scan_list_label">"Результат сканирования: "</string>
+  <string name="screen">Экран</string>
   <string name="screen_button_custom">Настройка расположения кнопок</string>
   <string name="screen_button_key">Виртуальные кнопки</string>
+  <string name="screen_color_adjust">Настройка цветов</string>
+  <string name="screen_color_temperature_adjust">Настройка цветовой температуры</string>
   <string name="screen_compatibility_label">Совместимость с экраном</string>
   <string name="screen_compatibility_text">Возможно, приложение не предназначено для вашего экрана. Здесь можно настроить параметры его отображения</string>
   <string name="screen_on_proximity_sensor_summary">"Режим предотвращения ошибок в настоящее время включен. Пожалуйста, убедитесь, что верхняя часть экрана не закрыта"</string>
   <string name="screen_on_proximity_sensor_title">Предотвращение ошибок</string>
+  <string name="screen_saturation_adjust">Настройка насыщенности цвета</string>
   <string name="screen_timeout">Спящий режим</string>
   <string name="screen_timeout_summary">После %1$s бездействия</string>
   <string name="screen_timeout_title">Отключение экрана</string>
@@ -1585,6 +1589,7 @@
 Технология Google синхронизации данных позволяет получать данные о контактах, встречах и многом другом с любого устройства"</string>
   <string name="sync_settings">Аккаунты и синхронизация</string>
   <string name="sync_wifi_label">Настройки синхр. Wi-Fi</string>
+  <string name="system">Система</string>
   <string name="system_package">Системные обновления нельзя установить на внешнем носителе</string>
   <string name="system_update_settings_list_item_summary" />
   <string name="system_update_settings_list_item_title">Обновления системы</string>

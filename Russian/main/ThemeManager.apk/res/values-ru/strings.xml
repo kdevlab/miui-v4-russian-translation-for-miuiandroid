@@ -93,7 +93,8 @@
   <string name="theme_format_wrong_content">Неверный формат темы</string>
   <string name="theme_import">Импорт</string>
   <string name="theme_import_activity_label">Обновление тем</string>
-  <string name="theme_import_fail">Ошибка импорта темы (%1$s)</string>
+  <string name="theme_import_data">Импорт информации</string>
+  <string name="theme_import_fail">Ошибка импорта %1$s</string>
   <string name="theme_import_from_sdcard">Импортировать с SD-карты</string>
   <string name="theme_import_importing">Обновление.. осталось %1$d</string>
   <string name="theme_import_item_delete_request_button">Удалить</string>

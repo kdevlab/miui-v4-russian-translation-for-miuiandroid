@@ -288,13 +288,11 @@
   <string name="every_day">Каждый день</string>
   <string name="factorytest_reboot">Перезагрузить телефон</string>
   <string name="fast_scroll_alphabet">" АБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЫЭЮЯ"</string>
+  <string name="find_device_check_sim">Проверка SIM…</string>
   <string name="find_device_sim_change_instructions">"Ваше устройство заблокировано. Вставьте SIM-карту или введите Ваш пароль для аккаунта Xiaomi."</string>
-  <string name="find_device_turn_off_flight_mode">Отключите режим полета</string>
-  <string name="find_device_turn_off_flight_mode_instructions">"Ваш телефон заблокирован
-Пожалуйста, отключите режим полета"</string>
-  <string name="find_device_sim_change_instructions_no_network">"Ваш телефон заблокирован
-Пожалуйста, вставьте SIM-карту"</string>
-  <string name="find_device_check_sim">Проверка SIM-карты...</string>
+  <string name="find_device_sim_change_instructions_no_network">"Ваше устройство заблокировано, вставьте оригинальную SIM-карту"</string>
+  <string name="find_device_turn_off_flight_mode">Выключить режим в полете</string>
+  <string name="find_device_turn_off_flight_mode_instructions">"Ваше устройство заблокировано, выключите режим в полете"</string>
   <string name="firewall_setting">Черный список</string>
   <string name="first_back_long_press_message">"Чтобы принудительно закрывать приложения удержанием кнопки НАЗАД, зайдите в:
 Настройки -&gt; Система -&gt; Кнопки
@@ -515,6 +513,9 @@
   <string name="status_bar_toggle_lock">Блокировка</string>
   <string name="status_bar_toggle_mute">Без звука</string>
   <string name="status_bar_toggle_network_type">Тип сети</string>
+  <string name="status_bar_toggle_power_high">Производительность</string>
+  <string name="status_bar_toggle_power_low">Энергосбережение</string>
+  <string name="status_bar_toggle_power_mid">Сбалансированный</string>
   <string name="status_bar_toggle_power_mode">Режим питания</string>
   <string name="status_bar_toggle_privacy_mode">Гость</string>
   <string name="status_bar_toggle_reboot">Перезагрузка</string>
@@ -524,13 +525,10 @@
   <string name="status_bar_toggle_screen_button">Отключить кнопки</string>
   <string name="status_bar_toggle_screenshot">Скриншот</string>
   <string name="status_bar_toggle_shutdown">Выключение</string>
+  <string name="status_bar_toggle_sync">Синхронизация</string>
   <string name="status_bar_toggle_sync_auto">Автосинхрон.</string>
   <string name="status_bar_toggle_sync_manual">Ручная синхрон.</string>
-  <string name="status_bar_toggle_sync">Синхронизация</string>
   <string name="status_bar_toggle_syncing">Синхронизация</string>
-  <string name="status_bar_toggle_power_low">Энергосбережение</string>
-  <string name="status_bar_toggle_power_mid">Обычный</string>
-  <string name="status_bar_toggle_power_high">Производительность</string>
   <string name="status_bar_toggle_torch">Фонарик</string>
   <string name="status_bar_toggle_vibrate">Вибрация</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
