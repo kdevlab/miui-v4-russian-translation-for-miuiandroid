@@ -920,9 +920,9 @@
   <string name="permlab_writeSocialStream">добавлять записи в вашу социальную ленту</string>
   <string name="permlab_writeSyncSettings">записывать настройки синхронизации</string>
   <string name="perms_description_app">Предоставлено %1$s</string>
-  <string name="perms_hide"><b>Скрыть</b></string>
+  <string name="perms_hide" />
   <string name="perms_new_perm_prefix" />
-  <string name="perms_show_all"><b>Показать все</b></string>
+  <string name="perms_show_all" />
   <string name="petabyteShort">\u0020ПБ</string>
   <string name="phoneTypeAssistant">Секретарь</string>
   <string name="phoneTypeCallback">Обр. вызов</string>
@@ -1190,6 +1190,7 @@
   <string name="volume_alarm">Громкость сигнала предупреждения</string>
   <string name="volume_bluetooth_call">Громкость при разговоре</string>
   <string name="volume_call">Громкость при разговоре</string>
+  <string name="volume_fm">Громкость радио</string>
   <string name="volume_icon_description_bluetooth">Громкость Bluetooth-устройства</string>
   <string name="volume_icon_description_incall">Громкости мелодии вызова</string>
   <string name="volume_icon_description_media">Громкость мультимедиа</string>
@@ -1201,7 +1202,6 @@
   <string name="volume_notification">Громкость уведомления</string>
   <string name="volume_ringtone">Громкость звонка</string>
   <string name="volume_unknown">Громкость</string>
-  <string name="volume_fm">Громкость радио</string>
   <string name="vpn_text">Нажмите здесь, чтобы изменить настройки сети</string>
   <string name="vpn_text_long">Подключено: \"%s\". Нажмите здесь, чтобы изменить настройки сети</string>
   <string name="vpn_title">Сеть VPN активна</string>
@@ -1235,12 +1235,12 @@
   <string name="wifi_p2p_turnon_message">Начать соединение через Wi-Fi Direct. Клиент Wi-Fi и точка доступа будут отключены.</string>
   <string name="wifi_watchdog_network_disabled">Не удалось подключиться к сети Wi-Fi</string>
   <string name="wifi_watchdog_network_disabled_detailed">" – плохое интернет-соединение"</string>
-  <string name="zzz_keyguard_password_attempt_count_pin_code">Осталась %1$d попытка</string>
-  <string name="zzz_keyguard_password_attempts_count_pin_code">Осталось попыток: %1$d</string>
-  <string name="zzz_keyguard_password_attempt_count_puk_code">%1$d attempt left</string>
-  <string name="zzz_keyguard_password_attempts_count_puk_code">%1$d attempts left</string>
   <string name="year">г.</string>
   <string name="years">г.</string>
   <string name="yes">ОК</string>
   <string name="yesterday">Вчера</string>
+  <string name="zzz_keyguard_password_attempt_count_pin_code">Осталась %1$d попытка</string>
+  <string name="zzz_keyguard_password_attempt_count_puk_code">%1$d attempt left</string>
+  <string name="zzz_keyguard_password_attempts_count_pin_code">Осталось попыток: %1$d</string>
+  <string name="zzz_keyguard_password_attempts_count_puk_code">%1$d attempts left</string>
 </resources>
