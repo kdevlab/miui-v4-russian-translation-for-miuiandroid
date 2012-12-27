@@ -42,6 +42,7 @@
   <string formatted="false" name="abbrev_month_year">%-b %Y</string>
   <string name="abbrev_wday_month_day_no_year">EEE, d MMMM</string>
   <string name="abbrev_wday_month_day_year">EEE, d MMM yyyy</string>
+  <string name="accept">Принять</string>
   <string name="accessibility_binding_label">Специальные возможности</string>
   <string name="action_bar_home_description">Перейти на главную</string>
   <string name="action_bar_up_description">Перейти вверх</string>
@@ -51,7 +52,7 @@
   <string name="activity_chooser_view_see_all">Просмотреть все</string>
   <string name="activity_list_empty">Подходящих действий не найдено</string>
   <string name="activity_resolver_use_always">Всегда</string>
-  <string name="activity_resolver_use_once">Один раз</string>
+  <string name="activity_resolver_use_once">Сейчас</string>
   <string name="activitychooserview_choose_application">Выберите приложение</string>
   <string name="adb_active_notification_message">Нажмите, чтобы отключить отладку USB</string>
   <string name="adb_active_notification_title">Отладка по USB разрешена</string>
@@ -65,10 +66,10 @@
   <string name="alwaysUse">По умолчанию для этого действия</string>
   <string name="am">AM</string>
   <string name="android_system_label">Система Android</string>
-  <string name="android_upgrading_apk">Оптимизация приложений %1$d из %2$d</string>
+  <string name="android_upgrading_apk">Обновление приложений %1$d из %2$d</string>
   <string name="android_upgrading_complete">Окончание загрузки...</string>
-  <string name="android_upgrading_starting_apps">Запуск приложений...</string>
-  <string name="android_upgrading_title">Обновление Android...</string>
+  <string name="android_upgrading_starting_apps">Запуск системы...</string>
+  <string name="android_upgrading_title">Обновление системы...</string>
   <string name="anr_activity_application">"Приложение \"%2$s\" не отвечает.
 
 Закрыть его?"</string>
@@ -160,29 +161,30 @@
   <string name="date_picker_increment_month_button">На месяц вперед</string>
   <string name="date_picker_increment_year_button">На год вперед</string>
   <string name="date_time">%2$s, %1$s</string>
+  <string name="date_time_done">Готово</string>
   <string name="date_time_set">Установить</string>
   <string name="day">дн.</string>
-  <string name="day_of_week_long_friday">пятница</string>
-  <string name="day_of_week_long_monday">понедельник</string>
-  <string name="day_of_week_long_saturday">суббота</string>
-  <string name="day_of_week_long_sunday">воскресенье</string>
-  <string name="day_of_week_long_thursday">четверг</string>
-  <string name="day_of_week_long_tuesday">вторник</string>
-  <string name="day_of_week_long_wednesday">среда</string>
-  <string name="day_of_week_medium_friday">пт</string>
-  <string name="day_of_week_medium_monday">пн</string>
-  <string name="day_of_week_medium_saturday">сб</string>
-  <string name="day_of_week_medium_sunday">вс</string>
-  <string name="day_of_week_medium_thursday">чт</string>
-  <string name="day_of_week_medium_tuesday">вт</string>
-  <string name="day_of_week_medium_wednesday">ср</string>
-  <string name="day_of_week_short_friday">пт</string>
-  <string name="day_of_week_short_monday">пн</string>
-  <string name="day_of_week_short_saturday">сб</string>
-  <string name="day_of_week_short_sunday">вс</string>
-  <string name="day_of_week_short_thursday">чт</string>
-  <string name="day_of_week_short_tuesday">вт</string>
-  <string name="day_of_week_short_wednesday">ср</string>
+  <string name="day_of_week_long_friday">Пятница</string>
+  <string name="day_of_week_long_monday">Понедельник</string>
+  <string name="day_of_week_long_saturday">Суббота</string>
+  <string name="day_of_week_long_sunday">Воскресенье</string>
+  <string name="day_of_week_long_thursday">Четверг</string>
+  <string name="day_of_week_long_tuesday">Вторник</string>
+  <string name="day_of_week_long_wednesday">Среда</string>
+  <string name="day_of_week_medium_friday">Пт</string>
+  <string name="day_of_week_medium_monday">Пн</string>
+  <string name="day_of_week_medium_saturday">Сб</string>
+  <string name="day_of_week_medium_sunday">Вс</string>
+  <string name="day_of_week_medium_thursday">Чт</string>
+  <string name="day_of_week_medium_tuesday">Вт</string>
+  <string name="day_of_week_medium_wednesday">Ср</string>
+  <string name="day_of_week_short_friday">Пт</string>
+  <string name="day_of_week_short_monday">Пн</string>
+  <string name="day_of_week_short_saturday">Сб</string>
+  <string name="day_of_week_short_sunday">Вс</string>
+  <string name="day_of_week_short_thursday">Чт</string>
+  <string name="day_of_week_short_tuesday">Вт</string>
+  <string name="day_of_week_short_wednesday">Ср</string>
   <string name="day_of_week_shortest_friday">П</string>
   <string name="day_of_week_shortest_monday">П</string>
   <string name="day_of_week_shortest_saturday">С</string>
@@ -191,11 +193,12 @@
   <string name="day_of_week_shortest_tuesday">В</string>
   <string name="day_of_week_shortest_wednesday">С</string>
   <string name="days">дн.</string>
+  <string name="decline">Отклонить</string>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
   <string name="defaultVoiceMailAlphaTag">Голосовая почта</string>
   <string name="default_audio_route_category_name">Система</string>
   <string name="default_audio_route_name">Телефон</string>
-  <string name="default_audio_route_name_dock_speakers">Динамики дока</string>
+  <string name="default_audio_route_name_dock_speakers">Док-станция</string>
   <string name="default_audio_route_name_hdmi">Аудио HDMI</string>
   <string name="default_audio_route_name_headphones">Наушники</string>
   <string name="default_permission_group">По умолчанию</string>
@@ -207,6 +210,7 @@
   <string name="description_direction_right">Проведите вправо, чтобы %s</string>
   <string name="description_direction_up">Проведите вверх, чтобы %s</string>
   <string name="description_target_camera">Камера</string>
+  <string name="description_target_search">Поиск</string>
   <string name="description_target_silent">Без звука</string>
   <string name="description_target_soundon">Включить звук</string>
   <string name="description_target_unlock">Разблокировать</string>
@@ -218,12 +222,12 @@
   <string name="dlg_confirm_kill_storage_users_title">Включение USB-накопителя</string>
   <string name="dlg_error_title">Ошибка при подключении USB</string>
   <string name="dlg_ok">ОК</string>
-  <string name="double_tap_toast">Совет: нажмите дважды, чтобы увеличить и уменьшить масштаб.</string>
+  <string name="double_tap_toast">Совет: нажмите дважды, чтобы увеличить и уменьшить масштаб</string>
   <string name="editTextMenuTitle">Операции с текстом</string>
   <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
   <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
   <string name="ellipsis">…</string>
-  <string name="ellipsis_two_dots">...</string>
+  <string name="ellipsis_two_dots">..</string>
   <string name="emailTypeCustom">Создать свой ярлык</string>
   <string name="emailTypeHome">Личный</string>
   <string name="emailTypeMobile">Мобильный</string>
@@ -232,6 +236,8 @@
   <string name="emergency_call_dialog_number_for_display">Экстренная служба</string>
   <string name="emergency_calls_only">Только экстренные вызовы</string>
   <string name="emptyPhoneNumber">(Нет номера телефона)</string>
+  <string name="enable_explore_by_touch_warning_message">"%1$s пытается включить навигацию касанием. Если ее включить, вы сможете видеть описание того, что находится под вашим пальцем"</string>
+  <string name="enable_explore_by_touch_warning_title">Включить навигацию касанием?</string>
   <string name="eventTypeAnniversary">Юбилей</string>
   <string name="eventTypeBirthday">День рождения</string>
   <string name="eventTypeCustom">Особый</string>
@@ -244,16 +250,17 @@
   <string name="ext_media_checking_notification_title">Подготовка карты SD</string>
   <string name="ext_media_nofs_notification_message">SD-карта пуста или использует неподдерживаемую файловую систему</string>
   <string name="ext_media_nofs_notification_title">Пустая карта SD</string>
-  <string name="ext_media_nomedia_notification_message">SD-карта извлечена. Вставьте новую карту</string>
+  <string name="ext_media_nomedia_notification_message">SD-карта извлечена. Вставьте новую карту.</string>
   <string name="ext_media_nomedia_notification_title">Отсутствует карта SD</string>
   <string name="ext_media_safe_unmount_notification_message">Можно безопасно извлечь SD-карту</string>
   <string name="ext_media_safe_unmount_notification_title">Безопасное удаление карты SD</string>
-  <string name="ext_media_unmountable_notification_message">SD-карта повреждена. Попробуйте отформатировать ее</string>
+  <string name="ext_media_unmountable_notification_message">SD-карта повреждена. Попробуйте отформатировать ее.</string>
   <string name="ext_media_unmountable_notification_title">Поврежденная карта SD</string>
   <string name="extmedia_format_button_format">Формат</string>
-  <string name="extmedia_format_message">Отформатировать карту SD? Все данные, находящиеся на карте, будут уничтожены</string>
+  <string name="extmedia_format_message">Отформатировать карту SD? Все данные, находящиеся на карте, будут уничтожены.</string>
   <string name="extmedia_format_title">Очистить SD-карту</string>
   <string name="extract_edit_menu_button">Изменить...</string>
+  <string name="faceunlock_multiple_failures">Достигнут предел попыток разблокировки</string>
   <string name="factorytest_failed">Не удалось провести стандартный тест</string>
   <string name="factorytest_no_action">Пакет, обеспечивающий действие FACTORY_TEST, не найден</string>
   <string name="factorytest_not_system">Действие FACTORY_TEST поддерживается только для пакетов, установленных в /system/app</string>
@@ -266,14 +273,15 @@
   <string name="find">Найти</string>
   <string name="find_on_page">Найти на странице</string>
   <string name="fingerprints">Отпечатки:</string>
-  <string name="fmapp_name">FM радио</string>
-  <string name="force_close">ОК</string>
+  <string name="fmapp_name">FMRadio</string>
+  <string name="force_close">Да</string>
   <string name="format_error">Не удалось очистить SD-карту</string>
   <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
   <string name="gadget_host_error_inflating">Ошибка при наполнении виджета</string>
   <string name="gigabyteShort">\u0020ГБ</string>
   <string name="global_action_lock">Блокировка экрана</string>
-  <string name="global_action_power_off">Отключить питание</string>
+  <string name="global_action_power_off">Выключить</string>
+  <string name="global_action_restart">Перезагрузка</string>
   <string name="global_action_silent_mode_off_status">Включить</string>
   <string name="global_action_silent_mode_on_status">Выключить</string>
   <string name="global_action_toggle_silent_mode">Режим без звука</string>
@@ -287,8 +295,9 @@
   <string name="gpsVerifNo">Нет</string>
   <string name="gpsVerifYes">Да</string>
   <string name="grant_credentials_permission_message_footer">Разрешить доступ?</string>
-  <string name="grant_credentials_permission_message_header">Одна или несколько программ требуют разрешения для доступа к вашему аккаунту сейчас и в дальнейшем.</string>
+  <string name="grant_credentials_permission_message_header">Одна или несколько программ требуют разрешения для доступа к вашему аккаунту сейчас и в дальнейшем</string>
   <string name="grant_permissions_header_text">Запрос доступа</string>
+  <string name="hardware">Аппаратная часть</string>
   <string name="heavy_weight_notification">Приложение %1$s запущено</string>
   <string name="heavy_weight_notification_detail">Нажмите, чтобы перейти к приложению</string>
   <string name="heavy_weight_switcher_text">Выполняется другое приложение, которое должно быть остановлено прежде, чем запускать новое</string>
@@ -298,7 +307,7 @@
   <string name="hour">ч.</string>
   <string formatted="false" name="hour_ampm">%-l%P</string>
   <string formatted="false" name="hour_cap_ampm">%-l%p</string>
-  <string formatted="false" name="hour_minute_24">%-k:%M</string>
+  <string formatted="false" name="hour_minute_24">%H:%M</string>
   <string formatted="false" name="hour_minute_ampm">%-l:%M %p</string>
   <string formatted="false" name="hour_minute_cap_ampm">%-l:%M %^p</string>
   <string name="hours">ч.</string>
@@ -339,6 +348,7 @@
   <string name="ime_action_previous">Пред.</string>
   <string name="ime_action_search">Поиск</string>
   <string name="ime_action_send">Отправить</string>
+  <string name="imei">IMEI</string>
   <string name="inputMethod">Способ ввода</string>
   <string name="input_method_binding_label">Способ ввода</string>
   <string name="invalidPin">Введите PIN-код (от 4 до 8 цифр)</string>
@@ -351,7 +361,7 @@
 %s
 
 Нажмите \"ОК\", чтобы продолжить, или \"Отмена\", чтобы остаться на текущей странице."</string>
-  <string name="js_dialog_title">Подтвердите действие на %s</string>
+  <string name="js_dialog_title">Подтвердите действие для %s</string>
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Подключите гарнитуру, чтобы услышать пароль</string>
   <string name="keyboard_password_character_no_headset">Точка</string>
@@ -384,7 +394,7 @@
   <string name="lockscreen_access_pattern_detected">Графический ключ введен</string>
   <string name="lockscreen_access_pattern_start">Ввод графического ключа</string>
   <string name="lockscreen_battery_short">%d%%</string>
-  <string name="lockscreen_carrier_default">Сеть не найдена.</string>
+  <string name="lockscreen_carrier_default">Сеть не найдена</string>
   <string name="lockscreen_charged">Батарея заряжена</string>
   <string name="lockscreen_emergency_call">Экстренный вызов</string>
   <string formatted="false" name="lockscreen_failed_attempts_almost_at_wipe">Не удалось разблокировать телефон (число попыток: %d). Осталось попыток: %d. После этого будут установлены настройки по умолчанию, что приведет к удалению всех пользовательских данных.</string>
@@ -417,9 +427,10 @@
   <string name="lockscreen_pattern_wrong">Повторите попытку</string>
   <string name="lockscreen_permanent_disabled_sim_instructions">"Ваша SIM-карта окончательно заблокирована.
 Чтобы получить новую SIM-карту, обратитесь к оператору мобильной связи."</string>
+  <string name="lockscreen_permanent_disabled_sim_message_short">SIM-карта повреждена</string>
   <string name="lockscreen_plugged_in">Идет зарядка (%d%%)</string>
   <string name="lockscreen_return_to_call">Вернуться к вызову</string>
-  <string name="lockscreen_screen_locked">Экран заблокирован.</string>
+  <string name="lockscreen_screen_locked">Экран заблокирован</string>
   <string name="lockscreen_sim_locked_message">SIM-карта заблокирована</string>
   <string name="lockscreen_sim_puk_locked_instructions">См. руководство пользователя или свяжитесь со службой поддержки</string>
   <string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована с помощью кода PUK</string>
@@ -441,6 +452,7 @@
   <string name="lockscreen_transport_play_description">Кнопка воспроизведения</string>
   <string name="lockscreen_transport_prev_description">Кнопка перехода к предыдущему треку</string>
   <string name="lockscreen_transport_stop_description">Кнопка выключения</string>
+  <string name="lockscreen_unlock_guide_text">Сдвиньте экран для разблокировки</string>
   <string name="lockscreen_unlock_label">Разблокировать</string>
   <string name="low_internal_storage_view_text">Заканчивается место в памяти телефона</string>
   <string name="low_internal_storage_view_title">Недостаточно места</string>
@@ -453,12 +465,14 @@
   <string name="media_shared">Сейчас SD-карта используется компьютером</string>
   <string name="media_unknown_state">Неизвестно состояние внешнего носителя</string>
   <string name="megabyteShort">\u0020МБ</string>
+  <string name="meid">MEID</string>
   <string name="menu_delete_shortcut_label">удалить</string>
   <string name="menu_enter_shortcut_label">ввод</string>
   <string name="menu_space_shortcut_label">пробел</string>
   <string name="midnight">полночь</string>
   <string name="minute">мин.</string>
   <string name="minutes">мин.</string>
+  <string name="miro_menu_overflow">Еще...</string>
   <string name="mismatchPin">Введенные PIN-коды не совпадают</string>
   <string name="mmiComplete">Запрос MMI завершен</string>
   <string name="mmiError">Неполадки подключения или неверный код MMI</string>
@@ -466,42 +480,42 @@
   <string name="month">%-B</string>
   <string formatted="false" name="month_day">%-e %B</string>
   <string formatted="false" name="month_day_year">%-e %B %Y г.</string>
-  <string name="month_long_april">апреля</string>
-  <string name="month_long_august">августа</string>
-  <string name="month_long_december">декабря</string>
-  <string name="month_long_february">февраля</string>
-  <string name="month_long_january">января</string>
-  <string name="month_long_july">июля</string>
-  <string name="month_long_june">июня</string>
-  <string name="month_long_march">марта</string>
-  <string name="month_long_may">мая</string>
-  <string name="month_long_november">ноября</string>
-  <string name="month_long_october">октября</string>
-  <string name="month_long_september">сентября</string>
-  <string name="month_long_standalone_april">апрель</string>
-  <string name="month_long_standalone_august">август</string>
-  <string name="month_long_standalone_december">декабрь</string>
-  <string name="month_long_standalone_february">февраль</string>
-  <string name="month_long_standalone_january">январь</string>
-  <string name="month_long_standalone_july">июль</string>
-  <string name="month_long_standalone_june">июнь</string>
-  <string name="month_long_standalone_march">март</string>
-  <string name="month_long_standalone_may">май</string>
-  <string name="month_long_standalone_november">ноябрь</string>
-  <string name="month_long_standalone_october">октябрь</string>
-  <string name="month_long_standalone_september">сентябрь</string>
-  <string name="month_medium_april">апр</string>
-  <string name="month_medium_august">авг</string>
-  <string name="month_medium_december">дек</string>
-  <string name="month_medium_february">фев</string>
-  <string name="month_medium_january">янв</string>
-  <string name="month_medium_july">июл</string>
-  <string name="month_medium_june">июн</string>
-  <string name="month_medium_march">мар</string>
-  <string name="month_medium_may">май</string>
-  <string name="month_medium_november">ноя</string>
-  <string name="month_medium_october">окт</string>
-  <string name="month_medium_september">сен</string>
+  <string name="month_long_april">Апреля</string>
+  <string name="month_long_august">Августа</string>
+  <string name="month_long_december">Декабря</string>
+  <string name="month_long_february">Февраля</string>
+  <string name="month_long_january">Января</string>
+  <string name="month_long_july">Июля</string>
+  <string name="month_long_june">Июня</string>
+  <string name="month_long_march">Марта</string>
+  <string name="month_long_may">Мая</string>
+  <string name="month_long_november">Ноября</string>
+  <string name="month_long_october">Октября</string>
+  <string name="month_long_september">Сентября</string>
+  <string name="month_long_standalone_april">Апрель</string>
+  <string name="month_long_standalone_august">Август</string>
+  <string name="month_long_standalone_december">Декабрь</string>
+  <string name="month_long_standalone_february">Февраль</string>
+  <string name="month_long_standalone_january">Январь</string>
+  <string name="month_long_standalone_july">Июль</string>
+  <string name="month_long_standalone_june">Июнь</string>
+  <string name="month_long_standalone_march">Март</string>
+  <string name="month_long_standalone_may">Май</string>
+  <string name="month_long_standalone_november">Ноябрь</string>
+  <string name="month_long_standalone_october">Октябрь</string>
+  <string name="month_long_standalone_september">Сентябрь</string>
+  <string name="month_medium_april">Апр</string>
+  <string name="month_medium_august">Авг</string>
+  <string name="month_medium_december">Дек</string>
+  <string name="month_medium_february">Фев</string>
+  <string name="month_medium_january">Янв</string>
+  <string name="month_medium_july">Июл</string>
+  <string name="month_medium_june">Июн</string>
+  <string name="month_medium_march">Мар</string>
+  <string name="month_medium_may">Май</string>
+  <string name="month_medium_november">Ноя</string>
+  <string name="month_medium_october">Окт</string>
+  <string name="month_medium_september">Сен</string>
   <string name="month_shortest_april">А</string>
   <string name="month_shortest_august">А</string>
   <string name="month_shortest_december">Д</string>
@@ -531,8 +545,8 @@
   <string name="notification_title">Ошибка входа (%1$s)</string>
   <string name="number_picker_decrement_button">Уменьшить</string>
   <string name="number_picker_increment_button">Увеличить</string>
-  <string name="number_picker_increment_scroll_action">Проведите вверх, чтобы увеличить значение, и вниз, чтобы уменьшить его.</string>
-  <string name="number_picker_increment_scroll_mode">Нажмите и удерживайте %s.</string>
+  <string name="number_picker_increment_scroll_action">Проведите вверх, чтобы увеличить значение, и вниз, чтобы уменьшить его</string>
+  <string name="number_picker_increment_scroll_mode">Нажмите и удерживайте %s</string>
   <string formatted="false" name="numeric_date">%d.%m.%Y</string>
   <string name="numeric_date_format">d.MM.yyyy</string>
   <string formatted="false" name="numeric_date_template">%s.%s.%s</string>
@@ -612,7 +626,7 @@
   <string name="permdesc_clearAppCache">Позволяет приложению освобождать память телефона с помощью удаления файлов из каталога кэша приложений. Обычно это разрешается только системным процессам.</string>
   <string name="permdesc_clearAppUserData">Позволяет приложению удалять данные пользователя.</string>
   <string name="permdesc_confirm_full_backup">Позволяет приложению отображать окно подтверждения полного резервного копирования. Используется не во всех приложениях.</string>
-  <string name="permdesc_copyProtectedData">Позволяет вызывать службу контейнера для копирования содержания. Не предназначена для обычных программ</string>
+  <string name="permdesc_copyProtectedData">Позволяет вызывать службу контейнера для копирования содержания. Не предназначена для обычных программ.</string>
   <string name="permdesc_createNetworkSockets">Позволяет приложению создавать сетевые сокеты.</string>
   <string name="permdesc_deleteCacheFiles">Позволяет приложению удалять файлы из кэша.</string>
   <string name="permdesc_deletePackages">Позволяет приложению удалять пакеты Android. Вредоносные приложения могут использовать эту возможность для удаления важных приложений.</string>
@@ -626,7 +640,8 @@
   <string name="permdesc_flashlight">Позволяет приложению управлять вспышкой.</string>
   <string name="permdesc_forceBack">Позволяет приложению принудительно закрыть или вернуть в исходное состояние процессы, выполняемые в активном режиме. Не требуется для обычных приложений.</string>
   <string name="permdesc_forceStopPackages">Позволяет программе принудительно останавливать другие программы.</string>
-  <string name="permdesc_getAccounts">Позволяет приложению получать список аккаунтов, известных телефону.</string>
+  <string name="permdesc_getAccounts">Позволяет приложению получать список аккаунтов, известных телефону</string>
+  <string name="permdesc_getDetailedTasks">Позволяет приложению получать информацию о запущенных приложениях. Вредоносные приложения могут получить доступ к конфиденциальной информации</string>
   <string name="permdesc_getPackageSize">Позволяет приложению получать сведения о размере кода, данных и кэша.</string>
   <string name="permdesc_getTasks">Позволяет приложению получать сведения о последних и текущих задачах. Вредоносные приложения могут получить доступ к конфиденциальной информации о других приложениях.</string>
   <string name="permdesc_hardware_test">Позволяет приложению управлять различными периферийными устройствами для проверки аппаратного обеспечения.</string>
@@ -652,9 +667,10 @@
   <string name="permdesc_packageVerificationAgent">Позволяет приложению проверить, может ли пакет быть установлен</string>
   <string name="permdesc_performCdmaProvisioning">Позволяет приложению запустить настройку CDMA. Вредоносное ПО может запустить настройку CDMA</string>
   <string name="permdesc_persistentActivity">Позволяет приложению сделать свои компоненты постоянными, благодаря чему система не может использовать их для других приложений.</string>
-  <string name="permdesc_pkgUsageStats">Позволяет изменять собранную статистику использования компонентов. Не предназначено для использования обычными приложениями</string>
+  <string name="permdesc_pkgUsageStats">Позволяет изменять собранную статистику использования компонентов. Не предназначено для использования обычными приложениями.</string>
   <string name="permdesc_processOutgoingCalls">Позволяет приложению обрабатывать исходящие вызовы и изменять набираемый номер. Вредоносные приложения могут отслеживать, перенаправлять или запрещать исходящие вызовы.</string>
   <string name="permdesc_readCalendar">Приложениe получит доступ ко всем данным календаря, сохраненным в вашем телефоне (в том числе к мероприятиям ваших друзей и коллег). Вредоносное ПО с таким уровнем доступа сможет извлекать личную информацию без ведома владельцев календарей.</string>
+  <string name="permdesc_readCellBroadcasts">Позволяет приложениям получать доступ к широковещательным сообщениям, получаемым телефоном. Используйте на свой страх и риск</string>
   <string name="permdesc_readContacts">Позволяет приложению считывать все данные контактов (адресов), сохраненные в памяти телефона. Вредоносные приложения могут использовать эту возможность для передачи данных посторонним лицам.</string>
   <string name="permdesc_readDictionary">Позволяет приложению считывать любые слова, имена и фразы личного пользования, которые могут храниться в пользовательском словаре.</string>
   <string name="permdesc_readFrameBuffer">Разрешает приложению считывать содержание буфера фреймов.</string>
@@ -795,7 +811,7 @@
   <string name="permlab_clearAppCache">удалять все данные из кэша приложений</string>
   <string name="permlab_clearAppUserData">удалять данные других приложений</string>
   <string name="permlab_confirm_full_backup">подтверждать полное резервное копирование или восстановление</string>
-  <string name="permlab_copyProtectedData">Позволяет вызывать службу контейнера для копирования содержания. Не предназначена для обычных программ</string>
+  <string name="permlab_copyProtectedData">Позволяет вызывать службу контейнера для копирования содержания. Не предназначена для обычных программ.</string>
   <string name="permlab_createNetworkSockets">неограниченный доступ в Интернет</string>
   <string name="permlab_deleteCacheFiles">очищать кэши других приложений</string>
   <string name="permlab_deletePackages">удалять приложения</string>
@@ -838,6 +854,7 @@
   <string name="permlab_pkgUsageStats">обновлять статистику использования компонентов</string>
   <string name="permlab_processOutgoingCalls">перехватывать исходящие вызовы</string>
   <string name="permlab_readCalendar">просматривать в календаре мероприятия и конфиденциальную информацию</string>
+  <string name="permlab_readCellBroadcasts">Читать широковещательные сообщения</string>
   <string name="permlab_readContacts">считывать данные контакта</string>
   <string name="permlab_readDictionary">выполнять чтение из пользовательского словаря</string>
   <string name="permlab_readFrameBuffer">считывать буфер фреймов</string>
@@ -902,14 +919,16 @@
   <string name="permlab_writeSms">изменять SMS или MMS</string>
   <string name="permlab_writeSocialStream">добавлять записи в вашу социальную ленту</string>
   <string name="permlab_writeSyncSettings">записывать настройки синхронизации</string>
-  <string name="perms_hide" />
-  <string name="perms_show_all" />
+  <string name="perms_description_app">Предоставлено %1$s</string>
+  <string name="perms_hide"><b>Скрыть</b></string>
+  <string name="perms_new_perm_prefix" />
+  <string name="perms_show_all"><b>Показать все</b></string>
   <string name="petabyteShort">\u0020ПБ</string>
   <string name="phoneTypeAssistant">Секретарь</string>
   <string name="phoneTypeCallback">Обр. вызов</string>
   <string name="phoneTypeCar">В авто</string>
   <string name="phoneTypeCompanyMain">Телефон офиса</string>
-  <string name="phoneTypeCustom">Создать свой ярлык</string>
+  <string name="phoneTypeCustom">Создать свой</string>
   <string name="phoneTypeFaxHome">Домашний факс</string>
   <string name="phoneTypeFaxWork">Рабочий факс</string>
   <string name="phoneTypeHome">Домашний</string>
@@ -955,20 +974,22 @@
   <string name="prepend_shortcut_label">Меню+</string>
   <string name="preposition_for_date">%s</string>
   <string name="preposition_for_time">в %s</string>
-  <string name="preposition_for_year">в %s г.</string>
+  <string name="preposition_for_year">в %s г</string>
   <string name="progress_erasing">Очистка SD-карты...</string>
   <string name="progress_unmounting">Отключение SD-карты...</string>
   <string name="radiobutton_not_selected">не выбрано</string>
   <string name="radiobutton_selected">выбрано</string>
   <string name="reboot_bootloader">Загрузчик</string>
   <string name="reboot_bootmenu">Загрузочное меню</string>
-  <string name="reboot_confirm">Ваш телефон будет перезагружен.</string>
+  <string name="reboot_confirm">Телефон будет перезагружен</string>
   <string name="reboot_download">Download</string>
   <string name="reboot_fastboot">Fastboot</string>
   <string name="reboot_hot">Быстрая</string>
   <string name="reboot_progress">Перезагрузка...</string>
-  <string name="reboot_reboot">Перезагрузка</string>
+  <string name="reboot_reboot">MIUI v4 MS</string>
   <string name="reboot_recovery">Recovery</string>
+  <string name="reboot_safemode_confirm">Вы хотите перезагрузиться в безопасном режиме? Это заблокирует все приложения, установленные вами. Они будут восстановлены после перезагрузки</string>
+  <string name="reboot_safemode_title">Безопасный режим</string>
   <string name="recent_tasks_title">Недавние</string>
   <string name="redo">Вернуть</string>
   <string name="relationTypeAssistant">Секретарь</string>
@@ -1012,7 +1033,7 @@
   <string name="safeMode">Безопасный режим</string>
   <string name="same_month_md1_md2">%3$s-%8$s %2$s</string>
   <string name="same_month_md1_time1_md2_time2">%5$s, %3$s %2$s - %10$s, %8$s %7$s</string>
-  <string name="same_month_mdy1_mdy2">%3$s-%8$s %2$s %9$s г.</string>
+  <string name="same_month_mdy1_mdy2">%3$s-%8$s %2$s %9$s г</string>
   <string name="same_month_mdy1_time1_mdy2_time2">%5$s, %3$s %2$s %4$s - %10$s, %8$s %7$s %9$s</string>
   <string name="same_month_wday1_md1_time1_wday2_md2_time2">%5$s, %1$s, %3$s %2$s - %10$s, %6$s, %8$s %7$s</string>
   <string name="same_month_wday1_md1_wday2_md2">%1$s, %3$s %2$s - %6$s, %8$s %7$s</string>
@@ -1025,7 +1046,7 @@
   <string name="same_year_wday1_md1_time1_wday2_md2_time2">%5$s, %1$s, %3$s %2$s - %10$s, %6$s, %8$s %7$s</string>
   <string name="same_year_wday1_md1_wday2_md2">%1$s, %3$s %2$s - %6$s, %8$s %7$s</string>
   <string name="same_year_wday1_mdy1_time1_wday2_mdy2_time2">%5$s, %1$s, %3$s %2$s %4$s - %10$s, %6$s, %8$s %7$s %9$s</string>
-  <string name="same_year_wday1_mdy1_wday2_mdy2">%3$s %2$s - %8$s %7$s %9$s г.</string>
+  <string name="same_year_wday1_mdy1_wday2_mdy2">%3$s %2$s - %8$s %7$s %9$s г</string>
   <string name="save_password_label">Подтвердите</string>
   <string name="save_password_message">Вы хотите, чтобы браузер запомнил этот пароль?</string>
   <string name="save_password_never">Никогда</string>
@@ -1047,6 +1068,8 @@
   <string name="selectTextMode">Выбрать текст</string>
   <string name="select_character">Введите символ</string>
   <string name="select_input_method">Выберите способ ввода</string>
+  <string name="select_keyboard_layout_notification_message">Коснитесь для выбора раскладки клавиатуры</string>
+  <string name="select_keyboard_layout_notification_title">Выберите раскладку клавиатуры</string>
   <string name="sendText">Выберите действие для текста</string>
   <string name="sending">Отправка…</string>
   <string name="serial_number">Серийный номер:</string>
@@ -1074,13 +1097,13 @@
   <string name="short_format_month">%b</string>
   <string name="shutdown_confirm">Телефон будет выключен</string>
   <string name="shutdown_confirm_question">Завершить работу?</string>
-  <string name="shutdown_progress">Выключение...</string>
+  <string name="shutdown_progress">Выключение телефона...</string>
   <string name="silent_mode">Режим без звука</string>
   <string name="sim_added_message">Для доступа к мобильной сети необходимо перезагрузить устройство</string>
   <string name="sim_added_title">SIM-карта добавлена</string>
   <string name="sim_done_button">Готово</string>
   <string name="sim_removed_message">Пока вы не вставите действующую SIM-карту, мобильная сеть будет недоступна</string>
-  <string name="sim_removed_title">SIM-карта удалена</string>
+  <string name="sim_removed_title">SIM карта отсутствует</string>
   <string name="sim_restart_button">Перезапуск</string>
   <string name="sipAddressTypeCustom">Особый</string>
   <string name="sipAddressTypeHome">Домашний</string>
@@ -1105,11 +1128,11 @@
   <string name="switch_off">Отключено</string>
   <string name="switch_on">Включено</string>
   <string name="sync_binding_label">Синхр.</string>
-  <string name="sync_do_nothing">Ничего не делать сейчас.</string>
-  <string name="sync_really_delete">Удалить элементы.</string>
+  <string name="sync_do_nothing">Ничего не делать сейчас</string>
+  <string name="sync_really_delete">Удалить элементы</string>
   <string name="sync_too_many_deletes">Превышен предел удаления</string>
   <string name="sync_too_many_deletes_desc">Удаленных объектов для %2$s: %1$d, аккаунт %3$s. Что нужно сделать?</string>
-  <string name="sync_undo_deletes">Отменить удаления.</string>
+  <string name="sync_undo_deletes">Отменить удаления</string>
   <string name="terabyteShort">\u0020TБ</string>
   <string name="tethered_notification_message">Нажмите для настройки</string>
   <string name="tethered_notification_title">USB-модем/точка доступа Wi-Fi используется</string>
@@ -1139,7 +1162,7 @@
   <string name="turn_on_radio">Включить беспроводную связь</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Нажмите дважды для изменения масштаба</string>
   <string name="twelve_hour_time_format">h:mm a</string>
-  <string name="twenty_four_hour_time_format">H:mm</string>
+  <string name="twenty_four_hour_time_format">HH:mm</string>
   <string name="undo">Отмена</string>
   <string name="unknownName">(Неизвестно)</string>
   <string name="untitled">&lt;без названия&gt;</string>
@@ -1151,17 +1174,18 @@
   <string name="usb_ptp_notification_title">Подключен как камера</string>
   <string name="usb_storage_activity_title">Запоминающее устройство USB</string>
   <string name="usb_storage_button_mount">Включить USB-накопитель</string>
-  <string name="usb_storage_error_message">При использовании SD-карты в качестве запоминающего устройства USB возникла неполадка</string>
+  <string name="usb_storage_error_message">При использовании SD-карты в качестве запоминающего устройства USB возникла неполадка.</string>
   <string name="usb_storage_message">Телефон подключен к компьютеру через порт USB. Нажмите приведенную ниже кнопку, чтобы скопировать файлы с компьютера на SD-карту устройства Android.</string>
-  <string name="usb_storage_notification_message">Выберите копирование файлов на компьютер или с компьютера</string>
+  <string name="usb_storage_notification_message">Выберите копирование файлов на компьютер или с компьютера.</string>
   <string name="usb_storage_notification_title">USB-подключение установлено</string>
   <string name="usb_storage_stop_button_mount">Отключить USB-накопитель</string>
-  <string name="usb_storage_stop_error_message">При выключении USB-накопителя произошла неполадка. Убедитесь, что USB-хост отключен, и повторите попытку</string>
-  <string name="usb_storage_stop_message">Перед отключением USB-накопителя убедитесь, что SD-карта устройства Android была отключена от компьютера</string>
-  <string name="usb_storage_stop_notification_message">Нажмите, чтобы отключить USB-накопитель</string>
+  <string name="usb_storage_stop_error_message">При выключении USB-накопителя произошла неполадка. Убедитесь, что USB-хост отключен, и повторите попытку.</string>
+  <string name="usb_storage_stop_message">Перед отключением USB-накопителя убедитесь, что SD-карта устройства Android была отключена от компьютера.</string>
+  <string name="usb_storage_stop_notification_message">Нажмите, чтобы отключить USB-накопитель.</string>
   <string name="usb_storage_stop_notification_title">Отключить USB-накопитель</string>
   <string name="usb_storage_stop_title">USB-накопитель используется</string>
   <string name="usb_storage_title">USB-подключение установлено</string>
+  <string name="use_physical_keyboard">Физическая клавиатура</string>
   <string name="validity_period">Срок действия:</string>
   <string name="volume_alarm">Громкость сигнала предупреждения</string>
   <string name="volume_bluetooth_call">Громкость при разговоре</string>
@@ -1177,6 +1201,7 @@
   <string name="volume_notification">Громкость уведомления</string>
   <string name="volume_ringtone">Громкость звонка</string>
   <string name="volume_unknown">Громкость</string>
+  <string name="volume_fm">Громкость радио</string>
   <string name="vpn_text">Нажмите здесь, чтобы изменить настройки сети</string>
   <string name="vpn_text_long">Подключено: \"%s\". Нажмите здесь, чтобы изменить настройки сети</string>
   <string name="vpn_title">Сеть VPN активна</string>
@@ -1186,6 +1211,8 @@
   <string name="wday1_date1_time1_wday2_date2_time2">%3$s, %1$s, %2$s - %6$s, %4$s, %5$s</string>
   <string name="wday1_date1_wday2_date2">%1$s, %2$s - %4$s, %5$s</string>
   <string name="wday_date">%2$s, %3$s</string>
+  <string name="webpage_unresponsive">"Страница не отвечает.
+Вы хотите ее закрыть?"</string>
   <string name="websearch">Веб-поиск</string>
   <string name="week">нед.</string>
   <string name="weeks">нед.</string>
@@ -1195,13 +1222,23 @@
   <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
   <string name="wifi_p2p_enabled_notification_message">Нажмите, чтобы открыть настройки</string>
   <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct включен</string>
+  <string name="wifi_p2p_enter_pin_message">Введите PIN:</string>
   <string name="wifi_p2p_failed_message">Не удалось запустить Wi-Fi Direct</string>
+  <string name="wifi_p2p_from_message">От:</string>
+  <string name="wifi_p2p_invitation_sent_title">Приглашение послано</string>
+  <string name="wifi_p2p_invitation_to_connect_title">Приглашение к соединению</string>
   <string name="wifi_p2p_pbc_go_negotiation_request_message">Чтобы принять запрос от устройства %1$s на соединение Wi-Fi Direct, нажмите кнопку \"ОК\"</string>
   <string name="wifi_p2p_pin_display_message">Чтобы продолжить настройку подключения, введите PIN-код WPS %1$s на обнаруженном устройстве %2$s</string>
   <string name="wifi_p2p_pin_go_negotiation_request_message">Чтобы продолжить настройку соединения с устройством %1$s через Wi-Fi Direct, введите PIN-код</string>
-  <string name="wifi_p2p_turnon_message">Начать соединение через Wi-Fi Direct. Клиент Wi-Fi и точка доступа будут отключены</string>
+  <string name="wifi_p2p_show_pin_message">PIN:</string>
+  <string name="wifi_p2p_to_message">Для:</string>
+  <string name="wifi_p2p_turnon_message">Начать соединение через Wi-Fi Direct. Клиент Wi-Fi и точка доступа будут отключены.</string>
   <string name="wifi_watchdog_network_disabled">Не удалось подключиться к сети Wi-Fi</string>
   <string name="wifi_watchdog_network_disabled_detailed">" – плохое интернет-соединение"</string>
+  <string name="zzz_keyguard_password_attempt_count_pin_code">Осталась %1$d попытка</string>
+  <string name="zzz_keyguard_password_attempts_count_pin_code">Осталось попыток: %1$d</string>
+  <string name="zzz_keyguard_password_attempt_count_puk_code">%1$d attempt left</string>
+  <string name="zzz_keyguard_password_attempts_count_puk_code">%1$d attempts left</string>
   <string name="year">г.</string>
   <string name="years">г.</string>
   <string name="yes">ОК</string>
