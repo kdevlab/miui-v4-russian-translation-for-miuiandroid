@@ -215,7 +215,8 @@ d MMMM yyyy"</string>
   <string name="status_bar_recent_guide_bottom">Потяните вниз для блокировки</string>
   <string name="status_bar_recent_guide_top">Потяните вверх для закрытия</string>
   <string name="status_bar_recent_inspect_item_title">О приложении</string>
-  <string name="status_bar_recent_memory_info_format">%d МБ</string>
+  <string name="status_bar_recent_memory_info">Доступно %1$s из %2$s</string>
+  <string name="status_bar_recent_memory_info_format">%dМб</string>
   <string name="status_bar_recent_remove_item_title">Удалить из списка</string>
   <string name="status_bar_settings_airplane">Режим полета</string>
   <string name="status_bar_settings_auto_brightness_label">Автоматически</string>
