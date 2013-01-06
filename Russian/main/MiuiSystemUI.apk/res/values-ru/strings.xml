@@ -200,7 +200,7 @@ d MMMM yyyy"</string>
   <string name="status_bar_do_not_disturb_button">Не беспокоить</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Настройка методов ввода</string>
   <string name="status_bar_latest_events_title">Уведомления</string>
-  <string name="status_bar_network_flow">Сегодня: %1$s | Осталось: %2$s | Всего: %3$s</string>
+  <string name="status_bar_network_flow">"Сегодня: %1$s | Осталось: %2$s | Всего: %3$s"</string>
   <string name="status_bar_network_flow_exceed">"Сегодня: %1$s | Осталось: %2$s"</string>
   <string name="status_bar_network_flow_today">Сегодня: %1$s</string>
   <string name="status_bar_network_name_separator">|</string>
