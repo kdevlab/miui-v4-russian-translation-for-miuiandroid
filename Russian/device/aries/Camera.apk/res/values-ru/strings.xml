@@ -47,6 +47,7 @@
   <string name="error_fail_to_start_audio_capture">Невозможно записать звук: Микрофон может быть занят другой программой.</string>
   <string name="gallery_camera_bucket_name">Фото с камеры</string>
   <string name="gallery_camera_videos_bucket_name">Видеокамера</string>
+  <string name="hdr_exit_button_text">Выход из HDR</string>
   <string name="no_picture_to_share">Нет фотографий для публикации</string>
   <string name="no_storage">Вставьте карту памяти перед использованием камеры</string>
   <string name="no_video_to_share">Нет видео для публикации</string>
@@ -78,7 +79,6 @@
   <string name="pref_camera_ae_bracket_hdr_value_ae_bracket">AE-Bracket</string>
   <string name="pref_camera_ae_bracket_hdr_value_hdr">HDR</string>
   <string name="pref_camera_ae_bracket_hdr_value_off">Выкл.</string>
-  <string name="hdr_exit_button_text">Выход из HDR</string>
   <string name="pref_camera_antibanding_entry_0">Выкл.</string>
   <string name="pref_camera_antibanding_entry_1">50 Гц</string>
   <string name="pref_camera_antibanding_entry_2">60 Гц</string>
@@ -242,16 +242,16 @@
   <string name="pref_camera_sharpness_entry_level5">Уровень 5</string>
   <string name="pref_camera_sharpness_entry_level6">Уровень 6</string>
   <string name="pref_camera_sharpness_title">Четкость</string>
+  <string name="pref_camera_skinToneEnhancement_entry_auto">Автоулучшение</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Выкл.</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Вкл.</string>
   <string name="pref_camera_skinToneEnhancement_title">Улучшение тона кожи</string>
-  <string name="pref_camera_skinToneEnhancement_entry_auto">Автоулучшение</string>
-  <string name="pref_camera_sound_title">Звук затвора</string>
   <string name="pref_camera_sound_default">Вкл.</string>
-  <string name="pref_camera_sound_title_entry_off">Выкл.</string>
-  <string name="pref_camera_sound_title_entry_on">Вкл.</string>
   <string name="pref_camera_sound_entry_off">Выкл.</string>
   <string name="pref_camera_sound_entry_on">Вкл.</string>
+  <string name="pref_camera_sound_title">Звук затвора</string>
+  <string name="pref_camera_sound_title_entry_off">Выкл.</string>
+  <string name="pref_camera_sound_title_entry_on">Вкл.</string>
   <string name="pref_camera_touchafaec_entry_off">Выкл.</string>
   <string name="pref_camera_touchafaec_entry_on">Вкл.</string>
   <string name="pref_camera_touchafaec_title">Выбор зоны автофокуса</string>
