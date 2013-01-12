@@ -35,6 +35,7 @@
   <string name="button_retry">Повтор</string>
   <string name="check_phone_error_title">Ошибка синхронизации</string>
   <string name="check_phone_io_error">Ошибка сети</string>
+  <string name="checking_account">Проверка аккаунта...</string>
   <string name="completed">Завершено</string>
   <string name="confirm">Подтвердить</string>
   <string name="data_keep_in_phone">Оставить на Мое устройство</string>
@@ -194,6 +195,7 @@
   <string name="reg_by_email_failure">Ошибка регистрации: %1$s</string>
   <string name="reg_failed">Ошибка регистрации</string>
   <string name="remove_account_notice">Что бы вы хотели делать с ранее синхронизированными сообщениями, контактами, журналами вызовов и заметками на устройстве?</string>
+  <string name="removing_account">Удаление аккаунта...</string>
   <string name="send_sms_for_sync_notice">Для активации нужно отправить SMS, продолжить?</string>
   <string name="send_sms_for_sync_title">Служба синхронизации не активирована</string>
   <string name="sim_changed_notification_content">SIM-карта не активирована. Пожалуйста, активируйте.</string>

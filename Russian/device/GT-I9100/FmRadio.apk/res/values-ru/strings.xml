@@ -57,7 +57,7 @@
   <string name="setting_af_summary">Вкл/выкл альтернативных частот</string>
   <string name="setting_autooff">Автовыключение</string>
   <string name="setting_backgroud_playing">Воспроизведение в фоне</string>
-  <string name="setting_bgplaying_summary">Радио будет играть в фоновом режиме после закрытия</string>
+  <string name="setting_bgplaying_summary">Работа приложения в фоновом режиме после закрытия</string>
   <string name="setting_europe">Европа</string>
   <string name="setting_hour">Через час</string>
   <string name="setting_japan">Япония</string>
@@ -65,7 +65,7 @@
   <string name="setting_off">Выкл</string>
   <string name="setting_region">Регион</string>
   <string name="setting_sationid">Показывать  ID станции</string>
-  <string name="setting_stationid_summary">Информация о станции будет отображаться</string>
+  <string name="setting_stationid_summary">Будет отображаться информация о станции</string>
   <string name="setting_usa">США</string>
   <string name="settings">Настройки</string>
   <string name="southeast_asia_region">Юго-Восточная Азия</string>
