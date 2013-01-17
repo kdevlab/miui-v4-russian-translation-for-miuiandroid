@@ -53,7 +53,7 @@
   <string name="menu_new_station">Доб. новую станцию</string>
   <string name="menu_play">Слушать</string>
   <string name="menu_record_list">Список записей</string>
-  <string name="menu_record_start">Начать запись/string>
+  <string name="menu_record_start">Начать запись</string>
   <string name="menu_record_stop">Остановить запись</string>
   <string name="menu_rename_list">Переименовать список</string>
   <string name="menu_reorder_list">Изменить порядок списка</string>
