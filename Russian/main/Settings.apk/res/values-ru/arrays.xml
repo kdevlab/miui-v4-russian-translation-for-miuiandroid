@@ -24,7 +24,6 @@
         <item>10 минут</item>
         <item>30 минут</item>
     </string-array>
-
     <string-array name="dream_timeout_entries">
         <item>Никогда</item>
         <item>15 секунд</item>
@@ -409,5 +408,14 @@
         <item>Производительность</item>
         <item>Нормальный</item>
         <item>Энергосбережение</item>
-    </string-array>		
+    </string-array>
+    <string-array name="screen_color_title">
+        <item>Теплый</item>
+        <item>Натуральный</item>
+        <item>Холодный</item>
+    </string-array>
+    <string-array name="screen_saturation_title">
+        <item>Яркий</item>
+        <item>Стандартный</item>
+    </string-array>
 </resources>
