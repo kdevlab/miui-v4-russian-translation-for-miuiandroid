@@ -35,7 +35,7 @@
   <string name="factory_reset_dialog_title">Подтвердить сброс</string>
   <string name="find_af_station">Найти</string>
   <string name="fm_cmd_failed_call_on">Операция не удалась. Во время вызова звук радио не допускается.</string>
-  <string name="fm_cmd_failed_msg">Операция не удалась. Если проблема не устранена, пожалуйста, выключите радио и включите его снова.
+  <string name="fm_cmd_failed_msg">Операция не удалась. Если проблема не устранена, пожалуйста, выключите радио и включите его снова.</string>
   <string name="fm_cmd_failed_msg_hdmi">Операция не удалась. Одновременная работа радио и HDMI не поддерживается.</string>
   <string name="fm_command_failed_title">Ошибка</string>
   <string name="fm_command_timeout_title">Таймаут</string>
