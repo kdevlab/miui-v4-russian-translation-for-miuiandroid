@@ -454,7 +454,7 @@
   <string name="low_internal_storage_view_text">Заканчивается место в памяти телефона</string>
   <string name="low_internal_storage_view_title">Недостаточно места</string>
   <string name="low_memory">Память телефона заполнена! Удалите файлы, чтобы освободить место</string>
-  <string name="managed_roaming_title">Управляемый роуминг</string>
+  <string name="managed_roaming_title">Управление роумингом</string>
   <string name="managed_roaming_dialog_content">Найдена сеть с ограниченным сервисом. Вы хотите начать поиск сети?</string>
   <string name="managed_roaming_dialog_ok_button">Да</string>
   <string name="managed_roaming_dialog_cancel_button">Нет</string>
