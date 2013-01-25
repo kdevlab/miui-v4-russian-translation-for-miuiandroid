@@ -26,6 +26,7 @@
   <string name="attach_photo_dialog_title">Фотография контакта</string>
   <string name="audio_chat">Голосовой чат</string>
   <string name="auto_nickname">Авто</string>
+  <string name="auto_set_nickname">Авто</string>
   <string name="batch_delete_msg">"Удалить выбранные контакты (%d)? Контакты в облаке тоже будут удалены!"</string>
   <string name="blurbJoinContactDataWith">Выберите контакт, который хотите объединить с \"%s\":</string>
   <string name="btn_finished">Готово</string>
@@ -150,6 +151,7 @@
   <string name="create_group_item_label">[Создать новую группу]</string>
   <string name="customLabelPickerTitle">Название ярлыка</string>
   <string name="custom_list_filter">Настройка отображения</string>
+  <string name="custom_nickname_hint">Введите: Mr или Mrs</string>
   <string name="date_picker_label">Напомнить за 3 дня и в день рождения</string>
   <string name="date_time_set">Настроить</string>
   <string name="date_year_toggle">Указать год</string>
