@@ -7,6 +7,12 @@
   <string name="adding_upload_tasks">Добавление задачи загрузки.</string>
   <string name="app_name">Файлы</string>
   <string name="background">В фоне</string>
+  <string name="bind_account">Связка аккаунта KuaiPan с Xiaomi</string>
+  <string name="bind_account_summary">Если вы уже имеете аккаунт KuaiPan вы можете связать его с аккаунтом Xiaomi</string>
+  <string name="binded_accout_description">Аккаунты связаны, вы можете использовать аккаунт Xiaomi или KuaiPan для входа, оба будут читать одни и теже данные</string>
+  <string name="binded_accout_title">Аккаунт KuaiPan</string>
+  <string name="binded_accout_warning">Внимание: Эту операцию нельзя будет отменить, продолжить?</string>
+  <string name="binding_accout_title">Добавить существующий аккаунтKuaiPan</string>
   <string name="cancel">Отмена</string>
   <string name="category_all">Все</string>
   <string name="category_apk">Программы</string>
@@ -119,6 +125,7 @@ pan.xiaomi.com на вашем компьютере"</string>
   <string name="install_successful">Установка завершена</string>
   <string name="instruction">Адрес синхронизации:</string>
   <string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
+  <string name="kingsoft_account">Аккаунт Kingsoft KuaiPan</string>
   <string name="kuaipan_over_space">В вашем MiDrive нет больше свободного места</string>
   <string name="kuaipan_prompt">MiDrive</string>
   <string name="kuaipan_prompt_message">Идет обслуживание сервиса, пожалуйста, попробуйте позже...</string>
@@ -129,6 +136,7 @@ pan.xiaomi.com на вашем компьютере"</string>
   <string name="local_cache">Локальный кэш</string>
   <string name="local_cache_size">Размер локального кэш: %s</string>
   <string name="login_reg_content">MiDrive позволяет хранить файлы и синхронизировать их между несколькими устройствами.</string>
+  <string name="login_reg_content0">Ваш облачный диск KuaiPan</string>
   <string name="login_reg_login_xiaomi">Аккаунт Xiaomi</string>
   <string name="menu_exit">Выход</string>
   <string name="menu_item_ftp">Обмен файлами через Wi-Fi</string>
