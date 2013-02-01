@@ -8,11 +8,11 @@
   <string name="app_name">Файлы</string>
   <string name="background">В фоне</string>
   <string name="bind_account">Связка аккаунта KuaiPan с Xiaomi</string>
-  <string name="bind_account_summary">Если вы уже имеете аккаунт KuaiPan вы можете связать его с аккаунтом Xiaomi</string>
-  <string name="binded_accout_description">Аккаунты связаны, вы можете использовать аккаунт Xiaomi или KuaiPan для входа, оба будут читать одни и теже данные</string>
+  <string name="bind_account_summary">Если Вы уже имеете аккаунт KuaiPan, можете связать его с аккаунтом Xiaomi</string>
+  <string name="binded_accout_description">Аккаунты связаны. Вы можете использовать аккаунт Xiaomi или KuaiPan для входа, оба будут читать одни и теже данные</string>
   <string name="binded_accout_title">Аккаунт KuaiPan</string>
-  <string name="binded_accout_warning">Внимание: Эту операцию нельзя будет отменить, продолжить?</string>
-  <string name="binding_accout_title">Добавить существующий аккаунтKuaiPan</string>
+  <string name="binded_accout_warning">Внимание: Эту операцию нельзя будет отменить! Продолжить?</string>
+  <string name="binding_accout_title">Добавить существующий аккаунт KuaiPan</string>
   <string name="cancel">Отмена</string>
   <string name="category_all">Все</string>
   <string name="category_apk">Программы</string>
