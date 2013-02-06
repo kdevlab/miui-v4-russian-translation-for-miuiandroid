@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="phone_in_ecm_notification_time">
-        <item quantity="other">Подключения для передачи данных отсутствует %s мин.</item>
+        <item quantity="other">Подключение для передачи данных отсутствует %s мин.</item>
         <item quantity="one">Подключение для передачи данных отсутствует %s мин.</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">

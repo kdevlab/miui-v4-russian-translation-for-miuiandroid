@@ -35,8 +35,8 @@
   <string name="clean_trash_box_failed">Ошибка удаления файлов из корзины</string>
   <string name="clear_cache">Очистить кэш</string>
   <string name="close">Закрыть</string>
-  <string name="compress_message">Архивация в...</string>
-  <string name="compress_title">Архивация</string>
+  <string name="compress_message">Имя архива:</string>
+  <string name="compress_title">Создание архива</string>
   <string name="confirm">OК</string>
   <string name="confirm_know">OK</string>
   <string name="copy_failed">Ошибка копирования</string>
@@ -50,9 +50,9 @@
   <string name="decompress_cancel">Отмена</string>
   <string name="decompress_confirm">Распаковать</string>
   <string name="decompress_fail">Ошибка распаковки</string>
-  <string name="decompress_success">Успешно распаковано</string>
+  <string name="decompress_success">Распаковка завершена</string>
   <string name="decompress_to">Распаковать в...</string>
-  <string name="decompress_to_here">Распаковать в эту папку</string>
+  <string name="decompress_to_here">Распаковать в текущую папку</string>
   <string name="delete_failed">Ошибка удаления</string>
   <string name="delete_file">Вы уверены, что хотите удалить этот файл?</string>
   <string name="delete_file_description">Удаление…</string>
@@ -103,7 +103,7 @@
   <string name="ftp_username_hint">Имя пользователя</string>
   <string name="gbk_summary">Если вы используете кодировку GBK, например, в Windows Explorer, выберите этот тип кодирования, чтобы избежать искажения текста на китайском языке</string>
   <string name="gbk_title">GBK</string>
-  <string name="guide_access_files_through_phone">"Вы также можете загружать файлы через интернет, 
+  <string name="guide_access_files_through_phone">"Вы также можете загружать файлы через Интернет,
 и они будут отображаться в MiDrive в телефоне"</string>
   <string name="guide_access_files_through_web">"Ваш файл можно просмотреть 
 на любом компьютере, подключенном к Интернет"</string>
@@ -167,8 +167,8 @@ pan.xiaomi.com на вашем компьютере"</string>
   <string name="operating">Обработка...</string>
   <string name="operation_cancel">Отмена</string>
   <string name="operation_cancel_selectall">Снять выделение</string>
-  <string name="operation_compress">Архивация</string>
-  <string name="operation_compressing">Архивация...</string>
+  <string name="operation_compress">Добавить в архив</string>
+  <string name="operation_compressing">Создание архива...</string>
   <string name="operation_copy">Копировать</string>
   <string name="operation_copy_path">Копировать путь</string>
   <string name="operation_create_folder">Новая папка</string>

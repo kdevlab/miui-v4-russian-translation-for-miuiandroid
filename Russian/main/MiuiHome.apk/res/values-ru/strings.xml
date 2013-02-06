@@ -60,7 +60,7 @@
   <string name="menu_edit">Режим редактирования</string>
   <string name="menu_exit_scene">Выход из MiSpace</string>
   <string name="menu_item_add_item">Добавить на основной экран</string>
-  <string name="menu_launcher_setting">Настройки рабочего стола</string>
+  <string name="menu_launcher_setting">Параметры рабочего стола</string>
   <string name="menu_reset_scene">Сбросить на стандарт</string>
   <string name="menu_search">Поиск</string>
   <string name="menu_settings">Параметры системы</string>
@@ -85,13 +85,13 @@
   <string name="pref_enable_drawing_cache_summary">"Включение этой опции позволит освободить больше памяти 
 , но это снизит поток"</string>
   <string name="pref_enable_drawing_cache_title">Кэш графики</string>
-  <string name="pref_icon_shadow_summary">Добавляет эффект тени значков рабочего стола</string>
+  <string name="pref_icon_shadow_summary">Добавление эффекта тени для значков на рабочем столе</string>
   <string name="pref_icon_shadow_title">Тень от значков</string>
-  <string name="pref_keep_in_memory_summary">Держать в памяти, чтобы приложение не отключилось</string>
+  <string name="pref_keep_in_memory_summary">Выключение выгрузки данного приложения из оперативной памяти</string>
   <string name="pref_keep_in_memory_title">Держать в памяти</string>
   <string name="pref_render_in_truecolor_summary">Включите, чтобы улучшить качество цветов</string>
   <string name="pref_render_in_truecolor_title">Качественные цвета</string>
-  <string name="pref_screen_transformation_type_title">Выбор эффекта перехода</string>
+  <string name="pref_screen_transformation_type_title">Эффекта перехода</string>
   <string name="pref_wallpaper_scroll_type_title">Прокрутка обоев</string>
   <string name="preferences_general_title">Основные настройки</string>
   <string name="preferences_title">Параметры рабочего стола</string>
@@ -109,9 +109,9 @@
   <string name="toggle_select_title">Выбрать переключатели</string>
   <string name="toggle_title">Переключатели</string>
   <string name="transformation_type_classic">Стандартный</string>
-  <string name="transformation_type_classic_no_overshoot">Стд. (без проскакивания)</string>
+  <string name="transformation_type_classic_no_overshoot">Стандартный (без эффектов)</string>
   <string name="transformation_type_crossfade">Угасание</string>
-  <string name="transformation_type_cube">Куб</string>
+  <string name="transformation_type_cube">Объемный куб</string>
   <string name="transformation_type_falldown">Поворот</string>
   <string name="transformation_type_leftpage">Перелистывание</string>
   <string name="transformation_type_rotate">Вращение</string>

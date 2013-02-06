@@ -4,7 +4,7 @@
   <string-array name="clir_display_values">
     <item>Настройки сети по умолчанию</item>
     <item>Скрыть номер</item>
-    <item>Показывать номер</item>
+    <item>Показать номер</item>
   </string-array>
   <string-array name="preferred_network_mode_choices">
     <item>LTE</item>
