@@ -296,7 +296,7 @@
   <string name="bluetooth_connection_dialog_text">Подключиться к устройству \"%1$s\"?</string>
   <string name="bluetooth_connection_notif_message">Нажмите, чтобы подключиться к устройству \"%1$s\"</string>
   <string name="bluetooth_connection_permission_request">Запрос на подключение по каналу Bluetooth</string>
-  <string name="bluetooth_default_name">Xiaomi Phone</string>
+  <string name="bluetooth_default_name">MIUI Phone</string>
   <string name="bluetooth_device">Bluetooth-устройство без названия</string>
   <string name="bluetooth_device_advanced_enable_opp_title">Разрешить получение файлов</string>
   <string name="bluetooth_device_advanced_online_mode_summary">Подключиться к устройству Bluetooth</string>
@@ -393,7 +393,7 @@
   <string name="bluetooth_profile_details">Настройки профиля</string>
   <string name="bluetooth_profile_headset">Профиль HSP/HFP</string>
   <string name="bluetooth_profile_hid">Профиль HID</string>
-  <string name="bluetooth_profile_name">Xiaomi Phone</string>
+  <string name="bluetooth_profile_name">MIUI Phone</string>
   <string name="bluetooth_profile_opp">Профиль OPP</string>
   <string name="bluetooth_profile_pan">Интернет-доступ</string>
   <string name="bluetooth_profile_pan_nap">Профиль PAN</string>
@@ -808,7 +808,7 @@
   <string name="font_size_large">Большой</string>
   <string name="font_size_medium">Средний</string>
   <string name="font_size_normal">Нормальный</string>
-  <string name="font_size_preview">KDG</string>
+  <string name="font_size_preview">MIUI</string>
   <string name="font_size_preview_text">Miui V4 from Russia :)</string>
   <string name="font_size_save">OK</string>
   <string name="font_size_small">Маленький</string>
@@ -941,9 +941,7 @@
   <string name="location_title">Мое местоположение</string>
   <string name="lock_after_timeout">Автоблокировка</string>
   <string name="lock_after_timeout_summary">После %1$s спящего режима</string>
-  <string name="lock_intro_message">"Чтобы никто, кроме вас, не мог воспользоваться вашим телефоном, создайте графический ключ разблокировки экрана. Для этого соедините в произвольном порядке не менее четырех точек на следующем экране. 
-
-Чтобы начать, нажмите \"Далее\""</string>
+  <string name="lock_intro_message">Чтобы никто, кроме Вас, не мог воспользоваться Вашим телефоном, создайте графический ключ разблокировки экрана. Для этого соедините в произвольном порядке не менее четырех точек на следующем экране. Чтобы начать, нажмите \"Далее\"</string>
   <string name="lock_screen_unlock_show">Показывать окно ввода пароля напрямую</string>
   <string name="lock_screen_unlock_show_summary">"Не показывать другие экраны блокировки, кроме экрана ввода пароля"</string>
   <string name="lock_settings_picker_settings">Блокировка экрана</string>
@@ -1140,7 +1138,7 @@
   <string name="notification_pulse_summary">Когда есть новые уведомления, индикатор мигает</string>
   <string name="notification_pulse_title">Индикация</string>
   <string name="notification_sound_dialog_title">Выбрать мелодию уведомлений</string>
-  <string name="notification_sound_title">Уведомление</string>
+  <string name="notification_sound_title">Уведомление по умолчанию</string>
   <string name="notification_vibrate_abbreviation">Уведомления</string>
   <string name="notification_volume_title">Уведомление</string>
   <string name="nsd_quick_toggle_summary">Позволяет приложениям на других устройствах обнаруживать приложения на этом устройстве</string>
@@ -1309,7 +1307,7 @@
   <string name="restore_default_apn_completed">Настройки по умолчанию восстановлены</string>
   <string name="ring_volume_title">Громкость звонка</string>
   <string name="ringtone_summary" />
-  <string name="ringtone_title">Мелодия</string>
+  <string name="ringtone_title">Мелодия по умолчанию</string>
   <string name="roaming">Интернет-роуминг</string>
   <string name="roaming_disable">Подключаться к службам передачи данных при роуминге</string>
   <string name="roaming_enable">Подключаться к службам передачи данных при роуминге</string>
@@ -1506,11 +1504,11 @@
   <string name="skip_step">Пропустить шаг</string>
   <string name="small_font">Маленький</string>
   <string name="sms_delivered_sound_dialog_title">Выберите звук для уведомления о доставке сообщения</string>
-  <string name="sms_delivered_sound_title">Доставленное сообщение</string>
+  <string name="sms_delivered_sound_title">Уведомление о доставке</string>
   <string name="sms_over_ims_off">Отключить SMS через IMS</string>
   <string name="sms_over_ims_on">Включить SMS через IMS</string>
   <string name="sms_received_sound_dialog_title">Выбор звука при получении сообщения</string>
-  <string name="sms_received_sound_title">Полученное сообщение</string>
+  <string name="sms_received_sound_title">Уведомление о сообщении</string>
   <string name="sms_summary">Выберите подписку для отправки SMS</string>
   <string name="sms_title">SMS</string>
   <string name="sort_order_alpha">Упорядочить по именам</string>

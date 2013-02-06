@@ -560,18 +560,18 @@
   <string name="mismatchPin2">Введенные коды PIN2 не совпадают. Повторите попытку</string>
   <string name="mismatch_pin2_miui">PIN2-ы не совпадают. Пожалуйста, попробуйте еще раз</string>
   <string name="mismatch_pin_miui">Введенные PIN-коды не совпадают. Пожалуйста, попробуйте еще раз</string>
-  <string name="missed_call_notify_five_times">Пять раз</string>
+  <string name="missed_call_notify_five_times">5 раз</string>
   <string name="missed_call_notify_five_times_miui">5 раз</string>
   <string name="missed_call_notify_none_miui">Не напоминать</string>
-  <string name="missed_call_notify_once">Один раз</string>
+  <string name="missed_call_notify_once">1 раз</string>
   <string name="missed_call_notify_once_miui">1 раз</string>
-  <string name="missed_call_notify_ten_times">Десять раз</string>
+  <string name="missed_call_notify_ten_times">10 раз</string>
   <string name="missed_call_notify_ten_times_miui">10 раз</string>
-  <string name="missed_call_notify_thrice">Три раза</string>
+  <string name="missed_call_notify_thrice">3 раза</string>
   <string name="missed_call_notify_thrice_miui">3 раза</string>
   <string name="missed_call_notify_times_summary_miui">Количество напоминаний о пропущенном вызове</string>
   <string name="missed_call_notify_times_title_miui">Количество напоминаний</string>
-  <string name="missed_call_notify_twice">Два раза</string>
+  <string name="missed_call_notify_twice">2 раза</string>
   <string name="missed_call_notify_twice_miui">2 раза</string>
   <string name="mmiCancelled">Код MMI отменен</string>
   <string name="mmiStarted">Код MMI запущен</string>
@@ -906,10 +906,8 @@ SIM-карта будет заблокирована навсегда при н�
   <string name="slide_to_answer">Сдвиньте вправо, чтобы ответить</string>
   <string name="slide_to_answer_and_end_active">"Перетащите вкладку вправо, чтобы ответить,
 завершив активный вызов"</string>
-  <string name="slide_to_answer_and_end_onhold">"Перетащите вкладку вправо, чтобы ответить,
-завершив удерживаемый вызов"</string>
-  <string name="slide_to_answer_and_hold">"Перетащите вкладку вправо, чтобы ответить,
-удерживая активный вызов"</string>
+  <string name="slide_to_answer_and_end_onhold">"Сдвиньте вправо, чтобы ответить, завершив удерживаемый вызов"</string>
+  <string name="slide_to_answer_and_hold">"Сдвиньте вправо, чтобы ответить, удерживая активный вызов"</string>
   <string name="slide_to_answer_hint">Ответить</string>
   <string name="slide_to_decline">Сдвиньте влево, чтобы отклонить вызов</string>
   <string name="slide_to_decline_hint">Отклонить</string>

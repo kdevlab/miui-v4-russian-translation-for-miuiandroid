@@ -301,8 +301,8 @@ d MMMM yyyy"</string>
   <string name="usb_storage_title">Подключение USB</string>
   <string name="use_mtp_button_title">Подключить как медиа-плеер (MTP)</string>
   <string name="use_ptp_button_title">Подключить как камеру (PTP)</string>
-  <string name="user_guide_for_call">Вернуться к телефонному разговору, можно раскрыв строку состояния и нажав кнопку Текущий вызов</string>
-  <string name="user_guide_for_notification">При получении нового уведомления, можно раскрыть строку состояния для получения дополнительных сведений</string>
+  <string name="user_guide_for_call">Вернуться к телефонному разговору, можно раскрыв панель состояния и нажав кнопку Текущий вызов</string>
+  <string name="user_guide_for_notification">При получении нового уведомления, можно раскрыть панель состояния для получения дополнительных сведений</string>
   <string name="user_guide_for_toggle">Список переключателей можно прокручивать по горизонтали</string>
   <string name="user_guide_for_toggle_list">Нажмите, чтобы настроить список переключателей</string>
 </resources>
