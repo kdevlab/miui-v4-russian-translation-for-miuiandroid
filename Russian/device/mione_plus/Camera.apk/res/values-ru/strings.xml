@@ -314,4 +314,7 @@
   <string name="video_snapshot_hint">Можно сделать фотографию во время съемки, прикоснувшись к экрану</string>
   <string name="videocamera_settings_label">Настройки видеокамеры</string>
   <string name="wait">Пожалуйста, ждите...</string>
+  <string name="pref_camera_watermark_title">Дата на фотографии</string>
+  <string name="pref_camera_watermark_title_entry_off">Выкл</string>
+  <string name="pref_camera_watermark_title_entry_on">Вкл</string>
 </resources>
