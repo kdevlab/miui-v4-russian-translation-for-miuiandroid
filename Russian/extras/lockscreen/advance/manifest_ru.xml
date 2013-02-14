@@ -17,7 +17,7 @@
             <varibale name="call_type1" type="integer" column="type" row="0"/>
         </ContentProviderBinder>
 
-        <ContentProviderBinder name="sms_table" uri="content://sms/inbox" columns="_id,address,date,body,person" where="seen=0 AND read=0" order="date DESC" countName="sms_count">
+        <ContentProviderBinder name="sms_table" uri="content://sms/inbox" columns="_id,address,date,body,person" where="seen=0" order="date DESC" countName="sms_count">
             <Variable name="sms_date1" type="long" column="date" row="0"/>
             <Variable name="sms_body1" type="string" column="body" row="0"/>
             <Variable name="sms_num1" type="string" column="address" row="0"/>
@@ -28,10 +28,10 @@
 
         </ContentProviderBinder>
 
-        <ContentProviderBinder dependency="sms_table" uri="content://com.android.contacts/data" columns="display_name" whereFormat="PHONE_NUMBERS_EQUAL(data1,'%s')" whereParas="@sms_num1" countName="hasName1">
+        <ContentProviderBinder dependency="sms_table" uri="content://com.android.contacts/data" columns="display_name" whereFormat="PHONE_NUMBERS_EQUAL(data1,%s)" whereParas="@sms_num1" countName="hasName1">
             <Variable name="sms_name1" type="string" column="display_name" row="0"/>
         </ContentProviderBinder>
-        <ContentProviderBinder dependency="sms_table" uri="content://com.android.contacts/data" columns="display_name" whereFormat="PHONE_NUMBERS_EQUAL(data1,'%s')" whereParas="@sms_num2" countName="hasName2">
+        <ContentProviderBinder dependency="sms_table" uri="content://com.android.contacts/data" columns="display_name" whereFormat="PHONE_NUMBERS_EQUAL(data1,%s)" whereParas="@sms_num2" countName="hasName2">
             <Variable name="sms_name2" type="string" column="display_name" row="0"/>
         </ContentProviderBinder>
 
@@ -238,7 +238,7 @@
                         <Alpha a="0" time="1000000000000000"/>
                     </AlphaAnimation>
                     <!-- 低电状态 low battery -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(2,#battery_state)" color="#80FF0000" size="18" format="Батарея разряжается (%d%%)" paras="#battery_level">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(2,#battery_state)*not(#music_control.visibility)" color="#80FF0000" size="18" format="Батарея разряжена (%d%%)" paras="#battery_level">
                     </Text>
 
                     <!-- 充电进度 charging -->
@@ -319,7 +319,7 @@
                     <!-- 未接电话 -->
                     <Image x="#screen_width/2-55" y="180" src="icon_phone.png" align="center" alignV="center" visibility="#call_missed_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Пропущенных звонков: %d" paras="#call_missed_count" visibility="#call_missed_count">
+                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Пропущенных вызовов: %d" paras="#call_missed_count" visibility="#call_missed_count">
                     </Text>
 
                     <!-- 未读短信, 如果没有未接电话，位置往上移 -->
@@ -364,14 +364,14 @@
                 </Group>
 
                                                                                                                 
-                <Group>
+<Group>
                     <AlphaAnimation>
                         <Alpha a="64" time="0"/>
                         <Alpha a="128" time="500"/>
                         <Alpha a="128" time="1000000000000000"/>
                     </AlphaAnimation>
                     <!-- 低电状态 low battery -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(2,#battery_state)" color="#80FF0000" size="18" format="Батарея разряжается (%d%%)" paras="#battery_level">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(2,#battery_state)" color="#80FF0000" size="18" format="Батарея разряжена (%d%%)" paras="#battery_level">
                     </Text>
 
                     <!-- 充电进度 charging -->
