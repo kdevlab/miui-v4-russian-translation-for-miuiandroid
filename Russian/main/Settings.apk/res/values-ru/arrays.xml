@@ -66,13 +66,6 @@
         <item>Высокий</item>
         <item>Очень высокий</item>
     </string-array>
-    <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-    </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>Поиск...</item>
@@ -186,16 +179,6 @@
         <item>CHAP</item>
         <item>PAP или CHAP</item>
     </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
-    </string-array>
-    <string-array name="apn_protocol_values">
-        <item>IP</item>
-        <item>IPV6</item>
-        <item>IPV4V6</item>
-    </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>
         <item>eHRPD</item>
@@ -252,14 +235,6 @@
         <item>Не более 3 процессов</item>
         <item>Не более 4 процессов</item>
     </string-array>
-    <string-array name="vpn_types">
-        <item>PPTP</item>
-        <item>L2TP/IPSec PSK</item>
-        <item>L2TP/IPSec RSA</item>
-        <item>IPSec Xauth PSK</item>
-        <item>IPSec Xauth RSA</item>
-        <item>IPSec Hybrid RSA</item>
-    </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
         <item>L2TP/IPSec VPN with pre-shared keys</item>
@@ -291,16 +266,6 @@
         <item>Только зарядка</item>
         <item>Подключить SD-карту</item>
     </string-array>
-    <string-array name="led_color_values">
-        <item>green</item>
-        <item>red</item>
-        <item>blue</item>
-        <item>yellow</item>
-        <item>cyan</item>
-        <item>\#800080</item>
-        <item>\#ffc0cb</item>
-        <item>\#ffa500</item>
-    </string-array>
     <string-array name="led_color_entries">
         <item>Зеленый</item>
         <item>Красный</item>
@@ -310,17 +275,6 @@
         <item>Фиолетовый</item>
         <item>Розовый</item>
         <item>Оранжевый</item>
-    </string-array>
-    <string-array name="led_color_values_for_mione">
-        <item>blue</item>
-        <item>red</item>
-        <item>green</item>
-        <item>\#FFFF0033</item>
-        <item>\#FF5500FF</item>
-        <item>\#FFAA00AA</item>
-        <item>\#FF00FF55</item>
-        <item>\#FF00AAAA</item>
-        <item>\#FF0033FF</item>
     </string-array>
     <string-array name="led_color_entries_for_mione">
         <item>Синий</item>
