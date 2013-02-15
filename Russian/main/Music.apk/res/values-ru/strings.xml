@@ -153,7 +153,7 @@
   <string name="modify_meta">Изменить</string>
   <string name="modify_tracks_id3_background">Изменить ID3 выбранной песни в фоновом режиме</string>
   <string name="music_browser_label">Музыка</string>
-  <string name="music_filter">Фильтр размера музыкальных файлов</string>
+  <string name="music_filter">Фильтрация музыкальных файлов</string>
   <string name="music_filter_helper">Чтобы скрывать файлы, которые не связаны с музыкой, применяется размер фильтра 800 КБ. Порог можно настроить в меню Настройки/Файловый фильтр</string>
   <string name="music_picker_title">Выберите трек</string>
   <string name="music_settings">Настройки</string>
@@ -184,7 +184,7 @@
   <string name="playback_failed_no_title_by_bad_file">Невозможно проиграть трэк, не поддерживается формат файла</string>
   <string name="playback_failed_no_title_by_network">Невозможно проиграть трэк, проверьте сетевое подключение</string>
   <string name="player_display_settings">ПРОИГРЫВАТЕЛЬ</string>
-  <string name="playlist_custom">Мой плейлист</string>
+  <string name="playlist_custom">Мои плейлисты</string>
   <string name="playlist_deleted_message">Плейлист удален</string>
   <string name="playlist_favorite">Избранное</string>
   <string name="playlist_frequently_played">Часто проигранные</string>
@@ -193,11 +193,11 @@
   <string name="playlist_recently_added">Недавно добавленные</string>
   <string name="playlist_recently_played">Недавно проигранные</string>
   <string name="playlist_renamed_message">Плейлист переименован</string>
-  <string name="playlist_system">Системный плейлист</string>
+  <string name="playlist_system">Системные плейлисты</string>
   <string name="playlists_title">Плейлисты\u0020</string>
   <string name="queue">В очередь</string>
   <string name="quit_player">Выход</string>
-  <string name="quit_warining">Автоотключение через %d минут(у)</string>
+  <string name="quit_warining">Автоотключение через %d минут(ы)</string>
   <string name="recentlyadded_title">Недавно добавленные</string>
   <string name="recentlyplayed_title">Недавно проигранные</string>
   <string name="recommend">Рекомендуемые</string>

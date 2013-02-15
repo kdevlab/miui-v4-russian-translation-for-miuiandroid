@@ -69,12 +69,12 @@
   <string name="disable_encrypt_title">Отключить шифрование</string>
   <string name="enable_encrypt">Включить сейчас</string>
   <string name="enable_encrypt_fail">Включение шифрования не удалось</string>
-  <string name="enable_encrypt_indicator">Резервные копии не зашифрованы, нажмите кнопку для включения шифрования</string>
+  <string name="enable_encrypt_indicator">Резервные копии не зашифрованы. Нажмите здесь, чтобы включить шифрование.</string>
   <string name="enable_encrypt_ok">OK</string>
-  <string name="enable_encrypt_summery1">"Система зашифрует ваш локальный бэкап на основе аккаунта Xiaomi, вам нужно будет войти в свою учетную запись Xiaomi - для удаления данных или использованияс других устройств для восстановления резервной копии"</string>
-  <string name="enable_encrypt_summery2">"Новый бэкап будет автоматически шифроваться. Вы должны войти в свой аккаунт Xiaomi - для удаления данных или использования других устройств для восстановления резервной копии."</string>
+  <string name="enable_encrypt_summery1">"Система зашифрует Ваш локальный бэкап на основе аккаунта Xiaomi. Вам нужно будет войти в свою учетную запись Xiaomi - для удаления данных или использования с других устройств для восстановления резервной копии."</string>
+  <string name="enable_encrypt_summery2">"Новый бэкап будет автоматически шифроваться. Вы должны войти в свой аккаунт Xiaomi - для удаления данных или использования с других устройств для восстановления резервной копии."</string>
   <string name="enable_encrypt_title">Включить шифрование</string>
-  <string name="enable_encrypt_xiaomi_account">Эта резервная копия была создана %1$s, пожалуйста, удалите текущий аккаунт, и войдите в %2$s для восстановления данных</string>
+  <string name="enable_encrypt_xiaomi_account">Эта резервная копия была создана %1$s. Пожалуйста, удалите текущий аккаунт, и войдите в %2$s для восстановления данных.</string>
   <string name="exchange_account">Сменить аккаунт</string>
   <string name="fail">Ошибка</string>
   <string name="findlost_contact">Найти удаленый контакт(ы)</string>
@@ -82,7 +82,7 @@
   <string name="guarded_mode_dialog_message">Не могу работать в режиме защиты</string>
   <string name="guarded_mode_dialog_title">Режим защиты</string>
   <string name="import_from_xiaomi_account_hint1">"1. Включите телефон с контактами
-2. Установите MiTalk и войдите в него.
+2. Установите MiTalk и войдите в него
  http://www.miliao.com
 3. Зайдите в настройки MiTalk и выберите Создать резервную копию контактов в аккаунт Xiaomi"</string>
   <string name="import_from_xiaomi_account_hint2">Примечание: Перейдите к следующему шагу, если резервная копия уже существует</string>
