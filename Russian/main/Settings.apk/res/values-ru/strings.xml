@@ -195,7 +195,7 @@
   <string name="band_mode_set">Настроить</string>
   <string name="band_mode_succeeded">Успешно</string>
   <string name="band_mode_title">Настроить частоту GSM/UMTS</string>
-  <string name="baseband_version">Прошивка модуля связи</string>
+  <string name="baseband_version">Модем</string>
   <string name="battery_action_app_details">О приложении</string>
   <string name="battery_action_app_settings">Настройки приложения</string>
   <string name="battery_action_bluetooth">Настройки Bluetooth</string>
@@ -436,7 +436,7 @@
   <string name="brightness">Яркость</string>
   <string name="brightness_summary">Настроить яркость экрана</string>
   <string name="bssid_label">"BSSID: "</string>
-  <string name="build_number">Номер сборки</string>
+  <string name="build_number">Сборка</string>
   <string name="builtin_keyboard_settings_summary">Настройки физической клавиатуры</string>
   <string name="builtin_keyboard_settings_title">Физическая клавиатура</string>
   <string name="button_light_timeout">Таймаут подсветки кнопок</string>
@@ -648,7 +648,7 @@
   <string name="device_admin_status">Администратор активирован и разрешает приложению %1$s выполнять следующие операции:</string>
   <string name="device_admin_title">Администрирование устройства</string>
   <string name="device_admin_warning">Активация этого администратора позволит приложению \"%1$s\" выполнять следующие операции:</string>
-  <string name="device_cpu">CPU:</string>
+  <string name="device_cpu">Процессор:</string>
   <string name="device_cpu2_info">"Два ядра "</string>
   <string name="device_cpu4_info">"Четыре ядра "</string>
   <string name="device_info_default">Неизвестно</string>
@@ -659,7 +659,7 @@
   <string name="device_internal_memory">Внутренняя память:</string>
   <string name="device_internal_partition">Данные/SD-карта:</string>
   <string name="device_memory">RAM:</string>
-  <string name="device_miui_version">Версия MIUI:</string>
+  <string name="device_miui_version">MIUI:</string>
   <string name="device_picker">Выбор устройства Bluetooth</string>
   <string name="device_sd_memory">SD-карта:</string>
   <string name="device_status">Общая информация</string>
@@ -803,7 +803,7 @@
   <string name="filter_apps_third_party">Сторонние</string>
   <string name="filter_dlg_title">Выберите параметры фильтра</string>
   <string name="finish_button_label">Готово</string>
-  <string name="firmware_version">Версия Android:</string>
+  <string name="firmware_version">Android:</string>
   <string name="font_size_huge">Огромный</string>
   <string name="font_size_large">Большой</string>
   <string name="font_size_medium">Средний</string>
@@ -901,7 +901,7 @@
   <string name="join_two_items">%1$s и %2$s</string>
   <string name="keep_screen_on">Оставить включенным</string>
   <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
-  <string name="kernel_version">Версия ядра</string>
+  <string name="kernel_version">Ядро</string>
   <string name="key_settings">Клавиши</string>
   <string name="key_settings_title">Клавиши</string>
   <string name="keyboard_layout_default_label">По умолчанию</string>
@@ -1114,7 +1114,7 @@
   <string name="multi_sim_settings_title">Настройка нескольких сим</string>
   <string name="multi_touch_points_category_title">Мультитач</string>
   <string name="multi_touch_points_preference">Перезагрузить для применения</string>
-  <string name="musicfx_title">Звуковые эффекты</string>
+  <string name="musicfx_title">Эквалайзер</string>
   <string name="nearby_wifi">Выбрать ближайший Wi-Fi</string>
   <string name="network_detail">Свойства сети %s</string>
   <string name="network_settings_title">Мобильная сеть</string>
